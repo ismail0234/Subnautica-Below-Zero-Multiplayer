@@ -6,7 +6,7 @@ An multiplayer modification for the game Subnautica.
 
 ### How can I play this mod?
 
-Please do keep in mind that this mod is still in progressional development.
+Please do keep in mind that this mod is still in progressional development. (**Alpha version Is Coming Soon**)
 
 We finally have reached a stage, where we feel comfortable enough to give the public easy access to the mod by providing a launcher to use on each reoccurring update.
 
