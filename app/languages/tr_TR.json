@@ -44,4 +44,7 @@
     "GAME_SERVER_PORT_INVALID_ERROR": "Lütfen geçerli bir port numarası giriniz.",
     "GAME_SERVER_PORT_LENGTH_ERROR": "Lütfen port numarasını 1-65000 arasında giriniz.",
     "GAME_SERVER_EXIST": "Bu sunucu zaten mevcut."
+    "GAME_NOT_FOUND_SERVER": "Bu sunucu mevcut değil.",
+    "GAME_SERVER_ALREADY_CONNECTING": "Zaten bir sunucuya bağlanıyorsun. Lütfen bekle.",
+    "GAME_SERVER_ALREADY_CONNECTED": "Zaten bir sunucuya bağlısın"    
 }
