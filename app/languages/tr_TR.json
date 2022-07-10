@@ -47,5 +47,6 @@
     "GAME_NOT_FOUND_SERVER": "Bu sunucu mevcut değil.",
     "GAME_SERVER_ALREADY_CONNECTING": "Zaten bir sunucuya bağlanıyorsun. Lütfen bekle.",
     "GAME_SERVER_ALREADY_CONNECTED": "Zaten bir sunucuya bağlısın",
-    "GAME_SERVER_CONNECTING_ERROR": "Sunucuya Bağlantı başarısız."
+    "GAME_SERVER_CONNECTING_ERROR": "Sunucuya Bağlantı başarısız.",
+    "GAME_PLAYER_CONNECTED": "{playername} bağlandı."
 }
