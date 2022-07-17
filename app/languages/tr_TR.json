@@ -51,5 +51,5 @@
     "GAME_PLAYER_CONNECTED": "{playername} bağlandı.",
     "GAME_SERVER_PLAYER_CONNECTING": "Sunucuya bağlanıyorsun...",
     "GAME_SERVER_PLAYER_CONNECTED": "Sunucuya bağlandın. Oyun dünyası yükleniyor.",
-    "GAME_SERVER_RETRY_CONNECTION_ERROR": "Bağlantı Kesildi. Sunucu ile yeniden bağlantı kuruluyor ({time})"
+    "GAME_SERVER_RETRY_CONNECTION_ERROR": "Bağlantı Kesildi. Yeniden bağlantı kuruluyor ({time})"
 }
