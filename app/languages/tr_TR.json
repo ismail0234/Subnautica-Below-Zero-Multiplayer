@@ -26,6 +26,9 @@
     "APP_FOLDER_SCREEN_GAME_LOG_FOLDER": "Oyun Logları",
     "APP_LAUNCHER_SETTING_HEAD_TEXT": "Başlatıcı Ayarları",
     "APP_GAME_OPENING_SHOW_HIDE": "Oyun çalışırken Başlatıcıyı gizle",
+    "APP_HEADER_SETTINGS": "Ayarlar",
+    "APP_HEADER_PLAY": "Oyna",
+    "APP_HEADER_SERVER": "Sunucu",
   
     "DISCORD_STATUS_UPDATE_LAUNCHER": "Launcher Güncelleniyor",
     "DISCORD_STATUS_MAIN_MENU": "Ana Menüde",
