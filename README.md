@@ -16,6 +16,3 @@ Please join the <a href="https://discord.gg/Gq9nush6SP">**SBZM**</a> Discord to 
 
 ### Translations
 We have a translation platform for those of you who speak another language to work on translating the mod into your native language. You can get started at https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/tree/main/app/languages
-
-### How can I donate?
-We do not accept donations to the mod. Those wishing to give money can do so here: **Coming Soon**
