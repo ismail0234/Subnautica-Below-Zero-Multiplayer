@@ -4,6 +4,8 @@ An multiplayer modification for the game Subnautica.
 
 [![Discord](https://img.shields.io/discord/994133148046725160?logo=discord&logoColor=white)](https://discord.gg/Gq9nush6SP)
 
+[Subnautica Below Zero Multiplayer Website](https://subnauticamultiplayer.com/)
+
 ### How can I play this mod?
 
 Please do keep in mind that this mod is still in progressional development. (**Alpha version Is Coming Soon**)
