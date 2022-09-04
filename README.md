@@ -21,6 +21,8 @@ An multiplayer modification for the game Subnautica.
 - [ ] Player Animation Synchronization
 - [ ] Base Builder Synchronization
 - [ ] AI Synchronization
+- [ ] Item Pickup
+- [ ] Item Drop
 
 ### How can I play this mod?
 
