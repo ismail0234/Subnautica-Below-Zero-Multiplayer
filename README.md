@@ -6,6 +6,19 @@ An multiplayer modification for the game Subnautica.
 
 [Subnautica Below Zero Multiplayer Website](https://subnauticamultiplayer.com/)
 
+# Subnautica BZ Multiplayer Mod Progress
+
+- [x] Inventory Synchronization
+- [x] Inventory Equipment Synchronization
+- [x] Player Movement Synchronization
+- [x] Encyclopedia Synchronization
+- [x] Technology Synchronization
+- [ ] Player Animation Synchronization
+- [ ] QuickSlots Synchronization
+- [ ] Inventory Item Pin Synchronization
+- [ ] Base Ghost Moving Synchronization
+- [ ] Base Builder Synchronization
+
 ### How can I play this mod?
 
 Please do keep in mind that this mod is still in progressional development. (**Alpha version Is Coming Soon**)
