@@ -13,9 +13,9 @@ An multiplayer modification for the game Subnautica.
 - [x] Player Movement Synchronization
 - [x] Encyclopedia Synchronization
 - [x] Technology Synchronization
+- [x] Item Pin Manager Synchronization
 - [ ] Player Animation Synchronization
 - [ ] QuickSlots Synchronization
-- [ ] Inventory Item Pin Synchronization
 - [ ] Base Ghost Moving Synchronization
 - [ ] Base Builder Synchronization
 
