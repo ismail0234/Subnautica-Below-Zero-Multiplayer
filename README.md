@@ -16,6 +16,8 @@ An multiplayer modification for the game Subnautica.
 - [x] Item Pin Manager Synchronization
 - [x] Base Ghost Move Synchronization
 - [x] QuickSlots Synchronization
+- [x] Ping Indicator
+- [x] Player Signals
 - [ ] Player Animation Synchronization
 - [ ] Base Builder Synchronization
 
