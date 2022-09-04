@@ -20,6 +20,7 @@ An multiplayer modification for the game Subnautica.
 - [x] Player Signals
 - [ ] Player Animation Synchronization
 - [ ] Base Builder Synchronization
+- [ ] AI Synchronization
 
 ### How can I play this mod?
 
