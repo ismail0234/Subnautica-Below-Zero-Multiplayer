@@ -6,7 +6,7 @@ An multiplayer modification for the game Subnautica.
 
 [Subnautica Below Zero Multiplayer Website](https://subnauticamultiplayer.com/)
 
-# Subnautica BZ Multiplayer Mod Progress
+## Subnautica BZ Multiplayer Mod Progress
 
 - [x] Inventory Synchronization
 - [x] Inventory Equipment Synchronization
