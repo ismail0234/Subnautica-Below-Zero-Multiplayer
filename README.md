@@ -18,6 +18,7 @@ An multiplayer modification for the game Subnautica.
 - [x] QuickSlots Synchronization
 - [x] Ping Indicator
 - [x] Player Signals
+- [ ] Player Health/Food/Water Synchronization
 - [ ] Vehicle Movement Synchronization
 - [ ] PDA Beacons Synchronization
 - [ ] PDA Screenshot Synchronization
