@@ -25,6 +25,9 @@ An multiplayer modification for the game Subnautica.
 - [ ] PDA Log Synchronization
 - [ ] Player Animation Synchronization
 - [ ] Base Builder Synchronization
+- [ ] Furniture Building Synchronization
+- [ ] Furniture Interactions
+- [ ] Power management
 - [ ] AI Synchronization
 - [ ] Item Pickup
 - [ ] Item Drop
