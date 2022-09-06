@@ -25,6 +25,7 @@ An multiplayer modification for the game Subnautica.
 - [ ] PDA Notification Synchronization
 - [ ] PDA Log Synchronization
 - [ ] Player Animation Synchronization
+- [ ] Player Item Animation Synchronization
 - [ ] Base Builder Synchronization
 - [ ] Furniture Building Synchronization
 - [ ] Furniture Interaction Synchronization
