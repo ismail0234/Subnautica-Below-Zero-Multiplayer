@@ -19,6 +19,7 @@ An multiplayer modification for the game Subnautica.
 - [x] Ping Indicator
 - [x] Player Signals
 - [x] Player Health/Food/Water Synchronization
+- [x] Day/Night Synchronization
 - [ ] Vehicle Movement Synchronization
 - [ ] PDA Beacons Synchronization
 - [ ] PDA Screenshot Synchronization
@@ -29,7 +30,6 @@ An multiplayer modification for the game Subnautica.
 - [ ] Base Builder Synchronization
 - [ ] Furniture Building Synchronization
 - [ ] Furniture Interaction Synchronization
-- [ ] Day/Night Synchronization
 - [ ] Weather Synchronization
 - [ ] Power management Synchronization
 - [ ] AI Synchronization
