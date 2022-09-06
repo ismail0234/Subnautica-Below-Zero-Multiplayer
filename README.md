@@ -31,10 +31,12 @@ An multiplayer modification for the game Subnautica.
 - [ ] Furniture Interaction Synchronization
 - [ ] Day/Night Synchronization
 - [ ] Weather Synchronization
-- [ ] Power management
+- [ ] Power management Synchronization
 - [ ] AI Synchronization
-- [ ] Item Pickup
-- [ ] Item Drop
+- [ ] Item Pickup Synchronization
+- [ ] Item Drop Synchronization
+- [ ] Multiplayer Lobby
+- [ ] Story Synchronization
 - [ ] And Others etc...
 
 ### How can I play this mod?
