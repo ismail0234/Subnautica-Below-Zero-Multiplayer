@@ -21,9 +21,9 @@ An multiplayer modification for the game Subnautica.
 - [x] Player Health/Food/Water Synchronization
 - [x] Day/Night Synchronization
 - [x] PDA Screenshots Synchronization
+- [x] PDA Notification Synchronization
 - [ ] Vehicle Movement Synchronization
 - [ ] PDA Beacons Synchronization
-- [ ] PDA Notification Synchronization
 - [ ] PDA Log Synchronization
 - [ ] Player Animation Synchronization
 - [ ] Player Item Animation Synchronization
