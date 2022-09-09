@@ -20,6 +20,23 @@
         {
             "Name": "WatsonTcp.dll",
             "Url": "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/WatsonTcp.dll"
+        },
+        {
+            "Name": "Subnautica.API.dll",
+            "Url": "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/Subnautica.API.dll"
+        },
+        {
+            "Name": "Subnautica.Network.dll",
+            "Url": "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/Subnautica.Network.dll"
+        }],
+        "Plugins": [
+        {
+            "Name": "Subnautica.Events.dll",
+            "Url": "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/Subnautica.Events.dll"
+        },
+        {
+            "Name": "Subnautica.Client.dll",
+            "Url": "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/Subnautica.Client.dll"
         }]
     }
 }
