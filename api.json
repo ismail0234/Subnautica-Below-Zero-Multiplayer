@@ -22,6 +22,14 @@
             "Url": "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/WatsonTcp.dll"
         },
         {
+            "Name": "Newtonsoft.Json.dll",
+            "Url": "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/Newtonsoft.Json.dll"
+        },
+        {
+            "Name": "0Harmony.dll",
+            "Url": "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/0Harmony.dll"
+        },
+        {
             "Name": "Subnautica.API.dll",
             "Url": "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/Subnautica.API.dll"
         },
