@@ -37,6 +37,11 @@
             "Name": "Subnautica.Network.dll",
             "Url": "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/Subnautica.Network.dll"
         }],
+        "Main": [
+        {
+            "Name": "Subnautica.Loader.dll",
+            "Url": "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Subnautica.Loader.dll"
+        }],
         "Plugins": [
         {
             "Name": "Subnautica.Events.dll",
