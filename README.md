@@ -37,6 +37,7 @@ An multiplayer modification for the game Subnautica.
 - [ ] Item Drop Synchronization
 - [ ] Multiplayer Lobby
 - [ ] Story Synchronization
+- [ ] Meteor Synchronization
 - [ ] And Others etc...
 
 ### How can I play this mod?
