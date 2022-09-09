@@ -6,4 +6,20 @@
         "Path": "Subnautica.jpg",
         "Url": "https://raw.githubusercontent.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/app/assets/images/Subnautica.jpg"
     }],
+    "Game": 
+    {
+        "Dependencies": [
+        {
+            "Name": "MessagePack.Annotations.dll",
+            "Url": "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/MessagePack.Annotations.dll"
+        },
+        {
+            "Name": "MessagePack.dll",
+            "Url": "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/MessagePack.dll"
+        },
+        {
+            "Name": "WatsonTcp.dll",
+            "Url": "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/WatsonTcp.dll"
+        }]
+    }
 }
