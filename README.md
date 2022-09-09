@@ -20,9 +20,9 @@ An multiplayer modification for the game Subnautica.
 - [x] Player Signals
 - [x] Player Health/Food/Water Synchronization
 - [x] Day/Night Synchronization
+- [x] PDA Screenshots Synchronization
 - [ ] Vehicle Movement Synchronization
 - [ ] PDA Beacons Synchronization
-- [ ] PDA Screenshot Synchronization
 - [ ] PDA Notification Synchronization
 - [ ] PDA Log Synchronization
 - [ ] Player Animation Synchronization
