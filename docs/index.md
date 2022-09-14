@@ -10,11 +10,11 @@ A multiplayer mod for Subnautica Below Zero. We finally have reached a stage, wh
 
 You can join our discord server to get help and support. Not only that, you can chat with other players and play co-op together.
 
-Discord: https://discord.gg/DztQEhDV9M
+<strong>Discord:</strong> <a href="https://discord.gg/DztQEhDV9M" target="_blank">https://discord.gg/DztQEhDV9M</a>
 
-Website: https://subnauticamultiplayer.com
+<strong>Website:</strong> <a href="https://subnauticamultiplayer.com" target="_blank">https://subnauticamultiplayer.com</a>
 
-Patreon: https://www.patreon.com/botbenson
+<strong>Patreon:</strong> <a href="https://www.patreon.com/botbenson" target="_blank">https://www.patreon.com/botbenson</a>
 
 ### How Can I Download?
 
