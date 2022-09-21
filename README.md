@@ -22,14 +22,14 @@ An multiplayer modification for the game Subnautica.
 - [x] Day/Night Synchronization
 - [x] PDA Screenshots Synchronization
 - [x] PDA Notification Synchronization
+- [ ] Base Builder Synchronization (In Progress)
+- [ ] Furniture Building Synchronization (In Progress)
 - [ ] Vehicle Movement Synchronization
 - [ ] PDA Beacons Synchronization
 - [ ] PDA Log Synchronization
 - [ ] Player Animation Synchronization
 - [ ] Player Item Animation Synchronization
-- [ ] Base Builder Synchronization
 - [ ] Base Power Synchronization
-- [ ] Furniture Building Synchronization
 - [ ] Furniture Interaction Synchronization
 - [ ] Weather Synchronization
 - [ ] Power management Synchronization
