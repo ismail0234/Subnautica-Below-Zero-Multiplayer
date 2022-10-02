@@ -23,8 +23,6 @@ An multiplayer modification for the game Subnautica.
 - [x] PDA Screenshots Synchronization
 - [x] PDA Notification Synchronization
 - [ ] Base Piece Construction Synchronization (In Progress)
-	- [x] BarTable
-	- [x] ExecutiveDesk
 	- [ ] BaseFoundation
 	- [ ] BaseCorridorI
 	- [ ] BaseCorridorL
@@ -45,6 +43,9 @@ An multiplayer modification for the game Subnautica.
 	- [ ] BaseWindow
 	- [ ] BaseReinforcement
 	- [ ] BaseMoonpoolExpansion
+- [ ] Furniture Construction Synchronization (In Progress)
+	- [x] BarTable
+	- [x] ExecutiveDesk
 	- [ ] SolarPanel
 	- [ ] ThermalPlant
 	- [ ] PowerTransmitter
@@ -109,7 +110,6 @@ An multiplayer modification for the game Subnautica.
 	- [ ] WallShelves
 	- [ ] AromatherapyLamp
 	- [ ] EmmanuelPendulum
-- [ ] Furniture Construction Synchronization (In Progress)
 - [ ] Vehicle Movement Synchronization
 - [ ] PDA Beacons Synchronization
 - [ ] PDA Log Synchronization
