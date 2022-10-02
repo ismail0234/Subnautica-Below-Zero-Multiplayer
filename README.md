@@ -48,6 +48,8 @@ An multiplayer modification for the game Subnautica.
 	- [x] ExecutiveDesk
 	- [x] SingleWallShelf
 	- [x] WallShelves	
+	- [x] StarshipDesk
+	- [x] LabCounter
 	- [ ] SolarPanel
 	- [ ] ThermalPlant
 	- [ ] PowerTransmitter
@@ -92,7 +94,6 @@ An multiplayer modification for the game Subnautica.
 	- [ ] BedEmmanuel
 	- [ ] BedFred
 	- [ ] BedParvan
-	- [ ] StarshipDesk
 	- [ ] StarshipChair
 	- [ ] StarshipChair2
 	- [ ] StarshipChair3
@@ -101,7 +102,6 @@ An multiplayer modification for the game Subnautica.
 	- [ ] Trashcans
 	- [ ] LabTrashcan
 	- [ ] VendingMachine
-	- [ ] LabCounter
 	- [ ] Fridge
 	- [ ] Shower
 	- [ ] Sink
