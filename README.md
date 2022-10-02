@@ -51,6 +51,9 @@ An multiplayer modification for the game Subnautica.
 	- [x] StarshipDesk
 	- [x] LabCounter
 	- [x] VendingMachine
+	- [x] Toilet
+	- [x] AromatherapyLamp
+	- [x] EmmanuelPendulum
 	- [ ] SolarPanel
 	- [ ] ThermalPlant
 	- [ ] PowerTransmitter
@@ -106,10 +109,7 @@ An multiplayer modification for the game Subnautica.
 	- [ ] Shower
 	- [ ] Sink
 	- [ ] SmallStove
-	- [ ] Toilet
 	- [ ] BasePlanter
-	- [ ] AromatherapyLamp
-	- [ ] EmmanuelPendulum
 - [ ] Vehicle Movement Synchronization
 - [ ] PDA Beacons Synchronization
 - [ ] PDA Log Synchronization
