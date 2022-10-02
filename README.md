@@ -24,6 +24,7 @@ An multiplayer modification for the game Subnautica.
 - [x] PDA Notification Synchronization
 - [ ] Base Piece Construction Synchronization (In Progress)
 	- [x] BarTable
+	- [x] ExecutiveDesk
 	- [ ] BaseFoundation
 	- [ ] BaseCorridorI
 	- [ ] BaseCorridorL
@@ -89,7 +90,6 @@ An multiplayer modification for the game Subnautica.
 	- [ ] BedFred
 	- [ ] BedParvan
 	- [ ] StarshipDesk
-	- [ ] ExecutiveDesk
 	- [ ] StarshipChair
 	- [ ] StarshipChair2
 	- [ ] StarshipChair3
