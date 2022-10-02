@@ -50,6 +50,7 @@ An multiplayer modification for the game Subnautica.
 	- [x] WallShelves	
 	- [x] StarshipDesk
 	- [x] LabCounter
+	- [x] VendingMachine
 	- [ ] SolarPanel
 	- [ ] ThermalPlant
 	- [ ] PowerTransmitter
@@ -101,7 +102,6 @@ An multiplayer modification for the game Subnautica.
 	- [ ] PictureFrame
 	- [ ] Trashcans
 	- [ ] LabTrashcan
-	- [ ] VendingMachine
 	- [ ] Fridge
 	- [ ] Shower
 	- [ ] Sink
