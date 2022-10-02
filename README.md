@@ -46,6 +46,8 @@ An multiplayer modification for the game Subnautica.
 - [ ] Furniture Construction Synchronization (In Progress)
 	- [x] BarTable
 	- [x] ExecutiveDesk
+	- [x] SingleWallShelf
+	- [x] WallShelves	
 	- [ ] SolarPanel
 	- [ ] ThermalPlant
 	- [ ] PowerTransmitter
@@ -106,8 +108,6 @@ An multiplayer modification for the game Subnautica.
 	- [ ] SmallStove
 	- [ ] Toilet
 	- [ ] BasePlanter
-	- [ ] SingleWallShelf
-	- [ ] WallShelves
 	- [ ] AromatherapyLamp
 	- [ ] EmmanuelPendulum
 - [ ] Vehicle Movement Synchronization
