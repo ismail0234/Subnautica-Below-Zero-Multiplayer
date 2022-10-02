@@ -132,8 +132,6 @@ An multiplayer modification for the game Subnautica.
 
 Please do keep in mind that this mod is still in progressional development. (**Alpha version Is Coming Soon**)
 
-We finally have reached a stage, where we feel comfortable enough to give the public easy access to the mod by providing a launcher to use on each reoccurring update.
-
 ### Problems/bugs/issues
 
 Please join the <a href="https://discord.gg/Gq9nush6SP">**SBZM**</a> Discord to discuss any and all issues you have with **SBZM**. From there we'll pick up on new issues to track.
