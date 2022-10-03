@@ -54,6 +54,9 @@ An multiplayer modification for the game Subnautica.
 	- [x] Toilet
 	- [x] AromatherapyLamp
 	- [x] EmmanuelPendulum
+	- [x] Shower
+	- [x] Sink
+	- [x] SmallStove	
 	- [ ] SolarPanel
 	- [ ] ThermalPlant
 	- [ ] PowerTransmitter
@@ -106,9 +109,6 @@ An multiplayer modification for the game Subnautica.
 	- [ ] Trashcans
 	- [ ] LabTrashcan
 	- [ ] Fridge
-	- [ ] Shower
-	- [ ] Sink
-	- [ ] SmallStove
 	- [ ] BasePlanter
 - [ ] Vehicle Movement Synchronization
 - [ ] PDA Beacons Synchronization
