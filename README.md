@@ -57,6 +57,7 @@ An multiplayer modification for the game Subnautica.
 	- [x] Shower
 	- [x] Sink
 	- [x] SmallStove	
+	- [x] Sign
 	- [ ] SolarPanel
 	- [ ] ThermalPlant
 	- [ ] PowerTransmitter
@@ -104,7 +105,6 @@ An multiplayer modification for the game Subnautica.
 	- [ ] StarshipChair
 	- [ ] StarshipChair2
 	- [ ] StarshipChair3
-	- [ ] Sign
 	- [ ] PictureFrame
 	- [ ] Trashcans
 	- [ ] LabTrashcan
