@@ -58,6 +58,7 @@ An multiplayer modification for the game Subnautica.
 	- [x] Sink
 	- [x] SmallStove	
 	- [x] Sign
+	- [x] BaseLadder
 	- [ ] SolarPanel
 	- [ ] ThermalPlant
 	- [ ] PowerTransmitter
@@ -66,7 +67,6 @@ An multiplayer modification for the game Subnautica.
 	- [ ] Spotlight
 	- [ ] FarmingTray
 	- [ ] Snowman
-	- [ ] BaseLadder
 	- [ ] BaseFiltrationMachine
 	- [ ] BaseBulkhead
 	- [ ] BaseUpgradeConsole
