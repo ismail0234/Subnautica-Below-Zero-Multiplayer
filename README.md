@@ -59,6 +59,7 @@ An multiplayer modification for the game Subnautica.
 	- [x] SmallStove	
 	- [x] Sign
 	- [x] BaseLadder
+	- [x] BasePlanter
 	- [ ] SolarPanel
 	- [ ] ThermalPlant
 	- [ ] PowerTransmitter
@@ -109,7 +110,6 @@ An multiplayer modification for the game Subnautica.
 	- [ ] Trashcans
 	- [ ] LabTrashcan
 	- [ ] Fridge
-	- [ ] BasePlanter
 - [ ] Vehicle Movement Synchronization
 - [ ] PDA Beacons Synchronization
 - [ ] PDA Log Synchronization
