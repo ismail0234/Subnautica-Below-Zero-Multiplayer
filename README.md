@@ -23,6 +23,8 @@ An multiplayer modification for the game Subnautica.
 - [x] PDA Screenshots Synchronization
 - [x] PDA Notification Synchronization
 - [ ] Base Piece Construction Synchronization (In Progress)
+	- [x] BaseObservatory
+	- [x] BaseWindow
 	- [ ] BaseFoundation
 	- [ ] BaseCorridorI
 	- [ ] BaseCorridorL
@@ -34,13 +36,11 @@ An multiplayer modification for the game Subnautica.
 	- [ ] BaseRoom
 	- [ ] BaseMapRoom
 	- [ ] BaseMoonpool
-	- [ ] BaseObservatory
 	- [ ] BaseControlRoom
 	- [ ] BaseLargeRoom
 	- [ ] BaseGlassDome
 	- [ ] BaseLargeGlassDome
 	- [ ] BaseHatch
-	- [ ] BaseWindow
 	- [ ] BaseReinforcement
 	- [ ] BaseMoonpoolExpansion
 - [ ] Furniture Construction Synchronization (In Progress)
