@@ -60,6 +60,7 @@ An multiplayer modification for the game Subnautica.
 	- [x] Sign
 	- [x] BaseLadder
 	- [x] BasePlanter
+	- [x] PictureFrame
 	- [ ] SolarPanel
 	- [ ] ThermalPlant
 	- [ ] PowerTransmitter
@@ -106,7 +107,6 @@ An multiplayer modification for the game Subnautica.
 	- [ ] StarshipChair
 	- [ ] StarshipChair2
 	- [ ] StarshipChair3
-	- [ ] PictureFrame
 	- [ ] Trashcans
 	- [ ] LabTrashcan
 	- [ ] Fridge
