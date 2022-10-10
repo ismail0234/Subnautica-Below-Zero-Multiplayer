@@ -55,5 +55,5 @@
     "GAME_SERVER_PLAYER_CONNECTING": "You are connecting to server...",
     "GAME_SERVER_PLAYER_CONNECTED": "You are connected to the server. Loading game world.",
     "GAME_SERVER_RETRY_CONNECTION_ERROR" : "Disconnected. Reconnecting ({time})",
-    "GAME_USED_ANOTHER_PLAYER": "It is being used by another player."
+    "GAME_ITEM_USED_ANOTHER_PLAYER": "It is being used by another player."
 }
