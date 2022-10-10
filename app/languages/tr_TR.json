@@ -55,5 +55,5 @@
     "GAME_SERVER_PLAYER_CONNECTING": "Sunucuya bağlanıyorsun...",
     "GAME_SERVER_PLAYER_CONNECTED": "Sunucuya bağlandın. Oyun dünyası yükleniyor.",
     "GAME_SERVER_RETRY_CONNECTION_ERROR": "Bağlantı Kesildi. Yeniden bağlantı kuruluyor ({time})",
-    "GAME_USED_ANOTHER_PLAYER": "Başka bir oyuncu tarafından kullanılıyor."
+    "GAME_ITEM_USED_ANOTHER_PLAYER": "Başka bir oyuncu tarafından kullanılıyor."
 }
