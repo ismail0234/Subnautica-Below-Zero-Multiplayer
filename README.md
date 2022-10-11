@@ -60,7 +60,9 @@ An multiplayer modification for the game Subnautica.
 	- [x] Sign
 	- [x] BaseLadder
 	- [x] BasePlanter
-	- [x] PictureFrame
+	- [x] PictureFrame	
+	- [x] Jukebox
+	- [x] Speaker
 	- [ ] SolarPanel
 	- [ ] ThermalPlant
 	- [ ] PowerTransmitter
@@ -84,8 +86,6 @@ An multiplayer modification for the game Subnautica.
 	- [ ] PowerCellCharger
 	- [ ] Aquarium
 	- [ ] Workbench
-	- [ ] Jukebox
-	- [ ] Speaker
 	- [ ] PlanterPot
 	- [ ] PlanterPot2
 	- [ ] PlanterPot3
