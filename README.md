@@ -63,6 +63,8 @@ An multiplayer modification for the game Subnautica.
 	- [x] PictureFrame	
 	- [x] Jukebox
 	- [x] Speaker
+	- [x] Trashcans
+	- [x] LabTrashcan
 	- [ ] SolarPanel
 	- [ ] ThermalPlant
 	- [ ] PowerTransmitter
@@ -107,8 +109,6 @@ An multiplayer modification for the game Subnautica.
 	- [ ] StarshipChair
 	- [ ] StarshipChair2
 	- [ ] StarshipChair3
-	- [ ] Trashcans
-	- [ ] LabTrashcan
 	- [ ] Fridge
 - [ ] Vehicle Movement Synchronization
 - [ ] PDA Beacons Synchronization
