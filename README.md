@@ -65,6 +65,7 @@ An multiplayer modification for the game Subnautica.
 	- [x] Speaker
 	- [x] Trashcans
 	- [x] LabTrashcan
+	- [x] Aquarium
 	- [ ] SolarPanel
 	- [ ] ThermalPlant
 	- [ ] PowerTransmitter
@@ -86,7 +87,6 @@ An multiplayer modification for the game Subnautica.
 	- [ ] Locker
 	- [ ] BatteryCharger
 	- [ ] PowerCellCharger
-	- [ ] Aquarium
 	- [ ] Workbench
 	- [ ] PlanterPot
 	- [ ] PlanterPot2
