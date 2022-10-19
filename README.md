@@ -66,6 +66,8 @@ An multiplayer modification for the game Subnautica.
 	- [x] Trashcans
 	- [x] LabTrashcan
 	- [x] Aquarium
+	- [x] Workbench
+	- [x] Fabricator
 	- [ ] SolarPanel
 	- [ ] ThermalPlant
 	- [ ] PowerTransmitter
@@ -82,12 +84,10 @@ An multiplayer modification for the game Subnautica.
 	- [ ] BaseWaterPark
 	- [ ] BasePartition
 	- [ ] BasePartitionDoor
-	- [ ] Fabricator
 	- [ ] SmallLocker
 	- [ ] Locker
 	- [ ] BatteryCharger
 	- [ ] PowerCellCharger
-	- [ ] Workbench
 	- [ ] PlanterPot
 	- [ ] PlanterPot2
 	- [ ] PlanterPot3
