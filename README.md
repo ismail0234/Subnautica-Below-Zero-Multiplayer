@@ -8,7 +8,7 @@ An multiplayer modification for the game Subnautica.
 
 
 ### Translations
-We have a translation platform for those of you who speak another language to work on translating the mod into your native language. You can get started at https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/tree/main/app/languages
+You can contribute to us to translate the mod into other languages. You can get started at [here.](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/tree/main/app/languages)
 
 | Language           | Completed | Lang Code | Translation Page                                                                                           | Translator |
 |--------------------|:-----------:|:-----------:|:------------------------------------------------------------------------------------------------------------:|------------|
