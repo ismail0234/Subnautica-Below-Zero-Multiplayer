@@ -10,19 +10,17 @@ An multiplayer modification for the game Subnautica.
 ### Translations
 You can contribute to us to translate the mod into other languages. You can get started at [here.](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/tree/main/app/languages)
 
-| Language           | Completed | Lang Code | Translation Page                                                                                           | Translator |
-|--------------------|:-----------:|:-----------:|:------------------------------------------------------------------------------------------------------------:|------------|
-| Turkish            | ✔️        | tr        | [tr.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/tr.json) | BOT Benson |
-| English            | ✔️        | en        | [en.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/en.json) | BOT Benson |
-| French             | ❌         | fr        |                                                                                                            | -          |
-| Simplified Chinese | ❌         | zh        |                                                                                                            | -          |
-| Russian            | ❌         | ru        |                                                                                                            | -          |
-| Spain              | ❌         | es        |                                                                                                            | -          |
-| Brazil             | ❌         | pt        |                                                                                                            | -          |
-| Polish             | ❌         | pl        |                                                                                                            | -          |
-| Japanese           | ❌         | ja        |                                                                                                            | -          |
-
-
+| Language           | Completed | Lang Code | Translation Page                                                                                           | Translator     |
+|--------------------|:-----------:|:-----------:|:------------------------------------------------------------------------------------------------------------:|----------------|
+| Turkish            | ✔️        | tr        | [tr.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/tr.json) | BOT Benson     |
+| English            | ✔️        | en        | [en.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/en.json) | BOT Benson     |
+| French             | ✔️        | fr        | [fr.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/fr.json) | Argento Vampir |
+| Simplified Chinese | ❌         | zh        |                                                                                                            | -              |
+| Russian            | ❌         | ru        |                                                                                                            | -              |
+| Spain              | ❌         | es        |                                                                                                            | -              |
+| Brazil             | ❌         | pt        |                                                                                                            | -              |
+| Polish             | ❌         | pl        |                                                                                                            | -              |
+| Japanese           | ❌         | ja        |                                                                                                            | -              |
 
 
 ## Subnautica BZ Multiplayer Mod Progress
