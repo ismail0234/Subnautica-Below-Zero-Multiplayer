@@ -11,7 +11,7 @@ An multiplayer modification for the game Subnautica.
 We have a translation platform for those of you who speak another language to work on translating the mod into your native language. You can get started at https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/tree/main/app/languages
 
 | Language           | Completed | Lang Code | Translation Page                                                                                           | Translator |
-|--------------------|-----------|-----------|:------------------------------------------------------------------------------------------------------------:|------------|
+|--------------------|:-----------:|:-----------:|:------------------------------------------------------------------------------------------------------------:|------------|
 | Turkish            | ✔️        | tr        | [tr.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/edit/main/app/languages/tr.json) | BOT Benson |
 | English            | ✔️        | en        | [en.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/edit/main/app/languages/en.json) | BOT Benson |
 | French             | ❌         | fr        |                                                                                                            | -          |
@@ -21,6 +21,7 @@ We have a translation platform for those of you who speak another language to wo
 | Brazil             | ❌         | pt        |                                                                                                            | -          |
 | Polish             | ❌         | pl        |                                                                                                            | -          |
 | Japanese           | ❌         | ja        |                                                                                                            | -          |
+
 
 
 
