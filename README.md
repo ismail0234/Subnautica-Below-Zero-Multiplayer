@@ -145,6 +145,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] Story Synchronization
 - [ ] Meteor Synchronization
 - [ ] Life Pod Synchronization
+- [ ] Long Distance World Synchronization
 - [ ] And Others etc...
 
 ### How can I play this mod?
