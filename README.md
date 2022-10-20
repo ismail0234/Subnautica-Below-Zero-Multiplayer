@@ -6,6 +6,24 @@ An multiplayer modification for the game Subnautica.
 
 [Subnautica Below Zero Multiplayer Website](https://subnauticamultiplayer.com/)
 
+
+### Translations
+We have a translation platform for those of you who speak another language to work on translating the mod into your native language. You can get started at https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/tree/main/app/languages
+
+| Language           | Completed | Lang Code | Translation Page                                                                                           | Translator |
+|--------------------|-----------|-----------|:------------------------------------------------------------------------------------------------------------:|------------|
+| Turkish            | ✔️        | tr        | [tr.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/edit/main/app/languages/tr.json) | BOT Benson |
+| English            | ✔️        | en        | [en.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/edit/main/app/languages/en.json) | BOT Benson |
+| French             | ❌         | fr        |                                                                                                            | -          |
+| Simplified Chinese | ❌         | zh        |                                                                                                            | -          |
+| Russian            | ❌         | ru        |                                                                                                            | -          |
+| Spain              | ❌         | es        |                                                                                                            | -          |
+| Brazil             | ❌         | pt        |                                                                                                            | -          |
+| Polish             | ❌         | pl        |                                                                                                            | -          |
+| Japanese           | ❌         | ja        |                                                                                                            | -          |
+
+
+
 ## Subnautica BZ Multiplayer Mod Progress
 
 - [x] Inventory Synchronization
@@ -135,19 +153,3 @@ Please do keep in mind that this mod is still in progressional development. (**A
 ### Problems/bugs/issues
 
 Please join the <a href="https://discord.gg/Gq9nush6SP">**SBZM**</a> Discord to discuss any and all issues you have with **SBZM**. From there we'll pick up on new issues to track.
-
-### Translations
-We have a translation platform for those of you who speak another language to work on translating the mod into your native language. You can get started at https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/tree/main/app/languages
-
-| Language           | Completed | Lang Code | Translation Page                                                                                           | Translator |
-|--------------------|-----------|-----------|:------------------------------------------------------------------------------------------------------------:|------------|
-| Turkish            | ✔️        | tr        | [tr.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/edit/main/app/languages/tr.json) | BOT Benson |
-| English            | ✔️        | en        | [en.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/edit/main/app/languages/en.json) | BOT Benson |
-| French             | ❌         | fr        |                                                                                                            | -          |
-| Simplified Chinese | ❌         | zh        |                                                                                                            | -          |
-| Russian            | ❌         | ru        |                                                                                                            | -          |
-| Spain              | ❌         | es        |                                                                                                            | -          |
-| Brazil             | ❌         | pt        |                                                                                                            | -          |
-| Polish             | ❌         | pl        |                                                                                                            | -          |
-| Japanese           | ❌         | ja        |                                                                                                            | -          |
-
