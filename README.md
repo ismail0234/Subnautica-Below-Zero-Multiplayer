@@ -12,8 +12,8 @@ You can contribute to us to translate the mod into other languages. You can get 
 
 | Language           | Completed | Lang Code | Translation Page                                                                                           | Translator |
 |--------------------|:-----------:|:-----------:|:------------------------------------------------------------------------------------------------------------:|------------|
-| Turkish            | ✔️        | tr        | [tr.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/edit/main/app/languages/tr.json) | BOT Benson |
-| English            | ✔️        | en        | [en.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/edit/main/app/languages/en.json) | BOT Benson |
+| Turkish            | ✔️        | tr        | [tr.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/tr.json) | BOT Benson |
+| English            | ✔️        | en        | [en.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/en.json) | BOT Benson |
 | French             | ❌         | fr        |                                                                                                            | -          |
 | Simplified Chinese | ❌         | zh        |                                                                                                            | -          |
 | Russian            | ❌         | ru        |                                                                                                            | -          |
