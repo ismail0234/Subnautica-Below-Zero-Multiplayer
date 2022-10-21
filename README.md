@@ -42,13 +42,13 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] Base Piece Construction Synchronization (In Progress)
 	- [x] BaseObservatory
 	- [x] BaseWindow
+	- [x] BaseCorridorI
+	- [x] BaseCorridorL
+	- [x] BaseCorridorT
+	- [x] BaseCorridorX
+	- [x] BaseCorridorGlassI
+	- [x] BaseCorridorGlassL
 	- [ ] BaseFoundation
-	- [ ] BaseCorridorI
-	- [ ] BaseCorridorL
-	- [ ] BaseCorridorT
-	- [ ] BaseCorridorX
-	- [ ] BaseCorridorGlassI
-	- [ ] BaseCorridorGlassL
 	- [ ] BaseConnector
 	- [ ] BaseRoom
 	- [ ] BaseMapRoom
