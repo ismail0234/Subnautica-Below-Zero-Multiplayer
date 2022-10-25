@@ -48,15 +48,15 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [x] BaseCorridorX
 	- [x] BaseCorridorGlassI
 	- [x] BaseCorridorGlassL
+	- [x] BaseLargeRoom
+	- [x] BaseLargeGlassDome
 	- [ ] BaseFoundation
 	- [ ] BaseConnector
 	- [ ] BaseRoom
 	- [ ] BaseMapRoom
 	- [ ] BaseMoonpool
 	- [ ] BaseControlRoom
-	- [ ] BaseLargeRoom
 	- [ ] BaseGlassDome
-	- [ ] BaseLargeGlassDome
 	- [ ] BaseHatch
 	- [ ] BaseReinforcement
 	- [ ] BaseMoonpoolExpansion
