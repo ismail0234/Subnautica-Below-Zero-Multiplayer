@@ -50,15 +50,15 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [x] BaseCorridorGlassL
 	- [x] BaseLargeRoom
 	- [x] BaseLargeGlassDome
-	- [ ] BaseFoundation
+	- [x] BaseRoom
+	- [x] BaseGlassDome
+	- [x] BaseReinforcement
+	- [x] BaseHatch
+	- [x] BaseFoundation
 	- [ ] BaseConnector
-	- [ ] BaseRoom
 	- [ ] BaseMapRoom
 	- [ ] BaseMoonpool
 	- [ ] BaseControlRoom
-	- [ ] BaseGlassDome
-	- [ ] BaseHatch
-	- [ ] BaseReinforcement
 	- [ ] BaseMoonpoolExpansion
 - [ ] Furniture Construction Synchronization (In Progress)
 	- [x] BarTable
