@@ -133,6 +133,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] Player Animation Synchronization
 - [ ] Player Item Animation Synchronization
 - [ ] Base Power Synchronization
+- [ ] Base Hull Strength Synchronization
 - [ ] Furniture Interaction Synchronization
 - [ ] Weather Synchronization
 - [ ] Power management Synchronization
