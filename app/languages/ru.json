@@ -54,6 +54,6 @@
     "GAME_PLAYER_CONNECTED" : "{playername} подключен.", 
     "GAME_SERVER_PLAYER_CONNECTING" : "Вы подключаетесь к серверу...", 
     "GAME_SERVER_PLAYER_CONNECTED" : "Вы подключены к серверу. Загружается игровой мир.", 
-    "GAME_SERVER_RETRY_CONNECTION_ERROR" : "Отключено. Повторное подключение ({время})", 
+    "GAME_SERVER_RETRY_CONNECTION_ERROR" : "Отключено. Повторное подключение ({time})", 
     "GAME_ITEM_USED_ANOTHER_PLAYER" : "Используется другим игроком." 
 }
