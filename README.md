@@ -16,11 +16,15 @@ You can contribute to us to translate the mod into other languages. You can get 
 | English            | ✔️        | en        | [en.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/en.json) | BOT Benson     |
 | French             | ✔️        | fr        | [fr.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/fr.json) | Argento Vampir |
 | Russian            | ✔️         | ru        | [ru.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/ru.json)  | Zztop              |
-| Simplified Chinese | ❌         | zh        | - | -              |
-| Spain              | ❌         | es        |                                                                                                            | -              |
-| Brazil             | ❌         | pt        |                                                                                                            | -              |
-| Polish             | ❌         | pl        |                                                                                                            | -              |
-| Japanese           | ❌         | ja        |                                                                                                            | -              |
+| Simplified Chinese | ❌         | zh        | - | - |
+| Spain              | ❌         | es        | - | - |
+| Italian            | ❌         | it        | - | - |
+| Korean             | ❌         | ko        | - | - |
+| Arabic             | ❌         | ar        | - | - |
+| German             | ❌         | de        | - | - |
+| Brazil             | ❌         | pt        | - | - |
+| Polish             | ❌         | pl        | - | - |
+| Japanese           | ❌         | ja        | - | - |
 
 
 ## Subnautica BZ Multiplayer Mod Progress
