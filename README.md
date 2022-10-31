@@ -89,6 +89,9 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [x] Aquarium
 	- [x] Workbench
 	- [x] Fabricator
+	- [x] StarshipChair
+	- [x] StarshipChair2
+	- [x] StarshipChair3
 	- [ ] SolarPanel
 	- [ ] ThermalPlant
 	- [ ] PowerTransmitter
@@ -127,9 +130,6 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [ ] BedEmmanuel
 	- [ ] BedFred
 	- [ ] BedParvan
-	- [ ] StarshipChair
-	- [ ] StarshipChair2
-	- [ ] StarshipChair3
 	- [ ] Fridge
 - [ ] Vehicle Movement Synchronization
 - [ ] PDA Beacons Synchronization
