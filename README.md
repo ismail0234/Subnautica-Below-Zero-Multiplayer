@@ -92,6 +92,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [x] StarshipChair
 	- [x] StarshipChair2
 	- [x] StarshipChair3
+	- [x] Bench
 	- [ ] SolarPanel
 	- [ ] ThermalPlant
 	- [ ] PowerTransmitter
@@ -119,7 +120,6 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [ ] PlanterShelf
 	- [ ] Recyclotron
 	- [ ] CoffeeVendingMachine
-	- [ ] Bench
 	- [ ] Bed1
 	- [ ] Bed2
 	- [ ] NarrowBed
