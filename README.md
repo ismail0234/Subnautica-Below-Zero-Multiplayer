@@ -18,7 +18,6 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Russian            | ✔️         | ru        | [ru.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/ru.json)  | Zztop              |
 | Polish             | ✔️         | pl        | [pl.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/pl.json) | milooop2 |
 | Simplified Chinese | ❌         | zh        | - | - |
-
 | Spanish            | ❌         | es        | - | - |
 | Italian            | ❌         | it        | - | - |
 | Korean             | ❌         | ko        | - | - |
