@@ -17,7 +17,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | French             | ✔️        | fr        | [fr.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/fr.json) | Argento Vampir |
 | Russian            | ✔️         | ru        | [ru.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/ru.json)  | Zztop              |
 | Polish             | ✔️         | pl        | [pl.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/pl.json) | milooop2 |
-| Simplified Chinese | ❌         | zh        | - | - |
+| Simplified Chinese | ✔️         | zh        | [zh.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/zh.json) | Blue Star |
 | Spanish            | ❌         | es        | - | - |
 | Italian            | ❌         | it        | - | - |
 | Korean             | ❌         | ko        | - | - |
