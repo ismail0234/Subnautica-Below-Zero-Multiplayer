@@ -96,12 +96,12 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [x] Bench
 	- [x] Techlight
 	- [x] Spotlight
+	- [x] Snowman
 	- [ ] SolarPanel
 	- [ ] ThermalPlant
 	- [ ] PowerTransmitter
 	- [ ] Hoverpad
 	- [ ] FarmingTray
-	- [ ] Snowman
 	- [ ] BaseFiltrationMachine
 	- [ ] BaseBulkhead
 	- [ ] BaseUpgradeConsole
