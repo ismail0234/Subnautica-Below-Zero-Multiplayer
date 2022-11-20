@@ -94,12 +94,12 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [x] StarshipChair2
 	- [x] StarshipChair3
 	- [x] Bench
+	- [x] Techlight
+	- [x] Spotlight
 	- [ ] SolarPanel
 	- [ ] ThermalPlant
 	- [ ] PowerTransmitter
 	- [ ] Hoverpad
-	- [ ] Techlight
-	- [ ] Spotlight
 	- [ ] FarmingTray
 	- [ ] Snowman
 	- [ ] BaseFiltrationMachine
