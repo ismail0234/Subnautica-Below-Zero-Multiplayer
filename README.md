@@ -97,6 +97,8 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [x] Techlight
 	- [x] Spotlight
 	- [x] Snowman
+	- [x] SmallLocker
+	- [x] Locker
 	- [ ] SolarPanel
 	- [ ] ThermalPlant
 	- [ ] PowerTransmitter
@@ -110,8 +112,6 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [ ] BaseWaterPark
 	- [ ] BasePartition
 	- [ ] BasePartitionDoor
-	- [ ] SmallLocker
-	- [ ] Locker
 	- [ ] BatteryCharger
 	- [ ] PowerCellCharger
 	- [ ] PlanterPot
