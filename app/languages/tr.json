@@ -56,4 +56,7 @@
     "GAME_SERVER_PLAYER_CONNECTED": "Sunucuya bağlandın. Oyun dünyası yükleniyor.",
     "GAME_SERVER_RETRY_CONNECTION_ERROR": "Bağlantı Kesildi. Yeniden bağlantı kuruluyor ({time})",
     "GAME_ITEM_USED_ANOTHER_PLAYER": "Başka bir oyuncu tarafından kullanılıyor."
+    "GAME_CONNECTION_REJECTED" : "Sunucuya bağlantı başarısız. Lütfen başlatıcıyı yeniden başlatarak güncelleyin.",
+    "GAME_MULTIPLAYER_HOST_GAME" : "Oyun Oluştur",
+    "GAME_MULTIPLAYER_JOIN_GAME" : "Oyun'a Katıl"
 }
