@@ -56,4 +56,7 @@
     "GAME_SERVER_PLAYER_CONNECTED": "You are connected to the server. Loading game world.",
     "GAME_SERVER_RETRY_CONNECTION_ERROR" : "Disconnected. Reconnecting ({time})",
     "GAME_ITEM_USED_ANOTHER_PLAYER": "It is being used by another player."
+    "GAME_CONNECTION_REJECTED" : "Connection to the server failed. Please update by restarting the launcher.",
+    "GAME_MULTIPLAYER_HOST_GAME" : "Host Game",
+    "GAME_MULTIPLAYER_JOIN_GAME" : "Join Server"    
 }
