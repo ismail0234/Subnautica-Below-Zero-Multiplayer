@@ -58,5 +58,6 @@
     "GAME_ITEM_USED_ANOTHER_PLAYER": "It is being used by another player."
     "GAME_CONNECTION_REJECTED" : "Connection to the server failed. Please update by restarting the launcher.",
     "GAME_MULTIPLAYER_HOST_GAME" : "Host Game",
-    "GAME_MULTIPLAYER_JOIN_GAME" : "Join Server"    
+    "GAME_MULTIPLAYER_JOIN_GAME" : "Join Server",
+    "GAME_MULTIPLAYER_CREATE_SERVER": "Create Server"
 }
