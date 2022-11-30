@@ -59,5 +59,9 @@
     "GAME_CONNECTION_REJECTED" : "Sunucuya bağlantı başarısız. Lütfen başlatıcıyı yeniden başlatarak güncelleyin.",
     "GAME_MULTIPLAYER_HOST_GAME" : "Oyun Oluştur",
     "GAME_MULTIPLAYER_JOIN_GAME" : "Oyun'a Katıl",
-    "GAME_MULTIPLAYER_CREATE_SERVER": "Sunucu Oluştur"
+    "GAME_MULTIPLAYER_CREATE_SERVER": "Sunucu Oluştur",
+    "GAME_SIZE_B": "Bayt",
+    "GAME_SIZE_KB": "KB",
+    "GAME_SIZE_MB": "MB",
+    "GAME_SIZE_GB": "GB"    
 }
