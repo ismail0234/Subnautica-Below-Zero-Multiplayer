@@ -63,5 +63,17 @@
     "GAME_SIZE_B": "Bayt",
     "GAME_SIZE_KB": "KB",
     "GAME_SIZE_MB": "MB",
-    "GAME_SIZE_GB": "GB"    
+    "GAME_SIZE_GB": "GB",
+    "GAME_MONTH_1" : "Ocak",
+    "GAME_MONTH_2" : "Şubat",
+    "GAME_MONTH_3" : "Mart",
+    "GAME_MONTH_4" : "Nisan",
+    "GAME_MONTH_5" : "Mayıs",
+    "GAME_MONTH_6" : "Haziran",
+    "GAME_MONTH_7" : "Temmuz",
+    "GAME_MONTH_8" : "Ağustos",
+    "GAME_MONTH_9" : "Eylül",
+    "GAME_MONTH_10": "Ekim",
+    "GAME_MONTH_11": "Kasım",
+    "GAME_MONTH_12": "Aralık"    
 }
