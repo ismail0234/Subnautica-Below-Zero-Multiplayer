@@ -59,5 +59,9 @@
     "GAME_CONNECTION_REJECTED" : "Connection to the server failed. Please update by restarting the launcher.",
     "GAME_MULTIPLAYER_HOST_GAME" : "Host Game",
     "GAME_MULTIPLAYER_JOIN_GAME" : "Join Server",
-    "GAME_MULTIPLAYER_CREATE_SERVER": "Create Server"
+    "GAME_MULTIPLAYER_CREATE_SERVER": "Create Server",
+    "GAME_SIZE_B": "Byte",
+    "GAME_SIZE_KB": "KB",
+    "GAME_SIZE_MB": "MB",
+    "GAME_SIZE_GB": "GB"
 }
