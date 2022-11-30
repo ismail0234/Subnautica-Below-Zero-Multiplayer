@@ -63,5 +63,17 @@
     "GAME_SIZE_B": "Byte",
     "GAME_SIZE_KB": "KB",
     "GAME_SIZE_MB": "MB",
-    "GAME_SIZE_GB": "GB"
+    "GAME_SIZE_GB": "GB",
+    "GAME_MONTH_1" : "January",
+    "GAME_MONTH_2" : "February",
+    "GAME_MONTH_3" : "March",
+    "GAME_MONTH_4" : "April",
+    "GAME_MONTH_5" : "May",
+    "GAME_MONTH_6" : "June",
+    "GAME_MONTH_7" : "July",
+    "GAME_MONTH_8" : "August",
+    "GAME_MONTH_9" : "September",
+    "GAME_MONTH_10": "October",
+    "GAME_MONTH_11": "November",
+    "GAME_MONTH_12": "December"    
 }
