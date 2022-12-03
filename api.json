@@ -35,6 +35,7 @@
 
         "Plugins": [
             "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Plugins/Subnautica.Events.dll",
+            "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Plugins/Subnautica.Server.dll",
             "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Plugins/Subnautica.Client.dll"
         ]
     }
