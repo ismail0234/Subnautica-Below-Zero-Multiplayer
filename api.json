@@ -6,6 +6,10 @@
         "Path": "Subnautica.jpg",
         "Url": "https://raw.githubusercontent.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/app/assets/images/Subnautica.jpg"
     }],
+    "Credits": 
+    {
+        "Alex Nava"
+    },
     "Game": 
     {
         "Main": [
