@@ -99,9 +99,9 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [x] Snowman
 	- [x] SmallLocker
 	- [x] Locker
+	- [x] PowerTransmitter
 	- [ ] SolarPanel
 	- [ ] ThermalPlant
-	- [ ] PowerTransmitter
 	- [ ] Hoverpad
 	- [ ] FarmingTray
 	- [ ] BaseFiltrationMachine
