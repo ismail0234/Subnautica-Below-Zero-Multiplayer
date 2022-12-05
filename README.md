@@ -100,8 +100,8 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [x] SmallLocker
 	- [x] Locker
 	- [x] PowerTransmitter
+	- [x] ThermalPlant
 	- [ ] SolarPanel
-	- [ ] ThermalPlant
 	- [ ] Hoverpad
 	- [ ] FarmingTray
 	- [ ] BaseFiltrationMachine
