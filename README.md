@@ -141,7 +141,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] Furniture Interaction Synchronization
 - [ ] Weather Synchronization
 - [ ] Power management Synchronization
-- [ ] AI Synchronization
+- [ ] AI (Creatures/Fishes) Synchronization
 - [ ] Item Pickup Synchronization
 - [ ] Item Drop Synchronization
 - [ ] Multiplayer Lobby
