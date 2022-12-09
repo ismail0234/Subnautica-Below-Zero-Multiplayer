@@ -25,8 +25,10 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Arabic             | ❌         | ar        | - | - |
 | Brazil             | ❌         | pt        | - | - |
 | Japanese           | ❌         | ja        | - | - |
-
-
+| Bulgarian          | ❌         | bg        | - | - |
+| Ukrainian          | ❌         | uk        | - | - |
+| Swedish            | ❌         | sv        | - | - |
+ 
 ## Subnautica BZ Multiplayer Mod Progress
 
 - [x] Inventory Synchronization
