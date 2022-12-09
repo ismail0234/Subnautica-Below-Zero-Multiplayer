@@ -19,6 +19,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Polish             | ✔️         | pl        | [pl.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/pl.json) | milooop2 |
 | Simplified Chinese | ✔️         | zh        | [zh.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/zh.json) | Blue Star |
 | German             | ✔️         | de        | [de.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/de.json) | Ex000000 |
+| Ukrainian          | ✔️         | uk        | [uk.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/uk.json) | PENGLING-UK |
 | Spanish            | ❌         | es        | - | - |
 | Italian            | ❌         | it        | - | - |
 | Korean             | ❌         | ko        | - | - |
@@ -26,7 +27,6 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Brazil             | ❌         | pt        | - | - |
 | Japanese           | ❌         | ja        | - | - |
 | Bulgarian          | ❌         | bg        | - | - |
-| Ukrainian          | ❌         | uk        | - | - |
 | Swedish            | ❌         | sv        | - | - |
  
 ## Subnautica BZ Multiplayer Mod Progress
