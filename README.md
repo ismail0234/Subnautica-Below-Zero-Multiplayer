@@ -105,12 +105,12 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [x] ThermalPlant
 	- [x] SolarPanel
 	- [x] BaseBioReactor
+	- [x] BaseNuclearReactor
 	- [ ] Hoverpad
 	- [ ] FarmingTray
 	- [ ] BaseFiltrationMachine
 	- [ ] BaseBulkhead
 	- [ ] BaseUpgradeConsole
-	- [ ] BaseNuclearReactor
 	- [ ] BaseWaterPark
 	- [ ] BasePartition
 	- [ ] BasePartitionDoor
