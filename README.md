@@ -29,7 +29,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Bulgarian          | ❌         | bg        | - | - |
 | Swedish            | ❌         | sv        | - | - |
  
-## Subnautica BZ Multiplayer Mod Progress
+## Subnautica BZ Multiplayer To-Do List
 
 - [x] Inventory Synchronization
 - [x] Inventory Equipment Synchronization
