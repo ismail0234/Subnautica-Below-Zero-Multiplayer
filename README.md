@@ -47,6 +47,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] PDA Notification Synchronization
 - [x] Player Item Animation Synchronization
 - [x] Base Power Synchronization
+- [x] Player Animation Synchronization
 - [ ] Vehicles
 	- [ ] SpyPenguin
 	- [ ] Snowfox
@@ -55,7 +56,6 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] Vehicle Movement Synchronization
 - [ ] PDA Beacons Synchronization
 - [ ] PDA Log Synchronization
-- [ ] Player Animation Synchronization
 - [ ] Base Hull Strength Synchronization
 - [ ] Furniture Interaction Synchronization
 - [ ] Weather Synchronization
