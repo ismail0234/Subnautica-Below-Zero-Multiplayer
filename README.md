@@ -46,6 +46,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] PDA Screenshots Synchronization
 - [x] PDA Notification Synchronization
 - [x] Player Item Animation Synchronization
+- [x] Base Power Synchronization
 - [ ] Base Piece Construction Synchronization (In Progress)
 	- [x] BaseObservatory
 	- [x] BaseWindow
@@ -138,7 +139,6 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] PDA Beacons Synchronization
 - [ ] PDA Log Synchronization
 - [ ] Player Animation Synchronization
-- [ ] Base Power Synchronization
 - [ ] Base Hull Strength Synchronization
 - [ ] Furniture Interaction Synchronization
 - [ ] Weather Synchronization
