@@ -96,7 +96,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 </details> 
 
 <details>
-  <summary>Furniture Construction Synchronization (38/66)</summary>
+  <summary>Furniture Construction Synchronization (38/53)</summary>
 
 - [x] BarTable
 - [x] ExecutiveDesk
@@ -146,23 +146,10 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] BasePartitionDoor
 - [ ] BatteryCharger
 - [ ] PowerCellCharger
-- [ ] PlanterPot
-- [ ] PlanterPot2
-- [ ] PlanterPot3
-- [ ] PlanterBox
-- [ ] PlanterShelf
 - [ ] Recyclotron
 - [ ] CoffeeVendingMachine
-- [ ] Bed1
-- [ ] Bed2
-- [ ] NarrowBed
-- [ ] BedJeremiah
-- [ ] BedSam
-- [ ] BedZeta
-- [ ] BedDanielle
-- [ ] BedEmmanuel
-- [ ] BedFred
-- [ ] BedParvan
+- [ ] PlanterPots (PlanterPot / PlanterPot2 / PlanterPot3 / PlanterBox / PlanterShelf)
+- [ ] Beds (Bed2 / NarrowBed / BedJeremiah / BedSam / BedZeta / BedDanielle / BedEmmanuel / BedFred / BedParvan)
 - [ ] Fridge
 </details>
 
