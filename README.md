@@ -4,7 +4,7 @@ An multiplayer modification for the game Subnautica.
 
 [![Discord](https://img.shields.io/discord/994133148046725160?logo=discord&logoColor=white)](https://discord.gg/Gq9nush6SP)
 
-[Subnautica Below Zero Multiplayer Website](https://subnauticamultiplayer.com/)
+[Website](https://subnauticamultiplayer.com/) | [Discord](https://discord.gg/Gq9nush6SP)
 
 ### Translations
 You can contribute to us to translate the mod into other languages. You can get started at [here.](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/tree/main/app/languages)
