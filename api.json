@@ -26,7 +26,7 @@
         "Dependencies": [
             "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/MessagePack.Annotations.dll",
             "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/MessagePack.dll",
-            "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/WatsonTcp.dll",
+            "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/LiteNetLib.dll",
             "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/Newtonsoft.Json.dll",
             "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/0Harmony.dll",
             "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/Subnautica.API.dll",
