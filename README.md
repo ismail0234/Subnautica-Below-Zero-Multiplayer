@@ -6,7 +6,6 @@ An multiplayer modification for the game Subnautica.
 
 [Subnautica Below Zero Multiplayer Website](https://subnauticamultiplayer.com/)
 
-
 ### Translations
 You can contribute to us to translate the mod into other languages. You can get started at [here.](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/tree/main/app/languages)
 
@@ -29,6 +28,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Bulgarian          | ❌         | bg        | - | - |
 | Swedish            | ❌         | sv        | - | - |
  
+
 ## Subnautica BZ Multiplayer To-Do List
 
 - [x] Inventory Synchronization
@@ -47,94 +47,103 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] PDA Notification Synchronization
 - [x] Player Item Animation Synchronization
 - [x] Base Power Synchronization
-- [ ] Base Piece Construction Synchronization (In Progress)
-	- [x] BaseObservatory
-	- [x] BaseWindow
-	- [x] BaseCorridorI
-	- [x] BaseCorridorL
-	- [x] BaseCorridorT
-	- [x] BaseCorridorX
-	- [x] BaseCorridorGlassI
-	- [x] BaseCorridorGlassL
-	- [x] BaseLargeRoom
-	- [x] BaseLargeGlassDome
-	- [x] BaseRoom
-	- [x] BaseGlassDome
-	- [x] BaseReinforcement
-	- [x] BaseHatch
-	- [x] BaseFoundation
-	- [ ] BaseConnector
-	- [ ] BaseMapRoom
-	- [ ] BaseMoonpool
-	- [ ] BaseControlRoom
-	- [ ] BaseMoonpoolExpansion
-- [ ] Furniture Construction Synchronization (In Progress)
-	- [x] BarTable
-	- [x] ExecutiveDesk
-	- [x] SingleWallShelf
-	- [x] WallShelves	
-	- [x] StarshipDesk
-	- [x] LabCounter
-	- [x] VendingMachine
-	- [x] Toilet
-	- [x] AromatherapyLamp
-	- [x] EmmanuelPendulum
-	- [x] Shower
-	- [x] Sink
-	- [x] SmallStove	
-	- [x] Sign
-	- [x] BaseLadder
-	- [x] BasePlanter
-	- [x] PictureFrame	
-	- [x] Jukebox
-	- [x] Speaker
-	- [x] Trashcans
-	- [x] LabTrashcan
-	- [x] Aquarium
-	- [x] Workbench
-	- [x] Fabricator
-	- [x] StarshipChair
-	- [x] StarshipChair2
-	- [x] StarshipChair3
-	- [x] Bench
-	- [x] Techlight
-	- [x] Spotlight
-	- [x] Snowman
-	- [x] SmallLocker
-	- [x] Locker
-	- [x] PowerTransmitter
-	- [x] ThermalPlant
-	- [x] SolarPanel
-	- [x] BaseBioReactor
-	- [x] BaseNuclearReactor
-	- [ ] Hoverpad
-	- [ ] FarmingTray
-	- [ ] BaseFiltrationMachine
-	- [ ] BaseBulkhead
-	- [ ] BaseUpgradeConsole
-	- [ ] BaseWaterPark
-	- [ ] BasePartition
-	- [ ] BasePartitionDoor
-	- [ ] BatteryCharger
-	- [ ] PowerCellCharger
-	- [ ] PlanterPot
-	- [ ] PlanterPot2
-	- [ ] PlanterPot3
-	- [ ] PlanterBox
-	- [ ] PlanterShelf
-	- [ ] Recyclotron
-	- [ ] CoffeeVendingMachine
-	- [ ] Bed1
-	- [ ] Bed2
-	- [ ] NarrowBed
-	- [ ] BedJeremiah
-	- [ ] BedSam
-	- [ ] BedZeta
-	- [ ] BedDanielle
-	- [ ] BedEmmanuel
-	- [ ] BedFred
-	- [ ] BedParvan
-	- [ ] Fridge
+ 
+<details>
+  <summary>Base Piece Construction Synchronization (15/20)</summary>
+
+- [x] BaseObservatory
+- [x] BaseWindow
+- [x] BaseCorridorI
+- [x] BaseCorridorL
+- [x] BaseCorridorT
+- [x] BaseCorridorX
+- [x] BaseCorridorGlassI
+- [x] BaseCorridorGlassL
+- [x] BaseLargeRoom
+- [x] BaseLargeGlassDome
+- [x] BaseRoom
+- [x] BaseGlassDome
+- [x] BaseReinforcement
+- [x] BaseHatch
+- [x] BaseFoundation
+- [ ] BaseConnector
+- [ ] BaseMapRoom
+- [ ] BaseMoonpool
+- [ ] BaseControlRoom
+- [ ] BaseMoonpoolExpansion	
+</details> 
+
+<details>
+  <summary>Furniture Construction Synchronization (38/66)</summary>
+
+- [x] BarTable
+- [x] ExecutiveDesk
+- [x] SingleWallShelf
+- [x] WallShelves	
+- [x] StarshipDesk
+- [x] LabCounter
+- [x] VendingMachine
+- [x] Toilet
+- [x] AromatherapyLamp
+- [x] EmmanuelPendulum
+- [x] Shower
+- [x] Sink
+- [x] SmallStove	
+- [x] Sign
+- [x] BaseLadder
+- [x] BasePlanter
+- [x] PictureFrame	
+- [x] Jukebox
+- [x] Speaker
+- [x] Trashcans
+- [x] LabTrashcan
+- [x] Aquarium
+- [x] Workbench
+- [x] Fabricator
+- [x] StarshipChair
+- [x] StarshipChair2
+- [x] StarshipChair3
+- [x] Bench
+- [x] Techlight
+- [x] Spotlight
+- [x] Snowman
+- [x] SmallLocker
+- [x] Locker
+- [x] PowerTransmitter
+- [x] ThermalPlant
+- [x] SolarPanel
+- [x] BaseBioReactor
+- [x] BaseNuclearReactor
+- [ ] Hoverpad
+- [ ] FarmingTray
+- [ ] BaseFiltrationMachine
+- [ ] BaseBulkhead
+- [ ] BaseUpgradeConsole
+- [ ] BaseWaterPark
+- [ ] BasePartition
+- [ ] BasePartitionDoor
+- [ ] BatteryCharger
+- [ ] PowerCellCharger
+- [ ] PlanterPot
+- [ ] PlanterPot2
+- [ ] PlanterPot3
+- [ ] PlanterBox
+- [ ] PlanterShelf
+- [ ] Recyclotron
+- [ ] CoffeeVendingMachine
+- [ ] Bed1
+- [ ] Bed2
+- [ ] NarrowBed
+- [ ] BedJeremiah
+- [ ] BedSam
+- [ ] BedZeta
+- [ ] BedDanielle
+- [ ] BedEmmanuel
+- [ ] BedFred
+- [ ] BedParvan
+- [ ] Fridge
+</details>
+
 - [ ] Vehicles
 	- [ ] SpyPenguin
 	- [ ] Snowfox
