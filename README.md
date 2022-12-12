@@ -135,6 +135,11 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [ ] BedFred
 	- [ ] BedParvan
 	- [ ] Fridge
+- [ ] Vehicles
+	- [ ] SpyPenguin
+	- [ ] Snowfox
+	- [ ] Seatruck
+	- [ ] Prawn Suit
 - [ ] Vehicle Movement Synchronization
 - [ ] PDA Beacons Synchronization
 - [ ] PDA Log Synchronization
