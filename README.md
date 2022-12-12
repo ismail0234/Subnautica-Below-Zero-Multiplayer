@@ -185,13 +185,12 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] SpyPenguin
 - [ ] SpyPenguinRemote
 - [ ] TeleportationToo
-- [ ] Seaglide,
-- [ ] Constructor,
-- [ ] Beacon,
-- [ ] SmallStorage,
-- [ ] QuantumLocker,
-- [ ] Gravsphere,
-- [ ] Hoverbike
+- [ ] Seaglide
+- [ ] Constructor
+- [ ] Beacon
+- [ ] SmallStorage
+- [ ] QuantumLocker
+- [ ] Gravsphere
 - [ ] Coffee  
 </details>
 
