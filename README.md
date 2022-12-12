@@ -144,6 +144,35 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] Fridge
 </details>
 
+<details>
+  <summary>Player Items Synchronization (0/24)</summary>
+  
+- [ ] Scanner
+- [ ] Welder
+- [ ] Flashlight
+- [ ] Knife
+- [ ] DiveReel
+- [ ] AirBladder
+- [ ] Flare
+- [ ] Builder
+- [ ] LaserCutter
+- [ ] PropulsionCannon
+- [ ] LEDLight
+- [ ] Thumper
+- [ ] MetalDetector
+- [ ] SpyPenguin
+- [ ] SpyPenguinRemote
+- [ ] TeleportationToo
+- [ ] Seaglide,
+- [ ] Constructor,
+- [ ] Beacon,
+- [ ] SmallStorage,
+- [ ] QuantumLocker,
+- [ ] Gravsphere,
+- [ ] Hoverbike
+- [ ] Coffee  
+</details>
+
 - [ ] Vehicles
 	- [ ] SpyPenguin
 	- [ ] Snowfox
