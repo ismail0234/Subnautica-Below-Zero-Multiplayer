@@ -47,6 +47,28 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] PDA Notification Synchronization
 - [x] Player Item Animation Synchronization
 - [x] Base Power Synchronization
+- [ ] Vehicles
+	- [ ] SpyPenguin
+	- [ ] Snowfox
+	- [ ] Seatruck
+	- [ ] Prawn Suit
+- [ ] Vehicle Movement Synchronization
+- [ ] PDA Beacons Synchronization
+- [ ] PDA Log Synchronization
+- [ ] Player Animation Synchronization
+- [ ] Base Hull Strength Synchronization
+- [ ] Furniture Interaction Synchronization
+- [ ] Weather Synchronization
+- [ ] Power management Synchronization
+- [ ] AI (Creatures/Fishes) Synchronization
+- [ ] Item Pickup Synchronization
+- [ ] Item Drop Synchronization
+- [ ] Multiplayer Lobby
+- [ ] Story Synchronization
+- [ ] Meteor Synchronization
+- [ ] Life Pod Synchronization
+- [ ] Long Range World Synchronization
+- [ ] And Others etc...
  
 <details>
   <summary>Base Piece Construction Synchronization (15/20)</summary>
@@ -172,29 +194,6 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] Hoverbike
 - [ ] Coffee  
 </details>
-
-- [ ] Vehicles
-	- [ ] SpyPenguin
-	- [ ] Snowfox
-	- [ ] Seatruck
-	- [ ] Prawn Suit
-- [ ] Vehicle Movement Synchronization
-- [ ] PDA Beacons Synchronization
-- [ ] PDA Log Synchronization
-- [ ] Player Animation Synchronization
-- [ ] Base Hull Strength Synchronization
-- [ ] Furniture Interaction Synchronization
-- [ ] Weather Synchronization
-- [ ] Power management Synchronization
-- [ ] AI (Creatures/Fishes) Synchronization
-- [ ] Item Pickup Synchronization
-- [ ] Item Drop Synchronization
-- [ ] Multiplayer Lobby
-- [ ] Story Synchronization
-- [ ] Meteor Synchronization
-- [ ] Life Pod Synchronization
-- [ ] Long Range World Synchronization
-- [ ] And Others etc...
 
 ### How can I play this mod?
 
