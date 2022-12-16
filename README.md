@@ -154,7 +154,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 </details>
 
 <details>
-  <summary>Player Items Synchronization (0/23)</summary>
+  <summary>Player Items Synchronization (0/24)</summary>
   
 - [ ] Scanner
 - [ ] Welder
