@@ -160,6 +160,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] Welder
 - [ ] Flashlight
 - [ ] Knife
+- [ ] HeatBlade
 - [ ] DiveReel
 - [ ] AirBladder
 - [ ] Flare
