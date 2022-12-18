@@ -71,7 +71,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] And Others etc...
  
 <details>
-  <summary>Base Piece Construction Synchronization (15/20)</summary>
+  <summary>Base Piece Construction Synchronization (16/20)</summary>
 
 - [x] BaseObservatory
 - [x] BaseWindow
@@ -88,7 +88,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] BaseReinforcement
 - [x] BaseHatch
 - [x] BaseFoundation
-- [ ] BaseConnector
+- [x] BaseConnector
 - [ ] BaseMapRoom
 - [ ] BaseMoonpool
 - [ ] BaseControlRoom
