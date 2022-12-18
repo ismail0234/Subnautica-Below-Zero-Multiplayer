@@ -96,7 +96,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 </details> 
 
 <details>
-  <summary>Furniture Construction Synchronization (38/53)</summary>
+  <summary>Furniture Construction Synchronization (39/53)</summary>
 
 - [x] BarTable
 - [x] ExecutiveDesk
