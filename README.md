@@ -136,13 +136,13 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] SolarPanel
 - [x] BaseBioReactor
 - [x] BaseNuclearReactor
+- [x] BasePartition
 - [ ] Hoverpad
 - [ ] FarmingTray
 - [ ] BaseFiltrationMachine
 - [ ] BaseBulkhead
 - [ ] BaseUpgradeConsole
 - [ ] BaseWaterPark
-- [ ] BasePartition
 - [ ] BasePartitionDoor
 - [ ] BatteryCharger
 - [ ] PowerCellCharger
