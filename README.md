@@ -96,7 +96,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 </details> 
 
 <details>
-  <summary>Furniture Construction Synchronization (39/53)</summary>
+  <summary>Furniture Construction Synchronization (40/53)</summary>
 
 - [x] BarTable
 - [x] ExecutiveDesk
@@ -137,13 +137,13 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] BaseBioReactor
 - [x] BaseNuclearReactor
 - [x] BasePartition
+- [x] BasePartitionDoor
 - [ ] Hoverpad
 - [ ] FarmingTray
 - [ ] BaseFiltrationMachine
 - [ ] BaseBulkhead
 - [ ] BaseUpgradeConsole
 - [ ] BaseWaterPark
-- [ ] BasePartitionDoor
 - [ ] BatteryCharger
 - [ ] PowerCellCharger
 - [ ] Recyclotron
