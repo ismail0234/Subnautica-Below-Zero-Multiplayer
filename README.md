@@ -31,45 +31,6 @@ You can contribute to us to translate the mod into other languages. You can get 
 
 ## Subnautica BZ Multiplayer To-Do List
 
-- [x] Inventory Synchronization
-- [x] Inventory Equipment Synchronization
-- [x] Player Movement Synchronization
-- [x] Encyclopedia Synchronization
-- [x] Technology Synchronization
-- [x] Item Pin Manager Synchronization
-- [x] Base Ghost Move Synchronization
-- [x] QuickSlots Synchronization
-- [x] Ping Indicator
-- [x] Player Signals
-- [x] Player Health/Food/Water Synchronization
-- [x] Day/Night Synchronization
-- [x] PDA Screenshots Synchronization
-- [x] PDA Notification Synchronization
-- [x] Player Item Animation Synchronization
-- [x] Base Power Synchronization
-- [x] Player Animation Synchronization
-- [ ] Vehicles
-	- [ ] SpyPenguin
-	- [ ] Snowfox
-	- [ ] Seatruck
-	- [ ] Prawn Suit
-- [ ] Vehicle Movement Synchronization
-- [ ] PDA Beacons Synchronization
-- [ ] PDA Log Synchronization
-- [ ] Base Hull Strength Synchronization
-- [ ] Furniture Interaction Synchronization
-- [ ] Weather Synchronization
-- [ ] Power management Synchronization
-- [ ] AI (Creatures/Fishes) Synchronization
-- [ ] Item Pickup Synchronization
-- [ ] Item Drop Synchronization
-- [ ] Multiplayer Lobby
-- [ ] Story Synchronization
-- [ ] Meteor Synchronization
-- [ ] Life Pod Synchronization
-- [ ] Long Range World Synchronization
-- [ ] And Others etc...
- 
 <details>
   <summary>Base Piece Construction Synchronization (16/20)</summary>
 
@@ -181,6 +142,46 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] Gravsphere
 - [ ] Coffee  
 </details>
+
+- [x] Inventory Synchronization
+- [x] Inventory Equipment Synchronization
+- [x] Player Movement Synchronization
+- [x] Encyclopedia Synchronization
+- [x] Technology Synchronization
+- [x] Item Pin Manager Synchronization
+- [x] Base Ghost Move Synchronization
+- [x] QuickSlots Synchronization
+- [x] Ping Indicator
+- [x] Player Signals
+- [x] Player Health/Food/Water Synchronization
+- [x] Day/Night Synchronization
+- [x] PDA Screenshots Synchronization
+- [x] PDA Notification Synchronization
+- [x] Player Item Animation Synchronization
+- [x] Base Power Synchronization
+- [x] Player Animation Synchronization
+- [ ] Vehicles
+	- [ ] SpyPenguin
+	- [ ] Snowfox
+	- [ ] Seatruck
+	- [ ] Prawn Suit
+- [ ] Vehicle Movement Synchronization
+- [ ] PDA Beacons Synchronization
+- [ ] PDA Log Synchronization
+- [ ] Base Hull Strength Synchronization
+- [ ] Furniture Interaction Synchronization
+- [ ] Weather Synchronization
+- [ ] Power management Synchronization
+- [ ] AI (Creatures/Fishes) Synchronization
+- [ ] Item Pickup Synchronization
+- [ ] Item Drop Synchronization
+- [ ] Multiplayer Lobby
+- [ ] Story Synchronization
+- [ ] Meteor Synchronization
+- [ ] Life Pod Synchronization
+- [ ] Long Range World Synchronization
+- [ ] And Others etc...
+ 
 
 ### How can I play this mod?
 
