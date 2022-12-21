@@ -148,6 +148,7 @@ You can contribute to us to translate the mod into other languages. You can get 
   
 - [ ] ThermalLily
 - [ ] OxygenPlant
+- [ ] Fragments
 </details>
 
 - [x] Inventory Synchronization
