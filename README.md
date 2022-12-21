@@ -143,6 +143,13 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] Coffee  
 </details>
 
+<details>
+  <summary>World Synchronization (0/?)</summary>
+  
+- [ ] ThermalLily
+- [ ] OxygenPlant
+</details>
+
 - [x] Inventory Synchronization
 - [x] Inventory Equipment Synchronization
 - [x] Player Movement Synchronization
