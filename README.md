@@ -149,6 +149,9 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] ThermalLily
 - [ ] OxygenPlant
 - [ ] Fragments
+- [ ] Fishes
+- [ ] Creatures
+- [ ] Plants
 </details>
 
 - [x] Inventory Synchronization
