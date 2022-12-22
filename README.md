@@ -152,6 +152,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] Fishes
 - [ ] Creatures
 - [ ] Plants
+- [ ] Scanner
 </details>
 
 - [x] Inventory Synchronization
