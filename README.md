@@ -153,6 +153,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] Creatures
 - [ ] Plants
 - [ ] Scanner
+- [ ] Items (Limestone/Kyanit/etc..)
 </details>
 
 - [x] Inventory Synchronization
