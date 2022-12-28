@@ -55,7 +55,7 @@
     "GAME_SERVER_PLAYER_CONNECTING": "Você está conectando-se ao servidor...",
     "GAME_SERVER_PLAYER_CONNECTED": "Você está conectado ao servidor. Carrgando mundo.",
     "GAME_SERVER_RETRY_CONNECTION_ERROR" : "Desconectado. Reconectando ({time})",
-    "GAME_ITEM_USED_ANOTHER_PLAYER": "Outro jogador está usando."
+    "GAME_ITEM_USED_ANOTHER_PLAYER": "Outro jogador está usando.",
     "GAME_CONNECTION_REJECTED" : "A conexão com o servidor falhou. Por favor reinicie o launcher.",
     "GAME_MULTIPLAYER_HOST_GAME" : "Hospedar jogo",
     "GAME_MULTIPLAYER_JOIN_GAME" : "Juntar-se ao servidor",
@@ -76,3 +76,4 @@
     "GAME_MONTH_10": "Outubro",
     "GAME_MONTH_11": "Novembro",
     "GAME_MONTH_12": "Dezembro"    
+}
