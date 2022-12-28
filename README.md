@@ -19,11 +19,11 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Simplified Chinese | ✔️         | zh        | [zh.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/zh.json) | Blue Star |
 | German             | ✔️         | de        | [de.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/de.json) | Ex000000 |
 | Ukrainian          | ✔️         | uk        | [uk.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/uk.json) | PENGLING-UK |
+| Brazil             | ✔️         | pt        | [pt.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/pt.json) | DANn-n |
 | Spanish            | ❌         | es        | - | - |
 | Italian            | ❌         | it        | - | - |
 | Korean             | ❌         | ko        | - | - |
 | Arabic             | ❌         | ar        | - | - |
-| Brazil             | ❌         | pt        | - | - |
 | Japanese           | ❌         | ja        | - | - |
 | Bulgarian          | ❌         | bg        | - | - |
 | Swedish            | ❌         | sv        | - | - |
