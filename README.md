@@ -155,6 +155,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] Scanner
 - [ ] Items (Limestone/Kyanit/etc..)
 - [ ] SupplyCrate
+- [ ] PDA
 </details>
 
 - [x] Inventory Synchronization
