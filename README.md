@@ -156,6 +156,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] Items (Limestone/Kyanit/etc..)
 - [ ] SupplyCrate
 - [ ] PDA
+- [ ] BlueprintHandTarget
 </details>
 
 - [x] Inventory Synchronization
