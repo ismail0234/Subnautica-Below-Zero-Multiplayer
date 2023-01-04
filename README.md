@@ -154,6 +154,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] Plants
 - [ ] Scanner
 - [ ] Items (Limestone/Kyanit/etc..)
+- [ ] SupplyCrate
 </details>
 
 - [x] Inventory Synchronization
