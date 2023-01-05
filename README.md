@@ -152,6 +152,8 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] Fishes
 - [ ] Creatures
 - [ ] Plants
+	- [ ] GenericRibbon
+	- [ ] IceFruitPlant
 - [ ] Scanner
 - [ ] Items (Limestone/Kyanit/etc..)
 - [ ] SupplyCrate
