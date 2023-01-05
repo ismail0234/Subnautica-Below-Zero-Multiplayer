@@ -154,6 +154,9 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] Plants
 	- [ ] GenericRibbon
 	- [ ] IceFruitPlant
+	- [ ] Creepvine
+	- [ ] PurpleStalk
+	- [ ] RedBush
 - [ ] Scanner
 - [ ] Items (Limestone/Kyanit/etc..)
 - [ ] SupplyCrate
