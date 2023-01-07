@@ -157,8 +157,10 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [ ] Creepvine
 	- [ ] PurpleStalk
 	- [ ] RedBush
+	- [ ] KelpRootPustule
 - [ ] Scanner (Fragments/Plants/Environment/etc..)
-- [ ] Items (Limestone/Kyanit/etc..)
+- [ ] Dynamic Items (Limestone/Kyanit/etc..)
+- [ ] Static Items (DisinfectedWater/Water/Flare/NutrientBlock/FirstAidKit)
 - [ ] SupplyCrate
 - [ ] PDA
 - [ ] JukeboxDisks
