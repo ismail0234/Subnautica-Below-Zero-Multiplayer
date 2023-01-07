@@ -160,7 +160,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [ ] KelpRootPustule
 - [ ] Scanner (Fragments/Plants/Environment/etc..)
 - [ ] Dynamic Items (Limestone/Kyanit/etc..)
-- [ ] Static Items (DisinfectedWater/Water/Flare/NutrientBlock/FirstAidKit)
+- [ ] Static Items (DisinfectedWater/Water/Flare/NutrientBlock/FirstAidKit/CopperWire/ScrapMetal/DeepLilyShroom etc..)
 - [ ] SupplyCrate
 - [ ] PDA
 - [ ] JukeboxDisks
