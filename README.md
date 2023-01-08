@@ -147,8 +147,8 @@ You can contribute to us to translate the mod into other languages. You can get 
   <summary>World Synchronization (1/?)</summary>
   
 - [x] ThermalLily
+- [x] Fragments
 - [ ] OxygenPlant
-- [ ] Fragments
 - [ ] Fishes
 - [ ] Creatures
 - [ ] Plants
