@@ -158,6 +158,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [ ] PurpleStalk
 	- [ ] RedBush
 	- [ ] KelpRootPustule
+	- [ ] FruitPlant
 - [ ] Scanner (Fragments/Plants/Environment/etc..)
 - [ ] Dynamic Items (Limestone/Kyanit/etc..)
 - [ ] Static Items
