@@ -29,7 +29,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Swedish            | ❌         | sv        | - | - |
  
 
-## Subnautica BZ Multiplayer To-Do List (%47.53 Completed)
+## Subnautica BZ Multiplayer To-Do List (%51.85 Completed)
 
 <details>
   <summary>Base Piece Construction Synchronization (16/20)</summary>
@@ -164,13 +164,13 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] Scanner (Fragments/Plants/Environment/etc..)
 - [ ] Dynamic Items (Limestone/Kyanit/etc..)
 - [ ] Static Items
-	- [ ] DisinfectedWater
-	- [ ] Water
-	- [ ] Flare
-	- [ ] NutrientBlock
-	- [ ] FirstAidKit
-	- [ ] CopperWire
-	- [ ] ScrapMetal
+	- [x] ScrapMetal
+	- [x] Water
+	- [x] DisinfectedWater
+	- [x] Flare
+	- [x] NutrientBlock
+	- [x] FirstAidKit
+	- [x] CopperWire
 	- [ ] DeepLilyShroom
 - [ ] SupplyCrate
 - [ ] BlueprintHandTarget
