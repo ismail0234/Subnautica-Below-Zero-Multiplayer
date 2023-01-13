@@ -158,9 +158,10 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [x] NutrientBlock
 	- [x] FirstAidKit
 	- [x] CopperWire
+- [ ] SupplyCrate
+- [ ] BlueprintHandTarget
 - [ ] OxygenPlant
-- [ ] Fishes
-- [ ] Creatures
+- [ ] Scanner (Fragments/Plants/Environment/etc..)
 - [ ] Plants
 	- [ ] GenericRibbon
 	- [ ] IceFruitPlant
@@ -170,10 +171,9 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [ ] KelpRootPustule
 	- [ ] FruitPlant
 	- [ ] DeepLilyShroom
-- [ ] Scanner (Fragments/Plants/Environment/etc..)
+- [ ] Fishes
+- [ ] Creatures
 - [ ] Dynamic Items (Limestone/Kyanit/etc..)
-- [ ] SupplyCrate
-- [ ] BlueprintHandTarget
 </details>
 
 - [x] Inventory Synchronization
