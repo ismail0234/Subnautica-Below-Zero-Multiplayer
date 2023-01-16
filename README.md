@@ -158,9 +158,9 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [x] NutrientBlock
 	- [x] FirstAidKit
 	- [x] CopperWire
+- [x] OxygenPlant
 - [ ] SupplyCrate
 - [ ] BlueprintHandTarget
-- [ ] OxygenPlant
 - [ ] Scanner (Fragments/Plants/Environment/etc..)
 - [ ] Plants
 	- [ ] GenericRibbon
