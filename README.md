@@ -29,7 +29,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Swedish            | ❌         | sv        | - | - |
  
 
-## Subnautica BZ Multiplayer To-Do List (%52.46 Completed)
+## Subnautica BZ Multiplayer To-Do List (%53.08 Completed)
 
 <details>
   <summary>Base Piece Construction Synchronization (16/20)</summary>
