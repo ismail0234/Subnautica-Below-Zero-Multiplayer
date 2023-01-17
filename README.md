@@ -29,7 +29,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Swedish            | ❌         | sv        | - | - |
  
 
-## Subnautica BZ Multiplayer To-Do List (%54.32 Completed)
+## Subnautica BZ Multiplayer To-Do List (%54.65 Completed)
 
 <details>
   <summary>Base Piece Construction Synchronization (16/20)</summary>
@@ -212,7 +212,6 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] Story Synchronization
 - [ ] Meteor Synchronization
 - [ ] Life Pod Synchronization
-- [ ] Long Range World Synchronization
  
 
 ### How can I play this mod?
