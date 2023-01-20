@@ -29,7 +29,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Swedish            | ❌         | sv        | - | - |
  
 
-## Subnautica BZ Multiplayer To-Do List (%54.87 Completed)
+## Subnautica BZ Multiplayer To-Do List (%59.14 Completed)
 
 <details>
   <summary>Base Piece Construction Synchronization (16/20)</summary>
@@ -163,13 +163,13 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] BlueprintHandTarget
 - [x] Scanner (Fragments/Plants/Environment/etc..)
 - [ ] Plants
-	- [ ] GenericRibbon
-	- [ ] PurpleStalk
-	- [ ] TwistyBridgesMushroom
-	- [ ] RedBush
-	- [ ] DeepLilyShroom
-	- [ ] LilyPadResource
-	- [ ] Creepvine
+	- [x] GenericRibbon
+	- [x] PurpleStalk
+	- [x] TwistyBridgesMushroom
+	- [x] RedBush
+	- [x] DeepLilyShroom
+	- [x] LilyPadResource
+	- [x] Creepvine
 	- [ ] IceFruitPlant
 	- [ ] KelpRootPustule
 	- [ ] FruitPlant
