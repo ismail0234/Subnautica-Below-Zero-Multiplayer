@@ -144,7 +144,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 </details>
 
 <details>
-  <summary>World Synchronization (16/28)</summary>
+  <summary>World Synchronization (23/31)</summary>
   
 - [x] ThermalLily
 - [x] Fragments
