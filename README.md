@@ -29,7 +29,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Swedish            | ❌         | sv        | - | - |
  
 
-## Subnautica BZ Multiplayer To-Do List (%59.14 Completed)
+## Subnautica BZ Multiplayer To-Do List (%58.78 Completed)
 
 <details>
   <summary>Base Piece Construction Synchronization (16/20)</summary>
@@ -144,7 +144,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 </details>
 
 <details>
-  <summary>World Synchronization (23/31)</summary>
+  <summary>World Synchronization (23/32)</summary>
   
 - [x] ThermalLily
 - [x] Fragments
@@ -170,6 +170,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [x] DeepLilyShroom
 	- [x] LilyPadResource
 	- [x] Creepvine
+	- [ ] Brinicle
 	- [ ] IceFruitPlant
 	- [ ] KelpRootPustule
 	- [ ] FruitPlant
