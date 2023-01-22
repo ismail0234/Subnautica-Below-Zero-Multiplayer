@@ -1,0 +1,3551 @@
+{
+    "87293f19-cca3-46e6-bb3d-6e8dc579e27b" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/aluminumoxide.prefab",
+        "distribution" : [
+            {
+                // TreeSpires_SmallFissure
+                "biome" : 4108,
+                "count" : 1,
+                "probability" : 0.75
+            },
+            {
+                // TreeSpires_BigFissure_Ground
+                "biome" : 4109,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // TreeSpires_BigTree_Wall
+                "biome" : 4106,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // MiningSite_Ground
+                "biome" : 5400,
+                "count" : 1,
+                "probability" : 0.25
+            },
+            {
+                // LilyPads_Deep_Ground
+                "biome" : 3550,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // LilyPads_Crevice_Ground
+                "biome" : 3520,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // CrystalCave_Inner_Wall
+                "biome" : 3812,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // ArcticCaldera_Wall
+                "biome" : 6002,
+                "count" : 1,
+                "probability" : 0.75
+            }
+        ]
+    },
+
+    "08a2d1df-4a80-47cf-b03c-30e024e5bfe2" : 
+    {
+        "prefabPath" : "WorldEntities/Flora/Expansion/Shared/generic_plant_spiral_01.prefab",
+        "distribution" : [
+            {
+                // TreeSpires_VentGarden
+                "biome" : 4113,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // PurpleVents_Deep_Pool_Voxel
+                "biome" : 3714,
+                "count" : 1,
+                "probability" : 0.5
+            }
+        ]
+    },
+
+    "e0608e57-e9df-4f43-bb3a-8c56a42d2c1f" : 
+    {
+        "prefabPath" : "WorldEntities/Flora/Shared/Coral_reef_jeweled_disk_blue_01_01.prefab",
+        "distribution" : [
+            {
+                // TwistyBridges_RockWall
+                "biome" : 3332,
+                "count" : 1,
+                "probability" : 0.6
+            },
+            {
+                // TwistyBridges_Bridge
+                "biome" : 3333,
+                "count" : 1,
+                "probability" : 0.8
+            }
+        ]
+    },
+
+    "7815b1b7-2830-418b-9b5d-19949b0ae9ec" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/nickel.prefab",
+        "distribution" : [
+            {
+                // LilyPads_Deep_Grass
+                "biome" : 3551,
+                "count" : 1,
+                "probability" : 0.4
+            },
+            {
+                // LilyPads_Crevice_Wall
+                "biome" : 3523,
+                "count" : 1,
+                "probability" : 0.3
+            },
+            {
+                // CrystalCave_Inner_Ground
+                "biome" : 3811,
+                "count" : 1,
+                "probability" : 0.25
+            },
+            {
+                // CrystalCave_Fissure_Wall
+                "biome" : 3820,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // FabricatorCavern_Ground
+                "biome" : 5702,
+                "count" : 1,
+                "probability" : 0.5
+            }
+        ]
+    },
+
+    "34b59c1d-876e-4962-a8f7-e205d189d2be" : 
+    {
+        "prefabPath" : "WorldEntities/Flora/Shared/Coral_reef_jeweled_disk_green_01_01.prefab",
+        "distribution" : [
+            {
+                // LilyPads_Islands_Wall
+                "biome" : 3533,
+                "count" : 1,
+                "probability" : 1.25
+            }
+        ]
+    },
+
+    "8ef17c52-2aa8-46b6-ada3-c3e3c4a78dd6" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/quartz.prefab",
+        "distribution" : [
+            {
+                // TwistyBridges_Shallow_Coral
+                "biome" : 3311,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // TwistyBridges_RockWall
+                "biome" : 3332,
+                "count" : 1,
+                "probability" : 0.6
+            },
+            {
+                // ArcticKelp_Grass
+                "biome" : 4002,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // ArcticKelp_CaveOuter_Rock
+                "biome" : 4006,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // PurpleVents_Wall
+                "biome" : 3705,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // PurpleVents_Pool_Voxel
+                "biome" : 3702,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // LilyPads_Islands_Ground
+                "biome" : 3530,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // LilyPads_Grass
+                "biome" : 3511,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // LilyPads_Deep_Ground
+                "biome" : 3550,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // SparseArctic_Ground
+                "biome" : 3102,
+                "count" : 1,
+                "probability" : 0.8
+            },
+            {
+                // GlacialBasin_Generic
+                "biome" : 4500,
+                "count" : 1,
+                "probability" : 0.1
+            },
+            {
+                // CrystalCave_Ground
+                "biome" : 3806,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // PurpleVents_Crevice_Pool_Voxel
+                "biome" : 3708,
+                "count" : 1,
+                "probability" : 0.8
+            },
+            {
+                // GlacialBasin_SpyPenguin
+                "biome" : 4507,
+                "count" : 1,
+                "probability" : 0.8
+            },
+            {
+                // ArcticSpires_Generic
+                "biome" : 5500,
+                "count" : 1,
+                "probability" : 0.3
+            },
+            {
+                // GlacialBay
+                "biome" : 4511,
+                "count" : 1,
+                "probability" : 1
+            }
+        ]
+    },
+
+    "a1c75dba-8703-481a-bdda-669071ab268f" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/ArcticPeeper.prefab",
+        "distribution" : [
+            {
+                // SparseArctic_Open
+                "biome" : 3101,
+                "count" : 1,
+                "probability" : 0.7
+            },
+            {
+                // TwistyBridges_Shallow_Open
+                "biome" : 3306,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // Arctic_Open
+                "biome" : 3001,
+                "count" : 1,
+                "probability" : 0.15
+            },
+            {
+                // DeepArctic_Open
+                "biome" : 3201,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // TwistyBridges_Open
+                "biome" : 3304,
+                "count" : 1,
+                "probability" : 0.4
+            },
+            {
+                // ThermalSpires_Open
+                "biome" : 3601,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // ThermalSpires_RockyGround
+                "biome" : 3602,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // GlacialBasin_Underwater
+                "biome" : 4501,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // WestArctic_Open
+                "biome" : 5801,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // EastArctic_Open
+                "biome" : 4201,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // GlacialBay
+                "biome" : 4511,
+                "count" : 1,
+                "probability" : 0.3
+            }
+        ]
+    },
+
+    "fa4cfe65-4eaf-4d51-ba0d-e8cc9632fd47" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Boomerang.prefab",
+        "distribution" : [
+            {
+                // TwistyBridges_Shallow_Ground
+                "biome" : 3310,
+                "count" : 1,
+                "probability" : 1.6
+            },
+            {
+                // ArcticKelp_Open
+                "biome" : 4001,
+                "count" : 1,
+                "probability" : 1.5
+            },
+            {
+                // ThermalSpires_Open
+                "biome" : 3601,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // LilyPads_Shallow_Open
+                "biome" : 3504,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // EastArctic_Open
+                "biome" : 4201,
+                "count" : 1,
+                "probability" : 0.75
+            },
+            {
+                // EastArctic_DeepOpen
+                "biome" : 4202,
+                "count" : 1,
+                "probability" : 0.75
+            },
+            {
+                // WestArctic_Open
+                "biome" : 5801,
+                "count" : 1,
+                "probability" : 0.75
+            },
+            {
+                // WestArctic_Deep_Open
+                "biome" : 5802,
+                "count" : 1,
+                "probability" : 0.75
+            }
+        ]
+    },
+
+    "284ceeb6-b437-4aca-a8bd-d54f336cbef8" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/HoopFish.prefab",
+        "distribution" : [
+            {
+                // TwistyBridges_Shallow_Coral
+                "biome" : 3311,
+                "count" : 1,
+                "probability" : 1.6
+            },
+            {
+                // Arctic_Generic
+                "biome" : 3000,
+                "count" : 1,
+                "probability" : 0.6
+            },
+            {
+                // TwistyBridges_Open
+                "biome" : 3304,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // TwistyBridges_Shallow_Open
+                "biome" : 3306,
+                "count" : 1,
+                "probability" : 1.5
+            },
+            {
+                // ArcticKelp_CaveOuter_Open
+                "biome" : 4004,
+                "count" : 1,
+                "probability" : 3
+            },
+            {
+                // TreeSpires_Wall
+                "biome" : 4103,
+                "count" : 1,
+                "probability" : 3
+            },
+            {
+                // LilyPads_Islands_Coral
+                "biome" : 3532,
+                "count" : 1,
+                "probability" : 0.6
+            },
+            {
+                // LilyPads_Grass
+                "biome" : 3511,
+                "count" : 1,
+                "probability" : 0.6
+            },
+            {
+                // LilyPads_Island_Open
+                "biome" : 3506,
+                "count" : 1,
+                "probability" : 0.6
+            }
+        ]
+    },
+
+    "df6aa201-291e-4dc8-945a-a86c5c8a6a69" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/FeatherFish.prefab",
+        "distribution" : [
+            {
+                // ThermalSpires_RockyGround
+                "biome" : 3602,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // PurpleVents_Open
+                "biome" : 3701,
+                "count" : 1,
+                "probability" : 0.6
+            },
+            {
+                // PurpleVents_Crevice_Open
+                "biome" : 3707,
+                "count" : 1,
+                "probability" : 0.6
+            },
+            {
+                // TreeSpires_Open
+                "biome" : 4101,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // LilyPads_Island_Open
+                "biome" : 3506,
+                "count" : 1,
+                "probability" : 0.6
+            }
+        ]
+    },
+
+    "f96f54f1-e323-4841-a025-c86fb1292cbf" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/Triops.prefab",
+        "distribution" : [
+            {
+                // TwistyBridges_Deep_ThermalVentArea_Ground
+                "biome" : 3354,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // LilyPads_Deep_Generic
+                "biome" : 3501,
+                "count" : 1,
+                "probability" : 0.4
+            },
+            {
+                // MiningSite_RockWall
+                "biome" : 5401,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // TreeSpires_BigFissure_Ground
+                "biome" : 4109,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // TreeSpires_SmallFissure
+                "biome" : 4108,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // LilyPads_Deep_Ground
+                "biome" : 3550,
+                "count" : 1,
+                "probability" : 0.4
+            },
+            {
+                // CrystalCave_Ground
+                "biome" : 3806,
+                "count" : 1,
+                "probability" : 0.75
+            },
+            {
+                // CrystalCave_Inner_Ground
+                "biome" : 3811,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // CrystalCave_Castle_Open
+                "biome" : 3805,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // FabricatorCavern_Ground
+                "biome" : 5702,
+                "count" : 1,
+                "probability" : 0.75
+            }
+        ]
+    },
+
+    "b6e25aff-b0cd-48ef-91d1-a187af94a992" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/RockPuncher.prefab",
+        "distribution" : [
+            {
+                // ThermalSpires_RockyGround
+                "biome" : 3602,
+                "count" : 1,
+                "probability" : 0.08
+            },
+            {
+                // CrystalCave_Ground
+                "biome" : 3806,
+                "count" : 1,
+                "probability" : 0.08
+            }
+        ]
+    },
+
+    "539af52c-f4b8-402b-ae88-e641aa031685" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/HoopFish_02.prefab",
+        "distribution" : [
+            {
+                // CrystalCave_Generic
+                "biome" : 3800,
+                "count" : 1,
+                "probability" : 0.4
+            },
+            {
+                // TwistyBridges_Deep_Open
+                "biome" : 3305,
+                "count" : 1,
+                "probability" : 1.5
+            },
+            {
+                // LilyPads_Deep_Open
+                "biome" : 3503,
+                "count" : 1,
+                "probability" : 0.4
+            },
+            {
+                // ShipWreck1_Open
+                "biome" : 5402,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // FabricatorCavern_Open
+                "biome" : 5701,
+                "count" : 1,
+                "probability" : 1.5
+            }
+        ]
+    },
+
+    "bf9ccd04-60af-4144-aaa1-4ac184c686c2" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/BladderFish.prefab",
+        "distribution" : [
+            {
+                // TwistyBridges_Shallow_Coral
+                "biome" : 3311,
+                "count" : 1,
+                "probability" : 2
+            },
+            {
+                // TwistyBridges_Open
+                "biome" : 3304,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // LilyPads_Ground
+                "biome" : 3510,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // LilyPads_Islands_Wall
+                "biome" : 3533,
+                "count" : 1,
+                "probability" : 1.5
+            },
+            {
+                // PurpleVents_Pool_Voxel
+                "biome" : 3702,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // ThermalSpires_CanyonWall
+                "biome" : 3605,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // MargArea_Open
+                "biome" : 5600,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // CrystalCave_Inner_YellowCoral
+                "biome" : 3813,
+                "count" : 1,
+                "probability" : 1.5
+            },
+            {
+                // CrystalCave_YellowCoral
+                "biome" : 3808,
+                "count" : 1,
+                "probability" : 1.5
+            },
+            {
+                // PurpleVents_Deep_Pool_Voxel
+                "biome" : 3714,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // WestArctic_IceBerg_Cave
+                "biome" : 5809,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // EastArctic_IceBerg_Cave
+                "biome" : 4209,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // GlacialBasin_Underwater
+                "biome" : 4501,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // GlacialBay
+                "biome" : 4511,
+                "count" : 1,
+                "probability" : 0.35
+            }
+        ]
+    },
+
+    "ee7ef0cf-21ab-4c0c-871d-e477c5dfa1ce" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/diamond.prefab",
+        "distribution" : [
+            {
+                // TwistyBridges_Deep_RockWall
+                "biome" : 3352,
+                "count" : 1,
+                "probability" : 0.25
+            },
+            {
+                // TwistyBridges_Deep_ThermalVentArea_Ground
+                "biome" : 3354,
+                "count" : 1,
+                "probability" : 2
+            },
+            {
+                // RocketIslandSpyPenguin
+                "biome" : 5301,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // ThermalSpires_Cave_Lode2
+                "biome" : 3608,
+                "count" : 1,
+                "probability" : 0.75
+            },
+            {
+                // TreeSpires_BigFissure_Wall
+                "biome" : 4110,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // MiningSite_RockWall
+                "biome" : 5401,
+                "count" : 1,
+                "probability" : 0.35
+            },
+            {
+                // EastArctic_IceBerg_CaveSealed_OreVein
+                "biome" : 4212,
+                "count" : 1,
+                "probability" : 3
+            },
+            {
+                // ArcticCaldera_Wall
+                "biome" : 6002,
+                "count" : 1,
+                "probability" : 0.75
+            },
+            {
+                // CrystalCave_Inner_Ceiling
+                "biome" : 3814,
+                "count" : 1,
+                "probability" : 0.25
+            },
+            {
+                // CrystalCave_Castle_Ground
+                "biome" : 3816,
+                "count" : 1,
+                "probability" : 0.25
+            },
+            {
+                // LilyPads_Deep_Grass
+                "biome" : 3551,
+                "count" : 1,
+                "probability" : 0.3
+            }
+        ]
+    },
+
+    "f65beedb-2d76-466b-abc8-37c474228157" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/lithium.prefab",
+        "distribution" : [
+            {
+                // ThermalSpires_Rock
+                "biome" : 3604,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // TwistyBridges_Deep_ThermalVentArea_Ground
+                "biome" : 3354,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // PurpleVents_Pool_Voxel
+                "biome" : 3702,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // TreeSpires_SmallFissure
+                "biome" : 4108,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // TreeSpires_BigFissure_Ground
+                "biome" : 4109,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // CrystalCave_Ground
+                "biome" : 3806,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // PurpleVents_Deep_Pool_Voxel
+                "biome" : 3714,
+                "count" : 1,
+                "probability" : 1.6
+            },
+            {
+                // PurpleVents_Crevice_Pool_Voxel
+                "biome" : 3708,
+                "count" : 1,
+                "probability" : 1.4
+            },
+            {
+                // ArcticSpires_OreVein_Tier2
+                "biome" : 5503,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // ArcticCaldera_Wall
+                "biome" : 6002,
+                "count" : 1,
+                "probability" : 0.75
+            }
+        ]
+    },
+
+    "dbe4aa96-2ff2-4a8a-bbae-50ab9a45b2c0" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/DeepArcticResource.prefab",
+        "distribution" : [
+            {
+                // DeepArctic_Generic
+                "biome" : 3200,
+                "count" : 1,
+                "probability" : 0.2
+            }
+        ]
+    },
+
+    "826ae844-089b-4996-bad5-db788cefcdb4" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/DeepLilyPadResource.prefab",
+        "distribution" : [
+            {
+                // LilyPads_Deep_Open
+                "biome" : 3503,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // LilyPads_Deep_GiantFlower_Open
+                "biome" : 3508,
+                "count" : 1,
+                "probability" : 1.5
+            }
+        ]
+    },
+
+    "417d35cd-5f6a-4efc-8ea9-0a9d7235d934" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/TwistyBridgeResource.prefab",
+        "distribution" : [
+            {
+                // TwistyBridges_Generic_Obsolete
+                "biome" : 3300,
+                "count" : 1,
+                "probability" : 0
+            }
+        ]
+    },
+
+    "8cfcfc8e-bbdd-444e-be86-5dd4a9572094" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/BreakableSilver.prefab",
+        "distribution" : [
+            {
+                // ThermalSpires_Rock
+                "biome" : 3604,
+                "count" : 1,
+                "probability" : 0.6
+            },
+            {
+                // ArcticKelp_Rock
+                "biome" : 4003,
+                "count" : 1,
+                "probability" : 0.15
+            },
+            {
+                // ArcticKelp_CaveInner_Rock
+                "biome" : 4010,
+                "count" : 1,
+                "probability" : 1.3
+            },
+            {
+                // ArcticKelp_CaveOuter_Rock
+                "biome" : 4006,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // TwistyBridges_RockWall
+                "biome" : 3332,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // TwistyBridges_Cave_RockWall
+                "biome" : 3342,
+                "count" : 1,
+                "probability" : 1.5
+            },
+            {
+                // ThermalSpires_CanyonWall
+                "biome" : 3605,
+                "count" : 1,
+                "probability" : 0.6
+            },
+            {
+                // ThermalSpires_RockyGround
+                "biome" : 3602,
+                "count" : 1,
+                "probability" : 0.6
+            },
+            {
+                // ThermalSpires_Cave_Wall
+                "biome" : 3609,
+                "count" : 1,
+                "probability" : 1.6
+            },
+            {
+                // ThermalSpires_Ground
+                "biome" : 3603,
+                "count" : 1,
+                "probability" : 0.3
+            },
+            {
+                // MiningSite_RockWall
+                "biome" : 5401,
+                "count" : 1,
+                "probability" : 0.4
+            },
+            {
+                // TreeSpires_Wall
+                "biome" : 4103,
+                "count" : 1,
+                "probability" : 0.75
+            },
+            {
+                // LilyPads_Wall
+                "biome" : 3513,
+                "count" : 1,
+                "probability" : 0.3
+            },
+            {
+                // LilyPads_MegaIsland_Wall
+                "biome" : 3543,
+                "count" : 1,
+                "probability" : 0.3
+            },
+            {
+                // LilyPads_Deep_Wall
+                "biome" : 3553,
+                "count" : 1,
+                "probability" : 0.4
+            },
+            {
+                // LilyPads_Deep_Ground
+                "biome" : 3550,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // FabricatorCavern_Ground
+                "biome" : 5702,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // LilyPads_Islands_Wall
+                "biome" : 3533,
+                "count" : 1,
+                "probability" : 0.45
+            },
+            {
+                // CrystalCave_Ground
+                "biome" : 3806,
+                "count" : 1,
+                "probability" : 0.35
+            },
+            {
+                // CrystalCave_Inner_Ground
+                "biome" : 3811,
+                "count" : 1,
+                "probability" : 0.35
+            },
+            {
+                // CrystalCave_Fissure_Wall
+                "biome" : 3820,
+                "count" : 1,
+                "probability" : 0.75
+            }
+        ]
+    },
+
+    "5b0d071d-3c9c-41f1-8122-328b4aa22286" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/GlowWhale.prefab",
+        "distribution" : [
+            {
+                // LilyPads_Shallow_Open
+                "biome" : 3504,
+                "count" : 1,
+                "probability" : 0.012
+            },
+            {
+                // LilyPads_Open
+                "biome" : 3502,
+                "count" : 1,
+                "probability" : 0.006
+            },
+            {
+                // EastArctic_Open
+                "biome" : 4201,
+                "count" : 1,
+                "probability" : 0.005
+            }
+        ]
+    },
+
+    "fc7c1098-13af-417a-8038-0053b65498e5" : 
+    {
+        "prefabPath" : "WorldEntities/Flora/SafeShallows/Coral_reef_purple_mushrooms_01_01.prefab",
+        "distribution" : [
+            {
+                // LilyPads_Generic
+                "biome" : 3500,
+                "count" : 1,
+                "probability" : 0
+            },
+            {
+                // ArcticKelp_Grass
+                "biome" : 4002,
+                "count" : 1,
+                "probability" : 0
+            },
+            {
+                // TwistyBridges_Shallow_Coral
+                "biome" : 3311,
+                "count" : 1,
+                "probability" : 0
+            },
+            {
+                // TwistyBridges_Coral
+                "biome" : 3331,
+                "count" : 1,
+                "probability" : 0
+            },
+            {
+                // TwistyBridges_Deep_Coral
+                "biome" : 3351,
+                "count" : 1,
+                "probability" : 0
+            }
+        ]
+    },
+
+    "8ffbb5b5-21b4-4687-9118-730d59330c9a" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/BoomerangFishSchool.prefab",
+        "distribution" : [
+            {
+                // ArcticKelp_Open
+                "biome" : 4001,
+                "count" : 1,
+                "probability" : 0.75
+            },
+            {
+                // LilyPads_Shallow_Open
+                "biome" : 3504,
+                "count" : 1,
+                "probability" : 0.35
+            },
+            {
+                // EastArctic_Open
+                "biome" : 4201,
+                "count" : 1,
+                "probability" : 0.35
+            },
+            {
+                // EastArctic_DeepOpen
+                "biome" : 4202,
+                "count" : 1,
+                "probability" : 0.35
+            },
+            {
+                // WestArctic_Open
+                "biome" : 5801,
+                "count" : 1,
+                "probability" : 0.35
+            },
+            {
+                // WestArctic_Deep_Open
+                "biome" : 5802,
+                "count" : 1,
+                "probability" : 0.35
+            },
+            {
+                // GlacialBay
+                "biome" : 4511,
+                "count" : 1,
+                "probability" : 0.25
+            }
+        ]
+    },
+
+    "08cb3290-504b-4191-97ee-6af1588af5c0" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/HoopFishSchool.prefab",
+        "distribution" : [
+            {
+                // TwistyBridges_Open
+                "biome" : 3304,
+                "count" : 1,
+                "probability" : 0.3
+            },
+            {
+                // Arctic_Open
+                "biome" : 3001,
+                "count" : 1,
+                "probability" : 0.1
+            },
+            {
+                // TwistyBridges_Shallow_Open
+                "biome" : 3306,
+                "count" : 1,
+                "probability" : 0.6
+            },
+            {
+                // TreeSpires_Wall
+                "biome" : 4103,
+                "count" : 1,
+                "probability" : 0.6
+            },
+            {
+                // LilyPads_Island_Open
+                "biome" : 3506,
+                "count" : 1,
+                "probability" : 0.3
+            },
+            {
+                // LilyPads_Grass
+                "biome" : 3511,
+                "count" : 1,
+                "probability" : 0.25
+            }
+        ]
+    },
+
+    "74ded0e7-d394-4703-9e53-4384b37f9433" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/Penguin.prefab",
+        "distribution" : [
+            {
+                // SparseArctic_Open
+                "biome" : 3101,
+                "count" : 1,
+                "probability" : 0.3
+            }
+        ]
+    },
+
+    "99cdec62-302b-4999-ba49-f50c73575a4d" : 
+    {
+        "prefabPath" : "WorldEntities/Flora/SafeShallows/Coral_reef_purple_mushrooms_01_04.prefab",
+        "distribution" : [
+            {
+                // TwistyBridges_Shallow_Coral
+                "biome" : 3311,
+                "count" : 1,
+                "probability" : 0
+            },
+            {
+                // TwistyBridges_Coral
+                "biome" : 3331,
+                "count" : 1,
+                "probability" : 0
+            },
+            {
+                // TwistyBridges_Deep_Coral
+                "biome" : 3351,
+                "count" : 1,
+                "probability" : 0
+            }
+        ]
+    },
+
+    "7e07fce9-0ad6-4c54-9da7-e43eb1e38cea" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/limestone.prefab",
+        "distribution" : [
+            {
+                // TwistyBridges_Shallow_RockWall
+                "biome" : 3312,
+                "count" : 1,
+                "probability" : 1.2
+            },
+            {
+                // TwistyBridges_Ground
+                "biome" : 3330,
+                "count" : 1,
+                "probability" : 0.8
+            },
+            {
+                // TwistyBridges_RockWall
+                "biome" : 3332,
+                "count" : 1,
+                "probability" : 2
+            },
+            {
+                // TwistyBridges_Shallow_Ground
+                "biome" : 3310,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // ArcticKelp_CaveOuter_Sand
+                "biome" : 4005,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // RocketAreaCave
+                "biome" : 4800,
+                "count" : 1,
+                "probability" : 0.25
+            },
+            {
+                // ThermalSpires_Rock
+                "biome" : 3604,
+                "count" : 1,
+                "probability" : 0.3
+            },
+            {
+                // SparseArctic_Rock
+                "biome" : 3103,
+                "count" : 1,
+                "probability" : 0.4
+            },
+            {
+                // GlacialBasin_Generic
+                "biome" : 4500,
+                "count" : 1,
+                "probability" : 0.45
+            },
+            {
+                // ArcticSpires_Cave
+                "biome" : 5502,
+                "count" : 1,
+                "probability" : 0.8
+            },
+            {
+                // LilyPads_Wall
+                "biome" : 3513,
+                "count" : 1,
+                "probability" : 0.75
+            },
+            {
+                // LilyPads_Crevice_Wall
+                "biome" : 3523,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // LilyPads_MegaIsland_Wall
+                "biome" : 3543,
+                "count" : 1,
+                "probability" : 0.4
+            },
+            {
+                // LilyPads_Deep_Wall
+                "biome" : 3553,
+                "count" : 1,
+                "probability" : 0.6
+            },
+            {
+                // CrystalCave_Ground
+                "biome" : 3806,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // CrystalCave_Inner_Ground
+                "biome" : 3811,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // FabricatorCavern_Grass
+                "biome" : 5706,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // ThermalSpires_Ground
+                "biome" : 3603,
+                "count" : 1,
+                "probability" : 0.3
+            },
+            {
+                // ArcticSpires_Generic
+                "biome" : 5500,
+                "count" : 1,
+                "probability" : 0.45
+            },
+            {
+                // GlacialBasin_BikeCrashSite
+                "biome" : 4509,
+                "count" : 1,
+                "probability" : 0.25
+            },
+            {
+                // GlacialBay
+                "biome" : 4511,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // WestArctic_IceBerg_ExteriorSurface
+                "biome" : 5808,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // ThermalSpires_Cave_Ground
+                "biome" : 3606,
+                "count" : 1,
+                "probability" : 1.2
+            },
+            {
+                // GlacialConnection_Ground
+                "biome" : 4601,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // EastArctic_Ground
+                "biome" : 4203,
+                "count" : 1,
+                "probability" : 0.3
+            },
+            {
+                // WestArctic_Ground
+                "biome" : 5803,
+                "count" : 1,
+                "probability" : 0.3
+            }
+        ]
+    },
+
+    "51f36b8a-c94c-4856-a30c-e2108fc96943" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/BreakableLead.prefab",
+        "distribution" : [
+            {
+                // TwistyBridges_Shallow_RockWall
+                "biome" : 3312,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // TwistyBridges_RockWall
+                "biome" : 3332,
+                "count" : 1,
+                "probability" : 1.25
+            },
+            {
+                // ArcticKelp_Rock
+                "biome" : 4003,
+                "count" : 1,
+                "probability" : 0.25
+            },
+            {
+                // ThermalSpires_RockyGround
+                "biome" : 3602,
+                "count" : 1,
+                "probability" : 0.75
+            },
+            {
+                // LilyPads_Islands_Wall
+                "biome" : 3533,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // LilyPads_MegaIsland_Wall
+                "biome" : 3543,
+                "count" : 1,
+                "probability" : 0
+            },
+            {
+                // CrystalCave_Wall
+                "biome" : 3807,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // ThermalSpires_Cave_Wall
+                "biome" : 3609,
+                "count" : 1,
+                "probability" : 1.4
+            },
+            {
+                // GlacialConnection_Ground
+                "biome" : 4601,
+                "count" : 1,
+                "probability" : 0.25
+            }
+        ]
+    },
+
+    "eb38de5d-c3df-4446-a37a-d770fb0f92bb" : 
+    {
+        "prefabPath" : "WorldEntities/Environment/CrashHome.prefab",
+        "distribution" : [
+            {
+                // TwistyBridges_Cave_RockWall
+                "biome" : 3342,
+                "count" : 1,
+                "probability" : 0.4
+            },
+            {
+                // ArcticKelp_CaveOuter_Rock
+                "biome" : 4006,
+                "count" : 1,
+                "probability" : 0.35
+            },
+            {
+                // PurpleVents_Ground
+                "biome" : 3704,
+                "count" : 1,
+                "probability" : 0.1
+            },
+            {
+                // PurpleVents_Crevice_Ground
+                "biome" : 3710,
+                "count" : 1,
+                "probability" : 0.1
+            },
+            {
+                // CrystalCave_Castle_Ground
+                "biome" : 3816,
+                "count" : 1,
+                "probability" : 0.1
+            }
+        ]
+    },
+
+    "13bf1bfd-d79e-43e1-ba25-80847844580f" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/ArcticRay.prefab",
+        "distribution" : [
+            {
+                // TwistyBridges_Open
+                "biome" : 3304,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // WestArctic_Open
+                "biome" : 5801,
+                "count" : 1,
+                "probability" : 0.1
+            },
+            {
+                // EastArctic_Open
+                "biome" : 4201,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // GlacialBay
+                "biome" : 4511,
+                "count" : 1,
+                "probability" : 0.1
+            }
+        ]
+    },
+
+    "f08a4013-5852-4b33-bd7d-466aae6b6969" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/sulphurcrystal.prefab",
+        "distribution" : [
+            {
+                // RocketAreaCave
+                "biome" : 4800,
+                "count" : 1,
+                "probability" : 0.15
+            },
+            {
+                // HotSprings
+                "biome" : 5200,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // PurpleVents_Ground
+                "biome" : 3704,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // PurpleVents_Deep_Ground
+                "biome" : 3716,
+                "count" : 1,
+                "probability" : 0.2
+            }
+        ]
+    },
+
+    "0917bd1c-d9e4-483b-8d00-37bba9e462d0" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/Frozen/FrozenResource.prefab",
+        "distribution" : [
+            {
+                // RocketAreaMountain
+                "biome" : 5000,
+                "count" : 1,
+                "probability" : 0.6
+            }
+        ]
+    },
+
+    "08f12f3b-4cae-4cdc-a8b1-84fbbdc76dd6" : 
+    {
+        "prefabPath" : "WorldEntities/Alterra/Fragments/DeployableDrill_Fragment.prefab",
+        "distribution" : [
+            {
+                // RocketAreaFrozenResources
+                "biome" : 4700,
+                "count" : 1,
+                "probability" : 0.6
+            }
+        ]
+    },
+
+    "127f22a3-44cd-4341-adb8-8937317f53de" : 
+    {
+        "prefabPath" : "WorldEntities/Alterra/Fragments/seaglidefragment.prefab",
+        "distribution" : [
+            {
+                // TwistyBridges_Shallow_Coral
+                "biome" : 3311,
+                "count" : 1,
+                "probability" : 0.15
+            },
+            {
+                // TwistyBridges_Coral
+                "biome" : 3331,
+                "count" : 1,
+                "probability" : 0.15
+            },
+            {
+                // TwistyBridges_Ground
+                "biome" : 3330,
+                "count" : 1,
+                "probability" : 0.15
+            },
+            {
+                // ArcticKelp_Grass
+                "biome" : 4002,
+                "count" : 1,
+                "probability" : 0.3
+            }
+        ]
+    },
+
+    "46551efe-98b7-4a73-822f-4b550f7ee2b3" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/BruteShark.prefab",
+        "distribution" : [
+            {
+                // TwistyBridges_Open
+                "biome" : 3304,
+                "count" : 1,
+                "probability" : 0.125
+            },
+            {
+                // TreeSpires_OpenDeep
+                "biome" : 4112,
+                "count" : 1,
+                "probability" : 0.03
+            },
+            {
+                // LilyPads_Shallow_Open
+                "biome" : 3504,
+                "count" : 1,
+                "probability" : 0.025
+            }
+        ]
+    },
+
+    "912a874b-b3d7-4ced-b560-7b943689d9f0" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/Symbiote.prefab",
+        "distribution" : [
+            {
+                // SparseArctic_Ground
+                "biome" : 3102,
+                "count" : 1,
+                "probability" : 0.8
+            },
+            {
+                // SparseArctic_Open
+                "biome" : 3101,
+                "count" : 1,
+                "probability" : 0.4
+            }
+        ]
+    },
+
+    "6e4f85c2-ad1d-4d0a-b20c-1158204ee424" : 
+    {
+        "prefabPath" : "WorldEntities/Alterra/Fragments/GravSphere_Fragment.prefab",
+        "distribution" : [
+            {
+                // ArcticKelp_Grass
+                "biome" : 4002,
+                "count" : 1,
+                "probability" : 0.15
+            }
+        ]
+    },
+
+    "abfd2c46-f49e-41af-a965-73048dc9bf28" : 
+    {
+        "prefabPath" : "WorldEntities/Alterra/Fragments/Constructor_Fragment.prefab",
+        "distribution" : [
+            {
+                // ArcticKelp_Grass
+                "biome" : 4002,
+                "count" : 1,
+                "probability" : 0.1
+            },
+            {
+                // ArcticKelp_CaveOuter_Sand
+                "biome" : 4005,
+                "count" : 1,
+                "probability" : 0.15
+            },
+            {
+                // TwistyBridges_Ground
+                "biome" : 3330,
+                "count" : 1,
+                "probability" : 0.15
+            },
+            {
+                // TwistyBridges_Coral
+                "biome" : 3331,
+                "count" : 1,
+                "probability" : 0.12
+            }
+        ]
+    },
+
+    "5462a145-fdc1-464d-ad61-ec81920ec7e3" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/magnetite.prefab",
+        "distribution" : [
+            {
+                // LilyPads_Deep_Wall
+                "biome" : 3553,
+                "count" : 1,
+                "probability" : 0.3
+            },
+            {
+                // GlacialBasin_SpyPenguin
+                "biome" : 4507,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // GlacialBasin_OreVein_Blocked
+                "biome" : 4504,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // GlacialBasin_OreVein_BlueIce_Blocked
+                "biome" : 4510,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // WestArctic_IceBerg_CaveSealed_OreVein
+                "biome" : 5812,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // EastArctic_IceBerg_CaveSealed_OreVein
+                "biome" : 4212,
+                "count" : 1,
+                "probability" : 3
+            },
+            {
+                // CrystalCave_Ground
+                "biome" : 3806,
+                "count" : 1,
+                "probability" : 0.25
+            },
+            {
+                // CrystalCave_Inner_Ground
+                "biome" : 3811,
+                "count" : 1,
+                "probability" : 0.35
+            },
+            {
+                // CrystalCave_Fissure_Wall
+                "biome" : 3820,
+                "count" : 1,
+                "probability" : 0.3
+            }
+        ]
+    },
+
+    "75c62bb6-da87-437e-bf2d-525c55c66101" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/BreakableGold.prefab",
+        "distribution" : [
+            {
+                // ArcticKelp_CaveInner_Rock
+                "biome" : 4010,
+                "count" : 1,
+                "probability" : 1.2
+            },
+            {
+                // ThermalSpires_RockyGround
+                "biome" : 3602,
+                "count" : 1,
+                "probability" : 0.4
+            },
+            {
+                // ThermalSpires_CanyonWall
+                "biome" : 3605,
+                "count" : 1,
+                "probability" : 0.6
+            },
+            {
+                // TwistyBridges_Cave_RockWall
+                "biome" : 3342,
+                "count" : 1,
+                "probability" : 1.4
+            },
+            {
+                // TreeSpires_SmallFissure
+                "biome" : 4108,
+                "count" : 1,
+                "probability" : 1.5
+            },
+            {
+                // TreeSpires_BigFissure_Wall
+                "biome" : 4110,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // LilyPads_Crevice_Ground
+                "biome" : 3520,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // LilyPads_Crevice_Wall
+                "biome" : 3523,
+                "count" : 1,
+                "probability" : 0.3
+            },
+            {
+                // LilyPads_Deep_Grass
+                "biome" : 3551,
+                "count" : 1,
+                "probability" : 0.25
+            },
+            {
+                // CrystalCave_Fissure_Wall
+                "biome" : 3820,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // FabricatorCavern_Ceiling
+                "biome" : 5704,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // LilyPads_Islands_Cave_Wall
+                "biome" : 3535,
+                "count" : 1,
+                "probability" : 1.25
+            },
+            {
+                // RocketAreaCaveHidden
+                "biome" : 5302,
+                "count" : 1,
+                "probability" : 0.5
+            }
+        ]
+    },
+
+    "dec3cf4a-97ac-40da-b1ca-d917c8791378" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/SeaMonkey.prefab",
+        "distribution" : [
+            {
+                // ArcticKelp_Open
+                "biome" : 4001,
+                "count" : 1,
+                "probability" : 0.3
+            },
+            {
+                // ArcticKelp_CaveInner_Open
+                "biome" : 4008,
+                "count" : 1,
+                "probability" : 0.8
+            },
+            {
+                // LilyPads_Crevice_Ground
+                "biome" : 3520,
+                "count" : 1,
+                "probability" : 0.5
+            }
+        ]
+    },
+
+    "f654e870-3101-4ff3-8bb4-528dceef43a5" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/salt.prefab",
+        "distribution" : [
+            {
+                // TwistyBridges_Coral
+                "biome" : 3331,
+                "count" : 1,
+                "probability" : 0.4
+            },
+            {
+                // ArcticKelp_CaveOuter_Sand
+                "biome" : 4005,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // SparseArctic_Ground
+                "biome" : 3102,
+                "count" : 1,
+                "probability" : 0.8
+            },
+            {
+                // PurpleVents_Pool_Voxel
+                "biome" : 3702,
+                "count" : 1,
+                "probability" : 0.6
+            },
+            {
+                // PurpleVents_Deep_Pool_Voxel
+                "biome" : 3714,
+                "count" : 1,
+                "probability" : 0.75
+            }
+        ]
+    },
+
+    "8d619064-30fb-472e-8f3c-67b04e567704" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/TitanHoleFish.prefab",
+        "distribution" : [
+            {
+                // SparseArctic_Open
+                "biome" : 3101,
+                "count" : 1,
+                "probability" : 0.15
+            },
+            {
+                // EastArctic_Open
+                "biome" : 4201,
+                "count" : 1,
+                "probability" : 0.1
+            },
+            {
+                // WestArctic_Open
+                "biome" : 5801,
+                "count" : 1,
+                "probability" : 0.1
+            }
+        ]
+    },
+
+    "29694eb8-0bfa-454d-a5db-21aa39ecd93b" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/SpinnerFish.prefab",
+        "distribution" : [
+            {
+                // ArcticKelp_CaveInner_Open
+                "biome" : 4008,
+                "count" : 1,
+                "probability" : 2
+            },
+            {
+                // LilyPads_Island_Open
+                "biome" : 3506,
+                "count" : 1,
+                "probability" : 0.8
+            },
+            {
+                // LilyPads_Deep_Open
+                "biome" : 3503,
+                "count" : 1,
+                "probability" : 0.4
+            }
+        ]
+    },
+
+    "aeff4dad-8256-475b-a764-d5e7028220ce" : 
+    {
+        "prefabPath" : "WorldEntities/Alterra/Fragments/LaserCutterFragment.prefab",
+        "distribution" : [
+            {
+                // ArcticKelp_CaveOuter_Sand
+                "biome" : 4005,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // ArcticKelp_CaveInner_Sand
+                "biome" : 4009,
+                "count" : 1,
+                "probability" : 0.4
+            },
+            {
+                // TwistyBridges_Coral
+                "biome" : 3331,
+                "count" : 1,
+                "probability" : 0.075
+            }
+        ]
+    },
+
+    "78b836fc-9062-4e87-bcba-d330e3bdfb07" : 
+    {
+        "prefabPath" : "WorldEntities/Alterra/Fragments/Seatruck_Fragment.prefab",
+        "distribution" : [
+            {
+                // TwistyBridges_Coral
+                "biome" : 3331,
+                "count" : 1,
+                "probability" : 0.06
+            },
+            {
+                // TwistyBridges_Ground
+                "biome" : 3330,
+                "count" : 1,
+                "probability" : 0.06
+            },
+            {
+                // RocketIslandDock
+                "biome" : 5100,
+                "count" : 1,
+                "probability" : 0.4
+            }
+        ]
+    },
+
+    "4728626f-ae85-4277-bae1-5256d2dc1df0" : 
+    {
+        "prefabPath" : "WorldEntities/Alterra/Fragments/Seatruck_StorageModule_Fragment.prefab",
+        "distribution" : [
+            {
+                // TwistyBridges_Deep_GroundRoots
+                "biome" : 3357,
+                "count" : 1,
+                "probability" : 0.08
+            },
+            {
+                // TwistyBridges_Deep_Ground
+                "biome" : 3350,
+                "count" : 1,
+                "probability" : 0.08
+            }
+        ]
+    },
+
+    "46affb94-6107-4484-8a9d-72d4ffb6167f" : 
+    {
+        "prefabPath" : "WorldEntities/Alterra/Fragments/Seatruck_FabricatorModule_Fragment.prefab",
+        "distribution" : [
+            {
+                // TwistyBridges_Deep_Ground
+                "biome" : 3350,
+                "count" : 1,
+                "probability" : 0.1
+            },
+            {
+                // TwistyBridges_Deep_GroundRoots
+                "biome" : 3357,
+                "count" : 1,
+                "probability" : 0.1
+            }
+        ]
+    },
+
+    "2d3ea578-e4fa-4246-8bc9-ed8e66dec781" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/HoopFish_02_School.prefab",
+        "distribution" : [
+            {
+                // TwistyBridges_Deep_Open
+                "biome" : 3305,
+                "count" : 1,
+                "probability" : 0.6
+            },
+            {
+                // LilyPads_Deep_Ground
+                "biome" : 3550,
+                "count" : 1,
+                "probability" : 0.3
+            },
+            {
+                // FabricatorCavern_Open
+                "biome" : 5701,
+                "count" : 1,
+                "probability" : 0.5
+            }
+        ]
+    },
+
+    "6a1b444f-138f-46fa-88bb-d673a2ceb689" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Skyray.prefab",
+        "distribution" : [
+            {
+                // RocketIslandNest
+                "biome" : 5300,
+                "count" : 1,
+                "probability" : 1
+            }
+        ]
+    },
+
+    "439b4b17-2f86-4706-8abd-8d2f68df782b" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/silver.prefab",
+        "distribution" : [
+            {
+                // GlacialBasin_OreVein_BlueIce
+                "biome" : 4506,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // ArcticSpires_OreVein
+                "biome" : 5501,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // EastArctic_IceBerg_Cave_OreVein
+                "biome" : 4211,
+                "count" : 1,
+                "probability" : 6
+            }
+        ]
+    },
+
+    "b086ea82-dad5-4544-b311-724881337331" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/ArrowRay.prefab",
+        "distribution" : [
+            {
+                // LilyPads_Ground
+                "biome" : 3510,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // TreeSpires_Ground
+                "biome" : 4102,
+                "count" : 1,
+                "probability" : 1
+            }
+        ]
+    },
+
+    "36b70c2e-2dba-4037-98c0-e0f7dfd151bf" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/NootFish.prefab",
+        "distribution" : [
+            {
+                // LilyPads_Generic
+                "biome" : 3500,
+                "count" : 1,
+                "probability" : 0.3
+            },
+            {
+                // LilyPads_Grass
+                "biome" : 3511,
+                "count" : 1,
+                "probability" : 0.6
+            }
+        ]
+    },
+
+    "42052852-52e1-4413-9c39-005d48263834" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/Brinewing.prefab",
+        "distribution" : [
+            {
+                // SparseArctic_IceSheet
+                "biome" : 3104,
+                "count" : 1,
+                "probability" : 0.5
+            }
+        ]
+    },
+
+    "c37fff5c-dd2f-4d99-a7ab-4650cf63b6ed" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/FeatherFishRed.prefab",
+        "distribution" : [
+            {
+                // MiningSite_Ground
+                "biome" : 5400,
+                "count" : 1,
+                "probability" : 2
+            },
+            {
+                // TreeSpires_OpenDeep
+                "biome" : 4112,
+                "count" : 1,
+                "probability" : 0.75
+            },
+            {
+                // TreeSpires_BigTree_Wall
+                "biome" : 4106,
+                "count" : 1,
+                "probability" : 2
+            },
+            {
+                // PurpleVents_Deep_Open
+                "biome" : 3713,
+                "count" : 1,
+                "probability" : 0.75
+            },
+            {
+                // ShipWreck2_Open
+                "biome" : 5403,
+                "count" : 1,
+                "probability" : 0.1
+            },
+            {
+                // CrystalCave_Open
+                "biome" : 3801,
+                "count" : 1,
+                "probability" : 2
+            },
+            {
+                // CrystalCave_Inner_Ground
+                "biome" : 3811,
+                "count" : 1,
+                "probability" : 2
+            },
+            {
+                // FabricatorCavern_Ground
+                "biome" : 5702,
+                "count" : 1,
+                "probability" : 1
+            }
+        ]
+    },
+
+    "cc6ea569-999a-4c7b-8d35-b05f2df25492" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/LilyPaddler.prefab",
+        "distribution" : [
+            {
+                // TreeSpires_BigTree_Wall
+                "biome" : 4106,
+                "count" : 1,
+                "probability" : 0.25
+            },
+            {
+                // LilyPads_Deep_Open
+                "biome" : 3503,
+                "count" : 1,
+                "probability" : 0.1
+            },
+            {
+                // LilyPads_Islands_Coral
+                "biome" : 3532,
+                "count" : 1,
+                "probability" : 0.15
+            },
+            {
+                // LilyPads_MegaIsland_Coral
+                "biome" : 3542,
+                "count" : 1,
+                "probability" : 0.2
+            }
+        ]
+    },
+
+    "459528f5-edf7-4588-8c52-98b72cd28e88" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/SnowStalkerFur.prefab",
+        "distribution" : [
+            {
+                // GlacialBasin_SnowStalkerFur
+                "biome" : 4508,
+                "count" : 1,
+                "probability" : 1
+            }
+        ]
+    },
+
+    "1a406cdc-3e96-4ce2-a24a-81404af65619" : 
+    {
+        "prefabPath" : "WorldEntities/Alterra/Fragments/ThermalPlant_Fragment.prefab",
+        "distribution" : [
+            {
+                // TreeSpires_BigFissure_Ground
+                "biome" : 4109,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // TreeSpires_BigTree_Ground
+                "biome" : 4105,
+                "count" : 1,
+                "probability" : 1.5
+            }
+        ]
+    },
+
+    "1f6dc2d6-0e99-48ed-8e67-f61b9642ac72" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/SquidShark_LilyPads.prefab",
+        "distribution" : [
+            {
+                // LilyPads_Open
+                "biome" : 3502,
+                "count" : 1,
+                "probability" : 0.02
+            }
+        ]
+    },
+
+    "46316b94-dc4a-4c68-8c33-ee774b5d51ee" : 
+    {
+        "prefabPath" : "WorldEntities/Alterra/Fragments/Seatruck_AquariumModule_Fragment.prefab",
+        "distribution" : [
+            {
+                // LilyPads_Ground
+                "biome" : 3510,
+                "count" : 1,
+                "probability" : 0.03
+            }
+        ]
+    },
+
+    "9abc15fc-433c-4fbd-b3e6-d1b2cc73abb2" : 
+    {
+        "prefabPath" : "WorldEntities/Alterra/Fragments/ExosuitPropulsionArmfragment.prefab",
+        "distribution" : [
+            {
+                // CrystalCave_Ground
+                "biome" : 3806,
+                "count" : 1,
+                "probability" : 0.1
+            }
+        ]
+    },
+
+    "1c953310-8436-4012-8e0d-3b4634f07e57" : 
+    {
+        "prefabPath" : "WorldEntities/Alterra/Fragments/ExosuitTorpedoArmfragment.prefab",
+        "distribution" : [
+            {
+                // CrystalCave_Ground
+                "biome" : 3806,
+                "count" : 1,
+                "probability" : 0.1
+            }
+        ]
+    },
+
+    "3b52098a-4b58-467c-a29a-1d1b6d92ec3e" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/uraninitecrystal.prefab",
+        "distribution" : [
+            {
+                // PurpleVents_Deep_Wall
+                "biome" : 3717,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // LilyPads_Deep_Wall
+                "biome" : 3553,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // CrystalCave_Wall
+                "biome" : 3807,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // CrystalCave_Inner_Wall
+                "biome" : 3812,
+                "count" : 1,
+                "probability" : 0.75
+            },
+            {
+                // TreeSpires_BigFissure_Wall
+                "biome" : 4110,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // TreeSpires_SmallFissure
+                "biome" : 4108,
+                "count" : 1,
+                "probability" : 1.5
+            }
+        ]
+    },
+
+    "309bb820-6c7f-4948-b1dc-f210e9f7b575" : 
+    {
+        "prefabPath" : "WorldEntities/Environment/SeaMonkeyNest_ConstructorFragment.prefab",
+        "distribution" : [
+            {
+                // ArcticKelp_SeamonkeyNest2
+                "biome" : 4013,
+                "count" : 1,
+                "probability" : 1000
+            }
+        ]
+    },
+
+    "78d6ea6f-1e62-4103-be44-44f6a5d6212a" : 
+    {
+        "prefabPath" : "WorldEntities/Environment/SeaMonkeyNest_LaserCutterFragment.prefab",
+        "distribution" : [
+            {
+                // ArcticKelp_SeamonkeyNest3
+                "biome" : 4014,
+                "count" : 1,
+                "probability" : 1000
+            }
+        ]
+    },
+
+    "47d3deec-4f81-4368-9f03-f5939b57ba5e" : 
+    {
+        "prefabPath" : "WorldEntities/Environment/SeaMonkeyNest_PropulsionCannonFragment.prefab",
+        "distribution" : [
+            {
+                // ArcticKelp_SeamonkeyNest4
+                "biome" : 4015,
+                "count" : 1,
+                "probability" : 1000
+            }
+        ]
+    },
+
+    "42336e88-846c-494d-88fe-a81ebeeff49f" : 
+    {
+        "prefabPath" : "WorldEntities/Environment/SeaMonkeyNest_UltraCapTankFragment.prefab",
+        "distribution" : [
+            {
+                // ArcticKelp_SeamonkeyNest5
+                "biome" : 4016,
+                "count" : 1,
+                "probability" : 1000
+            },
+            {
+                // LilyPads_Crevice_SeamonkeyNest2
+                "biome" : 3525,
+                "count" : 1,
+                "probability" : 1000
+            }
+        ]
+    },
+
+    "ddbc8c79-d1cb-4eb5-8c9a-77acc9bd9f02" : 
+    {
+        "prefabPath" : "WorldEntities/Environment/SeaMonkeyNest_ExoThermalModuleFragment.prefab",
+        "distribution" : [
+            {
+                // LilyPads_Crevice_SeamonkeyNest1
+                "biome" : 3524,
+                "count" : 1,
+                "probability" : 1000
+            }
+        ]
+    },
+
+    "95d37d40-fb90-47d7-b2e1-9410b48d5c5f" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/JellyFish.prefab",
+        "distribution" : [
+            {
+                // GlacialConnection_Open
+                "biome" : 4603,
+                "count" : 1,
+                "probability" : 0.4
+            },
+            {
+                // GlacialConnection_IceCeiling
+                "biome" : 4602,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // WestArctic_Deep_Open
+                "biome" : 5802,
+                "count" : 1,
+                "probability" : 0.15
+            },
+            {
+                // GlacialBay
+                "biome" : 4511,
+                "count" : 1,
+                "probability" : 0.3
+            }
+        ]
+    },
+
+    "6e5f05e2-f472-4129-be66-feb783f8e32b" : 
+    {
+        "prefabPath" : "WorldEntities/Environment/SeaMonkeyNest_SeaglideFragment.prefab",
+        "distribution" : [
+            {
+                // ArcticKelp_SeamonkeyNest1
+                "biome" : 4012,
+                "count" : 1,
+                "probability" : 1000
+            }
+        ]
+    },
+
+    "8a720c65-b13f-4e27-ac51-84398e2318f0" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/JellyFish_small.prefab",
+        "distribution" : [
+            {
+                // GlacialConnection_Open
+                "biome" : 4603,
+                "count" : 1,
+                "probability" : 0.8
+            },
+            {
+                // WestArctic_Deep_Open
+                "biome" : 5802,
+                "count" : 1,
+                "probability" : 0.3
+            },
+            {
+                // GlacialBay
+                "biome" : 4511,
+                "count" : 1,
+                "probability" : 0.8
+            }
+        ]
+    },
+
+    "2ded4086-273d-4162-9f6c-9179f0ed0861" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/Cryptosuchus.prefab",
+        "distribution" : [
+            {
+                // PurpleVents_Open
+                "biome" : 3701,
+                "count" : 1,
+                "probability" : 0.04
+            },
+            {
+                // ThermalSpires_Open
+                "biome" : 3601,
+                "count" : 1,
+                "probability" : 0.03
+            }
+        ]
+    },
+
+    "bd4d4fa1-d10e-40e5-8ec6-67efd0ba03af" : 
+    {
+        "prefabPath" : "WorldEntities/Flora/Shared/Coral_reef_jelly_plant_01_01.prefab",
+        "distribution" : [
+            {
+                // LilyPads_Islands_Cave_Wall
+                "biome" : 3535,
+                "count" : 1,
+                "probability" : 2
+            },
+            {
+                // LilyPads_Crevice_Wall
+                "biome" : 3523,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // TwistyBridges_Deep_GroundRoots
+                "biome" : 3357,
+                "count" : 1,
+                "probability" : 1.5
+            },
+            {
+                // PurpleVents_Crevice_Ground
+                "biome" : 3710,
+                "count" : 1,
+                "probability" : 0.4
+            },
+            {
+                // PurpleVents_Deep_Ground
+                "biome" : 3716,
+                "count" : 1,
+                "probability" : 0.4
+            }
+        ]
+    },
+
+    "7a506681-906f-411e-b3a1-b4536628d26d" : 
+    {
+        "prefabPath" : "WorldEntities/Flora/Expansion/Shared/generic_plant_ribbon_01.prefab",
+        "distribution" : [
+            {
+                // CrystalCave_YellowCoral
+                "biome" : 3808,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // CrystalCave_Inner_YellowCoral
+                "biome" : 3813,
+                "count" : 1,
+                "probability" : 1
+            }
+        ]
+    },
+
+    "601ee500-1744-4697-8279-59ef35160edb" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/Drillable/DrillableCopper.prefab",
+        "distribution" : [
+            {
+                // LilyPads_Deep_Ground
+                "biome" : 3550,
+                "count" : 1,
+                "probability" : 0.05
+            },
+            {
+                // CrystalCave_Ground
+                "biome" : 3806,
+                "count" : 1,
+                "probability" : 0.05
+            },
+            {
+                // CrystalCave_Inner_Ground
+                "biome" : 3811,
+                "count" : 1,
+                "probability" : 0.1
+            },
+            {
+                // TreeSpires_Ground
+                "biome" : 4102,
+                "count" : 1,
+                "probability" : 0.1
+            },
+            {
+                // FabricatorCavern_Ground
+                "biome" : 5702,
+                "count" : 1,
+                "probability" : 0.05
+            },
+            {
+                // ArcticCaldera_Ground
+                "biome" : 6001,
+                "count" : 1,
+                "probability" : 0.3
+            },
+            {
+                // WestArctic_Ground
+                "biome" : 5803,
+                "count" : 1,
+                "probability" : 0.1
+            },
+            {
+                // EastArctic_Ground
+                "biome" : 4203,
+                "count" : 1,
+                "probability" : 0.1
+            }
+        ]
+    },
+
+    "9f855246-76c4-438b-8e4d-9cd6d7ce4224" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/Drillable/DrillableTitanium.prefab",
+        "distribution" : [
+            {
+                // TreeSpires_Ground
+                "biome" : 4102,
+                "count" : 1,
+                "probability" : 0.1
+            },
+            {
+                // CrystalCave_Ground
+                "biome" : 3806,
+                "count" : 1,
+                "probability" : 0.05
+            },
+            {
+                // CrystalCave_Inner_Ground
+                "biome" : 3811,
+                "count" : 1,
+                "probability" : 0.1
+            },
+            {
+                // FabricatorCavern_Ground
+                "biome" : 5702,
+                "count" : 1,
+                "probability" : 0.05
+            },
+            {
+                // EastArctic_Ground
+                "biome" : 4203,
+                "count" : 1,
+                "probability" : 0.1
+            },
+            {
+                // ArcticCaldera_Ground
+                "biome" : 6001,
+                "count" : 1,
+                "probability" : 0.3
+            },
+            {
+                // WorldEdge_Ground
+                "biome" : 5900,
+                "count" : 1,
+                "probability" : 0.1
+            },
+            {
+                // LilyPads_Deep_Ground
+                "biome" : 3550,
+                "count" : 1,
+                "probability" : 0.1
+            }
+        ]
+    },
+
+    "026d91e2-430b-4c6d-8bd4-b51e270d5eed" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/Drillable/DrillableSilver.prefab",
+        "distribution" : [
+            {
+                // CrystalCave_Inner_Ground
+                "biome" : 3811,
+                "count" : 1,
+                "probability" : 0.05
+            },
+            {
+                // LilyPads_Crevice_Ground
+                "biome" : 3520,
+                "count" : 1,
+                "probability" : 0.075
+            },
+            {
+                // CrystalCave_Fissure_Floor
+                "biome" : 3821,
+                "count" : 1,
+                "probability" : 1.5
+            }
+        ]
+    },
+
+    "a05fe1c9-ae0d-43db-a12c-865992808cb2" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/Drillable/DrillableGold.prefab",
+        "distribution" : [
+            {
+                // LilyPads_Deep_Ground
+                "biome" : 3550,
+                "count" : 1,
+                "probability" : 0.05
+            },
+            {
+                // CrystalCave_Fissure_Floor
+                "biome" : 3821,
+                "count" : 1,
+                "probability" : 1.25
+            }
+        ]
+    },
+
+    "8e82dc63-5991-4c63-a12c-2aa39373a7cf" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/RockGrub.prefab",
+        "distribution" : [
+            {
+                // MiningSite_RockWall
+                "biome" : 5401,
+                "count" : 1,
+                "probability" : 0.75
+            },
+            {
+                // MiningSite_Ground
+                "biome" : 5400,
+                "count" : 1,
+                "probability" : 1.25
+            },
+            {
+                // CrystalCave_Ground
+                "biome" : 3806,
+                "count" : 1,
+                "probability" : 0.85
+            },
+            {
+                // EastArctic_IceBerg_Cave
+                "biome" : 4209,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // WestArctic_IceBerg_Cave
+                "biome" : 5809,
+                "count" : 1,
+                "probability" : 0.5
+            }
+        ]
+    },
+
+    "b3db72b6-f0cf-4234-be74-d98bd4c49797" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/Drillable/DrillableQuartz.prefab",
+        "distribution" : [
+            {
+                // LilyPads_Deep_Ground
+                "biome" : 3550,
+                "count" : 1,
+                "probability" : 0.1
+            },
+            {
+                // TreeSpires_Ground
+                "biome" : 4102,
+                "count" : 1,
+                "probability" : 0.1
+            },
+            {
+                // CrystalCave_Ground
+                "biome" : 3806,
+                "count" : 1,
+                "probability" : 0.1
+            },
+            {
+                // FabricatorCavern_Grass
+                "biome" : 5706,
+                "count" : 1,
+                "probability" : 0.1
+            },
+            {
+                // EastArctic_Ground
+                "biome" : 4203,
+                "count" : 1,
+                "probability" : 0.1
+            },
+            {
+                // WestArctic_Ground
+                "biome" : 5803,
+                "count" : 1,
+                "probability" : 0.1
+            }
+        ]
+    },
+
+    "d9857c67-6c4b-4fdb-8994-8e1f1c2dde0b" : 
+    {
+        "prefabPath" : "WorldEntities/Environment/SeaMonkeyNest_SeaTruckAfterburnerFragment.prefab",
+        "distribution" : [
+            {
+                // LilyPads_Crevice_SeamonkeyNest4
+                "biome" : 3527,
+                "count" : 1,
+                "probability" : 1000
+            }
+        ]
+    },
+
+    "11b8f32c-c267-4c03-aaa2-ad0055fcb87c" : 
+    {
+        "prefabPath" : "WorldEntities/Environment/SeaMonkeyNest_SeaTruckHorsePowerFragment.prefab",
+        "distribution" : [
+            {
+                // LilyPads_Crevice_SeamonkeyNest5
+                "biome" : 3528,
+                "count" : 1,
+                "probability" : 1000
+            }
+        ]
+    },
+
+    "3a4de01c-de30-4721-884d-289927a60f7e" : 
+    {
+        "prefabPath" : "WorldEntities/Alterra/Base/GlacialBasin/Alterra_GlacialBasin_CrashSite_01.prefab",
+        "distribution" : [
+            {
+                // GlacialBasin_BikeCrashSite
+                "biome" : 4509,
+                "count" : 1,
+                "probability" : 0.15
+            }
+        ]
+    },
+
+    "8b20736d-0184-454c-b555-3584422521ea" : 
+    {
+        "prefabPath" : "WorldEntities/Alterra/Base/GlacialBasin/Alterra_GlacialBasin_CrashSite_02.prefab",
+        "distribution" : [
+            {
+                // GlacialBasin_BikeCrashSite
+                "biome" : 4509,
+                "count" : 1,
+                "probability" : 0.3
+            }
+        ]
+    },
+
+    "bcdce682-1dbd-413f-85a3-0db01cde20c8" : 
+    {
+        "prefabPath" : "WorldEntities/Alterra/Base/GlacialBasin/Alterra_GlacialBasin_CrashSite_03.prefab",
+        "distribution" : [
+            {
+                // GlacialBasin_BikeCrashSite
+                "biome" : 4509,
+                "count" : 1,
+                "probability" : 0.3
+            }
+        ]
+    },
+
+    "6ce2910c-ccf6-4b63-b987-cd2546e88139" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentProps/Expansion/ArcticSurface/GlacialBasin/GlacialBasin_SmallCrater_01.prefab",
+        "distribution" : [
+            {
+                // GlacialBasin_Generic
+                "biome" : 4500,
+                "count" : 1,
+                "probability" : 0.1
+            },
+            {
+                // ArcticSpires_Generic
+                "biome" : 5500,
+                "count" : 1,
+                "probability" : 0.1
+            }
+        ]
+    },
+
+    "59f40aba-8c63-4c1a-9b3f-9360e5128b22" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentProps/Expansion/ArcticSurface/GlacialBasin/GlacialBasin_SmallCrater_Empty_01.prefab",
+        "distribution" : [
+            {
+                // GlacialBasin_Generic
+                "biome" : 4500,
+                "count" : 1,
+                "probability" : 0.03
+            },
+            {
+                // ArcticSpires_Generic
+                "biome" : 5500,
+                "count" : 1,
+                "probability" : 0.03
+            }
+        ]
+    },
+
+    "947f2823-c42a-45ef-94e4-52a9f1d3459c" : 
+    {
+        "prefabPath" : "WorldEntities/Alterra/Supplies/metal1.prefab",
+        "distribution" : [
+            {
+                // LilyPads_ShipWreck_Ground
+                "biome" : 3560,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // LilyPads_ShipWreck_Grass
+                "biome" : 3561,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // PurpleVents_ShipWreck_Ground
+                "biome" : 3722,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // PurpleVents_ShipWreck_Pool_Voxel
+                "biome" : 3720,
+                "count" : 1,
+                "probability" : 0.2
+            }
+        ]
+    },
+
+    "7e507655-9fbf-42e0-8422-163ddd668747" : 
+    {
+        "prefabPath" : "WorldEntities/Alterra/Supplies/metal2.prefab",
+        "distribution" : [
+            {
+                // LilyPads_ShipWreck_Ground
+                "biome" : 3560,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // LilyPads_ShipWreck_Grass
+                "biome" : 3561,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // PurpleVents_ShipWreck_Ground
+                "biome" : 3722,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // PurpleVents_ShipWreck_Pool_Voxel
+                "biome" : 3720,
+                "count" : 1,
+                "probability" : 0.2
+            }
+        ]
+    },
+
+    "7cd86cbf-0708-41dc-84d7-58c648e25b06" : 
+    {
+        "prefabPath" : "WorldEntities/Alterra/Supplies/metal3.prefab",
+        "distribution" : [
+            {
+                // LilyPads_ShipWreck_Ground
+                "biome" : 3560,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // LilyPads_ShipWreck_Grass
+                "biome" : 3561,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // PurpleVents_ShipWreck_Ground
+                "biome" : 3722,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // PurpleVents_ShipWreck_Pool_Voxel
+                "biome" : 3720,
+                "count" : 1,
+                "probability" : 0.2
+            }
+        ]
+    },
+
+    "b2d10d9b-878e-4ff8-b71f-cd578e0d2038" : 
+    {
+        "prefabPath" : "WorldEntities/Alterra/Supplies/metal4.prefab",
+        "distribution" : [
+            {
+                // LilyPads_ShipWreck_Ground
+                "biome" : 3560,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // LilyPads_ShipWreck_Grass
+                "biome" : 3561,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // PurpleVents_ShipWreck_Ground
+                "biome" : 3722,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // PurpleVents_ShipWreck_Pool_Voxel
+                "biome" : 3720,
+                "count" : 1,
+                "probability" : 0.2
+            }
+        ]
+    },
+
+    "c66b5dfa-7fe9-4688-b165-d2e2f4caa8d9" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/Titanium.prefab",
+        "distribution" : [
+            {
+                // GlacialBasin_OreVein_Ice
+                "biome" : 4503,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // LilyPads_OreVein1
+                "biome" : 3514,
+                "count" : 1,
+                "probability" : 5
+            }
+        ]
+    },
+
+    "1ce074ee-1a58-439b-bb5b-e5e3d9f0886f" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/CrashPowder.prefab",
+        "distribution" : [
+            {
+                // CrashHome
+                "biome" : 901,
+                "count" : 1,
+                "probability" : 1
+            }
+        ]
+    },
+
+    "aa5a9d8f-f88a-427b-b6ab-2abdf74aae05" : 
+    {
+        "prefabPath" : "WorldEntities/Eggs/Expansion/TitanHolefishEgg.prefab",
+        "distribution" : [
+            {
+                // EastArctic_IceBerg_Cave
+                "biome" : 4209,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // WestArctic_IceBerg_Cave
+                "biome" : 5809,
+                "count" : 1,
+                "probability" : 1
+            }
+        ]
+    },
+
+    "90eb3d24-0f5e-46a8-9c78-b3ca092685a7" : 
+    {
+        "prefabPath" : "WorldEntities/Eggs/Expansion/BruteSharkEgg.prefab",
+        "distribution" : [
+            {
+                // TwistyBridges_Cave_Coral
+                "biome" : 3341,
+                "count" : 1,
+                "probability" : 0.5
+            }
+        ]
+    },
+
+    "63e251a6-fb65-454b-84b0-4493e19f73cd" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/copper.prefab",
+        "distribution" : [
+            {
+                // TwistyBridges_Cave_OreVein
+                "biome" : 3343,
+                "count" : 1,
+                "probability" : 10
+            },
+            {
+                // WestArctic_IceBerg_Cave_OreVein
+                "biome" : 5811,
+                "count" : 1,
+                "probability" : 5
+            },
+            {
+                // ArcticSpires_OreVein
+                "biome" : 5501,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // GlacialBasin_OreVein_BlueIce
+                "biome" : 4506,
+                "count" : 1,
+                "probability" : 0.4
+            },
+            {
+                // LilyPads_OreVein2
+                "biome" : 3515,
+                "count" : 1,
+                "probability" : 5
+            }
+        ]
+    },
+
+    "6e7f3d62-7e76-4415-af64-5dcd88fc3fe4" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/kyanite.prefab",
+        "distribution" : [
+            {
+                // CrystalCave_Castle_Ground
+                "biome" : 3816,
+                "count" : 1,
+                "probability" : 0.4
+            },
+            {
+                // CrystalCave_Ground
+                "biome" : 3806,
+                "count" : 1,
+                "probability" : 0.15
+            },
+            {
+                // CrystalCave_Inner_Ground
+                "biome" : 3811,
+                "count" : 1,
+                "probability" : 0.15
+            },
+            {
+                // FabricatorCavern_Ground
+                "biome" : 5702,
+                "count" : 1,
+                "probability" : 0.2
+            }
+        ]
+    },
+
+    "dda68997-2c5e-4db5-926d-b896fc7a2a29" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/FeatherFishRed_School.prefab",
+        "distribution" : [
+            {
+                // CrystalCave_Castle_Open
+                "biome" : 3805,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // CrystalCave_Inner_Open
+                "biome" : 3803,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // CrystalCave_Open
+                "biome" : 3801,
+                "count" : 1,
+                "probability" : 0.4
+            },
+            {
+                // FabricatorCavern_Open
+                "biome" : 5701,
+                "count" : 1,
+                "probability" : 0.3
+            },
+            {
+                // PurpleVents_Crevice_Open
+                "biome" : 3707,
+                "count" : 1,
+                "probability" : 0.3
+            },
+            {
+                // PurpleVents_Deep_Open
+                "biome" : 3713,
+                "count" : 1,
+                "probability" : 0.3
+            },
+            {
+                // TreeSpires_BigTree_Open
+                "biome" : 4107,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // TreeSpires_Open
+                "biome" : 4101,
+                "count" : 1,
+                "probability" : 0.4
+            },
+            {
+                // TreeSpires_OpenDeep
+                "biome" : 4112,
+                "count" : 1,
+                "probability" : 0.4
+            }
+        ]
+    },
+
+    "b9f3feae-a617-44e2-a6f8-01ca1e2c909a" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/FeatherFish_School.prefab",
+        "distribution" : [
+            {
+                // ThermalSpires_Open
+                "biome" : 3601,
+                "count" : 1,
+                "probability" : 0.17
+            },
+            {
+                // PurpleVents_Open
+                "biome" : 3701,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // PurpleVents_Crevice_Open
+                "biome" : 3707,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // TreeSpires_Open
+                "biome" : 4101,
+                "count" : 1,
+                "probability" : 0.17
+            },
+            {
+                // LilyPads_Island_Open
+                "biome" : 3506,
+                "count" : 1,
+                "probability" : 0.2
+            }
+        ]
+    },
+
+    "3c5bd4db-953d-4d23-92be-f5a3b76b2e25" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/gold.prefab",
+        "distribution" : [
+            {
+                // EastArctic_IceBerg_Cave_OreVein
+                "biome" : 4211,
+                "count" : 1,
+                "probability" : 4
+            },
+            {
+                // EastArctic_IceBerg_CaveSealed_OreVein
+                "biome" : 4212,
+                "count" : 1,
+                "probability" : 3
+            },
+            {
+                // WestArctic_IceBerg_SpyPenglingCave_OreVein
+                "biome" : 5813,
+                "count" : 1,
+                "probability" : 3
+            },
+            {
+                // ThermalSpires_Cave_Lode1
+                "biome" : 3607,
+                "count" : 1,
+                "probability" : 0.75
+            }
+        ]
+    },
+
+    "4f441e53-7a9a-44dc-83a4-b1791dc88ffd" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentResources/Drillable/DrillableKyanite.prefab",
+        "distribution" : [
+            {
+                // CrystalCave_Fissure_Floor
+                "biome" : 3821,
+                "count" : 1,
+                "probability" : 1
+            }
+        ]
+    },
+
+    "5cf382e3-2fb6-41ef-8fc7-dc4ef98373be" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentProps/Expansion/GlacialConnection/glacialconnection_rocks/glacialconnection_rock_01_a_coral.prefab",
+        "distribution" : [
+            {
+                // WorldEdge_Ground
+                "biome" : 5900,
+                "count" : 1,
+                "probability" : 0.2
+            }
+        ]
+    },
+
+    "c249192c-4381-4eaf-bcdb-90d5fbd955bd" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentProps/Expansion/GlacialConnection/glacialconnection_rocks/glacialconnection_rock_01_b_coral.prefab",
+        "distribution" : [
+            {
+                // WorldEdge_Ground
+                "biome" : 5900,
+                "count" : 1,
+                "probability" : 0.1
+            }
+        ]
+    },
+
+    "c1083e53-b16a-4392-999a-2ed798892134" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentProps/Expansion/GlacialConnection/glacialconnection_rocks/glacialconnection_rock_01_c_coral.prefab",
+        "distribution" : [
+            {
+                // WorldEdge_Ground
+                "biome" : 5900,
+                "count" : 1,
+                "probability" : 0.2
+            }
+        ]
+    },
+
+    "dc4324a2-f766-47a8-8875-b4dd511145ac" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentProps/Expansion/GlacialConnection/glacialconnection_rocks/rock_small_01_cluster_a_gc.prefab",
+        "distribution" : [
+            {
+                // WorldEdge_Ground
+                "biome" : 5900,
+                "count" : 1,
+                "probability" : 0.3
+            }
+        ]
+    },
+
+    "541504f7-4ae7-4f51-a9c2-5619fe6a4208" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentProps/Expansion/GlacialConnection/glacialconnection_rocks/rock_small_01_cluster_b_gc.prefab",
+        "distribution" : [
+            {
+                // WorldEdge_Ground
+                "biome" : 5900,
+                "count" : 1,
+                "probability" : 0.3
+            }
+        ]
+    },
+
+    "17cff1cd-a5e6-419f-b2be-bae861a19bc2" : 
+    {
+        "prefabPath" : "WorldEntities/EnvironmentProps/Expansion/GlacialConnection/glacialconnection_rocks/rock_small_01_cluster_c_gc.prefab",
+        "distribution" : [
+            {
+                // WorldEdge_Ground
+                "biome" : 5900,
+                "count" : 1,
+                "probability" : 0.3
+            }
+        ]
+    },
+
+    "ba5c2221-8018-491d-8a38-49e342b2feb2" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/DiscusFish.prefab",
+        "distribution" : [
+            {
+                // TreeSpires_VentGarden
+                "biome" : 4113,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // LilyPads_Deep_Open
+                "biome" : 3503,
+                "count" : 1,
+                "probability" : 0.2
+            },
+            {
+                // TreeSpires_BigFissure_Open
+                "biome" : 4111,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // TreeSpires_BigFissure_Wall
+                "biome" : 4110,
+                "count" : 1,
+                "probability" : 1
+            },
+            {
+                // TreeSpires_Ground
+                "biome" : 4102,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // TreeSpires_BigFissure_Ground
+                "biome" : 4109,
+                "count" : 1,
+                "probability" : 0.5
+            }
+        ]
+    },
+
+    "efb0f96c-f42c-4a2c-8add-138539ba2e52" : 
+    {
+        "prefabPath" : "WorldEntities/Creatures/Expansion/ArrowRay_School.prefab",
+        "distribution" : [
+            {
+                // LilyPads_Ground
+                "biome" : 3510,
+                "count" : 1,
+                "probability" : 0.15
+            },
+            {
+                // TreeSpires_Ground
+                "biome" : 4102,
+                "count" : 1,
+                "probability" : 0.15
+            }
+        ]
+    },
+
+    "932fc808-9183-4f90-bee2-1eec1b30ee73" : 
+    {
+        "prefabPath" : "WorldEntities/Eggs/CrashEgg.prefab",
+        "distribution" : [
+            {
+                // CrashHome
+                "biome" : 901,
+                "count" : 1,
+                "probability" : 0.5
+            }
+        ]
+    },
+
+    "afeffee0-6066-4d6a-86a6-c1369cd8f942" : 
+    {
+        "prefabPath" : "WorldEntities/Eggs/Expansion/BrinewingEgg.prefab",
+        "distribution" : [
+            {
+                // SparseArctic_IceSheet
+                "biome" : 3104,
+                "count" : 1,
+                "probability" : 0.2
+            }
+        ]
+    },
+
+    "71c77094-6090-40df-86ed-1e73afe9e410" : 
+    {
+        "prefabPath" : "WorldEntities/Eggs/Expansion/HiddenCrocEgg.prefab",
+        "distribution" : [
+            {
+                // ThermalSpires_Cave_Ground
+                "biome" : 3606,
+                "count" : 1,
+                "probability" : 0.5
+            }
+        ]
+    },
+
+    "71d8dc3c-790f-4445-8f6b-9f69895f1bad" : 
+    {
+        "prefabPath" : "WorldEntities/Eggs/Expansion/GlowwhaleEgg.prefab",
+        "distribution" : [
+            {
+                // LilyPads_Islands_Cave_Ground
+                "biome" : 3534,
+                "count" : 1,
+                "probability" : 0.5
+            },
+            {
+                // LilyPads_Islands_Grass
+                "biome" : 3531,
+                "count" : 1,
+                "probability" : 0.3
+            }
+        ]
+    },
+
+    "05a49de0-5434-47dd-b205-e36b85e9be39" : 
+    {
+        "prefabPath" : "WorldEntities/Eggs/Expansion/RockpuncherEgg.prefab",
+        "distribution" : [
+            {
+                // CrystalCave_Fissure_Floor
+                "biome" : 3821,
+                "count" : 1,
+                "probability" : 0.5
+            }
+        ]
+    },
+
+    "a103c6f9-1360-4640-816c-0904b71346de" : 
+    {
+        "prefabPath" : "WorldEntities/Eggs/Expansion/ArcticRayEgg.prefab",
+        "distribution" : [
+            {
+                // SparseArctic_Ground
+                "biome" : 3102,
+                "count" : 1,
+                "probability" : 0.15
+            }
+        ]
+    },
+
+    "46e325d2-b4f4-4dc3-9f2b-127808b316f4" : 
+    {
+        "prefabPath" : "WorldEntities/Eggs/Expansion/LilyPaddlerEgg.prefab",
+        "distribution" : [
+            {
+                // LilyPads_Crevice_Ground
+                "biome" : 3520,
+                "count" : 1,
+                "probability" : 0.1
+            }
+        ]
+    },
+
+    "09cacd0a-95f2-4e25-b5a6-67c310a835d7" : 
+    {
+        "prefabPath" : "WorldEntities/Eggs/Expansion/PinnacaridEgg.prefab",
+        "distribution" : [
+            {
+                // ArcticKelp_Grass
+                "biome" : 4002,
+                "count" : 1,
+                "probability" : 0.15
+            }
+        ]
+    },
+
+    "a8f9c0df-f588-4a64-9951-ece4fe975464" : 
+    {
+        "prefabPath" : "WorldEntities/Environment/SeaMonkeyNest_GrapplingArmModuleFragment.prefab",
+        "distribution" : [
+            {
+                // LilyPads_Crevice_SeamonkeyNest3
+                "biome" : 3526,
+                "count" : 1,
+                "probability" : 1000
+            }
+        ]
+    }
+}
