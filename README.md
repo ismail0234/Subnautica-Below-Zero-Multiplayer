@@ -29,7 +29,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Swedish            | ❌         | sv        | - | - |
  
 
-## Subnautica BZ Multiplayer To-Do List (%60.00 Completed)
+## Subnautica BZ Multiplayer To-Do List (%61.21 Completed)
 
 <details>
   <summary>Base Piece Construction Synchronization (16/20)</summary>
@@ -115,14 +115,14 @@ You can contribute to us to translate the mod into other languages. You can get 
 </details>
 
 <details>
-  <summary>Player Items Synchronization (2/24)</summary>
+  <summary>Player Items Synchronization (4/24)</summary>
   
 - [x] Scanner
 - [x] Builder
+- [x] Knife
+- [x] HeatBlade
 - [ ] Welder
 - [ ] Flashlight
-- [ ] Knife
-- [ ] HeatBlade
 - [ ] DiveReel
 - [ ] AirBladder
 - [ ] Flare
