@@ -21,6 +21,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Ukrainian          | ✔️         | uk        | [uk.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/uk.json) | PENGLING-UK |
 | Brazil             | ✔️         | pt        | [pt.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/pt.json) | DANn-n |
 | Spanish            | ✔️         | es        | [es.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/es.json) | Borja7894 |
+| Icelandic          | ✔️         | is        | [is.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/is.json) | Zabbihamers2.0 |
 | Italian            | ❌         | it        | - | - |
 | Korean             | ❌         | ko        | - | - |
 | Arabic             | ❌         | ar        | - | - |
