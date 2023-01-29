@@ -198,7 +198,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] Player Item Animation Synchronization
 - [x] Base Power Synchronization
 - [x] Player Animation Synchronization
-- [ ] Vehicles
+- [ ] Vehicles (Animation)
 	- [ ] SpyPenguin
 	- [ ] Snowfox
 	- [ ] Seatruck
