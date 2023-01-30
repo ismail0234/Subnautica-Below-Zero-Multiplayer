@@ -3,6 +3,7 @@
 An multiplayer modification for the game Subnautica BZ.
 
 [![Discord](https://img.shields.io/discord/994133148046725160?logo=discord&logoColor=white)](https://discord.gg/Gq9nush6SP)
+[![Crowdin](https://badges.crowdin.net/subnautica-bz-multiplayer-mod/localized.svg)](https://crowdin.com/project/subnautica-bz-multiplayer-mod)
 
 [Website](https://subnauticamultiplayer.com/) | [Discord](https://discord.gg/Gq9nush6SP)
 
