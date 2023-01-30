@@ -9,6 +9,12 @@ An multiplayer modification for the game Subnautica BZ.
 ### Translations
 You can contribute to us to translate the mod into other languages. You can get started at [here.](https://crowdin.com/project/subnautica-bz-multiplayer-mod/)
 
+1. Open the Crowdin page.
+2. Click on the language you want to translate.
+3. Click on the language.json file.
+4. Translate all sentences step by step.
+5. The process will be provided after the translated sentences are checked by me.
+
 | Language           | Completed | Lang Code | Translation Page                                                                                           | Translator     |
 |--------------------|:-----------:|:-----------:|:------------------------------------------------------------------------------------------------------------:|----------------|
 | English            | ✔️        | en        | en.json | BOT Benson     |
