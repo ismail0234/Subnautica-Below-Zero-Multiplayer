@@ -209,7 +209,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] Base Hull Strength Synchronization
 - [ ] Furniture Interaction Synchronization
 - [ ] Weather Synchronization
-- [ ] Power management Synchronization
+- [ ] Power management (Consumption) Synchronization
 - [ ] AI (Creatures/Fishes) Synchronization
 - [ ] Item Pickup Synchronization
 - [ ] Item Drop Synchronization
