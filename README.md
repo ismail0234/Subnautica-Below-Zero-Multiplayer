@@ -14,7 +14,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 2. Click on the language you want to translate.
 3. Click on the language.json file.
 4. Translate all sentences step by step.
-5. The process will be provided after the translated sentences are checked by me.
+5. The translated sentences will be approved after being checked by me.
 
 | Language           | Completed | Lang Code | Translation Page                                                                                           | Translator     |
 |--------------------|:-----------:|:-----------:|:------------------------------------------------------------------------------------------------------------:|----------------|
