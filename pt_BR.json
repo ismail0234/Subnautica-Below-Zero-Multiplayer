@@ -1,0 +1,602 @@
+[
+    {
+        "identifier": "APP_BOOT_CREATE_FILES",
+        "source_string": "Creating boot files...",
+        "translation": "Criando arquivos de inicialização...",
+        "context": " -> APP_BOOT_CREATE_FILES",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_CHECKING_VERSION",
+        "source_string": "Version checking...",
+        "translation": "Conferindo versão...",
+        "context": " -> APP_CHECKING_VERSION",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_SERVER_NOT_CONNECTED",
+        "source_string": "Could not connect to server.",
+        "translation": "Não foi possível conectar-se ao servidor.",
+        "context": " -> APP_SERVER_NOT_CONNECTED",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_SERVER_CONFIGURATION_INVALID",
+        "source_string": "There is a problem with the server configuration.",
+        "translation": "Há um problema na conexão com o servidor.",
+        "context": " -> APP_SERVER_CONFIGURATION_INVALID",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_SERVER_CHECKING_UDPATE_ERR",
+        "source_string": "There was a problem checking version.",
+        "translation": "Houve um problema conferindo a versão.",
+        "context": " -> APP_SERVER_CHECKING_UDPATE_ERR",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_DOWNLOAD_ERROR_FILE",
+        "source_string": "Application update processing failed. You can join our discord server for support, https:\/\/discord.gg\/Gq9nush6SP",
+        "translation": "Falha no processo de atualização. Acesse o discord para suporte, https:\/\/discord.gg\/Gq9nush6SP",
+        "context": " -> APP_DOWNLOAD_ERROR_FILE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_FILE_READING",
+        "source_string": "Reading application file...",
+        "translation": "Lendo processo do aplicativo...",
+        "context": " -> APP_FILE_READING",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_FILE_ERROR",
+        "source_string": "Failed to read application file.",
+        "translation": "Falha na leitura do processo.",
+        "context": " -> APP_FILE_ERROR",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_ASSETS_FILE_DOWNLOADING",
+        "source_string": "Downloading assets...",
+        "translation": "Baixando assets...",
+        "context": " -> APP_ASSETS_FILE_DOWNLOADING",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_OPENING_LAUNCHER",
+        "source_string": "Opening Application...",
+        "translation": "Abrindo aplicativo...",
+        "context": " -> APP_OPENING_LAUNCHER",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_TRAY_BALLON_TITLE",
+        "source_string": "Subnautica Below Zero Multiplayer",
+        "translation": "Subnautica Below Zero Multijogador",
+        "context": " -> APP_TRAY_BALLON_TITLE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_TRAY_BALLON_TEXT",
+        "source_string": "Launcher Backgrounded.",
+        "translation": "Launcher em segundo plano.",
+        "context": " -> APP_TRAY_BALLON_TEXT",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_LOGOUT",
+        "source_string": "Sign Out",
+        "translation": "Desconectar",
+        "context": " -> APP_LOGOUT",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_TRAY_LIST_SHOW",
+        "source_string": "Show",
+        "translation": "Mostrar",
+        "context": " -> APP_TRAY_LIST_SHOW",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_PROCESS_ERROR",
+        "source_string": "Operation Failed",
+        "translation": "Falha na operação",
+        "context": " -> APP_PROCESS_ERROR",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_AUTHOR",
+        "source_string": "Producer",
+        "translation": "Produtor",
+        "context": " -> APP_AUTHOR",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_PLAY",
+        "source_string": "Play",
+        "translation": "Jogar",
+        "context": " -> APP_PLAY",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_OPENING_GAME",
+        "source_string": "Opening Game",
+        "translation": "Abrindo jogo",
+        "context": " -> APP_OPENING_GAME",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_SIDEBAR_SERVER_CONSOLE",
+        "source_string": "Server Console",
+        "translation": "Console do servidor",
+        "context": " -> APP_SIDEBAR_SERVER_CONSOLE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_SIDEBAR_SETTINGS_FOLDER",
+        "source_string": "Game Files",
+        "translation": "Arquivos do jogo",
+        "context": " -> APP_SIDEBAR_SETTINGS_FOLDER",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_SIDEBAR_SETTINGS_GENERAL",
+        "source_string": "Settings",
+        "translation": "Configurações",
+        "context": " -> APP_SIDEBAR_SETTINGS_GENERAL",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_FOLDER_SCREEN_GAME_FOLDER",
+        "source_string": "Game Files",
+        "translation": "Arquivos do jogo",
+        "context": " -> APP_FOLDER_SCREEN_GAME_FOLDER",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_FOLDER_SCREEN_SAVE_FOLDER",
+        "source_string": "Save Folder",
+        "translation": "Pasta de salvamento",
+        "context": " -> APP_FOLDER_SCREEN_SAVE_FOLDER",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_FOLDER_SCREEN_APP_LOG_FOLDER",
+        "source_string": "Application Logs",
+        "translation": "Logs do aplicativo",
+        "context": " -> APP_FOLDER_SCREEN_APP_LOG_FOLDER",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_FOLDER_SCREEN_GAME_LOG_FOLDER",
+        "source_string": "Game Logs",
+        "translation": "Logs do jogo",
+        "context": " -> APP_FOLDER_SCREEN_GAME_LOG_FOLDER",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_LAUNCHER_SETTING_HEAD_TEXT",
+        "source_string": "Launcher Settings",
+        "translation": "Configurações do launcher",
+        "context": " -> APP_LAUNCHER_SETTING_HEAD_TEXT",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_GAME_OPENING_SHOW_HIDE",
+        "source_string": "Hide Launcher while game is running",
+        "translation": "Ocultar launcher enquato o jogo está rodando",
+        "context": " -> APP_GAME_OPENING_SHOW_HIDE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_HEADER_SETTINGS",
+        "source_string": "Settings",
+        "translation": "Configurações",
+        "context": " -> APP_HEADER_SETTINGS",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_HEADER_PLAY",
+        "source_string": "Play",
+        "translation": "Jogar",
+        "context": " -> APP_HEADER_PLAY",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "APP_HEADER_SERVER",
+        "source_string": "Server",
+        "translation": "Servidor",
+        "context": " -> APP_HEADER_SERVER",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "DISCORD_STATUS_UPDATE_LAUNCHER",
+        "source_string": "Updating Launcher",
+        "translation": "Atualizando launcher",
+        "context": " -> DISCORD_STATUS_UPDATE_LAUNCHER",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "DISCORD_STATUS_MAIN_MENU",
+        "source_string": "In Main Menu",
+        "translation": "No menu principal",
+        "context": " -> DISCORD_STATUS_MAIN_MENU",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_SERVER_NAME",
+        "source_string": "Server Name",
+        "translation": "Nome do servidor",
+        "context": " -> GAME_SERVER_NAME",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_SERVER_IP",
+        "source_string": "Server Ip Address",
+        "translation": "Endereço de ip do servidor",
+        "context": " -> GAME_SERVER_IP",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_SERVER_PORT",
+        "source_string": "Server Port",
+        "translation": "Porta do servidor",
+        "context": " -> GAME_SERVER_PORT",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_MULTIPLAYER",
+        "source_string": "Multiplayer",
+        "translation": "Multijogador",
+        "context": " -> GAME_MULTIPLAYER",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_ADD_SERVER",
+        "source_string": "Add Server",
+        "translation": "Adicionar servidor",
+        "context": " -> GAME_ADD_SERVER",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_SERVER_NAME_PLACEHOLDER",
+        "source_string": "BOT Benson Subnautica Server",
+        "translation": "BOT Benson Subnautica Server",
+        "context": " -> GAME_SERVER_NAME_PLACEHOLDER",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_SERVER_IP_PLACEHOLDER",
+        "source_string": "127.0.0.1",
+        "translation": "127.0.0.1",
+        "context": " -> GAME_SERVER_IP_PLACEHOLDER",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_SERVER_PORT_PLACEHOLDER",
+        "source_string": "666",
+        "translation": "666",
+        "context": " -> GAME_SERVER_PORT_PLACEHOLDER",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_SERVER_NAME_EMPTY_ERROR",
+        "source_string": "Please do not leave the Server name blank.",
+        "translation": "Por favor não deixe o nome do servidor em branco.",
+        "context": " -> GAME_SERVER_NAME_EMPTY_ERROR",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_SERVER_NAME_LENGTH_ERROR",
+        "source_string": "Please enter the Server name at least 3 characters and at most 64 characters.",
+        "translation": "Por favor escolha um nome com no mímino 3 caracteres e no máximo 64.",
+        "context": " -> GAME_SERVER_NAME_LENGTH_ERROR",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_SERVER_IP_INVALID_ERROR",
+        "source_string": "Please enter a valid ip address.",
+        "translation": "Por favor use um endereço de ip válido.",
+        "context": " -> GAME_SERVER_IP_INVALID_ERROR",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_SERVER_PORT_INVALID_ERROR",
+        "source_string": "Please enter a valid port number.",
+        "translation": "Por favor use um numero de porta válido.",
+        "context": " -> GAME_SERVER_PORT_INVALID_ERROR",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_SERVER_PORT_LENGTH_ERROR",
+        "source_string": "Please enter port number between 1-65000.",
+        "translation": "Por favor use um número de porta entre 1-65000.",
+        "context": " -> GAME_SERVER_PORT_LENGTH_ERROR",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_SERVER_EXIST",
+        "source_string": "This server already exists.",
+        "translation": "Este servidor já existe.",
+        "context": " -> GAME_SERVER_EXIST",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_NOT_FOUND_SERVER",
+        "source_string": "This server does not exist.",
+        "translation": "Este servidor não existe.",
+        "context": " -> GAME_NOT_FOUND_SERVER",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_SERVER_ALREADY_CONNECTING",
+        "source_string": "You are already connecting to a server. Please wait.",
+        "translation": "Você já está se conectando a um servidor, por favor aguarde.",
+        "context": " -> GAME_SERVER_ALREADY_CONNECTING",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_SERVER_ALREADY_CONNECTED",
+        "source_string": "You are already connected to a server",
+        "translation": "Você já está conectado a um servidor",
+        "context": " -> GAME_SERVER_ALREADY_CONNECTED",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_SERVER_CONNECTING_ERROR",
+        "source_string": "Connection to server failed.",
+        "translation": "Falha na conexão com servidor.",
+        "context": " -> GAME_SERVER_CONNECTING_ERROR",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_PLAYER_CONNECTED",
+        "source_string": "{playername} is connected.",
+        "translation": "{playername} conectou-se.",
+        "context": " -> GAME_PLAYER_CONNECTED",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_SERVER_PLAYER_CONNECTING",
+        "source_string": "You are connecting to server...",
+        "translation": "Você está conectando-se ao servidor...",
+        "context": " -> GAME_SERVER_PLAYER_CONNECTING",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_SERVER_PLAYER_CONNECTED",
+        "source_string": "You are connected to the server. Loading game world.",
+        "translation": "Você está conectado ao servidor. Carrgando mundo.",
+        "context": " -> GAME_SERVER_PLAYER_CONNECTED",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_SERVER_RETRY_CONNECTION_ERROR",
+        "source_string": "Disconnected. Reconnecting ({time})",
+        "translation": "Desconectado. Reconectando ({time})",
+        "context": " -> GAME_SERVER_RETRY_CONNECTION_ERROR",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_ITEM_USED_ANOTHER_PLAYER",
+        "source_string": "It is being used by another player.",
+        "translation": "Outro jogador está usando.",
+        "context": " -> GAME_ITEM_USED_ANOTHER_PLAYER",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_CONNECTION_REJECTED",
+        "source_string": "Connection to the server failed. Please update by restarting the launcher.",
+        "translation": "A conexão com o servidor falhou. Por favor reinicie o launcher.",
+        "context": " -> GAME_CONNECTION_REJECTED",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_MULTIPLAYER_HOST_GAME",
+        "source_string": "Host Game",
+        "translation": "Hospedar jogo",
+        "context": " -> GAME_MULTIPLAYER_HOST_GAME",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_MULTIPLAYER_JOIN_GAME",
+        "source_string": "Join Server",
+        "translation": "Juntar-se ao servidor",
+        "context": " -> GAME_MULTIPLAYER_JOIN_GAME",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_MULTIPLAYER_CREATE_SERVER",
+        "source_string": "Create Server",
+        "translation": "Criar servidor",
+        "context": " -> GAME_MULTIPLAYER_CREATE_SERVER",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_SIZE_B",
+        "source_string": "Byte",
+        "translation": "Byte",
+        "context": " -> GAME_SIZE_B",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_SIZE_KB",
+        "source_string": "KB",
+        "translation": "KB",
+        "context": " -> GAME_SIZE_KB",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_SIZE_MB",
+        "source_string": "MB",
+        "translation": "MB",
+        "context": " -> GAME_SIZE_MB",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_SIZE_GB",
+        "source_string": "GB",
+        "translation": "GB",
+        "context": " -> GAME_SIZE_GB",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_MONTH_1",
+        "source_string": "January",
+        "translation": "Janeiro",
+        "context": " -> GAME_MONTH_1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_MONTH_2",
+        "source_string": "February",
+        "translation": "Fevereiro",
+        "context": " -> GAME_MONTH_2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_MONTH_3",
+        "source_string": "March",
+        "translation": "Março",
+        "context": " -> GAME_MONTH_3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_MONTH_4",
+        "source_string": "April",
+        "translation": "Abril",
+        "context": " -> GAME_MONTH_4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_MONTH_5",
+        "source_string": "May",
+        "translation": "Maio",
+        "context": " -> GAME_MONTH_5",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_MONTH_6",
+        "source_string": "June",
+        "translation": "Junho",
+        "context": " -> GAME_MONTH_6",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_MONTH_7",
+        "source_string": "July",
+        "translation": "Julho",
+        "context": " -> GAME_MONTH_7",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_MONTH_8",
+        "source_string": "August",
+        "translation": "Agosto",
+        "context": " -> GAME_MONTH_8",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_MONTH_9",
+        "source_string": "September",
+        "translation": "Setembro",
+        "context": " -> GAME_MONTH_9",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_MONTH_10",
+        "source_string": "October",
+        "translation": "Outubro",
+        "context": " -> GAME_MONTH_10",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_MONTH_11",
+        "source_string": "November",
+        "translation": "Novembro",
+        "context": " -> GAME_MONTH_11",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GAME_MONTH_12",
+        "source_string": "December",
+        "translation": "Dezembro",
+        "context": " -> GAME_MONTH_12",
+        "labels": null,
+        "max_length": null
+    }
+]
