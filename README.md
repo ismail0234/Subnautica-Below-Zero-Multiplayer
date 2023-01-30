@@ -203,7 +203,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [ ] Snowfox
 	- [ ] Seatruck
 	- [ ] Prawn Suit
-- [ ] Entity Position Synchronization
+- [ ] Entity/Item Position Synchronization
 - [ ] Vehicle Movement Synchronization
 - [ ] PDA Beacons Synchronization
 - [ ] PDA Log Synchronization
