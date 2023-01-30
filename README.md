@@ -16,6 +16,8 @@ You can contribute to us to translate the mod into other languages. You can get 
 4. Translate all sentences step by step.
 5. The translated sentences will be approved after being checked by me.
 
+**Note: If you do not see the language you want to translate in the list. Contact me by joining our discord server. (ismail#8888)**
+
 | Language           | Completed | Lang Code | Translation Page                                                                                           | Translator     |
 |--------------------|:-----------:|:-----------:|:------------------------------------------------------------------------------------------------------------:|----------------|
 | English            | ✔️        | en        | en.json | BOT Benson     |
