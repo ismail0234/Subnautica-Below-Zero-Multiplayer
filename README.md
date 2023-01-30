@@ -198,16 +198,16 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] Player Item Animation Synchronization
 - [x] Base Power Synchronization
 - [x] Player Animation Synchronization
-- [ ] Vehicles (Animation)
+- [ ] Vehicles (Animation etc..)
 	- [ ] SpyPenguin
 	- [ ] Snowfox
 	- [ ] Seatruck
 	- [ ] Prawn Suit
+- [ ] Entity Position Synchronization
 - [ ] Vehicle Movement Synchronization
 - [ ] PDA Beacons Synchronization
 - [ ] PDA Log Synchronization
 - [ ] Base Hull Strength Synchronization
-- [ ] Furniture Interaction Synchronization
 - [ ] Weather Synchronization
 - [ ] Power management (Consumption) Synchronization
 - [ ] AI (Creatures/Fishes) Synchronization
