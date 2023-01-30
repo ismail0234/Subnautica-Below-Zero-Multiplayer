@@ -7,27 +7,27 @@ An multiplayer modification for the game Subnautica BZ.
 [Website](https://subnauticamultiplayer.com/) | [Discord](https://discord.gg/Gq9nush6SP)
 
 ### Translations
-You can contribute to us to translate the mod into other languages. You can get started at [here.](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/tree/main/app/languages)
+You can contribute to us to translate the mod into other languages. You can get started at [here.](https://crowdin.com/project/subnautica-bz-multiplayer-mod/)
 
 | Language           | Completed | Lang Code | Translation Page                                                                                           | Translator     |
 |--------------------|:-----------:|:-----------:|:------------------------------------------------------------------------------------------------------------:|----------------|
-| Turkish            | ✔️        | tr        | [tr.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/tr.json) | BOT Benson     |
-| English            | ✔️        | en        | [en.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/en.json) | BOT Benson     |
-| French             | ✔️        | fr        | [fr.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/fr.json) | Argento Vampir |
-| Russian            | ✔️         | ru        | [ru.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/ru.json)  | Zztop              |
-| Polish             | ✔️         | pl        | [pl.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/pl.json) | milooop2 |
-| Simplified Chinese | ✔️         | zh        | [zh.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/zh.json) | Blue Star |
-| German             | ✔️         | de        | [de.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/de.json) | Ex000000 |
-| Ukrainian          | ✔️         | uk        | [uk.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/uk.json) | PENGLING-UK |
-| Brazil             | ✔️         | pt        | [pt.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/pt.json) | DANn-n |
-| Spanish            | ✔️         | es        | [es.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/es.json) | Borja7894 |
-| Icelandic          | ✔️         | is        | [is.json](https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/blob/main/app/languages/is.json) | Zabbihamers2.0 |
-| Italian            | ❌         | it        | - | - |
-| Korean             | ❌         | ko        | - | - |
-| Arabic             | ❌         | ar        | - | - |
-| Japanese           | ❌         | ja        | - | - |
-| Bulgarian          | ❌         | bg        | - | - |
-| Swedish            | ❌         | sv        | - | - |
+| English            | ✔️        | en        | en.json | BOT Benson     |
+| Turkish            | ✔️        | tr        | [tr.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/tr) | BOT Benson     |
+| French             | ✔️        | fr        | [fr.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/fr) | Argento Vampir |
+| Russian            | ✔️        | ru        | [ru.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/ru) | Zztop              |
+| Polish             | ✔️        | pl        | [pl.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/pl) | milooop2 |
+| Simplified Chinese | ✔️        | zh        | [zh.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/zh-CN) | Blue Star |
+| German             | ✔️        | de        | [de.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/de) | Ex000000 |
+| Ukrainian          | ✔️        | uk        | [uk.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/uk) | PENGLING-UK |
+| Brazil             | ✔️        | pt        | [pt.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/pt-BR) | DANn-n |
+| Spanish            | ✔️        | es        | [es.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/es-ES) | Borja7894 |
+| Icelandic          | ✔️        | is        | [is.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/is) | Zabbihamers2.0 |
+| Italian            | ❌        | it        | - | - |
+| Korean             | ❌        | ko        | - | - |
+| Arabic             | ❌        | ar        | - | - |
+| Japanese           | ❌        | ja        | - | - |
+| Bulgarian          | ❌        | bg        | - | - |
+| Swedish            | ❌        | sv        | - | - |
  
 
 ## Subnautica BZ Multiplayer To-Do List (%62.42 Completed)
