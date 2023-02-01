@@ -5,7 +5,7 @@
     "APP_SERVER_CONFIGURATION_INVALID": "Wystąpił problem z konfiguracją serwera.",
     "APP_SERVER_CHECKING_UDPATE_ERR": "Wystąpił błąd podczas sprawdzania aktualizacji.",
     "APP_DOWNLOAD_ERROR_FILE": "Wystąpił błąd podczas aktualizacji. Możesz dołączyć do naszego serwera discord, aby uzyskać wsparcie, https:\/\/discord.gg\/Gq9nush6SP",
-    "APP_FILE_READING": "Wtczytywanie plików...",
+    "APP_FILE_READING": "Wczytywanie plików...",
     "APP_FILE_ERROR": "Błąd podczas wczytywania plików.",
     "APP_ASSETS_FILE_DOWNLOADING": "Pobieranie zasobów...",
     "APP_OPENING_LAUNCHER": "Wczytywanie...",
