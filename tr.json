@@ -17,7 +17,6 @@
     "APP_AUTHOR": "Yapımcı",
     "APP_PLAY": "Oyna",
     "APP_OPENING_GAME": "Oyun Açılıyor",
-    "APP_SIDEBAR_SERVER_CONSOLE": "Sunucu Konsolu",
     "APP_SIDEBAR_SETTINGS_FOLDER": "Oyun Dosyaları",
     "APP_SIDEBAR_SETTINGS_GENERAL": "Ayarlar",
     "APP_FOLDER_SCREEN_GAME_FOLDER": "Oyun Dosyaları",
@@ -28,7 +27,6 @@
     "APP_GAME_OPENING_SHOW_HIDE": "Oyun çalışırken Başlatıcıyı gizle",
     "APP_HEADER_SETTINGS": "Ayarlar",
     "APP_HEADER_PLAY": "Oyna",
-    "APP_HEADER_SERVER": "Sunucu",
     "DISCORD_STATUS_UPDATE_LAUNCHER": "Launcher Güncelleniyor",
     "DISCORD_STATUS_MAIN_MENU": "Ana Menüde",
     "GAME_SERVER_NAME": "Sunucu Adı",
@@ -73,5 +71,7 @@
     "GAME_MONTH_9": "Eylül",
     "GAME_MONTH_10": "Ekim",
     "GAME_MONTH_11": "Kasım",
-    "GAME_MONTH_12": "Aralık"
+    "GAME_MONTH_12": "Aralık",
+    "APP_LAUNCHER_UPDATER": "Başlatıcı Güncelleyici",
+    "APP_LAUNCHER_DOWNLOADING": "Başlatıcı İndiriliyor"
 }
