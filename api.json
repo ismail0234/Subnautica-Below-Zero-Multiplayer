@@ -33,24 +33,47 @@
     },
     "Game": 
     {
-        "Main": [
-            "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Subnautica.Loader.dll"
-        ],
-        
-        "Dependencies": [
-            "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/MessagePack.Annotations.dll",
-            "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/MessagePack.dll",
-            "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/LiteNetLib.dll",
-            "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/Newtonsoft.Json.dll",
-            "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/0Harmony.dll",
-            "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/Subnautica.API.dll",
-            "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Dependencies/Subnautica.Network.dll"
+        "Main": 
+        [
+            "--API-URL--/Dependencies/Subnautica.Loader.dll"
         ],
 
-        "Plugins": [
-            "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Plugins/Subnautica.Events.dll",
-            "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Plugins/Subnautica.Server.dll",
-            "https://raw.github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/game/Plugins/Subnautica.Client.dll"
+        "Dependencies":
+        [
+            "--API-URL--/Dependencies/MessagePack.Annotations.dll",
+            "--API-URL--/Dependencies/MessagePack.dll",
+            "--API-URL--/Dependencies/LiteNetLib.dll",
+            "--API-URL--/Dependencies/Newtonsoft.Json.dll",
+            "--API-URL--/Dependencies/0Harmony.dll",
+            "--API-URL--/Dependencies/Subnautica.API.dll",
+            "--API-URL--/Dependencies/Subnautica.Network.dll"
+        ],
+
+        "Plugins": 
+        [
+            "--API-URL--/Dependencies/Subnautica.Events.dll",
+            "--API-URL--/Dependencies/Subnautica.Server.dll",
+            "--API-URL--/Dependencies/Subnautica.Client.dll"
         ]
-    }
+    },
+    "Languages":
+    [
+        "ar-SA",
+        "bg-BG",
+        "de-DE",
+        "en-US",
+        "es-ES",
+        "fr-FR",
+        "is-IS",
+        "it-IT",
+        "ja-JP",
+        "ko-KR",
+        "pl-PL",
+        "pt-BR",
+        "ru-RU",
+        "sv-SE",
+        "tr-TR",
+        "uk-UA",
+        "zh-CN"
+    ]    
 }
