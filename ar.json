@@ -17,7 +17,6 @@
     "APP_AUTHOR": "Producer",
     "APP_PLAY": "Play",
     "APP_OPENING_GAME": "Opening Game",
-    "APP_SIDEBAR_SERVER_CONSOLE": "Server Console",
     "APP_SIDEBAR_SETTINGS_FOLDER": "Game Files",
     "APP_SIDEBAR_SETTINGS_GENERAL": "Settings",
     "APP_FOLDER_SCREEN_GAME_FOLDER": "Game Files",
@@ -28,7 +27,6 @@
     "APP_GAME_OPENING_SHOW_HIDE": "Hide Launcher while game is running",
     "APP_HEADER_SETTINGS": "Settings",
     "APP_HEADER_PLAY": "Play",
-    "APP_HEADER_SERVER": "Server",
     "DISCORD_STATUS_UPDATE_LAUNCHER": "Updating Launcher",
     "DISCORD_STATUS_MAIN_MENU": "In Main Menu",
     "GAME_SERVER_NAME": "Server Name",
@@ -73,5 +71,7 @@
     "GAME_MONTH_9": "September",
     "GAME_MONTH_10": "October",
     "GAME_MONTH_11": "November",
-    "GAME_MONTH_12": "December"
+    "GAME_MONTH_12": "December",
+    "APP_LAUNCHER_UPDATER": "Launcher Updater",
+    "APP_LAUNCHER_DOWNLOADING": "Downloading Launcher"
 }
