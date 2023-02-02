@@ -2,5 +2,5 @@ targets:
   - name: Languages
     sources:
       - '*.json'
-    file: /%osx_locale%.json
+    file: '%locale%.json'
     format: crowdin-json
