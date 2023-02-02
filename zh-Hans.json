@@ -17,7 +17,6 @@
     "APP_AUTHOR": "作者",
     "APP_PLAY": "开始游戏",
     "APP_OPENING_GAME": "打开游戏",
-    "APP_SIDEBAR_SERVER_CONSOLE": "服务器控制台",
     "APP_SIDEBAR_SETTINGS_FOLDER": "游戏文件夹",
     "APP_SIDEBAR_SETTINGS_GENERAL": "设置",
     "APP_FOLDER_SCREEN_GAME_FOLDER": "游戏文件夹",
@@ -28,7 +27,6 @@
     "APP_GAME_OPENING_SHOW_HIDE": "游戏运行时隐藏启动器",
     "APP_HEADER_SETTINGS": "设置",
     "APP_HEADER_PLAY": "开始游戏",
-    "APP_HEADER_SERVER": "服务器",
     "DISCORD_STATUS_UPDATE_LAUNCHER": "更新启动器",
     "DISCORD_STATUS_MAIN_MENU": "在主菜单中",
     "GAME_SERVER_NAME": "服务器名称",
@@ -73,5 +71,7 @@
     "GAME_MONTH_9": "September",
     "GAME_MONTH_10": "October",
     "GAME_MONTH_11": "November",
-    "GAME_MONTH_12": "December"
+    "GAME_MONTH_12": "December",
+    "APP_LAUNCHER_UPDATER": "Launcher Updater",
+    "APP_LAUNCHER_DOWNLOADING": "Downloading Launcher"
 }
