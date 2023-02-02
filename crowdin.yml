@@ -2,5 +2,5 @@ targets:
   - name: Languages
     sources:
       - '*.json'
-    file: '%locale%.json'
+    file: '%locale_with_underscore%.json'
     format: crowdin-json
