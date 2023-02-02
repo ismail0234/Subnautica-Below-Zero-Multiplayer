@@ -17,7 +17,6 @@
     "APP_AUTHOR": "Продюсер",
     "APP_PLAY": "Грати",
     "APP_OPENING_GAME": "Відкриття гри",
-    "APP_SIDEBAR_SERVER_CONSOLE": "Консоль сервера",
     "APP_SIDEBAR_SETTINGS_FOLDER": "Ігрові файли",
     "APP_SIDEBAR_SETTINGS_GENERAL": "Налаштування",
     "APP_FOLDER_SCREEN_GAME_FOLDER": "Ігрові файли",
@@ -28,7 +27,6 @@
     "APP_GAME_OPENING_SHOW_HIDE": "Приховати лаунчер під час роботи гри",
     "APP_HEADER_SETTINGS": "Налаштування",
     "APP_HEADER_PLAY": "Грати",
-    "APP_HEADER_SERVER": "Сервер",
     "DISCORD_STATUS_UPDATE_LAUNCHER": "Оновлення лаунчера",
     "DISCORD_STATUS_MAIN_MENU": "В головне меню",
     "GAME_SERVER_NAME": "Ім'я сервера",
@@ -73,5 +71,7 @@
     "GAME_MONTH_9": "Вересень",
     "GAME_MONTH_10": "Жовтень",
     "GAME_MONTH_11": "Листопад",
-    "GAME_MONTH_12": "Грудень"
+    "GAME_MONTH_12": "Грудень",
+    "APP_LAUNCHER_UPDATER": "Launcher Updater",
+    "APP_LAUNCHER_DOWNLOADING": "Downloading Launcher"
 }
