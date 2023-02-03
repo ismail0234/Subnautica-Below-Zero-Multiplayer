@@ -12,10 +12,12 @@
         [
             "Ismail (BOT Benson)"
         ],
+
         "PatreonSupporters":
         [
             "Alex Nava"
         ],
+
         "Translators":
         [
             "Turkish (BOT Benson)",
@@ -33,11 +35,9 @@
     },
     "Game": 
     {
-        "Main": 
-        [
-            "--API-URL--/Dependencies/Subnautica.Loader.dll"
-        ],
-
+        "Core"    : "--API-URL--/Dependencies/Assembly-CSharp.dll",
+        "Loader"  : "--API-URL--/Dependencies/Subnautica.Loader.dll",
+        "Updater" : "--API-URL--/Dependencies/Subnautica.Updater.exe",
         "Dependencies":
         [
             "--API-URL--/Dependencies/MessagePack.Annotations.dll",
@@ -45,14 +45,17 @@
             "--API-URL--/Dependencies/LiteNetLib.dll",
             "--API-URL--/Dependencies/Newtonsoft.Json.dll",
             "--API-URL--/Dependencies/0Harmony.dll",
+            "--API-URL--/Dependencies/System.Collections.Immutable.dll",
+            "--API-URL--/Dependencies/System.Reflection.Emit.dll",
+            "--API-URL--/Dependencies/System.Reflection.Emit.ILGeneration.dll",
             "--API-URL--/Dependencies/Subnautica.API.dll",
-            "--API-URL--/Dependencies/Subnautica.Network.dll"
+            "--API-URL--/Dependencies/Subnautica.Network.dll",
+            "--API-URL--/Dependencies/Subnautica.Server.dll"
         ],
 
         "Plugins": 
         [
             "--API-URL--/Dependencies/Subnautica.Events.dll",
-            "--API-URL--/Dependencies/Subnautica.Server.dll",
             "--API-URL--/Dependencies/Subnautica.Client.dll"
         ]
     },
