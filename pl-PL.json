@@ -41,7 +41,6 @@
     "GAME_SERVER_NAME_LENGTH_ERROR": "Wprowadź nazwę serwera, która zawierać będzie co najmniej 3 znaki, a maksymalnie 64.",
     "GAME_SERVER_IP_INVALID_ERROR": "Wpisz poprawny adres IP.",
     "GAME_SERVER_PORT_INVALID_ERROR": "Wpisz poprawny nr portu.",
-    "GAME_SERVER_PORT_LENGTH_ERROR": "Wpisz nr portu z zakresu 1-65000.",
     "GAME_SERVER_EXIST": "Taki serwer już istnieje.",
     "GAME_NOT_FOUND_SERVER": "Serwer nie istnieje.",
     "GAME_SERVER_ALREADY_CONNECTING": "Właśnie łączysz się z serwerem. Proszę czekać.",
