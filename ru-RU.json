@@ -41,7 +41,6 @@
     "GAME_SERVER_NAME_LENGTH_ERROR": "Пожалуйста, введите имя сервера не менее 3 символов и не более 64 символов.",
     "GAME_SERVER_IP_INVALID_ERROR": "Пожалуйста, введите действительный IP-адрес.",
     "GAME_SERVER_PORT_INVALID_ERROR": "Пожалуйста, введите допустимый номер порта.",
-    "GAME_SERVER_PORT_LENGTH_ERROR": "Пожалуйста, введите номер порта от 1 до 65000.",
     "GAME_SERVER_EXIST": "Этот сервер уже существует.",
     "GAME_NOT_FOUND_SERVER": "Этот сервер не существует.",
     "GAME_SERVER_ALREADY_CONNECTING": "Вы уже подключаетесь к серверу. Пожалуйста, подождите.",
