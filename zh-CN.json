@@ -41,7 +41,6 @@
     "GAME_SERVER_NAME_LENGTH_ERROR": "请输入服务器名称，名称需要在3到64个字符。",
     "GAME_SERVER_IP_INVALID_ERROR": "请输入有效的ip地址。",
     "GAME_SERVER_PORT_INVALID_ERROR": "请输入有效的端口号。",
-    "GAME_SERVER_PORT_LENGTH_ERROR": "请输入1-65000之间的端口号。",
     "GAME_SERVER_EXIST": "此服务器已经存在。",
     "GAME_NOT_FOUND_SERVER": "此服务器不存在。",
     "GAME_SERVER_ALREADY_CONNECTING": "您已连接到服务器，请稍候。",
