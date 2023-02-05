@@ -41,7 +41,6 @@
     "GAME_SERVER_NAME_LENGTH_ERROR": "Veuillez entrer le nom du serveur au moins 3 caractères et au plus 64 caractères.",
     "GAME_SERVER_IP_INVALID_ERROR": "Veuillez entrer une adresse IP valide.",
     "GAME_SERVER_PORT_INVALID_ERROR": "Veuillez entrer un numéro de Port valide.",
-    "GAME_SERVER_PORT_LENGTH_ERROR": "Veuillez entrer un numéro de port entre 1 et 65000.",
     "GAME_SERVER_EXIST": "Ce serveur existe déjà.",
     "GAME_NOT_FOUND_SERVER": "Ce serveur n'existe pas.",
     "GAME_SERVER_ALREADY_CONNECTING": "Vous êtes déjà connecté à un serveur. S'il vous plaît, attendez.",
@@ -72,6 +71,6 @@
     "GAME_MONTH_10": "Octobre",
     "GAME_MONTH_11": "Novembre",
     "GAME_MONTH_12": "Décembre",
-    "APP_LAUNCHER_UPDATER": "Launcher Updater",
-    "APP_LAUNCHER_DOWNLOADING": "Downloading Launcher"
+    "APP_LAUNCHER_UPDATER": "Launcher de mise à jour",
+    "APP_LAUNCHER_DOWNLOADING": "Téléchargement du launcher"
 }
