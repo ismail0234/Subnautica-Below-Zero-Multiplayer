@@ -41,7 +41,6 @@
     "GAME_SERVER_NAME_LENGTH_ERROR": "Bitte gib einen Servernamen mit mindestens 3 Buchstaben und maximal 64 Buchstaben ein.",
     "GAME_SERVER_IP_INVALID_ERROR": "Bitte gib eine valide IP-Adresse ein.",
     "GAME_SERVER_PORT_INVALID_ERROR": "Bitte gib eine valide Portnummer ein.",
-    "GAME_SERVER_PORT_LENGTH_ERROR": "Bitte gib eine Portnummer zwischen 1-65000.",
     "GAME_SERVER_EXIST": "Dieser Server existiert bereits.",
     "GAME_NOT_FOUND_SERVER": "Dieser Server existiert nicht.",
     "GAME_SERVER_ALREADY_CONNECTING": "Du bist bereits mit einem Server verbunden. Bitte warte.",
