@@ -41,7 +41,6 @@
     "GAME_SERVER_NAME_LENGTH_ERROR": "Por favor escolha um nome com no mímino 3 caracteres e no máximo 64.",
     "GAME_SERVER_IP_INVALID_ERROR": "Por favor use um endereço de ip válido.",
     "GAME_SERVER_PORT_INVALID_ERROR": "Por favor use um numero de porta válido.",
-    "GAME_SERVER_PORT_LENGTH_ERROR": "Por favor use um número de porta entre 1-65000.",
     "GAME_SERVER_EXIST": "Este servidor já existe.",
     "GAME_NOT_FOUND_SERVER": "Este servidor não existe.",
     "GAME_SERVER_ALREADY_CONNECTING": "Você já está se conectando a um servidor, por favor aguarde.",
