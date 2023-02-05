@@ -41,7 +41,6 @@
     "GAME_SERVER_NAME_LENGTH_ERROR": "Vinsamlega sláðu inn nafn þjónsins að minnsta kosti 3 stafi og að hámarki 64 stafi.",
     "GAME_SERVER_IP_INVALID_ERROR": "Vinsamlega sláðu inn gilda ip tölu.",
     "GAME_SERVER_PORT_INVALID_ERROR": "Vinsamlegast sláðu inn gilt gáttarnúmer.",
-    "GAME_SERVER_PORT_LENGTH_ERROR": "Vinsamlega sláðu inn gáttarnúmer á milli 1-65000.",
     "GAME_SERVER_EXIST": "Þessi þjónn er þegar til.",
     "GAME_NOT_FOUND_SERVER": "Þessi þjónn er ekki til.",
     "GAME_SERVER_ALREADY_CONNECTING": "Þú ert nú þegar að tengjast netþjóni. Vinsamlegast bíðið.",
