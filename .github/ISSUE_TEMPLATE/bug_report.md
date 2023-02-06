@@ -22,8 +22,8 @@ assignees: ismail0234
 **Log Files**
 - (Attach the log files here.)
 
-**Bug Screenshots**
+**Screenshots**
 - (Fill in if available.)
 
-**Bug Video Records**
+**Video Records**
 - (Fill in if available.)
