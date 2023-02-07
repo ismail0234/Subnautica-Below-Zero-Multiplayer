@@ -39,7 +39,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Swedish            | ❌        | sv        | - | - |
  
 
-## Subnautica BZ Multiplayer To-Do List (%61.27 Completed)
+## Subnautica BZ Multiplayer To-Do List (%61.84 Completed)
 
 <details>
   <summary>Base Piece Construction Synchronization (16/20)</summary>
@@ -67,7 +67,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 </details> 
 
 <details>
-  <summary>Furniture Construction Synchronization (43/53)</summary>
+  <summary>Furniture Construction Synchronization (44/53)</summary>
 
 - [x] BarTable
 - [x] ExecutiveDesk
@@ -112,13 +112,13 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] BatteryCharger
 - [x] PowerCellCharger
 - [x] Recyclotron
+- [x] CoffeeVendingMachine
 - [ ] Hoverpad
 - [ ] FarmingTray
 - [ ] BaseFiltrationMachine
 - [ ] BaseBulkhead
 - [ ] BaseUpgradeConsole
 - [ ] BaseWaterPark
-- [ ] CoffeeVendingMachine
 - [ ] PlanterPots (PlanterPot / PlanterPot2 / PlanterPot3 / PlanterBox / PlanterShelf)
 - [ ] Beds (Bed2 / NarrowBed / BedJeremiah / BedSam / BedZeta / BedDanielle / BedEmmanuel / BedFred / BedParvan)
 - [ ] Fridge
