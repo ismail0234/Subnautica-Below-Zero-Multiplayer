@@ -119,9 +119,9 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] FarmingTray
 - [ ] BaseBulkhead
 - [ ] BaseUpgradeConsole
-- [ ] BaseWaterPark
 - [ ] PlanterPots (PlanterPot / PlanterPot2 / PlanterPot3 / PlanterBox / PlanterShelf)
 - [ ] Beds (Bed2 / NarrowBed / BedJeremiah / BedSam / BedZeta / BedDanielle / BedEmmanuel / BedFred / BedParvan)
+- [ ] ~~BaseWaterPark~~ (This furniture will be completed in beta.)
 </details>
 
 <details>
