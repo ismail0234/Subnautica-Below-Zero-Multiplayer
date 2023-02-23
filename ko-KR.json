@@ -72,5 +72,7 @@
     "GAME_MONTH_11": "11월",
     "GAME_MONTH_12": "12월",
     "APP_LAUNCHER_UPDATER": "런처 업데이터",
-    "APP_LAUNCHER_DOWNLOADING": "런처 다운로드중"
+    "APP_LAUNCHER_DOWNLOADING": "런처 다운로드중",
+    "GAME_BED_PLAYERS_SLEEPINIG": "{playerCount} Players Sleeping",
+    "GAME_BED_TIME": "Time: {time}"
 }
