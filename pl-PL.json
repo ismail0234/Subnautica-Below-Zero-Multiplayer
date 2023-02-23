@@ -71,6 +71,8 @@
     "GAME_MONTH_10": "Październik",
     "GAME_MONTH_11": "Listopad",
     "GAME_MONTH_12": "Grudzień",
-    "APP_LAUNCHER_UPDATER": "Launcher Updater",
-    "APP_LAUNCHER_DOWNLOADING": "Downloading Launcher"
+    "APP_LAUNCHER_UPDATER": "Aktualizacja Launchera",
+    "APP_LAUNCHER_DOWNLOADING": "Pobieranie Launchera",
+    "GAME_BED_PLAYERS_SLEEPINIG": "{playerCount} Players Sleeping",
+    "GAME_BED_TIME": "Time: {time}"
 }
