@@ -72,5 +72,7 @@
     "GAME_MONTH_11": "Ноябрь",
     "GAME_MONTH_12": "Декабрь",
     "APP_LAUNCHER_UPDATER": "Обновления лаунчера",
-    "APP_LAUNCHER_DOWNLOADING": "Загрузка лаунчера"
+    "APP_LAUNCHER_DOWNLOADING": "Загрузка лаунчера",
+    "GAME_BED_PLAYERS_SLEEPINIG": "{playerCount} Players Sleeping",
+    "GAME_BED_TIME": "Time: {time}"
 }
