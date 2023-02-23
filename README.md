@@ -32,7 +32,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Spanish            | ✔️        | es        | [es.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/es-ES) | Borja7894 |
 | Icelandic          | ✔️        | is        | [is.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/is) | Zabbihamers2.0 |
 | Korean             | ✔️        | ko        | [ko.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/ko) | Sovereign |
-| Italian            | ❌        | it        | - | - |
+| Italian            | ✔️        | it        | [it.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/it) | Stefegra |
 | Arabic             | ❌        | ar        | - | - |
 | Japanese           | ❌        | ja        | - | - |
 | Bulgarian          | ❌        | bg        | - | - |
