@@ -72,5 +72,7 @@
     "GAME_MONTH_11": "Kasım",
     "GAME_MONTH_12": "Aralık",
     "APP_LAUNCHER_UPDATER": "Başlatıcı Güncelleyici",
-    "APP_LAUNCHER_DOWNLOADING": "Başlatıcı İndiriliyor"
+    "APP_LAUNCHER_DOWNLOADING": "Başlatıcı İndiriliyor",
+    "GAME_BED_PLAYERS_SLEEPINIG": "{playerCount} Oyuncular Uyuyor",
+    "GAME_BED_TIME": "Zaman: {time}"
 }
