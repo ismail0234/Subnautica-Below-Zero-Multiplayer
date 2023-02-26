@@ -74,5 +74,8 @@
     "APP_LAUNCHER_UPDATER": "Launcher Updater",
     "APP_LAUNCHER_DOWNLOADING": "Downloading Launcher",
     "GAME_BED_PLAYERS_SLEEPINIG": "{playerCount} Players Sleeping",
-    "GAME_BED_TIME": "Time: {time}"
+    "GAME_BED_TIME": "Time: {time}",
+    "GAME_INTRO_PLAYERS_CONNECTED": "{playerCount} players connected.",
+    "GAME_INTRO_SERVER_OWNER_WAITING": "The server owner is expected to start the game.",
+    "GAME_INTRO_SERVER_START_DESCRIPTION": "Please press {key} to start the game."
 }
