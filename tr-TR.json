@@ -77,5 +77,6 @@
     "GAME_BED_TIME": "Zaman: {time}",
     "GAME_INTRO_PLAYERS_CONNECTED": "{playerCount} oyuncu bağlandı.",
     "GAME_INTRO_SERVER_OWNER_WAITING": "Sunucu sahibinin oyunu başlatması bekleniyor.",
-    "GAME_INTRO_SERVER_START_DESCRIPTION": "Lütfen oyunu başlatmak için {key} tuşuna basın."
+    "GAME_INTRO_SERVER_START_DESCRIPTION": "Lütfen oyunu başlatmak için {key} tuşuna basın.",
+    "GAME_INTRO_MULTIPLAYER_BY_BOTBENSON": "Subnautica Below Zero Çok Oyunculu Mod (BOT Benson tarafından)"
 }
