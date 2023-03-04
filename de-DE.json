@@ -77,5 +77,6 @@
     "GAME_BED_TIME": "Uhrzeit: {time}",
     "GAME_INTRO_PLAYERS_CONNECTED": "{playerCount} players connected.",
     "GAME_INTRO_SERVER_OWNER_WAITING": "The server owner is expected to start the game.",
-    "GAME_INTRO_SERVER_START_DESCRIPTION": "Please press {key} to start the game."
+    "GAME_INTRO_SERVER_START_DESCRIPTION": "Please press {key} to start the game.",
+    "GAME_INTRO_MULTIPLAYER_BY_BOTBENSON": "Subnautica Below Zero Multiplayer Mod (by BOT Benson)"
 }
