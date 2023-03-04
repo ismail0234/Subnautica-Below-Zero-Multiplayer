@@ -39,7 +39,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Swedish            | ❌        | sv        | - | - |
  
 
-## Subnautica BZ Multiplayer To-Do List (%65.89 Completed)
+## Subnautica BZ Multiplayer To-Do List (%66.47 Completed)
 
 <details>
   <summary>Base Piece Construction Synchronization (16/20)</summary>
@@ -215,7 +215,8 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] Player Item Animation Synchronization
 - [x] Base Power Synchronization
 - [x] Player Animation Synchronization
-- [x] Multiplayer Lobby
+- [x] Multiplayer Lobby / Intro Synchronization
+- [x] Life Pod Synchronization
 - [ ] Vehicles (Animation etc..)
 	- [ ] SpyPenguin
 	- [ ] Snowfox
@@ -233,7 +234,6 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] Item Drop Synchronization
 - [ ] Story Synchronization
 - [ ] Meteor Synchronization
-- [ ] Life Pod Synchronization
  
 
 ### How can I play this mod?
