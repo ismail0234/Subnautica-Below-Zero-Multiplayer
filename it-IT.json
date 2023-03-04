@@ -73,9 +73,10 @@
     "GAME_MONTH_12": "Dicembre",
     "APP_LAUNCHER_UPDATER": "Aggiornamento del Launcher",
     "APP_LAUNCHER_DOWNLOADING": "Scaricando il Launcher",
-    "GAME_BED_PLAYERS_SLEEPINIG": "{playerCount} Players Sleeping",
-    "GAME_BED_TIME": "Time: {time}",
-    "GAME_INTRO_PLAYERS_CONNECTED": "{playerCount} players connected.",
-    "GAME_INTRO_SERVER_OWNER_WAITING": "The server owner is expected to start the game.",
-    "GAME_INTRO_SERVER_START_DESCRIPTION": "Please press {key} to start the game."
+    "GAME_BED_PLAYERS_SLEEPINIG": "{playerCount} Giocatori Stanno Dormendo",
+    "GAME_BED_TIME": "Orario: {time}",
+    "GAME_INTRO_PLAYERS_CONNECTED": "{playerCount} Giocatori connessi.",
+    "GAME_INTRO_SERVER_OWNER_WAITING": "Il proprietario del server dovrebbe avviare la partita.",
+    "GAME_INTRO_SERVER_START_DESCRIPTION": "Premi {key} per iniziare la partita.",
+    "GAME_INTRO_MULTIPLAYER_BY_BOTBENSON": "Subnautica Below Zero Multiplayer Mod (by BOT Benson)"
 }
