@@ -39,10 +39,10 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Swedish            | ❌        | sv        | - | - |
  
 
-## Subnautica BZ Multiplayer To-Do List (%66.86 Completed)
+## Subnautica BZ Multiplayer To-Do List (%67.44 Completed)
 
 <details>
-  <summary>Base Piece Construction Synchronization (16/20)</summary>
+  <summary>Base Piece Construction Synchronization (17/20)</summary>
 
 - [x] BaseObservatory
 - [x] BaseWindow
@@ -60,9 +60,9 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] BaseHatch
 - [x] BaseFoundation
 - [x] BaseConnector
+- [x] BaseControlRoom
 - [ ] BaseMapRoom
 - [ ] BaseMoonpool
-- [ ] BaseControlRoom
 - [ ] BaseMoonpoolExpansion	
 </details> 
 
