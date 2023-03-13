@@ -61,9 +61,9 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] BaseFoundation
 - [x] BaseConnector
 - [x] BaseControlRoom
-- [ ] BaseMapRoom
 - [ ] BaseMoonpool
 - [ ] BaseMoonpoolExpansion	
+- [ ] ~~BaseMapRoom~~ (This furniture will be completed in the beta version)
 </details> 
 
 <details>
