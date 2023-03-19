@@ -1,6 +1,6 @@
 {
     "APP_BOOT_CREATE_FILES": "Creating boot files...",
-    "APP_CHECKING_VERSION": "Version checking...",
+    "APP_CHECKING_VERSION": "Checking The Version...",
     "APP_SERVER_NOT_CONNECTED": "Could not connect to server.",
     "APP_SERVER_CONFIGURATION_INVALID": "There is a problem with the server configuration.",
     "APP_SERVER_CHECKING_UDPATE_ERR": "There was a problem checking version.",
@@ -16,7 +16,7 @@
     "APP_PROCESS_ERROR": "Operation Failed",
     "APP_AUTHOR": "Producer",
     "APP_PLAY": "Play",
-    "APP_OPENING_GAME": "Opening Game",
+    "APP_OPENING_GAME": "The Game Is Opening",
     "APP_SIDEBAR_SETTINGS_FOLDER": "Game Files",
     "APP_SIDEBAR_SETTINGS_GENERAL": "Settings",
     "APP_FOLDER_SCREEN_GAME_FOLDER": "Game Files",
@@ -78,5 +78,8 @@
     "GAME_INTRO_PLAYERS_CONNECTED": "{playerCount} players connected.",
     "GAME_INTRO_SERVER_OWNER_WAITING": "The server owner is expected to start the game.",
     "GAME_INTRO_SERVER_START_DESCRIPTION": "Please press {key} to start the game.",
-    "GAME_INTRO_MULTIPLAYER_BY_BOTBENSON": "Subnautica Below Zero Multiplayer Mod (by BOT Benson)"
+    "GAME_INTRO_MULTIPLAYER_BY_BOTBENSON": "Subnautica Below Zero Multiplayer Mod (by BOT Benson)",
+    "APP_NOT_OPENED_PLATFORM": "Make sure the platform on which the game is installed is open. (Steam\/Epic etc..)",
+    "APP_INVALID_PLATFORM": "Invalid Platform. A platform on which the game is installed was not found.",
+    "APP_GAME_ALREADY_OPEN": "The game is already open."
 }
