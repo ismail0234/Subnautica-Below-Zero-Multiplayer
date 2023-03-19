@@ -78,5 +78,8 @@
     "GAME_INTRO_PLAYERS_CONNECTED": "{playerCount} Spieler verbunden.",
     "GAME_INTRO_SERVER_OWNER_WAITING": "Es wird erwartet, dass der Serverbesitzer das Spiel startet.",
     "GAME_INTRO_SERVER_START_DESCRIPTION": "Bitte drücke {key}, um das Spiel zu starten.",
-    "GAME_INTRO_MULTIPLAYER_BY_BOTBENSON": "Subnautica Below Zero Mehrspieler Mod (von BOT Benson)"
+    "GAME_INTRO_MULTIPLAYER_BY_BOTBENSON": "Subnautica Below Zero Mehrspieler Mod (von BOT Benson)",
+    "APP_NOT_OPENED_PLATFORM": "Make sure the platform on which the game is installed is open. (Steam\/Epic etc..)",
+    "APP_INVALID_PLATFORM": "Invalid Platform. A platform on which the game is installed was not found.",
+    "APP_GAME_ALREADY_OPEN": "The game is already open."
 }
