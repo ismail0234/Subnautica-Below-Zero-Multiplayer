@@ -24,7 +24,6 @@
     "APP_FOLDER_SCREEN_APP_LOG_FOLDER": "Anwendungs Logs",
     "APP_FOLDER_SCREEN_GAME_LOG_FOLDER": "Spiel Logs",
     "APP_LAUNCHER_SETTING_HEAD_TEXT": "Launcher Einstellungen",
-    "APP_GAME_OPENING_SHOW_HIDE": "Verstecke Launcher solange das Spiel läuft",
     "APP_HEADER_SETTINGS": "Einstellungen",
     "APP_HEADER_PLAY": "Starten",
     "DISCORD_STATUS_UPDATE_LAUNCHER": "Launcher wird geupdatet",
@@ -36,11 +35,9 @@
     "GAME_ADD_SERVER": "Server hinzufügen",
     "GAME_SERVER_NAME_PLACEHOLDER": "Mein Subnautica Server",
     "GAME_SERVER_IP_PLACEHOLDER": "127.0.0.1",
-    "GAME_SERVER_PORT_PLACEHOLDER": "666",
     "GAME_SERVER_NAME_EMPTY_ERROR": "Der Servername darf nicht leer sein.",
     "GAME_SERVER_NAME_LENGTH_ERROR": "Bitte gib einen Servernamen mit mindestens 3 Buchstaben und maximal 64 Buchstaben ein.",
     "GAME_SERVER_IP_INVALID_ERROR": "Bitte gib eine valide IP-Adresse ein.",
-    "GAME_SERVER_PORT_INVALID_ERROR": "Bitte gib eine valide Portnummer ein.",
     "GAME_SERVER_EXIST": "Dieser Server existiert bereits.",
     "GAME_NOT_FOUND_SERVER": "Dieser Server existiert nicht.",
     "GAME_SERVER_ALREADY_CONNECTING": "Du bist bereits mit einem Server verbunden. Bitte warte.",
@@ -79,7 +76,7 @@
     "GAME_INTRO_SERVER_OWNER_WAITING": "Es wird erwartet, dass der Serverbesitzer das Spiel startet.",
     "GAME_INTRO_SERVER_START_DESCRIPTION": "Bitte drücke {key}, um das Spiel zu starten.",
     "GAME_INTRO_MULTIPLAYER_BY_BOTBENSON": "Subnautica Below Zero Mehrspieler Mod (von BOT Benson)",
-    "APP_NOT_OPENED_PLATFORM": "Make sure the platform on which the game is installed is open. (Steam\/Epic etc..)",
-    "APP_INVALID_PLATFORM": "Invalid Platform. A platform on which the game is installed was not found.",
-    "APP_GAME_ALREADY_OPEN": "The game is already open."
+    "APP_NOT_OPENED_PLATFORM": "Vergewissere dich, dass die Plattform, auf der das Spiel installiert ist, geöffnet ist. (Steam\/Epic etc..)",
+    "APP_INVALID_PLATFORM": "Ungültige Plattform. Eine Plattform, auf der das Spiel installiert ist, wurde nicht gefunden.",
+    "APP_GAME_ALREADY_OPEN": "Das Spiel ist bereits geöffnet."
 }
