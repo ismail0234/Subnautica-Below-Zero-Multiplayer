@@ -1,0 +1,4868 @@
+{
+    "entTechMap": [
+    {
+      "prefabName": "filteredwater",
+      "techType": 4500
+    },
+    {
+      "prefabName": "disinfectedwater",
+      "techType": 4501
+    },
+    {
+      "prefabName": "bigfilteredwater",
+      "techType": 4516
+    },
+    {
+      "prefabName": "stillsuitwater",
+      "techType": 4515
+    },
+    {
+      "prefabName": "snack1",
+      "techType": 4520
+    },
+    {
+      "prefabName": "snack2",
+      "techType": 4521
+    },
+    {
+      "prefabName": "snack3",
+      "techType": 4522
+    },
+    {
+      "prefabName": "coffee",
+      "techType": 4523
+    },
+    {
+      "prefabName": "cookedpeeper",
+      "techType": 4502
+    },
+    {
+      "prefabName": "cookedholefish",
+      "techType": 4503
+    },
+    {
+      "prefabName": "cookedbladderfish",
+      "techType": 4506
+    },
+    {
+      "prefabName": "cookedgarryfish",
+      "techType": 4504
+    },
+    {
+      "prefabName": "cookedhoverfish",
+      "techType": 4507
+    },
+    {
+      "prefabName": "cookedreginald",
+      "techType": 4505
+    },
+    {
+      "prefabName": "cookedspadefish",
+      "techType": 4508
+    },
+    {
+      "prefabName": "cookedboomerang",
+      "techType": 4509
+    },
+    {
+      "prefabName": "cookedlavaboomerang",
+      "techType": 4519
+    },
+    {
+      "prefabName": "cookedeyeye",
+      "techType": 4510
+    },
+    {
+      "prefabName": "cookedlavaeyeye",
+      "techType": 4518
+    },
+    {
+      "prefabName": "cookedoculus",
+      "techType": 4511
+    },
+    {
+      "prefabName": "cookedhoopfish",
+      "techType": 4512
+    },
+    {
+      "prefabName": "cookedspinefish",
+      "techType": 4517
+    },
+    {
+      "prefabName": "curedpeeper",
+      "techType": 4600
+    },
+    {
+      "prefabName": "curedholefish",
+      "techType": 4601
+    },
+    {
+      "prefabName": "curedbladderfish",
+      "techType": 4604
+    },
+    {
+      "prefabName": "curedgarryfish",
+      "techType": 4602
+    },
+    {
+      "prefabName": "curedhoverfish",
+      "techType": 4605
+    },
+    {
+      "prefabName": "curedreginald",
+      "techType": 4603
+    },
+    {
+      "prefabName": "curedspadefish",
+      "techType": 4606
+    },
+    {
+      "prefabName": "curedboomerang",
+      "techType": 4607
+    },
+    {
+      "prefabName": "curedlavaboomerang",
+      "techType": 4613
+    },
+    {
+      "prefabName": "curedeyeye",
+      "techType": 4608
+    },
+    {
+      "prefabName": "curedlavaeyeye",
+      "techType": 4612
+    },
+    {
+      "prefabName": "curedoculus",
+      "techType": 4609
+    },
+    {
+      "prefabName": "curedhoopfish",
+      "techType": 4610
+    },
+    {
+      "prefabName": "curedspinefish",
+      "techType": 4611
+    },
+    {
+      "prefabName": "nutrientblock",
+      "techType": 4513
+    },
+    {
+      "prefabName": "enzymecureball",
+      "techType": 1549
+    },
+    {
+      "prefabName": "player",
+      "techType": 2525
+    },
+    {
+      "prefabName": "buildbot",
+      "techType": 756
+    },
+    {
+      "prefabName": "escapepod",
+      "techType": 511
+    },
+    {
+      "prefabName": "signal",
+      "techType": 2005
+    },
+    {
+      "prefabName": "heatarea",
+      "techType": 3033
+    },
+    {
+      "prefabName": "biter",
+      "techType": 2543
+    },
+    {
+      "prefabName": "bladderfish",
+      "techType": 2515
+    },
+    {
+      "prefabName": "bleeder",
+      "techType": 2526
+    },
+    {
+      "prefabName": "biter_02",
+      "techType": 2548
+    },
+    {
+      "prefabName": "bloodgrass",
+      "techType": 3032
+    },
+    {
+      "prefabName": "bloodoil",
+      "techType": 3034
+    },
+    {
+      "prefabName": "bloom",
+      "techType": 2514
+    },
+    {
+      "prefabName": "boneshark",
+      "techType": 2534
+    },
+    {
+      "prefabName": "boomerang",
+      "techType": 2510
+    },
+    {
+      "prefabName": "boomeranglava",
+      "techType": 2554
+    },
+    {
+      "prefabName": "cavecrawler",
+      "techType": 2541
+    },
+    {
+      "prefabName": "cavecrawler_02",
+      "techType": 2541
+    },
+    {
+      "prefabName": "crabsquid",
+      "techType": 2550
+    },
+    {
+      "prefabName": "crabsnake",
+      "techType": 2539
+    },
+    {
+      "prefabName": "crash",
+      "techType": 2509
+    },
+    {
+      "prefabName": "crashhome",
+      "techType": 2528
+    },
+    {
+      "prefabName": "cutefish",
+      "techType": 2538
+    },
+    {
+      "prefabName": "eyeye",
+      "techType": 2513
+    },
+    {
+      "prefabName": "eyeyelava",
+      "techType": 2555
+    },
+    {
+      "prefabName": "garryfish",
+      "techType": 2507
+    },
+    {
+      "prefabName": "gaspod",
+      "techType": 2530
+    },
+    {
+      "prefabName": "gasopod",
+      "techType": 2523
+    },
+    {
+      "prefabName": "ghostleviathanjuvenile",
+      "techType": 2565
+    },
+    {
+      "prefabName": "ghostleviathan",
+      "techType": 2562
+    },
+    {
+      "prefabName": "ghostrayblue",
+      "techType": 2558
+    },
+    {
+      "prefabName": "ghostrayred",
+      "techType": 2559
+    },
+    {
+      "prefabName": "holefish",
+      "techType": 2501
+    },
+    {
+      "prefabName": "hoopfish",
+      "techType": 2531
+    },
+    {
+      "prefabName": "hoopfishschool",
+      "techType": 2532
+    },
+    {
+      "prefabName": "hoverfish",
+      "techType": 2516
+    },
+    {
+      "prefabName": "jellyray",
+      "techType": 2517
+    },
+    {
+      "prefabName": "jumper",
+      "techType": 2502
+    },
+    {
+      "prefabName": "lavalarva",
+      "techType": 2511
+    },
+    {
+      "prefabName": "lavalizard",
+      "techType": 2551
+    },
+    {
+      "prefabName": "mesmer",
+      "techType": 2535
+    },
+    {
+      "prefabName": "oculus",
+      "techType": 2505
+    },
+    {
+      "prefabName": "peeper",
+      "techType": 2504
+    },
+    {
+      "prefabName": "rabbitray",
+      "techType": 2506
+    },
+    {
+      "prefabName": "reaperleviathan",
+      "techType": 2540
+    },
+    {
+      "prefabName": "reefback",
+      "techType": 2518
+    },
+    {
+      "prefabName": "reefbackbaby",
+      "techType": 2560
+    },
+    {
+      "prefabName": "reginald",
+      "techType": 2519
+    },
+    {
+      "prefabName": "rockgrub",
+      "techType": 2527
+    },
+    {
+      "prefabName": "sandshark",
+      "techType": 2524
+    },
+    {
+      "prefabName": "seadragon",
+      "techType": 2553
+    },
+    {
+      "prefabName": "seaemperorjuvenile",
+      "techType": 2564
+    },
+    {
+      "prefabName": "seaemperorbaby",
+      "techType": 2556
+    },
+    {
+      "prefabName": "seatreader",
+      "techType": 2536
+    },
+    {
+      "prefabName": "shocker",
+      "techType": 2545
+    },
+    {
+      "prefabName": "cavecrawler_03",
+      "techType": 2547
+    },
+    {
+      "prefabName": "skyray",
+      "techType": 2542
+    },
+    {
+      "prefabName": "spadefish",
+      "techType": 2520
+    },
+    {
+      "prefabName": "spineeel",
+      "techType": 2552
+    },
+    {
+      "prefabName": "hoopfish_02",
+      "techType": 2546
+    },
+    {
+      "prefabName": "stalker",
+      "techType": 2512
+    },
+    {
+      "prefabName": "warper",
+      "techType": 2549
+    },
+    {
+      "prefabName": "warperspawner",
+      "techType": 2557
+    },
+    {
+      "prefabName": "precursor_droid",
+      "techType": 2561
+    },
+    {
+      "prefabName": "bonesharkegg",
+      "techType": 1266
+    },
+    {
+      "prefabName": "crabsnakeegg",
+      "techType": 1267
+    },
+    {
+      "prefabName": "crashegg",
+      "techType": 1281
+    },
+    {
+      "prefabName": "gasopodegg",
+      "techType": 1269
+    },
+    {
+      "prefabName": "jellyrayegg",
+      "techType": 1265
+    },
+    {
+      "prefabName": "jumperegg",
+      "techType": 1263
+    },
+    {
+      "prefabName": "mesmeregg",
+      "techType": 1262
+    },
+    {
+      "prefabName": "rabbitrayegg",
+      "techType": 1261
+    },
+    {
+      "prefabName": "reefbackegg",
+      "techType": 1259
+    },
+    {
+      "prefabName": "sandsharkegg",
+      "techType": 1264
+    },
+    {
+      "prefabName": "shockeregg",
+      "techType": 1268
+    },
+    {
+      "prefabName": "spadefishegg",
+      "techType": 1260
+    },
+    {
+      "prefabName": "stalkeregg",
+      "techType": 1258
+    },
+    {
+      "prefabName": "crabsquidegg",
+      "techType": 1283
+    },
+    {
+      "prefabName": "lavalizardegg",
+      "techType": 1287
+    },
+    {
+      "prefabName": "coral_reef_ball_clusters_01",
+      "techType": 3001
+    },
+    {
+      "prefabName": "coral_reef_ball_clusters_02",
+      "techType": 3001
+    },
+    {
+      "prefabName": "coral_reef_ball_clusters_03",
+      "techType": 3001
+    },
+    {
+      "prefabName": "coral_reef_ball_clusters_04",
+      "techType": 3001
+    },
+    {
+      "prefabName": "coral_reef_barnacle_suckers_01",
+      "techType": 3002
+    },
+    {
+      "prefabName": "coral_reef_barnacle_suckers_02",
+      "techType": 3002
+    },
+    {
+      "prefabName": "coral_reef_barnacle_suckers_03",
+      "techType": 3002
+    },
+    {
+      "prefabName": "coral_reef_blue_barnacles_01_01",
+      "techType": 3003
+    },
+    {
+      "prefabName": "coral_reef_blue_barnacles_01_01_breakable",
+      "techType": 3003
+    },
+    {
+      "prefabName": "coral_reef_blue_barnacles_01_02",
+      "techType": 3003
+    },
+    {
+      "prefabName": "coral_reef_blue_barnacles_01_02_breakable",
+      "techType": 3003
+    },
+    {
+      "prefabName": "coral_reef_blue_barnacles_01_03",
+      "techType": 3003
+    },
+    {
+      "prefabName": "coral_reef_blue_barnacles_01_04",
+      "techType": 3003
+    },
+    {
+      "prefabName": "coral_reef_blue_barnacles_01_cluster_01",
+      "techType": 3004
+    },
+    {
+      "prefabName": "coral_reef_blue_barnacles_01_cluster_02",
+      "techType": 3004
+    },
+    {
+      "prefabName": "coral_reef_blue_barnacles_01_cluster_03",
+      "techType": 3004
+    },
+    {
+      "prefabName": "coral_reef_blue_barnacles_01_cluster_04",
+      "techType": 3004
+    },
+    {
+      "prefabName": "coral_reef_blue_barnacles_01_cluster_05",
+      "techType": 3004
+    },
+    {
+      "prefabName": "coral_reef_blue_coral_tubes",
+      "techType": 3005
+    },
+    {
+      "prefabName": "coral_reef_brain_coral_01",
+      "techType": 4005
+    },
+    {
+      "prefabName": "coral_reef_brain_coral_02",
+      "techType": 4005
+    },
+    {
+      "prefabName": "coral_reef_brown_coral_tubes_01",
+      "techType": 3031
+    },
+    {
+      "prefabName": "coral_reef_brown_coral_tubes_02_01",
+      "techType": 3031
+    },
+    {
+      "prefabName": "coral_reef_brown_coral_tubes_02_02",
+      "techType": 3031
+    },
+    {
+      "prefabName": "coral_reef_brown_coral_tubes_02_03",
+      "techType": 3031
+    },
+    {
+      "prefabName": "coral_reef_brown_coral_tubes_02_04",
+      "techType": 3031
+    },
+    {
+      "prefabName": "coral_reef_brown_coral_tubes_02_05",
+      "techType": 3031
+    },
+    {
+      "prefabName": "coral_reef_floating_stones_big_02",
+      "techType": 3065
+    },
+    {
+      "prefabName": "coral_reef_floating_stones_mid_01",
+      "techType": 3065
+    },
+    {
+      "prefabName": "coral_reef_floating_stones_mid_02",
+      "techType": 3065
+    },
+    {
+      "prefabName": "coral_reef_floating_stones_small_01",
+      "techType": 3065
+    },
+    {
+      "prefabName": "coral_reef_floating_stones_small_02",
+      "techType": 3065
+    },
+    {
+      "prefabName": "coral_reef_grass_01_green",
+      "techType": 3007
+    },
+    {
+      "prefabName": "coral_reef_grass_02",
+      "techType": 3007
+    },
+    {
+      "prefabName": "coral_reef_grass_kelp_01",
+      "techType": 3007
+    },
+    {
+      "prefabName": "coral_reef_grass_kelp_02",
+      "techType": 3007
+    },
+    {
+      "prefabName": "coral_reef_grass_01_red",
+      "techType": 3006
+    },
+    {
+      "prefabName": "twistybridges_mohawk_01_d",
+      "techType": 3008
+    },
+    {
+      "prefabName": "twistybridges_mohawk_01_c",
+      "techType": 3008
+    },
+    {
+      "prefabName": "twistybridges_mohawk_01_b",
+      "techType": 3008
+    },
+    {
+      "prefabName": "twistybridges_mohawk_01_a",
+      "techType": 3008
+    },
+    {
+      "prefabName": "coral_reef_green_reeds_01",
+      "techType": 3009
+    },
+    {
+      "prefabName": "coral_reef_green_reeds_02",
+      "techType": 3009
+    },
+    {
+      "prefabName": "coral_reef_green_reeds_03",
+      "techType": 3009
+    },
+    {
+      "prefabName": "coral_reef_green_reeds_04",
+      "techType": 3009
+    },
+    {
+      "prefabName": "coral_reef_green_reeds_05",
+      "techType": 3009
+    },
+    {
+      "prefabName": "coral_reef_green_reeds_06",
+      "techType": 3009
+    },
+    {
+      "prefabName": "coral_reef_hanging_stinger_long",
+      "techType": 4003
+    },
+    {
+      "prefabName": "coral_reef_hanging_stinger_middle",
+      "techType": 4003
+    },
+    {
+      "prefabName": "coral_reef_hanging_stinger_short",
+      "techType": 4003
+    },
+    {
+      "prefabName": "coral_reef_jelly_plant_01_01",
+      "techType": 3010
+    },
+    {
+      "prefabName": "coral_reef_jelly_plant_01_02",
+      "techType": 3010
+    },
+    {
+      "prefabName": "coral_reef_jelly_plant_01_03",
+      "techType": 3010
+    },
+    {
+      "prefabName": "coral_reef_jeweled_disk_blue_01_01",
+      "techType": 3064
+    },
+    {
+      "prefabName": "coral_reef_jeweled_disk_blue_01_02",
+      "techType": 3064
+    },
+    {
+      "prefabName": "coral_reef_jeweled_disk_blue_01_03",
+      "techType": 3064
+    },
+    {
+      "prefabName": "coral_reef_jeweled_disk_blue_01_04",
+      "techType": 3064
+    },
+    {
+      "prefabName": "coral_reef_jeweled_disk_green_01_01",
+      "techType": 3064
+    },
+    {
+      "prefabName": "coral_reef_jeweled_disk_green_01_02",
+      "techType": 3064
+    },
+    {
+      "prefabName": "coral_reef_jeweled_disk_green_01_03",
+      "techType": 3064
+    },
+    {
+      "prefabName": "coral_reef_jeweled_disk_green_01_04",
+      "techType": 3064
+    },
+    {
+      "prefabName": "coral_reef_jeweled_disk_purple_01_01",
+      "techType": 3064
+    },
+    {
+      "prefabName": "coral_reef_jeweled_disk_purple_01_02",
+      "techType": 3064
+    },
+    {
+      "prefabName": "coral_reef_jeweled_disk_purple_01_03",
+      "techType": 3064
+    },
+    {
+      "prefabName": "coral_reef_jeweled_disk_purple_01_04",
+      "techType": 3064
+    },
+    {
+      "prefabName": "coral_reef_jeweled_disk_red_01_01",
+      "techType": 3064
+    },
+    {
+      "prefabName": "coral_reef_jeweled_disk_red_01_02",
+      "techType": 3064
+    },
+    {
+      "prefabName": "coral_reef_jeweled_disk_red_01_03",
+      "techType": 3064
+    },
+    {
+      "prefabName": "coral_reef_jeweled_disk_red_01_04",
+      "techType": 3064
+    },
+    {
+      "prefabName": "jeweleddiskpiece",
+      "techType": 3501
+    },
+    {
+      "prefabName": "coralchunk",
+      "techType": 3502
+    },
+    {
+      "prefabName": "coral_reef_cave_root_01_blood",
+      "techType": 3036
+    },
+    {
+      "prefabName": "coral_reef_cave_root_02_blood",
+      "techType": 3036
+    },
+    {
+      "prefabName": "coral_reef_cave_root_03_blood",
+      "techType": 3036
+    },
+    {
+      "prefabName": "coral_reef_cave_root_04_blood",
+      "techType": 3036
+    },
+    {
+      "prefabName": "coral_reef_kelp_blood_01",
+      "techType": 3037
+    },
+    {
+      "prefabName": "coral_reef_kelp_blood_02",
+      "techType": 3037
+    },
+    {
+      "prefabName": "coral_reef_kelp_blood_03",
+      "techType": 3037
+    },
+    {
+      "prefabName": "coral_reef_kelp_blood_04",
+      "techType": 3037
+    },
+    {
+      "prefabName": "coral_reef_kelp",
+      "techType": 2500
+    },
+    {
+      "prefabName": "coral_reef_kelp_01_long",
+      "techType": 2500
+    },
+    {
+      "prefabName": "coral_reef_kelp_01_mid",
+      "techType": 2500
+    },
+    {
+      "prefabName": "coral_reef_kelp_02_short",
+      "techType": 2500
+    },
+    {
+      "prefabName": "coral_reef_kelp_dense_01",
+      "techType": 2500
+    },
+    {
+      "prefabName": "coral_reef_kelp_dense_03",
+      "techType": 2500
+    },
+    {
+      "prefabName": "coral_reef_kelp_young_01",
+      "techType": 2500
+    },
+    {
+      "prefabName": "coral_reef_kelp_young_04",
+      "techType": 2500
+    },
+    {
+      "prefabName": "coral_reef_spike_plant",
+      "techType": 4004
+    },
+    {
+      "prefabName": "coral_reef_koosh_bush_huge",
+      "techType": 3018
+    },
+    {
+      "prefabName": "coral_reef_koosh_bush_large",
+      "techType": 3017
+    },
+    {
+      "prefabName": "coral_reef_koosh_bush_medium",
+      "techType": 3016
+    },
+    {
+      "prefabName": "coral_reef_koosh_bush_small",
+      "techType": 3015
+    },
+    {
+      "prefabName": "coral_reef_membrain_tree_01",
+      "techType": 3019
+    },
+    {
+      "prefabName": "coral_reef_plant_middle_01",
+      "techType": 3052
+    },
+    {
+      "prefabName": "coral_reef_plant_middle_01_light",
+      "techType": 3052
+    },
+    {
+      "prefabName": "coral_reef_plant_middle_01_sparsereef",
+      "techType": 3052
+    },
+    {
+      "prefabName": "coral_reef_plant_middle_02",
+      "techType": 3053
+    },
+    {
+      "prefabName": "coral_reef_plant_middle_02_light",
+      "techType": 3053
+    },
+    {
+      "prefabName": "coral_reef_plant_middle_03",
+      "techType": 3054
+    },
+    {
+      "prefabName": "coral_reef_plant_middle_04",
+      "techType": 3055
+    },
+    {
+      "prefabName": "coral_reef_plant_middle_04_light",
+      "techType": 3055
+    },
+    {
+      "prefabName": "coral_reef_plant_middle_05",
+      "techType": 3056
+    },
+    {
+      "prefabName": "coral_reef_plant_middle_07",
+      "techType": 3057
+    },
+    {
+      "prefabName": "coral_reef_plant_middle_08",
+      "techType": 3058
+    },
+    {
+      "prefabName": "coral_reef_plant_middle_09",
+      "techType": 3059
+    },
+    {
+      "prefabName": "coral_reef_plant_middle_10",
+      "techType": 3060
+    },
+    {
+      "prefabName": "coral_reef_plant_middle_12",
+      "techType": 3061
+    },
+    {
+      "prefabName": "coral_reef_plant_small_01_01",
+      "techType": 3048
+    },
+    {
+      "prefabName": "coral_reef_plant_small_01_02",
+      "techType": 3048
+    },
+    {
+      "prefabName": "coral_reef_plant_small_01_03",
+      "techType": 3048
+    },
+    {
+      "prefabName": "coral_reef_purple_fan",
+      "techType": 3020
+    },
+    {
+      "prefabName": "coral_reef_purple_mushrooms_01_01",
+      "techType": 3021
+    },
+    {
+      "prefabName": "coral_reef_purple_mushrooms_01_02",
+      "techType": 3021
+    },
+    {
+      "prefabName": "coral_reef_purple_mushrooms_01_03",
+      "techType": 3021
+    },
+    {
+      "prefabName": "coral_reef_purple_mushrooms_01_04",
+      "techType": 3021
+    },
+    {
+      "prefabName": "coral_reef_purple_tentacle_plant_01_01",
+      "techType": 3022
+    },
+    {
+      "prefabName": "coral_reef_purple_tentacle_plant_01_01_light",
+      "techType": 3022
+    },
+    {
+      "prefabName": "coral_reef_purple_tentacle_plant_01_02",
+      "techType": 3022
+    },
+    {
+      "prefabName": "coral_reef_red_seaweed_01",
+      "techType": 3023
+    },
+    {
+      "prefabName": "coral_reef_sea_crown",
+      "techType": 3050
+    },
+    {
+      "prefabName": "coral_reef_sea_crown_light",
+      "techType": 3050
+    },
+    {
+      "prefabName": "coral_reef_shell_01",
+      "techType": 3025
+    },
+    {
+      "prefabName": "coral_reef_shell_02",
+      "techType": 3025
+    },
+    {
+      "prefabName": "coral_reef_shell_02_01",
+      "techType": 3025
+    },
+    {
+      "prefabName": "coral_reef_shell_02_02",
+      "techType": 3025
+    },
+    {
+      "prefabName": "coral_reef_shell_02_03",
+      "techType": 3025
+    },
+    {
+      "prefabName": "coral_reef_shell_02_04",
+      "techType": 3025
+    },
+    {
+      "prefabName": "coral_reef_shell_02_05",
+      "techType": 3025
+    },
+    {
+      "prefabName": "coral_reef_shell_02_06",
+      "techType": 3025
+    },
+    {
+      "prefabName": "coral_reef_shell_02_07",
+      "techType": 3025
+    },
+    {
+      "prefabName": "coral_reef_shell_02_08",
+      "techType": 3025
+    },
+    {
+      "prefabName": "coral_reef_shell_02_09",
+      "techType": 3025
+    },
+    {
+      "prefabName": "coral_reef_shell_02_10",
+      "techType": 3025
+    },
+    {
+      "prefabName": "coral_reef_shell_02_11",
+      "techType": 3025
+    },
+    {
+      "prefabName": "coral_reef_shell_02_12",
+      "techType": 3025
+    },
+    {
+      "prefabName": "coral_reef_shell_03",
+      "techType": 3025
+    },
+    {
+      "prefabName": "coral_reef_shell_04",
+      "techType": 3025
+    },
+    {
+      "prefabName": "coral_reef_shell_plates_01_01",
+      "techType": 3025
+    },
+    {
+      "prefabName": "coral_reef_shell_plates_01_02",
+      "techType": 3025
+    },
+    {
+      "prefabName": "coral_reef_shell_tunnel_01",
+      "techType": 3028
+    },
+    {
+      "prefabName": "coral_reef_shell_tunnel_02",
+      "techType": 3028
+    },
+    {
+      "prefabName": "coral_reef_shell_tunnel_03",
+      "techType": 3028
+    },
+    {
+      "prefabName": "coral_reef_slanted_coral_plates_01_01",
+      "techType": 3025
+    },
+    {
+      "prefabName": "coral_reef_slanted_coral_plates_01_02",
+      "techType": 3025
+    },
+    {
+      "prefabName": "coral_reef_small_blue_fans_01_01",
+      "techType": 3026
+    },
+    {
+      "prefabName": "coral_reef_small_blue_fans_01_02",
+      "techType": 3026
+    },
+    {
+      "prefabName": "coral_reef_small_blue_fans_01_03",
+      "techType": 3026
+    },
+    {
+      "prefabName": "coral_reef_small_blue_fans_01_04",
+      "techType": 3026
+    },
+    {
+      "prefabName": "coral_reef_small_blue_fans_01_05",
+      "techType": 3026
+    },
+    {
+      "prefabName": "coral_reef_small_blue_fans_01_cluster",
+      "techType": 3027
+    },
+    {
+      "prefabName": "coral_reef_small_blue_fans_01_cluster_small",
+      "techType": 3027
+    },
+    {
+      "prefabName": "coral_reef_small_blue_fans_small_01_01",
+      "techType": 3026
+    },
+    {
+      "prefabName": "coral_reef_small_blue_fans_small_01_02",
+      "techType": 3026
+    },
+    {
+      "prefabName": "coral_reef_small_blue_fans_small_01_03",
+      "techType": 3026
+    },
+    {
+      "prefabName": "coral_reef_small_blue_fans_small_01_04",
+      "techType": 3026
+    },
+    {
+      "prefabName": "coral_reef_small_blue_fans_small_01_05",
+      "techType": 3026
+    },
+    {
+      "prefabName": "coral_reef_tree_mushrooms_01_01",
+      "techType": 3029
+    },
+    {
+      "prefabName": "coral_reef_tree_mushrooms_01_02",
+      "techType": 3029
+    },
+    {
+      "prefabName": "coral_reef_tree_mushrooms_02_01",
+      "techType": 3029
+    },
+    {
+      "prefabName": "coral_reef_tree_mushrooms_02_02",
+      "techType": 3029
+    },
+    {
+      "prefabName": "coral_reef_tree_mushrooms_02_03",
+      "techType": 3029
+    },
+    {
+      "prefabName": "coral_reef_tree_mushrooms_02_04",
+      "techType": 3029
+    },
+    {
+      "prefabName": "spiral_blue_thing_cluster_01",
+      "techType": 3030
+    },
+    {
+      "prefabName": "spiral_blue_thing_cluster_02",
+      "techType": 3030
+    },
+    {
+      "prefabName": "spiral_blue_thing_cluster_03",
+      "techType": 3030
+    },
+    {
+      "prefabName": "spiral_blue_thing_cluster_04",
+      "techType": 3030
+    },
+    {
+      "prefabName": "spiral_blue_thing_cluster_05",
+      "techType": 3030
+    },
+    {
+      "prefabName": "spiral_blue_thing_cluster_06",
+      "techType": 3030
+    },
+    {
+      "prefabName": "spiral_blue_thing_cluster_07",
+      "techType": 3030
+    },
+    {
+      "prefabName": "coral_reef_blood_mushrooms_01_01",
+      "techType": 3035
+    },
+    {
+      "prefabName": "coral_reef_blood_mushrooms_01_02",
+      "techType": 3035
+    },
+    {
+      "prefabName": "coral_reef_blood_mushrooms_01_03",
+      "techType": 3035
+    },
+    {
+      "prefabName": "coral_reef_blood_mushrooms_01_04",
+      "techType": 3035
+    },
+    {
+      "prefabName": "floaterlarge",
+      "techType": 3070
+    },
+    {
+      "prefabName": "braincoral",
+      "techType": 4002
+    },
+    {
+      "prefabName": "coral_reef_gabe's_feather",
+      "techType": 3049
+    },
+    {
+      "prefabName": "crab_snake_mushrooms_01",
+      "techType": 3062
+    },
+    {
+      "prefabName": "crab_snake_mushrooms_02",
+      "techType": 3062
+    },
+    {
+      "prefabName": "crab_snake_mushrooms_03",
+      "techType": 3062
+    },
+    {
+      "prefabName": "crab_snake_mushrooms_04",
+      "techType": 3062
+    },
+    {
+      "prefabName": "crab_snake_mushrooms_05_small",
+      "techType": 3062
+    },
+    {
+      "prefabName": "land_plant_small_01_01",
+      "techType": 3038
+    },
+    {
+      "prefabName": "land_plant_small_02_01",
+      "techType": 3040
+    },
+    {
+      "prefabName": "land_plant_small_02_02",
+      "techType": 3040
+    },
+    {
+      "prefabName": "land_plant_small_03_01",
+      "techType": 3039
+    },
+    {
+      "prefabName": "land_plant_small_03_02",
+      "techType": 3039
+    },
+    {
+      "prefabName": "land_plant_small_03_03",
+      "techType": 3039
+    },
+    {
+      "prefabName": "land_plant_small_03_04",
+      "techType": 3039
+    },
+    {
+      "prefabName": "land_plant_small_03_05",
+      "techType": 3039
+    },
+    {
+      "prefabName": "land_plant_small_03_06",
+      "techType": 3039
+    },
+    {
+      "prefabName": "land_plant_small_03_05_vertical",
+      "techType": 3039
+    },
+    {
+      "prefabName": "land_plant_small_03_06_vertical",
+      "techType": 3039
+    },
+    {
+      "prefabName": "land_plant_middle_01",
+      "techType": 3041
+    },
+    {
+      "prefabName": "land_plant_middle_02",
+      "techType": 3051
+    },
+    {
+      "prefabName": "land_plant_middle_03_01",
+      "techType": 3044
+    },
+    {
+      "prefabName": "land_plant_middle_03_02",
+      "techType": 3044
+    },
+    {
+      "prefabName": "land_plant_middle_03_03",
+      "techType": 3044
+    },
+    {
+      "prefabName": "land_plant_middle_04_01",
+      "techType": 3042
+    },
+    {
+      "prefabName": "land_plant_middle_04_02",
+      "techType": 3042
+    },
+    {
+      "prefabName": "land_plant_middle_04_03",
+      "techType": 3042
+    },
+    {
+      "prefabName": "land_plant_middle_05_01",
+      "techType": 3043
+    },
+    {
+      "prefabName": "land_plant_middle_05_02",
+      "techType": 3043
+    },
+    {
+      "prefabName": "land_plant_middle_05_03",
+      "techType": 3043
+    },
+    {
+      "prefabName": "lost_river_cove_tree_01",
+      "techType": 4006
+    },
+    {
+      "prefabName": "lost_river_pillar_01",
+      "techType": 3067
+    },
+    {
+      "prefabName": "lost_river_pillar_02",
+      "techType": 3067
+    },
+    {
+      "prefabName": "lost_river_pillar_03",
+      "techType": 3067
+    },
+    {
+      "prefabName": "lost_river_plant_01_01",
+      "techType": 3068
+    },
+    {
+      "prefabName": "lost_river_plant_01_02",
+      "techType": 3068
+    },
+    {
+      "prefabName": "lost_river_plant_01_03",
+      "techType": 3068
+    },
+    {
+      "prefabName": "lost_river_plant_02",
+      "techType": 3069
+    },
+    {
+      "prefabName": "lost_river_plant_04",
+      "techType": 3066
+    },
+    {
+      "prefabName": "farming_plant_01_01",
+      "techType": 3047
+    },
+    {
+      "prefabName": "farming_plant_01_02",
+      "techType": 3047
+    },
+    {
+      "prefabName": "farming_plant_02",
+      "techType": 3046
+    },
+    {
+      "prefabName": "farming_plant_03",
+      "techType": 3045
+    },
+    {
+      "prefabName": "aluminumoxide",
+      "techType": 52
+    },
+    {
+      "prefabName": "drillablealuminiumoxide",
+      "techType": 82
+    },
+    {
+      "prefabName": "basalt",
+      "techType": 37
+    },
+    {
+      "prefabName": "bleach",
+      "techType": 27
+    },
+    {
+      "prefabName": "copper",
+      "techType": 7
+    },
+    {
+      "prefabName": "drillablecopper",
+      "techType": 72
+    },
+    {
+      "prefabName": "copperwire",
+      "techType": 32
+    },
+    {
+      "prefabName": "computerchip",
+      "techType": 44
+    },
+    {
+      "prefabName": "crashpowder",
+      "techType": 23
+    },
+    {
+      "prefabName": "creepvine",
+      "techType": 2500
+    },
+    {
+      "prefabName": "diamond",
+      "techType": 36
+    },
+    {
+      "prefabName": "drillablediamond",
+      "techType": 76
+    },
+    {
+      "prefabName": "enameledglass",
+      "techType": 42
+    },
+    {
+      "prefabName": "fibermesh",
+      "techType": 3
+    },
+    {
+      "prefabName": "firstaidkit",
+      "techType": 4514
+    },
+    {
+      "prefabName": "floater",
+      "techType": 2522
+    },
+    {
+      "prefabName": "glass",
+      "techType": 15
+    },
+    {
+      "prefabName": "gold",
+      "techType": 21
+    },
+    {
+      "prefabName": "drillablegold",
+      "techType": 77
+    },
+    {
+      "prefabName": "grandreefsegg",
+      "techType": 1253
+    },
+    {
+      "prefabName": "grassyplateausegg",
+      "techType": 1252
+    },
+    {
+      "prefabName": "kelpforestegg",
+      "techType": 1251
+    },
+    {
+      "prefabName": "kooshzoneegg",
+      "techType": 1255
+    },
+    {
+      "prefabName": "kyanite",
+      "techType": 68
+    },
+    {
+      "prefabName": "lavazoneegg",
+      "techType": 1257
+    },
+    {
+      "prefabName": "lubricant",
+      "techType": 62
+    },
+    {
+      "prefabName": "limestone",
+      "techType": 4
+    },
+    {
+      "prefabName": "lithium",
+      "techType": 40
+    },
+    {
+      "prefabName": "drillablelithium",
+      "techType": 79
+    },
+    {
+      "prefabName": "lead",
+      "techType": 8
+    },
+    {
+      "prefabName": "breakablelead",
+      "techType": 100
+    },
+    {
+      "prefabName": "drillablelead",
+      "techType": 74
+    },
+    {
+      "prefabName": "magnesium",
+      "techType": 22
+    },
+    {
+      "prefabName": "magnetite",
+      "techType": 54
+    },
+    {
+      "prefabName": "drillablemagnetite",
+      "techType": 78
+    },
+    {
+      "prefabName": "mercuryore",
+      "techType": 12
+    },
+    {
+      "prefabName": "drillablemercury",
+      "techType": 80
+    },
+    {
+      "prefabName": "metal1",
+      "techType": 2
+    },
+    {
+      "prefabName": "metal2",
+      "techType": 2
+    },
+    {
+      "prefabName": "metal3",
+      "techType": 2
+    },
+    {
+      "prefabName": "metal4",
+      "techType": 2
+    },
+    {
+      "prefabName": "mushroomforestegg",
+      "techType": 1254
+    },
+    {
+      "prefabName": "nickel",
+      "techType": 69
+    },
+    {
+      "prefabName": "drillablenickel",
+      "techType": 83
+    },
+    {
+      "prefabName": "obsidian",
+      "techType": 39
+    },
+    {
+      "prefabName": "plasteelingot",
+      "techType": 41
+    },
+    {
+      "prefabName": "quartz",
+      "techType": 1
+    },
+    {
+      "prefabName": "drillablequartz",
+      "techType": 71
+    },
+    {
+      "prefabName": "reactorrod",
+      "techType": 64
+    },
+    {
+      "prefabName": "depletedreactorrod",
+      "techType": 65
+    },
+    {
+      "prefabName": "safeshallowsegg",
+      "techType": 1250
+    },
+    {
+      "prefabName": "salt",
+      "techType": 9
+    },
+    {
+      "prefabName": "drillablesalt",
+      "techType": 70
+    },
+    {
+      "prefabName": "sandloot",
+      "techType": 26
+    },
+    {
+      "prefabName": "sandstone",
+      "techType": 31
+    },
+    {
+      "prefabName": "seatreaderpoop",
+      "techType": 3063
+    },
+    {
+      "prefabName": "shale",
+      "techType": 38
+    },
+    {
+      "prefabName": "silicone",
+      "techType": 17
+    },
+    {
+      "prefabName": "silver",
+      "techType": 28
+    },
+    {
+      "prefabName": "breakablesilver",
+      "techType": 101
+    },
+    {
+      "prefabName": "breakablegold",
+      "techType": 102
+    },
+    {
+      "prefabName": "drillablesilver",
+      "techType": 75
+    },
+    {
+      "prefabName": "stalkertooth",
+      "techType": 3504
+    },
+    {
+      "prefabName": "sulphurcrystal",
+      "techType": 23
+    },
+    {
+      "prefabName": "titanium",
+      "techType": 16
+    },
+    {
+      "prefabName": "drillabletitanium",
+      "techType": 73
+    },
+    {
+      "prefabName": "titaniumingot",
+      "techType": 30
+    },
+    {
+      "prefabName": "twistybridgesegg",
+      "techType": 1256
+    },
+    {
+      "prefabName": "uraninitecrystal",
+      "techType": 63
+    },
+    {
+      "prefabName": "uranium",
+      "techType": 51
+    },
+    {
+      "prefabName": "drillableuraninite",
+      "techType": 81
+    },
+    {
+      "prefabName": "acidmushroomspore",
+      "techType": 3509
+    },
+    {
+      "prefabName": "bluepalmseed",
+      "techType": 3520
+    },
+    {
+      "prefabName": "bulbotreepiece",
+      "techType": 3506
+    },
+    {
+      "prefabName": "creepvinepiece",
+      "techType": 2529
+    },
+    {
+      "prefabName": "creepvineseed",
+      "techType": 2503
+    },
+    {
+      "prefabName": "eyesplantseed",
+      "techType": 3531
+    },
+    {
+      "prefabName": "fernpalmseed",
+      "techType": 3529
+    },
+    {
+      "prefabName": "gabe'sfeatherseed",
+      "techType": 3525
+    },
+    {
+      "prefabName": "hangingfruit",
+      "techType": 3513
+    },
+    {
+      "prefabName": "jellyplantseed",
+      "techType": 3524
+    },
+    {
+      "prefabName": "kooshchunk",
+      "techType": 3503
+    },
+    {
+      "prefabName": "melon",
+      "techType": 3516
+    },
+    {
+      "prefabName": "melonseed",
+      "techType": 3517
+    },
+    {
+      "prefabName": "membraintreeseed",
+      "techType": 3527
+    },
+    {
+      "prefabName": "orangemushroomspore",
+      "techType": 3507
+    },
+    {
+      "prefabName": "orangepetalsplantseed",
+      "techType": 3530
+    },
+    {
+      "prefabName": "pinkflowerseed",
+      "techType": 3528
+    },
+    {
+      "prefabName": "pinkmushroomspore",
+      "techType": 3511
+    },
+    {
+      "prefabName": "purplebraincoralpiece",
+      "techType": 3518
+    },
+    {
+      "prefabName": "purplefanseed",
+      "techType": 3521
+    },
+    {
+      "prefabName": "purplerattlespore",
+      "techType": 3512
+    },
+    {
+      "prefabName": "purpletentacleseed",
+      "techType": 3523
+    },
+    {
+      "prefabName": "purplevegetable",
+      "techType": 3514
+    },
+    {
+      "prefabName": "purplevaseplantpiece",
+      "techType": 3508
+    },
+    {
+      "prefabName": "redgreententacleseed",
+      "techType": 3532
+    },
+    {
+      "prefabName": "spikeplantseed",
+      "techType": 3519
+    },
+    {
+      "prefabName": "seacrownseed",
+      "techType": 3526
+    },
+    {
+      "prefabName": "smallfanseed",
+      "techType": 3522
+    },
+    {
+      "prefabName": "smallmelon",
+      "techType": 3515
+    },
+    {
+      "prefabName": "whitemushroomspore",
+      "techType": 3510
+    },
+    {
+      "prefabName": "purplestalkseed",
+      "techType": 3533
+    },
+    {
+      "prefabName": "redbasketplantseed",
+      "techType": 3534
+    },
+    {
+      "prefabName": "redbushseed",
+      "techType": 3535
+    },
+    {
+      "prefabName": "redconeplantseed",
+      "techType": 3536
+    },
+    {
+      "prefabName": "shellgrassseed",
+      "techType": 3537
+    },
+    {
+      "prefabName": "spottedleavesplantseed",
+      "techType": 3538
+    },
+    {
+      "prefabName": "redrollplantseed",
+      "techType": 3539
+    },
+    {
+      "prefabName": "purplebranchesseed",
+      "techType": 3540
+    },
+    {
+      "prefabName": "snakemushroomspore",
+      "techType": 3541
+    },
+    {
+      "prefabName": "basebulkheadfragment",
+      "techType": 1126
+    },
+    {
+      "prefabName": "baseroomfragment",
+      "techType": 1125
+    },
+    {
+      "prefabName": "baseupgradeconsolefragment",
+      "techType": 1121
+    },
+    {
+      "prefabName": "bioreactorfragment",
+      "techType": 1108
+    },
+    {
+      "prefabName": "constructorfragment",
+      "techType": 1118
+    },
+    {
+      "prefabName": "cyclopsbridgefragment",
+      "techType": 1114
+    },
+    {
+      "prefabName": "cyclopsdockingbayfragment",
+      "techType": 1116
+    },
+    {
+      "prefabName": "cyclopsenginefragment",
+      "techType": 1115
+    },
+    {
+      "prefabName": "cyclopshullfragment_large",
+      "techType": 1113
+    },
+    {
+      "prefabName": "cyclopshullfragment_medium",
+      "techType": 1113
+    },
+    {
+      "prefabName": "exosuitfragment",
+      "techType": 1102
+    },
+    {
+      "prefabName": "ledlight_damaged",
+      "techType": 1143
+    },
+    {
+      "prefabName": "ledlightfragment",
+      "techType": 1143
+    },
+    {
+      "prefabName": "moonpoolfragment",
+      "techType": 1111
+    },
+    {
+      "prefabName": "nuclearreactorfragment",
+      "techType": 1110
+    },
+    {
+      "prefabName": "observatoryfragment",
+      "techType": 1122
+    },
+    {
+      "prefabName": "maproomfragment",
+      "techType": 1146
+    },
+    {
+      "prefabName": "powertransmitterfragment",
+      "techType": 1120
+    },
+    {
+      "prefabName": "propulsioncannonfragment",
+      "techType": 1107
+    },
+    {
+      "prefabName": "radiofragment",
+      "techType": 1124
+    },
+    {
+      "prefabName": "reinforcehullfragment",
+      "techType": 1105
+    },
+    {
+      "prefabName": "reinforceddivesuitfragment",
+      "techType": 1139
+    },
+    {
+      "prefabName": "scannerroomfragment",
+      "techType": 1146
+    },
+    {
+      "prefabName": "seaglidefragment",
+      "techType": 1117
+    },
+    {
+      "prefabName": "seamothfragment",
+      "techType": 1100
+    },
+    {
+      "prefabName": "solarpanelfragment",
+      "techType": 1119
+    },
+    {
+      "prefabName": "specimenanalyzerfragment",
+      "techType": 1130
+    },
+    {
+      "prefabName": "spotlight_rusted",
+      "techType": 1145
+    },
+    {
+      "prefabName": "stasisriflefragment",
+      "techType": 1101
+    },
+    {
+      "prefabName": "terraformerfragment",
+      "techType": 1104
+    },
+    {
+      "prefabName": "thermalplantfragment",
+      "techType": 1109
+    },
+    {
+      "prefabName": "transfuserfragment",
+      "techType": 1103
+    },
+    {
+      "prefabName": "waterparkfragment",
+      "techType": 1123
+    },
+    {
+      "prefabName": "workbenchfragment",
+      "techType": 1106
+    },
+    {
+      "prefabName": "basebioreactorfragment",
+      "techType": 1147
+    },
+    {
+      "prefabName": "basenuclearreactorfragment",
+      "techType": 1148
+    },
+    {
+      "prefabName": "batterychargerfragment",
+      "techType": 1127
+    },
+    {
+      "prefabName": "powercellchargerfragment",
+      "techType": 1128
+    },
+    {
+      "prefabName": "exosuitpropulsionarmfragment",
+      "techType": 2124
+    },
+    {
+      "prefabName": "exosuitgrapplingarmfragment",
+      "techType": 2125
+    },
+    {
+      "prefabName": "exosuitdrillarmfragment",
+      "techType": 2123
+    },
+    {
+      "prefabName": "exosuittorpedoarmfragment",
+      "techType": 2126
+    },
+    {
+      "prefabName": "stillsuitfragment",
+      "techType": 1141
+    },
+    {
+      "prefabName": "advancedwiringkit",
+      "techType": 34
+    },
+    {
+      "prefabName": "airbladder",
+      "techType": 513
+    },
+    {
+      "prefabName": "battery",
+      "techType": 504
+    },
+    {
+      "prefabName": "beacon",
+      "techType": 508
+    },
+    {
+      "prefabName": "cyclopsdecoy",
+      "techType": 527
+    },
+    {
+      "prefabName": "scanner",
+      "techType": 523
+    },
+    {
+      "prefabName": "builder",
+      "techType": 509
+    },
+    {
+      "prefabName": "compass",
+      "techType": 512
+    },
+    {
+      "prefabName": "thermometer",
+      "techType": 516
+    },
+    {
+      "prefabName": "constructor",
+      "techType": 752
+    },
+    {
+      "prefabName": "currentgenerator",
+      "techType": 1507
+    },
+    {
+      "prefabName": "diamondblade",
+      "techType": 800
+    },
+    {
+      "prefabName": "divereel",
+      "techType": 517
+    },
+    {
+      "prefabName": "exosuit",
+      "techType": 2001
+    },
+    {
+      "prefabName": "fins",
+      "techType": 502
+    },
+    {
+      "prefabName": "flare",
+      "techType": 754
+    },
+    {
+      "prefabName": "flashlight",
+      "techType": 507
+    },
+    {
+      "prefabName": "ledlight",
+      "techType": 762
+    },
+    {
+      "prefabName": "spotlight",
+      "techType": 1505
+    },
+    {
+      "prefabName": "gravsphere",
+      "techType": 758
+    },
+    {
+      "prefabName": "heatblade",
+      "techType": 801
+    },
+    {
+      "prefabName": "highcapacitytank",
+      "techType": 804
+    },
+    {
+      "prefabName": "hullreinforcementmodule",
+      "techType": 1501
+    },
+    {
+      "prefabName": "cyclopshullmodule1",
+      "techType": 1537
+    },
+    {
+      "prefabName": "cyclopshullmodule2",
+      "techType": 1538
+    },
+    {
+      "prefabName": "cyclopsshieldmodule",
+      "techType": 1551
+    },
+    {
+      "prefabName": "cyclopssonarmodule",
+      "techType": 1552
+    },
+    {
+      "prefabName": "cyclopsseamothrepairmodule",
+      "techType": 1553
+    },
+    {
+      "prefabName": "cyclopsdecoymodule",
+      "techType": 1554
+    },
+    {
+      "prefabName": "cyclopsfiresuppressionmodule",
+      "techType": 1555
+    },
+    {
+      "prefabName": "knife",
+      "techType": 505
+    },
+    {
+      "prefabName": "lithiumionbattery",
+      "techType": 802
+    },
+    {
+      "prefabName": "pipe",
+      "techType": 515
+    },
+    {
+      "prefabName": "pipesurfacefloater",
+      "techType": 526
+    },
+    {
+      "prefabName": "basepipeconnector",
+      "techType": 5530
+    },
+    {
+      "prefabName": "plasteeltank",
+      "techType": 803
+    },
+    {
+      "prefabName": "powercell",
+      "techType": 43
+    },
+    {
+      "prefabName": "precursorionpowercell",
+      "techType": 4209
+    },
+    {
+      "prefabName": "precursorionbattery",
+      "techType": 4210
+    },
+    {
+      "prefabName": "powerglide",
+      "techType": 809
+    },
+    {
+      "prefabName": "powerupgrademodule",
+      "techType": 1516
+    },
+    {
+      "prefabName": "propulsioncannon",
+      "techType": 757
+    },
+    {
+      "prefabName": "radiationsuit",
+      "techType": 519
+    },
+    {
+      "prefabName": "radiationhelmet",
+      "techType": 520
+    },
+    {
+      "prefabName": "radiationgloves",
+      "techType": 521
+    },
+    {
+      "prefabName": "reinforcedgloves",
+      "techType": 529
+    },
+    {
+      "prefabName": "reinforceddivesuit",
+      "techType": 522
+    },
+    {
+      "prefabName": "repulsioncannon",
+      "techType": 807
+    },
+    {
+      "prefabName": "seaglide",
+      "techType": 751
+    },
+    {
+      "prefabName": "seamoth",
+      "techType": 2000
+    },
+    {
+      "prefabName": "smallstorage",
+      "techType": 759
+    },
+    {
+      "prefabName": "stasisrifle",
+      "techType": 755
+    },
+    {
+      "prefabName": "stillsuit",
+      "techType": 808
+    },
+    {
+      "prefabName": "swimchargefins",
+      "techType": 806
+    },
+    {
+      "prefabName": "tank",
+      "techType": 503
+    },
+    {
+      "prefabName": "doubletank",
+      "techType": 528
+    },
+    {
+      "prefabName": "terraformer",
+      "techType": 514
+    },
+    {
+      "prefabName": "transfuser",
+      "techType": 753
+    },
+    {
+      "prefabName": "ultraglidefins",
+      "techType": 805
+    },
+    {
+      "prefabName": "welder",
+      "techType": 750
+    },
+    {
+      "prefabName": "wiringkit",
+      "techType": 33
+    },
+    {
+      "prefabName": "lasercutter",
+      "techType": 761
+    },
+    {
+      "prefabName": "fireextinguisher",
+      "techType": 524
+    },
+    {
+      "prefabName": "seamothreinforcementmodule",
+      "techType": 2100
+    },
+    {
+      "prefabName": "seamothpowerupgrademodule",
+      "techType": 2101
+    },
+    {
+      "prefabName": "seamothsolarcharge",
+      "techType": 2102
+    },
+    {
+      "prefabName": "seamothstoragemodule",
+      "techType": 2103
+    },
+    {
+      "prefabName": "seamothelectricaldefense",
+      "techType": 2104
+    },
+    {
+      "prefabName": "seamothtorpedomodule",
+      "techType": 2109
+    },
+    {
+      "prefabName": "whirlpooltorpedo",
+      "techType": 2111
+    },
+    {
+      "prefabName": "seamothsonarmodule",
+      "techType": 2110
+    },
+    {
+      "prefabName": "lootsensormetal",
+      "techType": 2106
+    },
+    {
+      "prefabName": "lootsensorlithium",
+      "techType": 2107
+    },
+    {
+      "prefabName": "lootsensorfragment",
+      "techType": 2108
+    },
+    {
+      "prefabName": "seamotharmorplating",
+      "techType": 2105
+    },
+    {
+      "prefabName": "seamothhullmodule1",
+      "techType": 2112
+    },
+    {
+      "prefabName": "seamothhullmodule2",
+      "techType": 2113
+    },
+    {
+      "prefabName": "seamothhullmodule3",
+      "techType": 2114
+    },
+    {
+      "prefabName": "exosuitjetupgrademodule",
+      "techType": 2115
+    },
+    {
+      "prefabName": "exosuitthermalreactormodule",
+      "techType": 2117
+    },
+    {
+      "prefabName": "gastorpedo",
+      "techType": 2119
+    },
+    {
+      "prefabName": "exosuitpropulsionarmmodule",
+      "techType": 2120
+    },
+    {
+      "prefabName": "exosuitgrapplingarmmodule",
+      "techType": 2121
+    },
+    {
+      "prefabName": "exosuitdrillarmmodule",
+      "techType": 2116
+    },
+    {
+      "prefabName": "exosuittorpedoarmmodule",
+      "techType": 2122
+    },
+    {
+      "prefabName": "maproomhudchip",
+      "techType": 525
+    },
+    {
+      "prefabName": "maproomcamera",
+      "techType": 5527
+    },
+    {
+      "prefabName": "maproomupgradescanrange",
+      "techType": 2250
+    },
+    {
+      "prefabName": "maproomupgradescanspeed",
+      "techType": 2251
+    },
+    {
+      "prefabName": "precursorkey_red",
+      "techType": 4200
+    },
+    {
+      "prefabName": "precursorkey_orange",
+      "techType": 4202
+    },
+    {
+      "prefabName": "precursorkey_blue",
+      "techType": 4201
+    },
+    {
+      "prefabName": "precursorkey_white",
+      "techType": 4203
+    },
+    {
+      "prefabName": "precursorkey_purple",
+      "techType": 4204
+    },
+    {
+      "prefabName": "precursorioncrystal",
+      "techType": 66
+    },
+    {
+      "prefabName": "precursorioncrystalmatrix",
+      "techType": 67
+    },
+    {
+      "prefabName": "basefoundation",
+      "techType": 5509
+    },
+    {
+      "prefabName": "basecorridorglassi",
+      "techType": 5516
+    },
+    {
+      "prefabName": "basecorridorglassl",
+      "techType": 5517
+    },
+    {
+      "prefabName": "basecorridori",
+      "techType": 5510
+    },
+    {
+      "prefabName": "basecorridorl",
+      "techType": 5511
+    },
+    {
+      "prefabName": "basecorridort",
+      "techType": 5512
+    },
+    {
+      "prefabName": "basecorridorx",
+      "techType": 5513
+    },
+    {
+      "prefabName": "basehatch",
+      "techType": 5501
+    },
+    {
+      "prefabName": "basebulkhead",
+      "techType": 5515
+    },
+    {
+      "prefabName": "baseladder",
+      "techType": 5504
+    },
+    {
+      "prefabName": "basewaterpark",
+      "techType": 5525
+    },
+    {
+      "prefabName": "basereinforcement",
+      "techType": 5514
+    },
+    {
+      "prefabName": "basewindow",
+      "techType": 5505
+    },
+    {
+      "prefabName": "baseupgradeconsole",
+      "techType": 5522
+    },
+    {
+      "prefabName": "baseplanter",
+      "techType": 5523
+    },
+    {
+      "prefabName": "basefiltrationmachine",
+      "techType": 5524
+    },
+    {
+      "prefabName": "baseroom",
+      "techType": 5500
+    },
+    {
+      "prefabName": "basemoonpool",
+      "techType": 5520
+    },
+    {
+      "prefabName": "baseobservatory",
+      "techType": 5518
+    },
+    {
+      "prefabName": "baseconnector",
+      "techType": 5519
+    },
+    {
+      "prefabName": "basemaproom",
+      "techType": 5526
+    },
+    {
+      "prefabName": "basebioreactor",
+      "techType": 5528
+    },
+    {
+      "prefabName": "basenuclearreactor",
+      "techType": 5529
+    },
+    {
+      "prefabName": "batterycharger",
+      "techType": 1544
+    },
+    {
+      "prefabName": "powercellcharger",
+      "techType": 1545
+    },
+    {
+      "prefabName": "rocketbase",
+      "techType": 5900
+    },
+    {
+      "prefabName": "rocketbaseladder",
+      "techType": 5901
+    },
+    {
+      "prefabName": "rocketstage1",
+      "techType": 5902
+    },
+    {
+      "prefabName": "rocketstage2",
+      "techType": 5903
+    },
+    {
+      "prefabName": "rocketstage3",
+      "techType": 5904
+    },
+    {
+      "prefabName": "solarpanel",
+      "techType": 1517
+    },
+    {
+      "prefabName": "powertransmitter",
+      "techType": 1519
+    },
+    {
+      "prefabName": "accumulator",
+      "techType": 1520
+    },
+    {
+      "prefabName": "bioreactor",
+      "techType": 1521
+    },
+    {
+      "prefabName": "thermalplant",
+      "techType": 1522
+    },
+    {
+      "prefabName": "nuclearreactor",
+      "techType": 1523
+    },
+    {
+      "prefabName": "locker",
+      "techType": 1504
+    },
+    {
+      "prefabName": "smalllocker",
+      "techType": 1524
+    },
+    {
+      "prefabName": "bench",
+      "techType": 1525
+    },
+    {
+      "prefabName": "bed1",
+      "techType": 1541
+    },
+    {
+      "prefabName": "bed2",
+      "techType": 1542
+    },
+    {
+      "prefabName": "narrowbed",
+      "techType": 1543
+    },
+    {
+      "prefabName": "planterpot",
+      "techType": 1527
+    },
+    {
+      "prefabName": "planterpot2",
+      "techType": 1534
+    },
+    {
+      "prefabName": "planterpot3",
+      "techType": 1535
+    },
+    {
+      "prefabName": "planterbox",
+      "techType": 1528
+    },
+    {
+      "prefabName": "plantershelf",
+      "techType": 1529
+    },
+    {
+      "prefabName": "farmingtray",
+      "techType": 1530
+    },
+    {
+      "prefabName": "aquarium",
+      "techType": 1503
+    },
+    {
+      "prefabName": "workbench",
+      "techType": 1500
+    },
+    {
+      "prefabName": "cyclopsfabricator",
+      "techType": 1556
+    },
+    {
+      "prefabName": "centrifuge",
+      "techType": 1550
+    },
+    {
+      "prefabName": "fabricator",
+      "techType": 1502
+    },
+    {
+      "prefabName": "powergenerator",
+      "techType": 5506
+    },
+    {
+      "prefabName": "fragmentanalyzer",
+      "techType": 1508
+    },
+    {
+      "prefabName": "specimenanalyzer",
+      "techType": 1513
+    },
+    {
+      "prefabName": "specialhullplate",
+      "techType": 1509
+    },
+    {
+      "prefabName": "bikemanhullplate",
+      "techType": 1510
+    },
+    {
+      "prefabName": "eatmydictionhullplate",
+      "techType": 1511
+    },
+    {
+      "prefabName": "devtestitem",
+      "techType": 1512
+    },
+    {
+      "prefabName": "dioramahullplate",
+      "techType": 6000
+    },
+    {
+      "prefabName": "markiplierhullplate",
+      "techType": 6001
+    },
+    {
+      "prefabName": "muyskermhullplate",
+      "techType": 6002
+    },
+    {
+      "prefabName": "lordminionhullplate",
+      "techType": 6003
+    },
+    {
+      "prefabName": "jacksepticeyehullplate",
+      "techType": 6004
+    },
+    {
+      "prefabName": "igphullplate",
+      "techType": 6006
+    },
+    {
+      "prefabName": "gilathisshullplate",
+      "techType": 6007
+    },
+    {
+      "prefabName": "sign",
+      "techType": 1518
+    },
+    {
+      "prefabName": "pictureframe",
+      "techType": 1526
+    },
+    {
+      "prefabName": "tech_light",
+      "techType": 1532
+    },
+    {
+      "prefabName": "radio",
+      "techType": 1533
+    },
+    {
+      "prefabName": "medicalcabinet",
+      "techType": 1536
+    },
+    {
+      "prefabName": "singlewallshelf",
+      "techType": 1539
+    },
+    {
+      "prefabName": "wallshelves",
+      "techType": 1540
+    },
+    {
+      "prefabName": "poster",
+      "techType": 6005
+    },
+    {
+      "prefabName": "poster_aurora",
+      "techType": 1824
+    },
+    {
+      "prefabName": "poster_exosuit_01",
+      "techType": 1825
+    },
+    {
+      "prefabName": "poster_exosuit_02",
+      "techType": 1826
+    },
+    {
+      "prefabName": "poster_kitty",
+      "techType": 1827
+    },
+    {
+      "prefabName": "poster_peng",
+      "techType": 1830
+    },
+    {
+      "prefabName": "starshipcargocrate",
+      "techType": 1800
+    },
+    {
+      "prefabName": "starshipcircuitbox",
+      "techType": 1801
+    },
+    {
+      "prefabName": "starshipchair",
+      "techType": 1803
+    },
+    {
+      "prefabName": "starshipchair2",
+      "techType": 1805
+    },
+    {
+      "prefabName": "starshipchair3",
+      "techType": 1806
+    },
+    {
+      "prefabName": "starshipdesk",
+      "techType": 1802
+    },
+    {
+      "prefabName": "starshipmonitor",
+      "techType": 1804
+    },
+    {
+      "prefabName": "docking_luggage_01_bag4",
+      "techType": 1807
+    },
+    {
+      "prefabName": "descent_arcade_gorgetoy_01",
+      "techType": 1808
+    },
+    {
+      "prefabName": "discovery_lab_props_01",
+      "techType": 1809
+    },
+    {
+      "prefabName": "discovery_lab_props_02",
+      "techType": 1810
+    },
+    {
+      "prefabName": "discovery_lab_props_03",
+      "techType": 1811
+    },
+    {
+      "prefabName": "descent_plaza_shelf_cap_02",
+      "techType": 1814
+    },
+    {
+      "prefabName": "descent_plaza_shelf_cap_03",
+      "techType": 1815
+    },
+    {
+      "prefabName": "biodome_lab_containers_close_01",
+      "techType": 1816
+    },
+    {
+      "prefabName": "biodome_lab_containers_close_02",
+      "techType": 1817
+    },
+    {
+      "prefabName": "biodome_lab_containers_tube_01",
+      "techType": 1818
+    },
+    {
+      "prefabName": "starship_souvenir",
+      "techType": 1823
+    },
+    {
+      "prefabName": "bartable",
+      "techType": 1813
+    },
+    {
+      "prefabName": "trashcans",
+      "techType": 1819
+    },
+    {
+      "prefabName": "labtrashcan",
+      "techType": 1820
+    },
+    {
+      "prefabName": "vendingmachine",
+      "techType": 1821
+    },
+    {
+      "prefabName": "coffeevendingmachine",
+      "techType": 1812
+    },
+    {
+      "prefabName": "labcounter",
+      "techType": 1822
+    },
+    {
+      "prefabName": "marki_01",
+      "techType": 6008
+    },
+    {
+      "prefabName": "marki_03",
+      "techType": 6009
+    },
+    {
+      "prefabName": "jacksepticeye",
+      "techType": 6010
+    },
+    {
+      "prefabName": "eatmydiction",
+      "techType": 6011
+    },
+    {
+      "prefabName": "hydrochloricacid",
+      "techType": 53
+    },
+    {
+      "prefabName": "benzene",
+      "techType": 61
+    },
+    {
+      "prefabName": "polyaniline",
+      "techType": 56
+    },
+    {
+      "prefabName": "aerogel",
+      "techType": 59
+    },
+    {
+      "prefabName": "aramidfibers",
+      "techType": 57
+    },
+    {
+      "prefabName": "rebreather",
+      "techType": 518
+    },
+    {
+      "prefabName": "cyclopsthermalreactormodule",
+      "techType": 1557
+    },
+    {
+      "prefabName": "cuteegg",
+      "techType": 1285
+    },
+    {
+      "prefabName": "timecapsule",
+      "techType": 5905
+    },
+    {
+      "prefabName": "cyclopshullmodule3",
+      "techType": 1558
+    },
+    {
+      "prefabName": "exohullmodule1",
+      "techType": 2128
+    },
+    {
+      "prefabName": "exohullmodule2",
+      "techType": 2129
+    },
+    {
+      "prefabName": "hatchingenzymes",
+      "techType": 1547
+    },
+    {
+      "prefabName": "exchanger",
+      "techType": 8000
+    },
+    {
+      "prefabName": "phasegate",
+      "techType": 1559
+    },
+    {
+      "prefabName": "baserechargeplatform",
+      "techType": 5531
+    },
+    {
+      "prefabName": "penguin",
+      "techType": 2566
+    },
+    {
+      "prefabName": "penguinbaby",
+      "techType": 2575
+    },
+    {
+      "prefabName": "glowwhale",
+      "techType": 2567
+    },
+    {
+      "prefabName": "lost_river_fish_skeleton_expansion_kharaasample",
+      "techType": 8001
+    },
+    {
+      "prefabName": "kharaasample",
+      "techType": 8002
+    },
+    {
+      "prefabName": "deeparcticresource",
+      "techType": 8006
+    },
+    {
+      "prefabName": "deeplilypadresource",
+      "techType": 8005
+    },
+    {
+      "prefabName": "twistybridgeresource",
+      "techType": 8004
+    },
+    {
+      "prefabName": "icebergresource",
+      "techType": 8007
+    },
+    {
+      "prefabName": "weatherpanel",
+      "techType": 1561
+    },
+    {
+      "prefabName": "weatherstation",
+      "techType": 1560
+    },
+    {
+      "prefabName": "weatherballoon",
+      "techType": 1562
+    },
+    {
+      "prefabName": "deployabledrill",
+      "techType": 764
+    },
+    {
+      "prefabName": "hoverzoneresource1",
+      "techType": 8008
+    },
+    {
+      "prefabName": "hoverzoneresource2",
+      "techType": 8009
+    },
+    {
+      "prefabName": "hoverboard",
+      "techType": 763
+    },
+    {
+      "prefabName": "supplydrop",
+      "techType": 8010
+    },
+    {
+      "prefabName": "icewormspawner",
+      "techType": 2568
+    },
+    {
+      "prefabName": "basecolorcustomizer",
+      "techType": 1563
+    },
+    {
+      "prefabName": "pinnacarid",
+      "techType": 2569
+    },
+    {
+      "prefabName": "basecontrolroom",
+      "techType": 5532
+    },
+    {
+      "prefabName": "lilypaddler",
+      "techType": 2570
+    },
+    {
+      "prefabName": "hoverbike",
+      "techType": 2006
+    },
+    {
+      "prefabName": "spinnerfish",
+      "techType": 2571
+    },
+    {
+      "prefabName": "basewallfoundation",
+      "techType": 5533
+    },
+    {
+      "prefabName": "arcticray",
+      "techType": 2572
+    },
+    {
+      "prefabName": "precursor_bodypart_tissue",
+      "techType": 8020
+    },
+    {
+      "prefabName": "precursor_bodypart_skeleton",
+      "techType": 8021
+    },
+    {
+      "prefabName": "precursor_bodypart_organs",
+      "techType": 8019
+    },
+    {
+      "prefabName": "arcticbrinicle",
+      "techType": 4012
+    },
+    {
+      "prefabName": "thumper",
+      "techType": 530
+    },
+    {
+      "prefabName": "jukebox",
+      "techType": 1564
+    },
+    {
+      "prefabName": "seatruck",
+      "techType": 2007
+    },
+    {
+      "prefabName": "seatruckfabricatormodule",
+      "techType": 2008
+    },
+    {
+      "prefabName": "generic_plant_armored_01",
+      "techType": 3071
+    },
+    {
+      "prefabName": "generic_plant_bowl_01",
+      "techType": 3072
+    },
+    {
+      "prefabName": "generic_plant_cage_01",
+      "techType": 3074
+    },
+    {
+      "prefabName": "generic_plant_cage_02",
+      "techType": 3074
+    },
+    {
+      "prefabName": "generic_plant_cage_03",
+      "techType": 3074
+    },
+    {
+      "prefabName": "generic_plant_cage_young_01",
+      "techType": 3074
+    },
+    {
+      "prefabName": "generic_plant_cage_young_02",
+      "techType": 3074
+    },
+    {
+      "prefabName": "generic_plant_shelldouble_01",
+      "techType": 3076
+    },
+    {
+      "prefabName": "generic_plant_shelldouble_02",
+      "techType": 3076
+    },
+    {
+      "prefabName": "generic_plant_shelldouble_03",
+      "techType": 3076
+    },
+    {
+      "prefabName": "generic_plant_shelldouble_04",
+      "techType": 3076
+    },
+    {
+      "prefabName": "generic_plant_shellsingle_01",
+      "techType": 3077
+    },
+    {
+      "prefabName": "generic_plant_shellsingle_02",
+      "techType": 3077
+    },
+    {
+      "prefabName": "generic_plant_shellsingle_03",
+      "techType": 3077
+    },
+    {
+      "prefabName": "generic_plant_shellsingle_young_01",
+      "techType": 3077
+    },
+    {
+      "prefabName": "generic_plant_shellsingle_young_02",
+      "techType": 3077
+    },
+    {
+      "prefabName": "generic_plant_spine_01",
+      "techType": 3075
+    },
+    {
+      "prefabName": "alterra_colleaguedivesuit",
+      "techType": 8022
+    },
+    {
+      "prefabName": "alterra_colleaguepda1",
+      "techType": 8024
+    },
+    {
+      "prefabName": "alterra_precursorresearchnotes",
+      "techType": 8023
+    },
+    {
+      "prefabName": "generic_plant_armored_02",
+      "techType": 3071
+    },
+    {
+      "prefabName": "generic_plant_armored_03",
+      "techType": 3071
+    },
+    {
+      "prefabName": "generic_plant_armored_04",
+      "techType": 3071
+    },
+    {
+      "prefabName": "generic_plant_spiral_01",
+      "techType": 3078
+    },
+    {
+      "prefabName": "generic_plant_ribbon_01",
+      "techType": 3079
+    },
+    {
+      "prefabName": "snowman",
+      "techType": 1829
+    },
+    {
+      "prefabName": "rockpuncher",
+      "techType": 2533
+    },
+    {
+      "prefabName": "coral_reef_kelp_arctic_01_bulb_a",
+      "techType": 2500
+    },
+    {
+      "prefabName": "coral_reef_kelp_arctic_01_bulb_b",
+      "techType": 2500
+    },
+    {
+      "prefabName": "coral_reef_kelp_arctic_01_bulb_c",
+      "techType": 2500
+    },
+    {
+      "prefabName": "coral_reef_kelp_arctic_01_standard_a",
+      "techType": 2500
+    },
+    {
+      "prefabName": "coral_reef_kelp_arctic_01_standard_b",
+      "techType": 2500
+    },
+    {
+      "prefabName": "coral_reef_kelp_arctic_01_standard_c",
+      "techType": 2500
+    },
+    {
+      "prefabName": "coral_reef_kelp_arctic_01_standard_d",
+      "techType": 2500
+    },
+    {
+      "prefabName": "coral_reef_kelp_arctic_01_standard_e",
+      "techType": 2500
+    },
+    {
+      "prefabName": "coral_reef_kelp_arctic_01_standard_f",
+      "techType": 2500
+    },
+    {
+      "prefabName": "coral_reef_kelp_arctic_01_thin_a",
+      "techType": 2500
+    },
+    {
+      "prefabName": "coral_reef_kelp_arctic_01_thin_b",
+      "techType": 2500
+    },
+    {
+      "prefabName": "arctickelp_kelp_1",
+      "techType": 2500
+    },
+    {
+      "prefabName": "arctickelp_kelp_2",
+      "techType": 2500
+    },
+    {
+      "prefabName": "hoverpad",
+      "techType": 8025
+    },
+    {
+      "prefabName": "baselargeroom",
+      "techType": 5534
+    },
+    {
+      "prefabName": "basepartitiondoor",
+      "techType": 5539
+    },
+    {
+      "prefabName": "seatruckplantermodule",
+      "techType": 2009
+    },
+    {
+      "prefabName": "seatruckstoragemodule",
+      "techType": 2010
+    },
+    {
+      "prefabName": "seatruckaquariummodule",
+      "techType": 2011
+    },
+    {
+      "prefabName": "heatinggel",
+      "techType": 4524
+    },
+    {
+      "prefabName": "oxygenplant_expansion",
+      "techType": 3084
+    },
+    {
+      "prefabName": "peeperice",
+      "techType": 2504
+    },
+    {
+      "prefabName": "seatruckdockingmodule",
+      "techType": 2012
+    },
+    {
+      "prefabName": "spikeytrap",
+      "techType": 4013
+    },
+    {
+      "prefabName": "cookedspinnerfish",
+      "techType": 4525
+    },
+    {
+      "prefabName": "curedspinnerfish",
+      "techType": 4614
+    },
+    {
+      "prefabName": "symbiote",
+      "techType": 2573
+    },
+    {
+      "prefabName": "cookedsymbiote",
+      "techType": 4526
+    },
+    {
+      "prefabName": "curedsymbiote",
+      "techType": 4615
+    },
+    {
+      "prefabName": "bruteshark",
+      "techType": 2576
+    },
+    {
+      "prefabName": "trivalveblue",
+      "techType": 2577
+    },
+    {
+      "prefabName": "trivalveyellow",
+      "techType": 2598
+    },
+    {
+      "prefabName": "baseglassdome",
+      "techType": 5540
+    },
+    {
+      "prefabName": "basepartition",
+      "techType": 5541
+    },
+    {
+      "prefabName": "bioscanner",
+      "techType": 8028
+    },
+    {
+      "prefabName": "arcticpeeper",
+      "techType": 2578
+    },
+    {
+      "prefabName": "arrowray",
+      "techType": 2579
+    },
+    {
+      "prefabName": "cookedarcticpeeper",
+      "techType": 4527
+    },
+    {
+      "prefabName": "cookedarrowray",
+      "techType": 4528
+    },
+    {
+      "prefabName": "curedarcticpeeper",
+      "techType": 4616
+    },
+    {
+      "prefabName": "curedarrowray",
+      "techType": 4617
+    },
+    {
+      "prefabName": "seamonkey",
+      "techType": 2580
+    },
+    {
+      "prefabName": "titanholefish",
+      "techType": 2574
+    },
+    {
+      "prefabName": "bladderfishschool",
+      "techType": 2581
+    },
+    {
+      "prefabName": "boomerangfishschool",
+      "techType": 2582
+    },
+    {
+      "prefabName": "holefishschool",
+      "techType": 2583
+    },
+    {
+      "prefabName": "hoopfish_02_school",
+      "techType": 2584
+    },
+    {
+      "prefabName": "nootfish",
+      "techType": 2585
+    },
+    {
+      "prefabName": "cookednootfish",
+      "techType": 4529
+    },
+    {
+      "prefabName": "curednootfish",
+      "techType": 4618
+    },
+    {
+      "prefabName": "thermal_lily_01",
+      "techType": 3083
+    },
+    {
+      "prefabName": "spypenguin",
+      "techType": 8030
+    },
+    {
+      "prefabName": "seatruckupgradeafterburner",
+      "techType": 2131
+    },
+    {
+      "prefabName": "seatruckupgradethruster",
+      "techType": 2132
+    },
+    {
+      "prefabName": "seatruckupgradeenergyefficiency",
+      "techType": 2133
+    },
+    {
+      "prefabName": "seatruckupgradeperimeterdefense",
+      "techType": 2134
+    },
+    {
+      "prefabName": "seatruckupgradehorsepower",
+      "techType": 2135
+    },
+    {
+      "prefabName": "seatruckupgradehull1",
+      "techType": 2136
+    },
+    {
+      "prefabName": "seatruckupgradehull2",
+      "techType": 2137
+    },
+    {
+      "prefabName": "seatruckupgradehull3",
+      "techType": 2138
+    },
+    {
+      "prefabName": "seatrucksleepermodule",
+      "techType": 2013
+    },
+    {
+      "prefabName": "seatruckteleportationmodule",
+      "techType": 2014
+    },
+    {
+      "prefabName": "brinewing",
+      "techType": 2586
+    },
+    {
+      "prefabName": "teleportationtool",
+      "techType": 531
+    },
+    {
+      "prefabName": "triops",
+      "techType": 2587
+    },
+    {
+      "prefabName": "cookedtriops",
+      "techType": 4530
+    },
+    {
+      "prefabName": "curedtriops",
+      "techType": 4619
+    },
+    {
+      "prefabName": "squidshark",
+      "techType": 2588
+    },
+    {
+      "prefabName": "squidshark_lilypads",
+      "techType": 2588
+    },
+    {
+      "prefabName": "seamonkeybaby",
+      "techType": 2589
+    },
+    {
+      "prefabName": "seamonkeyegg",
+      "techType": 1291
+    },
+    {
+      "prefabName": "chelicerata",
+      "techType": 2590
+    },
+    {
+      "prefabName": "snowstalker",
+      "techType": 2591
+    },
+    {
+      "prefabName": "speaker",
+      "techType": 1566
+    },
+    {
+      "prefabName": "snowstalkerbaby",
+      "techType": 2592
+    },
+    {
+      "prefabName": "featherfish",
+      "techType": 2593
+    },
+    {
+      "prefabName": "featherfishred",
+      "techType": 2594
+    },
+    {
+      "prefabName": "cookedfeatherfish",
+      "techType": 4531
+    },
+    {
+      "prefabName": "cookedfeatherfishred",
+      "techType": 4532
+    },
+    {
+      "prefabName": "curedfeatherfish",
+      "techType": 4620
+    },
+    {
+      "prefabName": "curedfeatherfishred",
+      "techType": 4621
+    },
+    {
+      "prefabName": "heat_fruit",
+      "techType": 3542
+    },
+    {
+      "prefabName": "metaldetector",
+      "techType": 532
+    },
+    {
+      "prefabName": "shadowleviathan",
+      "techType": 2595
+    },
+    {
+      "prefabName": "coldsuit",
+      "techType": 810
+    },
+    {
+      "prefabName": "spypenguinremote",
+      "techType": 8033
+    },
+    {
+      "prefabName": "flashlighthelmet",
+      "techType": 533
+    },
+    {
+      "prefabName": "vent_garden_standing",
+      "techType": 2596
+    },
+    {
+      "prefabName": "vent_garden_swimming",
+      "techType": 2597
+    },
+    {
+      "prefabName": "snowstalkerfur",
+      "techType": 3543
+    },
+    {
+      "prefabName": "baselargeglassdome",
+      "techType": 5542
+    },
+    {
+      "prefabName": "coldsuitgloves",
+      "techType": 811
+    },
+    {
+      "prefabName": "coldsuithelmet",
+      "techType": 812
+    },
+    {
+      "prefabName": "suitboostertank",
+      "techType": 813
+    },
+    {
+      "prefabName": "precursornpcorgans",
+      "techType": 8014
+    },
+    {
+      "prefabName": "precursornpctissue",
+      "techType": 8015
+    },
+    {
+      "prefabName": "precursornpcskeleton",
+      "techType": 8016
+    },
+    {
+      "prefabName": "jellyfish",
+      "techType": 2599
+    },
+    {
+      "prefabName": "jellyfish_small",
+      "techType": 2599
+    },
+    {
+      "prefabName": "discusfish",
+      "techType": 2600
+    },
+    {
+      "prefabName": "hoverbikehopmodule",
+      "techType": 2130
+    },
+    {
+      "prefabName": "kelpcaverootpustule",
+      "techType": 3092
+    },
+    {
+      "prefabName": "kelpcaverootpustuleseed",
+      "techType": 3545
+    },
+    {
+      "prefabName": "genericribbonseed",
+      "techType": 3544
+    },
+    {
+      "prefabName": "cryptosuchus",
+      "techType": 2602
+    },
+    {
+      "prefabName": "generic_plant_shellsingle_01_single_young_b",
+      "techType": 3077
+    },
+    {
+      "prefabName": "generic_plant_shellsingle_01_single_young_a",
+      "techType": 3077
+    },
+    {
+      "prefabName": "generic_plant_shellsingle_01_single_c",
+      "techType": 3077
+    },
+    {
+      "prefabName": "generic_plant_shellsingle_01_single_b",
+      "techType": 3077
+    },
+    {
+      "prefabName": "generic_plant_shellsingle_01_cluster_b",
+      "techType": 3077
+    },
+    {
+      "prefabName": "generic_plant_shellsingle_01_single_a",
+      "techType": 3077
+    },
+    {
+      "prefabName": "generic_plant_shellsingle_01_cluster_c",
+      "techType": 3077
+    },
+    {
+      "prefabName": "generic_plant_shellsingle_01_cluster_f",
+      "techType": 3077
+    },
+    {
+      "prefabName": "generic_plant_shellsingle_01_cluster_e",
+      "techType": 3077
+    },
+    {
+      "prefabName": "generic_plant_shellsingle_01_cluster_d",
+      "techType": 3077
+    },
+    {
+      "prefabName": "generic_plant_shellsingle_01_cluster_a",
+      "techType": 3077
+    },
+    {
+      "prefabName": "generic_plant_shelldouble_01_single_d",
+      "techType": 3076
+    },
+    {
+      "prefabName": "generic_plant_shelldouble_01_cluster_a",
+      "techType": 3076
+    },
+    {
+      "prefabName": "generic_plant_shelldouble_01_single_a",
+      "techType": 3076
+    },
+    {
+      "prefabName": "generic_plant_shelldouble_01_single_c",
+      "techType": 3076
+    },
+    {
+      "prefabName": "generic_plant_shelldouble_01_cluster_c",
+      "techType": 3076
+    },
+    {
+      "prefabName": "generic_plant_shelldouble_01_cluster_d",
+      "techType": 3076
+    },
+    {
+      "prefabName": "generic_plant_shelldouble_01_cluster_b",
+      "techType": 3076
+    },
+    {
+      "prefabName": "generic_plant_shelldouble_01_single_b",
+      "techType": 3076
+    },
+    {
+      "prefabName": "twistybridges_coral_shelf_combined_091709_276",
+      "techType": 3097
+    },
+    {
+      "prefabName": "twistybridges_coral_shelf_01_single_b",
+      "techType": 3097
+    },
+    {
+      "prefabName": "twistybridges_coral_shelf_01_single_c",
+      "techType": 3097
+    },
+    {
+      "prefabName": "twistybridges_coral_shelf_01_single_a",
+      "techType": 3097
+    },
+    {
+      "prefabName": "twistybridges_coral_shelf_01_cluster_a",
+      "techType": 3097
+    },
+    {
+      "prefabName": "twistybridges_coral_shelf_01_cluster_c",
+      "techType": 3097
+    },
+    {
+      "prefabName": "twistybridges_coral_shelf_01_cluster_b",
+      "techType": 3097
+    },
+    {
+      "prefabName": "twistybridges_plant_large_01_b",
+      "techType": 3098
+    },
+    {
+      "prefabName": "twistybridges_plant_large_01_a",
+      "techType": 3098
+    },
+    {
+      "prefabName": "twistybridges_plant_large_01_d",
+      "techType": 3098
+    },
+    {
+      "prefabName": "twistybridges_plant_large_01_c",
+      "techType": 3098
+    },
+    {
+      "prefabName": "twistybridges_plant_large_01_c_hanging_a",
+      "techType": 3098
+    },
+    {
+      "prefabName": "twistybridges_plant_large_01_d_hanging_a",
+      "techType": 3098
+    },
+    {
+      "prefabName": "twistybridges_mushroom_01_small_cluster_a",
+      "techType": 3099
+    },
+    {
+      "prefabName": "twistybridges_mushroom_01_small_cluster_c",
+      "techType": 3099
+    },
+    {
+      "prefabName": "twistybridges_mushroom_01_cluster_d",
+      "techType": 3099
+    },
+    {
+      "prefabName": "twistybridges_mushroom_01_cluster_b",
+      "techType": 3099
+    },
+    {
+      "prefabName": "twistybridges_mushroom_01_small_cluster_b",
+      "techType": 3099
+    },
+    {
+      "prefabName": "twistybridges_mushroom_01_single_a",
+      "techType": 3099
+    },
+    {
+      "prefabName": "twistybridges_mushroom_01_cluster_c",
+      "techType": 3099
+    },
+    {
+      "prefabName": "twistybridges_mushroom_01_small_cluster_d",
+      "techType": 3099
+    },
+    {
+      "prefabName": "twistybridges_mushroom_01_cluster_a",
+      "techType": 3099
+    },
+    {
+      "prefabName": "twistybridges_mushroom_01_cluster_e",
+      "techType": 3099
+    },
+    {
+      "prefabName": "twistybridges_mushroom_01_single_b",
+      "techType": 3099
+    },
+    {
+      "prefabName": "twistybridges_mushroom_01_single_c",
+      "techType": 3099
+    },
+    {
+      "prefabName": "generic_plant_17",
+      "techType": 3100
+    },
+    {
+      "prefabName": "blastingvent",
+      "techType": 3095
+    },
+    {
+      "prefabName": "icecrystal_01_large_b_ice",
+      "techType": 3096
+    },
+    {
+      "prefabName": "icecrystal_01_medium_c_ice",
+      "techType": 3096
+    },
+    {
+      "prefabName": "icecrystal_01_medium_b_ice",
+      "techType": 3096
+    },
+    {
+      "prefabName": "icecrystal_01_medium_a_ice",
+      "techType": 3096
+    },
+    {
+      "prefabName": "icecrystal_01_large_c_ice",
+      "techType": 3096
+    },
+    {
+      "prefabName": "icecrystal_01_large_a_ice",
+      "techType": 3096
+    },
+    {
+      "prefabName": "precursor_arcticspires_cabletechsite_01",
+      "techType": 4246
+    },
+    {
+      "prefabName": "precursor_arcticspires_cable",
+      "techType": 4246
+    },
+    {
+      "prefabName": "icecrystal_01_medium_c",
+      "techType": 4245
+    },
+    {
+      "prefabName": "icecrystal_01_medium_b",
+      "techType": 4245
+    },
+    {
+      "prefabName": "icecrystal_01_medium_a",
+      "techType": 4245
+    },
+    {
+      "prefabName": "icecrystal_01_large_b",
+      "techType": 4245
+    },
+    {
+      "prefabName": "icecrystal_01_large_a",
+      "techType": 4245
+    },
+    {
+      "prefabName": "fridge",
+      "techType": 1831
+    },
+    {
+      "prefabName": "shower",
+      "techType": 1832
+    },
+    {
+      "prefabName": "sink",
+      "techType": 1833
+    },
+    {
+      "prefabName": "smallstove",
+      "techType": 1834
+    },
+    {
+      "prefabName": "toilet",
+      "techType": 1835
+    },
+    {
+      "prefabName": "spikeytrapbrown",
+      "techType": 4013
+    },
+    {
+      "prefabName": "deeplilypads_flower_01_single_a_cache",
+      "techType": 3104
+    },
+    {
+      "prefabName": "deeplilypads_flower_01_single_c_cache",
+      "techType": 3104
+    },
+    {
+      "prefabName": "deeplilypads_flower_01_single_b_cache",
+      "techType": 3104
+    },
+    {
+      "prefabName": "deeplilypads_flower_01_single_c",
+      "techType": 3104
+    },
+    {
+      "prefabName": "deeplilypads_flower_01_single_b",
+      "techType": 3104
+    },
+    {
+      "prefabName": "deeplilypads_flower_01_single_a",
+      "techType": 3104
+    },
+    {
+      "prefabName": "cookeddiscusfish",
+      "techType": 4533
+    },
+    {
+      "prefabName": "cureddiscusfish",
+      "techType": 4622
+    },
+    {
+      "prefabName": "deeplilyshroom",
+      "techType": 3107
+    },
+    {
+      "prefabName": "shipwreck_depletedreactorrod",
+      "techType": 65
+    },
+    {
+      "prefabName": "generic_fruit_plant_01_fruit",
+      "techType": 3546
+    },
+    {
+      "prefabName": "generic_fruit_ice_plant_fruit",
+      "techType": 3547
+    },
+    {
+      "prefabName": "titanholefishegg",
+      "techType": 1312
+    },
+    {
+      "prefabName": "squidsharkegg",
+      "techType": 1310
+    },
+    {
+      "prefabName": "pinnacaridegg",
+      "techType": 1298
+    },
+    {
+      "prefabName": "lilypaddleregg",
+      "techType": 1296
+    },
+    {
+      "prefabName": "brutesharkegg",
+      "techType": 1294
+    },
+    {
+      "prefabName": "arcticrayegg",
+      "techType": 1292
+    },
+    {
+      "prefabName": "trivalveblueegg",
+      "techType": 1314
+    },
+    {
+      "prefabName": "trivalveyellowegg",
+      "techType": 1315
+    },
+    {
+      "prefabName": "brinewingegg",
+      "techType": 1318
+    },
+    {
+      "prefabName": "hiddencrocegg",
+      "techType": 1320
+    },
+    {
+      "prefabName": "glowwhaleegg",
+      "techType": 1322
+    },
+    {
+      "prefabName": "jellyfishegg",
+      "techType": 1324
+    },
+    {
+      "prefabName": "penguinegg",
+      "techType": 1326
+    },
+    {
+      "prefabName": "quantumlocker",
+      "techType": 1567
+    },
+    {
+      "prefabName": "snowball",
+      "techType": 4020
+    },
+    {
+      "prefabName": "waterpurificationtablet",
+      "techType": 4534
+    },
+    {
+      "prefabName": "recyclotron",
+      "techType": 1568
+    },
+    {
+      "prefabName": "hive_mind_cluster_large_a",
+      "techType": 3108
+    },
+    {
+      "prefabName": "hive_mind_cluster_medium_a",
+      "techType": 3108
+    },
+    {
+      "prefabName": "hive_mind_cluster_medium_b",
+      "techType": 3108
+    },
+    {
+      "prefabName": "generic_fruit_plant_01",
+      "techType": 3105
+    },
+    {
+      "prefabName": "generic_big_plant_01_short",
+      "techType": 3101
+    },
+    {
+      "prefabName": "generic_big_plant_01_tall",
+      "techType": 3101
+    },
+    {
+      "prefabName": "deeptwistybridges_plant_tentacles_01_hanging_b",
+      "techType": 3109
+    },
+    {
+      "prefabName": "deeptwistybridges_plant_tentacles_01_hanging_a",
+      "techType": 3109
+    },
+    {
+      "prefabName": "deeptwistybridges_plant_tentacles_01_c",
+      "techType": 3109
+    },
+    {
+      "prefabName": "deeptwistybridges_plant_tentacles_01_bulb_b",
+      "techType": 3109
+    },
+    {
+      "prefabName": "deeptwistybridges_plant_tentacles_01_bulb_a",
+      "techType": 3109
+    },
+    {
+      "prefabName": "deeptwistybridges_plant_tentacles_01_b",
+      "techType": 3109
+    },
+    {
+      "prefabName": "deeptwistybridges_plant_tentacles_01_a",
+      "techType": 3109
+    },
+    {
+      "prefabName": "generic_plant_crystal_tall",
+      "techType": 3103
+    },
+    {
+      "prefabName": "generic_plant_crystal_short",
+      "techType": 3103
+    },
+    {
+      "prefabName": "lilypads_tapeplant_01_cluster_a",
+      "techType": 3111
+    },
+    {
+      "prefabName": "tall_cyan_flower_01",
+      "techType": 3110
+    },
+    {
+      "prefabName": "tall_cyan_flower_01_orange",
+      "techType": 3110
+    },
+    {
+      "prefabName": "lilypad_stage_02_top_02",
+      "techType": 3118
+    },
+    {
+      "prefabName": "lilypad_stage_02_top_01",
+      "techType": 3118
+    },
+    {
+      "prefabName": "lilypad_stage_01",
+      "techType": 3112
+    },
+    {
+      "prefabName": "lilypad_stage_03_top_01",
+      "techType": 3119
+    },
+    {
+      "prefabName": "lilypad_top",
+      "techType": 3114
+    },
+    {
+      "prefabName": "lilypads_damaged_pad_03",
+      "techType": 3113
+    },
+    {
+      "prefabName": "lilypads_damaged_pad_02",
+      "techType": 3113
+    },
+    {
+      "prefabName": "lilypads_damaged_pad_01",
+      "techType": 3113
+    },
+    {
+      "prefabName": "triangle_plant_01",
+      "techType": 3116
+    },
+    {
+      "prefabName": "triangle_plant_02",
+      "techType": 3116
+    },
+    {
+      "prefabName": "triangle_plant_03",
+      "techType": 3116
+    },
+    {
+      "prefabName": "lilypads_roots_01_e_near",
+      "techType": 3115
+    },
+    {
+      "prefabName": "lilypads_roots_01_e",
+      "techType": 3115
+    },
+    {
+      "prefabName": "lilypads_roots_01_d_near",
+      "techType": 3115
+    },
+    {
+      "prefabName": "lilypads_roots_01_d",
+      "techType": 3115
+    },
+    {
+      "prefabName": "lilypads_roots_01_c_near",
+      "techType": 3115
+    },
+    {
+      "prefabName": "lilypads_roots_01_c",
+      "techType": 3115
+    },
+    {
+      "prefabName": "lilypads_roots_01_b_near",
+      "techType": 3115
+    },
+    {
+      "prefabName": "lilypads_roots_01_b",
+      "techType": 3115
+    },
+    {
+      "prefabName": "lilypads_roots_01_a_near",
+      "techType": 3115
+    },
+    {
+      "prefabName": "lilypads_roots_01_a",
+      "techType": 3115
+    },
+    {
+      "prefabName": "lilypads_roots_01_f_near",
+      "techType": 3115
+    },
+    {
+      "prefabName": "lilypads_roots_01_f",
+      "techType": 3115
+    },
+    {
+      "prefabName": "twistybridgesmushroomchunk",
+      "techType": 3548
+    },
+    {
+      "prefabName": "spicyfruitsalad",
+      "techType": 4535
+    },
+    {
+      "prefabName": "heat_fruit_plant",
+      "techType": 3088
+    },
+    {
+      "prefabName": "frozenriver_plant_02_c",
+      "techType": 3121
+    },
+    {
+      "prefabName": "frozenriver_plant_02_b",
+      "techType": 3121
+    },
+    {
+      "prefabName": "frozenriver_plant_02_a",
+      "techType": 3121
+    },
+    {
+      "prefabName": "frozenriverplantseed",
+      "techType": 3549
+    },
+    {
+      "prefabName": "generic_plant_spiral_01_chunk",
+      "techType": 3550
+    },
+    {
+      "prefabName": "builder_damaged",
+      "techType": 1142
+    },
+    {
+      "prefabName": "twistybridges_bridge_01_01",
+      "techType": 3126
+    },
+    {
+      "prefabName": "twistybridges_bridge_01_02",
+      "techType": 3126
+    },
+    {
+      "prefabName": "twistybridges_bridge_01_03",
+      "techType": 3126
+    },
+    {
+      "prefabName": "twistybridges_bridge_01_04",
+      "techType": 3126
+    },
+    {
+      "prefabName": "twistybridges_bridge_01_05",
+      "techType": 3126
+    },
+    {
+      "prefabName": "twistybridges_bridge_01_06",
+      "techType": 3126
+    },
+    {
+      "prefabName": "twistybridges_bridge_01_07",
+      "techType": 3126
+    },
+    {
+      "prefabName": "twistybridges_bridge_01_08",
+      "techType": 3126
+    },
+    {
+      "prefabName": "twistybridges_bridge_01_09",
+      "techType": 3126
+    },
+    {
+      "prefabName": "twistybridges_bridge_01_10",
+      "techType": 3126
+    },
+    {
+      "prefabName": "twistybridges_bridge_01_11",
+      "techType": 3126
+    },
+    {
+      "prefabName": "twistybridges_bridge_01_12",
+      "techType": 3126
+    },
+    {
+      "prefabName": "twistybridges_bridge_01_13",
+      "techType": 3126
+    },
+    {
+      "prefabName": "twistybridges_bridge_01_14",
+      "techType": 3126
+    },
+    {
+      "prefabName": "twistybridges_bridge_01_15",
+      "techType": 3126
+    },
+    {
+      "prefabName": "twistybridges_cliffplant_tall_01",
+      "techType": 3127
+    },
+    {
+      "prefabName": "twistybridges_cliffplant_medium_forward_04",
+      "techType": 3127
+    },
+    {
+      "prefabName": "twistybridges_cliffplant_medium_forward_03",
+      "techType": 3127
+    },
+    {
+      "prefabName": "twistybridges_cliffplant_medium_forward_02",
+      "techType": 3127
+    },
+    {
+      "prefabName": "twistybridges_cliffplant_medium_forward_01",
+      "techType": 3127
+    },
+    {
+      "prefabName": "twistybridges_cliffplant_medium_02",
+      "techType": 3127
+    },
+    {
+      "prefabName": "twistybridges_cliffplant_medium_01",
+      "techType": 3127
+    },
+    {
+      "prefabName": "twistybridges_coral_long_01_g",
+      "techType": 3128
+    },
+    {
+      "prefabName": "twistybridges_coral_long_01_f",
+      "techType": 3128
+    },
+    {
+      "prefabName": "twistybridges_coral_long_01_e",
+      "techType": 3128
+    },
+    {
+      "prefabName": "twistybridges_coral_long_01_d",
+      "techType": 3128
+    },
+    {
+      "prefabName": "twistybridges_coral_long_01_c",
+      "techType": 3128
+    },
+    {
+      "prefabName": "twistybridges_coral_long_01_b",
+      "techType": 3128
+    },
+    {
+      "prefabName": "twistybridges_coral_long_01_a",
+      "techType": 3128
+    },
+    {
+      "prefabName": "crystal_caverns_crystal_wall_large_b",
+      "techType": 3130
+    },
+    {
+      "prefabName": "crystal_caverns_crystal_wall_large_a",
+      "techType": 3130
+    },
+    {
+      "prefabName": "crystal_caverns_crystal_single_large_b",
+      "techType": 3130
+    },
+    {
+      "prefabName": "crystal_caverns_crystal_single_large_a",
+      "techType": 3130
+    },
+    {
+      "prefabName": "crystal_caverns_crystal_group_large_d",
+      "techType": 3130
+    },
+    {
+      "prefabName": "crystal_caverns_crystal_group_large_c",
+      "techType": 3130
+    },
+    {
+      "prefabName": "crystal_caverns_crystal_group_large_b",
+      "techType": 3130
+    },
+    {
+      "prefabName": "crystal_caverns_crystal_group_large_a",
+      "techType": 3130
+    },
+    {
+      "prefabName": "fabricator_cavern_tower_vertical_b",
+      "techType": 3131
+    },
+    {
+      "prefabName": "fabricator_cavern_tower_vertical_a",
+      "techType": 3131
+    },
+    {
+      "prefabName": "fabricator_cavern_tower_horizontal_b",
+      "techType": 3131
+    },
+    {
+      "prefabName": "fabricator_cavern_tower_horizontal_a",
+      "techType": 3131
+    },
+    {
+      "prefabName": "kelpcave_root_01",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_04",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_03_noloot",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_03",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_02_curved_a_noloot",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_02",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_02_curved_a",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_03_curved_a_noloot",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_04_curved_a",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_09",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_01_curved_a",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_11",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_12",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_10",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_14",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_08",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_01_curved_a_noloot",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_07",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_15",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_06",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_01_noloot",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_04_curved_a_noloot",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_04_noloot",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_05",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_02_noloot",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_03_curved_a",
+      "techType": 3091
+    },
+    {
+      "prefabName": "kelpcave_root_13",
+      "techType": 3091
+    },
+    {
+      "prefabName": "radiotowerppu",
+      "techType": 8039
+    },
+    {
+      "prefabName": "radiotowertom",
+      "techType": 8045
+    },
+    {
+      "prefabName": "deeplilypads_flower_02_single_c",
+      "techType": 3107
+    },
+    {
+      "prefabName": "deeplilypads_flower_02_single_d",
+      "techType": 3107
+    },
+    {
+      "prefabName": "deeplilypads_flower_02_single_b",
+      "techType": 3107
+    },
+    {
+      "prefabName": "deeplilypads_flower_02_single_a",
+      "techType": 3107
+    },
+    {
+      "prefabName": "deeplilyshroomseed",
+      "techType": 3551
+    },
+    {
+      "prefabName": "vegetable_plant_01_leaf",
+      "techType": 3135
+    },
+    {
+      "prefabName": "snowstalkerfruit",
+      "techType": 3133
+    },
+    {
+      "prefabName": "small_maroon_flower_01",
+      "techType": 3117
+    },
+    {
+      "prefabName": "smallmaroonplantseed",
+      "techType": 3552
+    },
+    {
+      "prefabName": "poster_rocketbase_motivational",
+      "techType": 1837
+    },
+    {
+      "prefabName": "poster_rocketbase_fred_seatruck",
+      "techType": 1838
+    },
+    {
+      "prefabName": "poster_rocketbase_jeremiahbirdwall",
+      "techType": 1839
+    },
+    {
+      "prefabName": "poster_outpostzero_lil_architects",
+      "techType": 1840
+    },
+    {
+      "prefabName": "radiotowertomfragment",
+      "techType": 8046
+    },
+    {
+      "prefabName": "poster_rocketbase_jeremiahnobirds",
+      "techType": 1842
+    },
+    {
+      "prefabName": "arcticshelf_honeycombplant_03",
+      "techType": 3136
+    },
+    {
+      "prefabName": "arcticshelf_honeycombplant_04",
+      "techType": 3136
+    },
+    {
+      "prefabName": "arcticshelf_honeycombplant_02",
+      "techType": 3136
+    },
+    {
+      "prefabName": "bubble_mushroom_big",
+      "techType": 3140
+    },
+    {
+      "prefabName": "bubble_mushroom_small_curved_a",
+      "techType": 3140
+    },
+    {
+      "prefabName": "bubble_mushroom_small_curved_b",
+      "techType": 3140
+    },
+    {
+      "prefabName": "bubble_mushroom_big_curved_b",
+      "techType": 3140
+    },
+    {
+      "prefabName": "bubble_mushroom_big_curved_a",
+      "techType": 3140
+    },
+    {
+      "prefabName": "bubble_mushroom_small",
+      "techType": 3140
+    },
+    {
+      "prefabName": "treespires_tree_01_c",
+      "techType": 3139
+    },
+    {
+      "prefabName": "treespires_tree_01_a",
+      "techType": 3139
+    },
+    {
+      "prefabName": "treespires_tree_01_b",
+      "techType": 3139
+    },
+    {
+      "prefabName": "thermalzone_spire_01_cluster_a",
+      "techType": 3137
+    },
+    {
+      "prefabName": "thermalzone_spire_01_cluster_c",
+      "techType": 3137
+    },
+    {
+      "prefabName": "thermalzone_spire_01_cluster_f",
+      "techType": 3137
+    },
+    {
+      "prefabName": "thermalzone_spire_01_cluster_b",
+      "techType": 3137
+    },
+    {
+      "prefabName": "thermalzone_spire_01_cluster_d",
+      "techType": 3137
+    },
+    {
+      "prefabName": "thermalzone_spire_01_cluster_e",
+      "techType": 3137
+    },
+    {
+      "prefabName": "thermalzone_barnacles_01_cluster_a",
+      "techType": 3138
+    },
+    {
+      "prefabName": "thermalzone_barnacles_01_cluster_c",
+      "techType": 3138
+    },
+    {
+      "prefabName": "thermalzone_barnacles_01_cluster_b",
+      "techType": 3138
+    },
+    {
+      "prefabName": "small_maroon_flower_01_fruit",
+      "techType": 3132
+    },
+    {
+      "prefabName": "poster_bunker_community",
+      "techType": 8050
+    },
+    {
+      "prefabName": "poster_boardgame",
+      "techType": 8054
+    },
+    {
+      "prefabName": "poster_bunker_parvan_seacreature",
+      "techType": 8047
+    },
+    {
+      "prefabName": "poster_hanginthere",
+      "techType": 8055
+    },
+    {
+      "prefabName": "poster_roboticscenter_sam_spypenglingblueprint",
+      "techType": 8056
+    },
+    {
+      "prefabName": "poster_roboticscenter_spypenguinconcepts",
+      "techType": 8053
+    },
+    {
+      "prefabName": "poster_roboticscenter_zeta_rollerball",
+      "techType": 8052
+    },
+    {
+      "prefabName": "rocketbase_fred_penglingpicture",
+      "techType": 1843
+    },
+    {
+      "prefabName": "outpostzero_sam_robinpotatopicture",
+      "techType": 1845
+    },
+    {
+      "prefabName": "poster_rocketbase_mercury",
+      "techType": 1849
+    },
+    {
+      "prefabName": "outpostomega_vinh_postcard",
+      "techType": 1844
+    },
+    {
+      "prefabName": "aromatherapylamp",
+      "techType": 1856
+    },
+    {
+      "prefabName": "poster_motivational2",
+      "techType": 1852
+    },
+    {
+      "prefabName": "poster_motivational3",
+      "techType": 1853
+    },
+    {
+      "prefabName": "poster_outpostzero_vesper",
+      "techType": 1854
+    },
+    {
+      "prefabName": "poster_rocketbase_fred_seatruck2",
+      "techType": 1848
+    },
+    {
+      "prefabName": "outpostomega_samdanielle_happypicture",
+      "techType": 1855
+    },
+    {
+      "prefabName": "executivetoy",
+      "techType": 1846
+    },
+    {
+      "prefabName": "outpostzero_sam_potatoportraitpicture",
+      "techType": 1850
+    },
+    {
+      "prefabName": "outpostomega_danielle_abstractart",
+      "techType": 1858
+    },
+    {
+      "prefabName": "outpostomega_vinh_biologicalart",
+      "techType": 1857
+    },
+    {
+      "prefabName": "surface_pouch_bulb_medium_01_sunken_group_a",
+      "techType": 3142
+    },
+    {
+      "prefabName": "surface_pouch_bulb_medium_01_group_b",
+      "techType": 3142
+    },
+    {
+      "prefabName": "surface_pouch_bulb_small_01",
+      "techType": 3142
+    },
+    {
+      "prefabName": "surface_pouch_bulb_medium_01_sunken_group_b",
+      "techType": 3142
+    },
+    {
+      "prefabName": "surface_pouch_bulb_medium_01",
+      "techType": 3142
+    },
+    {
+      "prefabName": "surface_pouch_bulb_medium_01_group_a",
+      "techType": 3142
+    },
+    {
+      "prefabName": "surface_pouch_bulb_medium_01_sunken",
+      "techType": 3142
+    },
+    {
+      "prefabName": "frozenleviathan_necklace",
+      "techType": 1859
+    },
+    {
+      "prefabName": "rockpuncheregg",
+      "techType": 1328
+    },
+    {
+      "prefabName": "hydraulicfluid",
+      "techType": 8044
+    },
+    {
+      "prefabName": "fredshavingkit",
+      "techType": 1847
+    },
+    {
+      "prefabName": "bedsam",
+      "techType": 1864
+    },
+    {
+      "prefabName": "bedzeta",
+      "techType": 1865
+    },
+    {
+      "prefabName": "beddanielle",
+      "techType": 1860
+    },
+    {
+      "prefabName": "bedjeremiah",
+      "techType": 1863
+    },
+    {
+      "prefabName": "bedfred",
+      "techType": 1862
+    },
+    {
+      "prefabName": "bedemmanuel",
+      "techType": 1861
+    },
+    {
+      "prefabName": "bedparven",
+      "techType": 1867
+    },
+    {
+      "prefabName": "ledlight_decoration_introbase",
+      "techType": 1143
+    },
+    {
+      "prefabName": "ledlight_decoration_introicelake",
+      "techType": 1143
+    },
+    {
+      "prefabName": "ledlight_decoration",
+      "techType": 1143
+    },
+    {
+      "prefabName": "hoverbikeicewormreductionmodule",
+      "techType": 2139
+    },
+    {
+      "prefabName": "coral_reef_plant_middle_12_arctic",
+      "techType": 3061
+    },
+    {
+      "prefabName": "coral_reef_plant_middle_05_arctic",
+      "techType": 3056
+    },
+    {
+      "prefabName": "coral_reef_plant_middle_03_arctic",
+      "techType": 3054
+    },
+    {
+      "prefabName": "generic_plant_18",
+      "techType": 3143
+    },
+    {
+      "prefabName": "farming_plant_03_outpostzero",
+      "techType": 3045
+    },
+    {
+      "prefabName": "purplevents_plant_tall_shoots_01_group_d",
+      "techType": 3144
+    },
+    {
+      "prefabName": "purplevents_plant_tall_shoots_01_single_a",
+      "techType": 3144
+    },
+    {
+      "prefabName": "purplevents_plant_tall_shoots_01_group_a",
+      "techType": 3144
+    },
+    {
+      "prefabName": "purplevents_plant_tall_shoots_01_group_c",
+      "techType": 3144
+    },
+    {
+      "prefabName": "purplevents_plant_tall_shoots_01_single_c",
+      "techType": 3144
+    },
+    {
+      "prefabName": "purplevents_plant_tall_shoots_01_group_b",
+      "techType": 3144
+    },
+    {
+      "prefabName": "purplevents_plant_tall_shoots_01_single_b",
+      "techType": 3144
+    },
+    {
+      "prefabName": "thermalzone_barnacles_01_single_a",
+      "techType": 3138
+    },
+    {
+      "prefabName": "thermalzone_barnacles_01_single_b",
+      "techType": 3138
+    },
+    {
+      "prefabName": "treespires_tornado_plates_01_c",
+      "techType": 3145
+    },
+    {
+      "prefabName": "treespires_tornado_plates_01_b",
+      "techType": 3145
+    },
+    {
+      "prefabName": "treespires_tornado_plates_01_a",
+      "techType": 3145
+    },
+    {
+      "prefabName": "purplevents_vents_01_medium_single_c_animated",
+      "techType": 3146
+    },
+    {
+      "prefabName": "purplevents_vents_01_medium_single_d_animated",
+      "techType": 3146
+    },
+    {
+      "prefabName": "purplevents_vents_01_medium_single_b_vfx",
+      "techType": 3146
+    },
+    {
+      "prefabName": "purplevents_vents_01_medium_single_c_vfx",
+      "techType": 3146
+    },
+    {
+      "prefabName": "purplevents_vents_01_medium_single_d",
+      "techType": 3146
+    },
+    {
+      "prefabName": "purplevents_vents_01_medium_single_a",
+      "techType": 3146
+    },
+    {
+      "prefabName": "purplevents_vents_01_medium_single_e_vfx",
+      "techType": 3146
+    },
+    {
+      "prefabName": "purplevents_vents_01_medium_single_b_animated",
+      "techType": 3146
+    },
+    {
+      "prefabName": "purplevents_vents_01_medium_single_d_vfx",
+      "techType": 3146
+    },
+    {
+      "prefabName": "purplevents_vents_01_medium_single_e_animated",
+      "techType": 3146
+    },
+    {
+      "prefabName": "purplevents_vents_01_medium_single_b",
+      "techType": 3146
+    },
+    {
+      "prefabName": "purplevents_vents_01_medium_single_e",
+      "techType": 3146
+    },
+    {
+      "prefabName": "purplevents_vents_01_medium_single_a_vfx",
+      "techType": 3146
+    },
+    {
+      "prefabName": "purplevents_vents_01_medium_single_c",
+      "techType": 3146
+    },
+    {
+      "prefabName": "purplevents_vents_01_medium_single_a_animated",
+      "techType": 3146
+    },
+    {
+      "prefabName": "thermal_vent_02",
+      "techType": 3147
+    },
+    {
+      "prefabName": "thermal_vent_02_cc",
+      "techType": 3147
+    },
+    {
+      "prefabName": "thermal_vent_01_trunk",
+      "techType": 3147
+    },
+    {
+      "prefabName": "thermal_vent_01",
+      "techType": 3147
+    },
+    {
+      "prefabName": "thermal_vent_01_cc",
+      "techType": 3147
+    },
+    {
+      "prefabName": "thermal_vent_02_base_cc",
+      "techType": 3147
+    },
+    {
+      "prefabName": "thermal_vent_02_base",
+      "techType": 3147
+    },
+    {
+      "prefabName": "thermal_vent_01_trunk_cc",
+      "techType": 3147
+    },
+    {
+      "prefabName": "thermal_vent_02_dtb",
+      "techType": 3147
+    },
+    {
+      "prefabName": "thermal_vent_01_trunk_dtb",
+      "techType": 3147
+    },
+    {
+      "prefabName": "thermal_vent_01_dtb",
+      "techType": 3147
+    },
+    {
+      "prefabName": "thermal_vent_02_base_dtb",
+      "techType": 3147
+    },
+    {
+      "prefabName": "ventgardensmall",
+      "techType": 2597
+    },
+    {
+      "prefabName": "executivedesk",
+      "techType": 1866
+    },
+    {
+      "prefabName": "hoverbikebase_samart_picture",
+      "techType": 1868
+    },
+    {
+      "prefabName": "spypenguin_breadcrumb",
+      "techType": 8068
+    },
+    {
+      "prefabName": "jukeboxdisks",
+      "techType": 8069
+    },
+    {
+      "prefabName": "frozencreatureantidote",
+      "techType": 8049
+    },
+    {
+      "prefabName": "basemoonpoolexpansion",
+      "techType": 10007
+    }
+  ]
+}
