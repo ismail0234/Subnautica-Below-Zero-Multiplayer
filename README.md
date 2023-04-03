@@ -125,7 +125,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 </details>
 
 <details>
-  <summary>Player Items Synchronization (5/24)</summary>
+  <summary>Player Items Synchronization (6/24)</summary>
   
 - [x] Scanner
 - [x] Builder
