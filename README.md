@@ -39,7 +39,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Swedish            | ❌        | sv        | - | - |
  
 
-## Subnautica BZ Multiplayer To-Do List (%70.34 Completed)
+## Subnautica BZ Multiplayer To-Do List (%70.93 Completed)
 
 <details>
   <summary>Base Piece Construction Synchronization (17/20)</summary>
@@ -132,6 +132,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] Knife
 - [x] HeatBlade
 - [x] Coffee  
+- [x] Constructor
 - [ ] Welder
 - [ ] Flashlight
 - [ ] DiveReel
@@ -146,7 +147,6 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] SpyPenguinRemote
 - [ ] TeleportationToo
 - [ ] Seaglide
-- [ ] Constructor
 - [ ] Beacon
 - [ ] SmallStorage
 - [ ] QuantumLocker
