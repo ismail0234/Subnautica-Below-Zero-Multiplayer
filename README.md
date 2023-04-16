@@ -237,8 +237,13 @@ You can contribute to us to translate the mod into other languages. You can get 
 
 ### How can I play this mod?
 
-Please do keep in mind that this mod is still in progressional development. (**Alpha version Is Coming Soon**)
+The mod is currently in alpha release. The alpha version is only available to patreon users. You can support us on patreon to access the alpha version. Support us once on patreon and you'll get access to all upcoming alpha releases. Wait for the beta if you want. The beta version will be available to all users.
 
-### Problems/bugs/issues
+### How can I report bugs in the mod?
 
-Please join the <a href="https://discord.gg/Gq9nush6SP">**SBZM**</a> Discord to discuss any and all issues you have with **SBZM**. From there we'll pick up on new issues to track.
+1. Please first note that the bug you are about to report here has not already been reported. https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/issues
+2. If you are experiencing a synchronisation problem, please check in the to-do list whether the item/furniture you are experiencing the synchronisation problem with has been completed.
+3. Follow these steps by going to our github repo. "Issues -> Bug Report -> Get Started" 
+4. Fill in all mandatory information requested from you.
+5. Describe the bug in as much detail as possible.
+6. If you have video recordings or screenshots, please attach them. (These will make it very easy for me to solve the error).
