@@ -1,5 +1,12 @@
 class VectorCompressor
 {
+	/**
+	 *
+	 * X / Y / Z Meta verilerini barındırır.
+	 *
+	 * @author Ismail <ismaiil_0234@hotmail.com>
+	 *
+	 */
 	public enum Metadata
 	{
 		None = 0x0000000,
@@ -7,7 +14,23 @@ class VectorCompressor
 		Y    = 0x0000002,
 		Z    = 0x0000004
 	}
-	
+
+	/**
+	 *
+	 * Büyük sayıyı barındırır.
+	 *
+	 * @author Ismail <ismaiil_0234@hotmail.com>
+	 *
+	 */
+	private static long BigNumber = 1000000L * 1000000L * 1000000L;
+
+	/**
+	 *
+	 * Vector3'ü 12 bayttan 8 bayta sıkıştırır.
+	 *
+	 * @author Ismail <ismaiil_0234@hotmail.com>
+	 *
+	 */
 	public static long Compress(float x, float y, float z)
 	{
 		var qData = Metadata.None;
@@ -32,4 +55,51 @@ class VectorCompressor
 		
 		return (1000000000000000000 * (long) qData) + (xData + yData + zData);
 	}
+	
+	/**
+	 *
+	 * Sıkıştırılmış Vector3'ü normal haline getirir.
+	 *
+	 * @author Ismail <ismaiil_0234@hotmail.com>
+	 *
+	 */
+	public static Vector3 Decompress(long longNumber)
+	{		
+		var flag = (byte) (longNumber / BigNumber);
+		longNumber -= BigNumber * flag;
+
+		var zData = longNumber / (1000000L * 1000000L);
+		longNumber -= (1000000L * 1000000L) * zData;
+
+		var yData = longNumber / (1000000L);
+		longNumber -= (1000000L) * yData;
+
+		var xData = (float) longNumber / 100;
+		var ccData = (float) yData / 100;
+		var ddData = (float) zData / 100;
+
+		if ((flag & 0x0000001) == 1)
+		{
+			xData *= -1;
+		}
+
+		if ((flag & 0x0000002) == 2)
+		{
+			ccData *= -1;
+		}
+
+		if ((flag & 0x0000004) == 4)
+		{
+			ddData *= -1;
+		}
+		
+		return new Vector3(xData, ccData, ddData);
+	}
 }
+
+/*
+Performance Test
+-----------------------------------------------------
+One Million Compression: 10-15 ms
+One Million Decompression: 50-55 ms
+*/
