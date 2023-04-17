@@ -102,4 +102,9 @@ Performance Test
 -----------------------------------------------------
 One Million Compression: 10-15 ms
 One Million Decompression: 50-55 ms
+
+Min/Max Values (X / Y / Z)
+-----------------------------------------------------
+Min Values: -9999.99f / -9999.99f / -9999.99f
+Max Values: 9999.99f / 9999.99f / 9999.99f
 */
