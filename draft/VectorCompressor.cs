@@ -103,6 +103,11 @@ Performance Test
 One Million Compression: 10-15 ms
 One Million Decompression: 50-55 ms
 
+Old Size: 12 + 3 byte
+New Size: 8 + 1 byte
+
+Compression Rate: 40%
+
 Min/Max Values (X / Y / Z)
 -----------------------------------------------------
 Min Values: -9999.99f / -9999.99f / -9999.99f
