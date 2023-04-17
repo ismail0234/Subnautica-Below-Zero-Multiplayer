@@ -75,8 +75,8 @@ class VectorCompressor
 		longNumber -= (1000000L) * yData;
 
 		var xData = (float) longNumber / 100;
-		var ccData = (float) yData / 100;
-		var ddData = (float) zData / 100;
+		var yyData = (float) yData / 100;
+		var zzData = (float) zData / 100;
 
 		if ((flag & 0x0000001) == 1)
 		{
@@ -85,15 +85,15 @@ class VectorCompressor
 
 		if ((flag & 0x0000002) == 2)
 		{
-			ccData *= -1;
+			yyData *= -1;
 		}
 
 		if ((flag & 0x0000004) == 4)
 		{
-			ddData *= -1;
+			zzData *= -1;
 		}
 		
-		return new Vector3(xData, ccData, ddData);
+		return new Vector3(xData, yyData, zzData);
 	}
 }
 
