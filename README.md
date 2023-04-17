@@ -125,7 +125,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 </details>
 
 <details>
-  <summary>Player Items Synchronization (6/24)</summary>
+  <summary>Player Items Synchronization (8/24)</summary>
   
 - [x] Scanner
 - [x] Builder
@@ -133,6 +133,8 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] HeatBlade
 - [x] Coffee  
 - [x] Constructor
+- [x] SmallStorage
+- [x] QuantumLocker
 - [ ] Welder
 - [ ] Flashlight
 - [ ] DiveReel
@@ -148,8 +150,6 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] TeleportationToo
 - [ ] Seaglide
 - [ ] Beacon
-- [ ] SmallStorage
-- [ ] QuantumLocker
 - [ ] Gravsphere
 </details>
 
