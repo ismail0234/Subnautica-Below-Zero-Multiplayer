@@ -143,14 +143,14 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] AirBladder
 - [ ] Flare
 - [ ] LaserCutter
-- [ ] PropulsionCannon
 - [ ] Thumper
-- [ ] MetalDetector
 - [ ] SpyPenguin
 - [ ] SpyPenguinRemote
 - [ ] TeleportationToo
 - [ ] Seaglide
-- [ ] Gravsphere
+- [ ] ~~MetalDetector~~ (This item will be completed in the beta version)
+- [ ] ~~PropulsionCannon~~ (This item will be completed in the beta version)
+- [ ] ~~Gravsphere~~ (This item will be completed in the beta version)
 </details>
 
 <details>
