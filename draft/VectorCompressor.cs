@@ -74,26 +74,22 @@ class VectorCompressor
 		var yData = longNumber / (1000000L);
 		longNumber -= (1000000L) * yData;
 
-		var xData = (float) longNumber / 100;
-		var yyData = (float) yData / 100;
-		var zzData = (float) zData / 100;
-
-		if ((flag & 0x0000001) == 1)
+		if ((flag & 0x0000001) == 0x0000001)
 		{
-			xData *= -1;
+			longNumber *= -1;
 		}
 
-		if ((flag & 0x0000002) == 2)
+		if ((flag & 0x0000002) == 0x0000002)
 		{
-			yyData *= -1;
+			yData *= -1;
 		}
 
-		if ((flag & 0x0000004) == 4)
+		if ((flag & 0x0000004) == 0x0000004)
 		{
-			zzData *= -1;
+			zData *= -1;
 		}
 		
-		return new Vector3(xData, yyData, zzData);
+		return new Vector3(longNumber / 100f, yData / 100f, zData / 100f);
 	}
 }
 
@@ -101,7 +97,7 @@ class VectorCompressor
 Performance Test
 -----------------------------------------------------
 One Million Compression: 10-15 ms
-One Million Decompression: 50-55 ms
+One Million Decompression: 45-50 ms
 
 Old Size: 12 + 3 byte
 New Size: 8 + 1 byte
