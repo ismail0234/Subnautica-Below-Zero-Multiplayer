@@ -223,9 +223,9 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] Entity/Item Position Synchronization
 - [ ] Vehicles (Animation etc..)
 	- [x] Snowfox
-	- [x] Prawn Suit
-	- [ ] SpyPenguin
+	- [x] Prawn Suit)
 	- [ ] Seatruck
+	- [ ] ~~SpyPenguin~~ (This item will be completed in the beta version
 - [ ] Vehicle Movement Synchronization
 - [ ] PDA Beacons Synchronization
 - [ ] PDA Log Synchronization
