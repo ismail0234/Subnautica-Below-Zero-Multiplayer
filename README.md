@@ -145,9 +145,9 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] DiveReel
 - [x] Flare
 - [ ] LaserCutter
-- [ ] SpyPenguin
-- [ ] SpyPenguinRemote
 - [ ] TeleportationToo
+- [ ] ~~SpyPenguin~~ (This item will be completed in the beta version)
+- [ ] ~~SpyPenguinRemote~~ (This item will be completed in the beta version)
 - [ ] ~~MetalDetector~~ (This item will be completed in the beta version)
 - [ ] ~~PropulsionCannon~~ (This item will be completed in the beta version)
 - [ ] ~~Gravsphere~~ (This item will be completed in the beta version)
@@ -232,7 +232,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] Base Hull Strength Synchronization
 - [ ] Weather Synchronization
 - [ ] AI (Creatures/Fishes) Synchronization
-- [ ] Story Synchronization
+- [ ] ~~Story Synchronization~~ (This item will be completed in the beta version)
  
 
 ### How can I play this mod?
