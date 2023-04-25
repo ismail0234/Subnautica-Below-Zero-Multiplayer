@@ -144,8 +144,8 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] Thumper
 - [x] DiveReel
 - [x] Flare
-- [ ] LaserCutter
 - [ ] TeleportationToo
+- [ ] ~~LaserCutter~~ (This item will be completed in the beta version)
 - [ ] ~~SpyPenguin~~ (This item will be completed in the beta version)
 - [ ] ~~SpyPenguinRemote~~ (This item will be completed in the beta version)
 - [ ] ~~MetalDetector~~ (This item will be completed in the beta version)
@@ -225,7 +225,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [x] Snowfox
 	- [x] Prawn Suit)
 	- [ ] Seatruck
-	- [ ] ~~SpyPenguin~~ (This item will be completed in the beta version
+	- [ ] ~~SpyPenguin~~ (This item will be completed in the beta version)
 - [ ] Vehicle Movement Synchronization
 - [ ] PDA Beacons Synchronization
 - [ ] PDA Log Synchronization
