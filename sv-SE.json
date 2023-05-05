@@ -1,6 +1,6 @@
 {
     "APP_BOOT_CREATE_FILES": "Skapar bootfiler...",
-    "APP_CHECKING_VERSION": "Versionskontroll...",
+    "APP_CHECKING_VERSION": "Kontrollerar versionen...",
     "APP_SERVER_NOT_CONNECTED": "Det gick inte att ansluta till servern.",
     "APP_SERVER_CONFIGURATION_INVALID": "Det har uppstått ett problem med serverkonfigurationen.",
     "APP_SERVER_CHECKING_UDPATE_ERR": "Det gick inte att kontrollera versionen.",
@@ -16,7 +16,7 @@
     "APP_PROCESS_ERROR": "Åtgärden misslyckades",
     "APP_AUTHOR": "Producent",
     "APP_PLAY": "Spela",
-    "APP_OPENING_GAME": "Öppnar spel",
+    "APP_OPENING_GAME": "Spelet öppnar",
     "APP_SIDEBAR_SETTINGS_FOLDER": "Spelfiler",
     "APP_SIDEBAR_SETTINGS_GENERAL": "Inställningar",
     "APP_FOLDER_SCREEN_GAME_FOLDER": "Spelfiler",
