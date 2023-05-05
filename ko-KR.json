@@ -70,13 +70,13 @@
     "GAME_MONTH_12": "12월",
     "APP_LAUNCHER_UPDATER": "런처 업데이터",
     "APP_LAUNCHER_DOWNLOADING": "런처 다운로드중",
-    "GAME_BED_PLAYERS_SLEEPINIG": "{playerCount} Players Sleeping",
-    "GAME_BED_TIME": "Time: {time}",
-    "GAME_INTRO_PLAYERS_CONNECTED": "{playerCount} players connected.",
-    "GAME_INTRO_SERVER_OWNER_WAITING": "The server owner is expected to start the game.",
-    "GAME_INTRO_SERVER_START_DESCRIPTION": "Please press {key} to start the game.",
-    "GAME_INTRO_MULTIPLAYER_BY_BOTBENSON": "Subnautica Below Zero Multiplayer Mod (by BOT Benson)",
-    "APP_NOT_OPENED_PLATFORM": "Make sure the platform on which the game is installed is open. (Steam\/Epic etc..)",
-    "APP_INVALID_PLATFORM": "Invalid Platform. A platform on which the game is installed was not found.",
-    "APP_GAME_ALREADY_OPEN": "The game is already open."
+    "GAME_BED_PLAYERS_SLEEPINIG": "{playerCount} 명의 플레이어들 이 자는중",
+    "GAME_BED_TIME": "시간: {time}",
+    "GAME_INTRO_PLAYERS_CONNECTED": "{playerCount} 명의 플레이어들 이 접속했습니다.",
+    "GAME_INTRO_SERVER_OWNER_WAITING": "서버 소유자가 게임을 시작할 것으로 예상됩니다.",
+    "GAME_INTRO_SERVER_START_DESCRIPTION": "{key} 을(를) 눌러 게임을 시작하세요.",
+    "GAME_INTRO_MULTIPLAYER_BY_BOTBENSON": "서브노티카 빌로우 제로 멀티플레이어 모드 (제작자 BOT Benson)",
+    "APP_NOT_OPENED_PLATFORM": "게임이 설치된 플랫폼이 열려 있는지 확인하십시오. (스팀\/에픽 등..)",
+    "APP_INVALID_PLATFORM": "잘못된 플랫폼입니다. 게임이 설치된 플랫폼을 찾을 수 없습니다.",
+    "APP_GAME_ALREADY_OPEN": "게임은 이미 열려 있습니다."
 }
