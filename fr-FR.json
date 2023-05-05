@@ -76,7 +76,7 @@
     "GAME_INTRO_SERVER_OWNER_WAITING": "Le propriétaire du serveur devrait commencer le jeu.",
     "GAME_INTRO_SERVER_START_DESCRIPTION": "Veuillez appuyer sur {key} pour démarrer la partie.",
     "GAME_INTRO_MULTIPLAYER_BY_BOTBENSON": "Subnautica Below Zero Multiplayer mod (par BOT Benson)",
-    "APP_NOT_OPENED_PLATFORM": "Make sure the platform on which the game is installed is open. (Steam\/Epic etc..)",
-    "APP_INVALID_PLATFORM": "Invalid Platform. A platform on which the game is installed was not found.",
-    "APP_GAME_ALREADY_OPEN": "The game is already open."
+    "APP_NOT_OPENED_PLATFORM": "Assurez-vous que la plateforme sur laquelle le jeu est installé est ouverte. (Steam\/Epic etc..)",
+    "APP_INVALID_PLATFORM": "Plateforme invalide. Aucune plateforme avec le jeu installé n'a été trouvée.",
+    "APP_GAME_ALREADY_OPEN": "Une instance du jeu est déjà ouverte."
 }
