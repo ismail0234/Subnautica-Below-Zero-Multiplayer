@@ -52,7 +52,7 @@
     "GAME_MULTIPLAYER_HOST_GAME": "Založit hru",
     "GAME_MULTIPLAYER_JOIN_GAME": "Připojit k serveru",
     "GAME_MULTIPLAYER_CREATE_SERVER": "Vytvořit server",
-    "GAME_SIZE_B": "Bajtů",
+    "GAME_SIZE_B": "Byte",
     "GAME_SIZE_KB": "KB",
     "GAME_SIZE_MB": "MB",
     "GAME_SIZE_GB": "GB",
