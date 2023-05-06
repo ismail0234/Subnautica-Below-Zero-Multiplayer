@@ -78,5 +78,6 @@
     "GAME_INTRO_MULTIPLAYER_BY_BOTBENSON": "서브노티카 빌로우 제로 멀티플레이어 모드 (제작자 BOT Benson)",
     "APP_NOT_OPENED_PLATFORM": "게임이 설치된 플랫폼이 열려 있는지 확인하십시오. (스팀\/에픽 등..)",
     "APP_INVALID_PLATFORM": "잘못된 플랫폼입니다. 게임이 설치된 플랫폼을 찾을 수 없습니다.",
-    "APP_GAME_ALREADY_OPEN": "게임은 이미 열려 있습니다."
+    "APP_GAME_ALREADY_OPEN": "게임은 이미 열려 있습니다.",
+    "DISCORD_JOINING_SERVER": "Connecting to the server."
 }
