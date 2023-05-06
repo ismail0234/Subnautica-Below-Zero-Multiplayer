@@ -79,5 +79,5 @@
     "APP_NOT_OPENED_PLATFORM": "Se till att plattformen som spelet är installerat på är öppen. (Steam\/Epic etc..)",
     "APP_INVALID_PLATFORM": "Ogiltig plattform. Det gick inte att hitta en plattform där spelet är installerat.",
     "APP_GAME_ALREADY_OPEN": "Spelet är redan öppet.",
-    "DISCORD_JOINING_SERVER": "Connecting to the server."
+    "DISCORD_JOINING_SERVER": "Ansluter till servern..."
 }
