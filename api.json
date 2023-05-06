@@ -54,6 +54,7 @@
         [
             "--API-URL--/Dependencies/MessagePack.Annotations.dll",
             "--API-URL--/Dependencies/MessagePack.dll",
+            "--API-URL--/Dependencies/DiscordRPC.dll",
             "--API-URL--/Dependencies/LiteNetLib.dll",
             "--API-URL--/Dependencies/Newtonsoft.Json.dll",
             "--API-URL--/Dependencies/0Harmony.dll",
