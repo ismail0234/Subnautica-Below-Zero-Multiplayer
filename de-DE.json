@@ -78,5 +78,6 @@
     "GAME_INTRO_MULTIPLAYER_BY_BOTBENSON": "Subnautica Below Zero Mehrspieler Mod (von BOT Benson)",
     "APP_NOT_OPENED_PLATFORM": "Vergewissere dich, dass die Plattform, auf der das Spiel installiert ist, geöffnet ist. (Steam\/Epic etc..)",
     "APP_INVALID_PLATFORM": "Ungültige Plattform. Eine Plattform, auf der das Spiel installiert ist, wurde nicht gefunden.",
-    "APP_GAME_ALREADY_OPEN": "Das Spiel ist bereits geöffnet."
+    "APP_GAME_ALREADY_OPEN": "Das Spiel ist bereits geöffnet.",
+    "DISCORD_JOINING_SERVER": "Verbinde zum Server."
 }
