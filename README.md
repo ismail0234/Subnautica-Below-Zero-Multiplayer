@@ -39,7 +39,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Swedish            | ❌        | sv        | - | - |
  
 
-## Subnautica BZ Multiplayer To-Do List (%79.06 Completed)
+## Subnautica BZ Multiplayer To-Do List (%79.65 Completed)
 
 <details>
   <summary>Base Piece Construction Synchronization (17/20)</summary>
@@ -125,7 +125,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 </details>
 
 <details>
-  <summary>Player Items Synchronization (17/24)</summary>
+  <summary>Player Items Synchronization (18/24)</summary>
   
 - [x] Scanner
 - [x] Builder
@@ -144,7 +144,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] Thumper
 - [x] DiveReel
 - [x] Flare
-- [ ] TeleportationToo
+- [x] TeleportationToo
 - [ ] ~~LaserCutter~~ (This item will be completed in the beta version)
 - [ ] ~~SpyPenguin~~ (This item will be completed in the beta version)
 - [ ] ~~SpyPenguinRemote~~ (This item will be completed in the beta version)
