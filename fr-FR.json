@@ -79,5 +79,5 @@
     "APP_NOT_OPENED_PLATFORM": "Assurez-vous que la plateforme sur laquelle le jeu est installé est ouverte. (Steam\/Epic etc..)",
     "APP_INVALID_PLATFORM": "Plateforme invalide. Aucune plateforme avec le jeu installé n'a été trouvée.",
     "APP_GAME_ALREADY_OPEN": "Une instance du jeu est déjà ouverte.",
-    "DISCORD_JOINING_SERVER": "Connecting to the server."
+    "DISCORD_JOINING_SERVER": "Connexion to the serveur."
 }
