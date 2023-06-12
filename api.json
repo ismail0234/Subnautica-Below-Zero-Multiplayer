@@ -46,6 +46,15 @@
             "OverSaturated", "packattack", "Pathfinder", "Pathfinder's factory reset guide", "Player_5", "polardyth", "polzzza", "POPPY", "PORINGツ", "Psycholara", "PyroManiac", "r1ch4rd_n1x0n", 
             "Ratti", "Redd", "retro-200", "rustic.", "Ryōmen Sukunа", "scarnox", "Shadowwart", "slimepunke", "Sаmi", "thijsfossbu99", "Tim ..", "TomTom083", "Udesky", "VAnkataBot", "wety", 
             "Wukimos", "Zeta_Xelta", "ραυℓυx", "〶⍭⌿𝕺𝖓𝖎𝕾𝖆𝖒𝖆.⍀⍏〶", "사 랑 해", "𝓛𝓮𝓑𝓸𝓾𝓰𝓻𝓮"
+        ],
+
+        "Datas": 
+        [
+            {
+                "LocalPath": "Core/SpawnPoints.bin",
+                "RemoteUrl": "https://raw.githubusercontent.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/Data/SpawnPoints.bin",
+                "FileSize" : 10801595
+            }
         ]
     },
     "Game": 
