@@ -39,7 +39,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Swedish            | ❌        | sv        | - | - |
  
 
-## Subnautica BZ Multiplayer To-Do List (%64.65 Completed)
+## Subnautica BZ Multiplayer To-Do List (%65.56 Completed)
 
 <details>
   <summary>Base Piece Construction Synchronization (17/20)</summary>
@@ -197,18 +197,15 @@ You can contribute to us to translate the mod into other languages. You can get 
 </details>
 
 <details>
-  <summary>Creature Synchronization (0/45)</summary>
+  <summary>Creature Synchronization (0/42)</summary>
   
 - [ ] Spinefish
 - [ ] Skyray
 - [ ] Boomerang
-- [ ] Grabcrab
 - [ ] Bladderfish
 - [ ] Hoopfish
 - [ ] HoopfishSchool
-- [ ] Slime
 - [ ] Crash
-- [ ] SeaEmperorJuvenile
 - [ ] GlowWhale
 - [ ] LilyPaddler
 - [ ] Penguin
