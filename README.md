@@ -39,7 +39,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Swedish            | ❌        | sv        | - | - |
  
 
-## Subnautica BZ Multiplayer To-Do List (%80.81 Completed)
+## Subnautica BZ Multiplayer To-Do List (%64.65 Completed)
 
 <details>
   <summary>Base Piece Construction Synchronization (17/20)</summary>
@@ -154,7 +154,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 </details>
 
 <details>
-  <summary>World Synchronization (26/40)</summary>
+  <summary>World Synchronization (26/38)</summary>
   
 - [x] ThermalLily
 - [x] Fragments
@@ -193,9 +193,57 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [ ] Marblemelon Plant
 	- [ ] Horseshoe Shrub
 	- [ ] Chinese Potato Plant
-- [ ] Fishes
-- [ ] Creatures
 - [ ] Dynamic Items (Limestone/Kyanit/etc..)
+</details>
+
+<details>
+  <summary>Creature Synchronization (0/45)</summary>
+  
+- [ ] Spinefish
+- [ ] Skyray
+- [ ] Boomerang
+- [ ] Grabcrab
+- [ ] Bladderfish
+- [ ] Hoopfish
+- [ ] HoopfishSchool
+- [ ] Slime
+- [ ] Crash
+- [ ] SeaEmperorJuvenile
+- [ ] GlowWhale
+- [ ] LilyPaddler
+- [ ] Penguin
+- [ ] PenguinBaby
+- [ ] Pinnacarid
+- [ ] RockPuncher
+- [ ] SpinnerFish
+- [ ] ArcticRay
+- [ ] Rockgrub
+- [ ] Symbiote
+- [ ] BruteShark
+- [ ] TrivalveBlue
+- [ ] TrivalveYellow
+- [ ] ArcticPeeper
+- [ ] ArrowRay
+- [ ] SeaMonkey
+- [ ] TitanHolefish
+- [ ] NootFish
+- [ ] Brinewing
+- [ ] Triops
+- [ ] SquidShark
+- [ ] SeaMonkeyBaby
+- [ ] Chelicerate
+- [ ] SnowStalker
+- [ ] SnowStalkerBaby
+- [ ] FeatherFish
+- [ ] FeatherFishRed
+- [ ] ShadowLeviathan
+- [ ] Jellyfish
+- [ ] DiscusFish
+- [ ] CrashHome
+- [ ] Cryptosuchus
+- [ ] IceWorm
+- [ ] LargeVentGarden
+- [ ] SmallVentGarden
 </details>
 
 - [x] Inventory Synchronization
