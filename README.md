@@ -193,7 +193,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [ ] Marblemelon Plant
 	- [ ] Horseshoe Shrub
 	- [ ] Chinese Potato Plant
-- [ ] Dynamic Items (Limestone/Kyanit/etc..)
+- [x] Dynamic Items (Limestone/Kyanit/etc..)
 </details>
 
 <details>
