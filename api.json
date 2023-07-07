@@ -86,12 +86,12 @@
             "--API-URL--/Dependencies/Subnautica.Client.dll"
         ],
 
-        "Datas": 
+        "Downloads": 
         [
             {
                 "LocalPath": "Core/SpawnPoints.bin",
                 "RemoteUrl": "https://raw.githubusercontent.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/Data/SpawnPoints.bin",
-                "FileSize" : 10801595
+                "FileSize" : 26423750
             }
         ]
     },
