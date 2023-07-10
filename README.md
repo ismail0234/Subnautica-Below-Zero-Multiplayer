@@ -39,7 +39,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Swedish            | ❌        | sv        | - | - |
  
 
-## Subnautica BZ Multiplayer To-Do List (%66.03 Completed)
+## Subnautica BZ Multiplayer To-Do List (%61.94 Completed)
 
 <details>
   <summary>Base Piece Construction Synchronization (17/20)</summary>
@@ -243,6 +243,26 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] SmallVentGarden
 </details>
 
+<details>
+<summary>Story Synchronization (0/15)</summary>
+  
+- [ ] Marg1
+- [ ] Marg2
+- [ ] Body1
+- [ ] Body2
+- [ ] Body3
+- [ ] BuildAlan
+- [ ] Sanctuary
+- [ ] FabricatorIntro
+- [ ] EndGame
+- [ ] DownloadAlan
+- [ ] FrozenCreature
+- [ ] RadioSalvage
+- [ ] Marg3
+- [ ] HackRadioTower
+- [ ] RepairBridge
+</details>
+
 - [x] Inventory Synchronization
 - [x] Inventory Equipment Synchronization
 - [x] Player Movement Synchronization
@@ -277,7 +297,6 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] Base Hull Strength Synchronization
 - [ ] Weather Synchronization
 - [ ] AI (Creatures/Fishes) Synchronization
-- [ ] ~~Story Synchronization~~ (This item will be completed in the beta version)
  
 
 ### How can I play this mod?
