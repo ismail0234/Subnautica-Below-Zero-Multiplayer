@@ -39,7 +39,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Swedish            | ❌        | sv        | - | - |
  
 
-## Subnautica BZ Multiplayer To-Do List (%64.60 Completed)
+## Subnautica BZ Multiplayer To-Do List (%65.04 Completed)
 
 <details>
   <summary>Base Piece Construction Synchronization (17/20)</summary>
@@ -244,13 +244,14 @@ You can contribute to us to translate the mod into other languages. You can get 
 </details>
 
 <details>
-<summary>Story Synchronization (5/15)</summary>
+<summary>Story Synchronization (6/15)</summary>
   
 - [x] RepairBridge
 - [x] Sanctuary
 - [x] DownloadAlan
 - [x] Marg1
 - [x] Marg2
+- [x] RadioSalvage
 - [ ] Body1
 - [ ] Body2
 - [ ] Body3
@@ -258,7 +259,6 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] FabricatorIntro
 - [ ] EndGame
 - [ ] FrozenCreature
-- [ ] RadioSalvage
 - [ ] Marg3
 - [ ] HackRadioTower
 </details>
