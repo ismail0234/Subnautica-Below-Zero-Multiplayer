@@ -293,7 +293,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [x] Snowfox
 	- [x] Prawn Suit)
 	- [x] Seatruck
-	- [x] SpyPengui
+	- [x] SpyPenguin
 - [ ] PDA Beacons Synchronization
 - [ ] Base Hull Strength Synchronization
 - [ ] Weather Synchronization
