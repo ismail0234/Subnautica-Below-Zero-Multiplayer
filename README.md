@@ -39,7 +39,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Swedish            | ❌        | sv        | - | - |
  
 
-## Subnautica BZ Multiplayer To-Do List (%71.36 Completed)
+## Subnautica BZ Multiplayer To-Do List (%73.12 Completed)
 
 <details>
   <summary>Base Piece Construction Synchronization (17/20)</summary>
@@ -125,7 +125,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 </details>
 
 <details>
-  <summary>Player Items Synchronization (19/24)</summary>
+  <summary>Player Items Synchronization (21/24)</summary>
   
 - [x] Scanner
 - [x] Builder
@@ -146,8 +146,8 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] Flare
 - [x] TeleportationTool
 - [x] LaserCutter
-- [ ] ~~SpyPenguin~~ (This item will be completed in the beta version)
-- [ ] ~~SpyPenguinRemote~~ (This item will be completed in the beta version)
+- [x] SpyPenguin
+- [x] SpyPenguinRemote
 - [ ] ~~MetalDetector~~ (This item will be completed in the beta version)
 - [ ] ~~PropulsionCannon~~ (This item will be completed in the beta version)
 - [ ] ~~Gravsphere~~ (This item will be completed in the beta version)
@@ -289,11 +289,11 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] Entity/Item Position Synchronization
 - [x] Vehicle Movement Synchronization
 - [x] PDA Log Synchronization
-- [ ] Vehicles (Animation etc..)
+- [x] Vehicles (Animation etc..)
 	- [x] Snowfox
 	- [x] Prawn Suit)
 	- [x] Seatruck
-	- [ ] ~~SpyPenguin~~ (This item will be completed in the beta version)
+	- [x] SpyPengui
 - [ ] PDA Beacons Synchronization
 - [ ] Base Hull Strength Synchronization
 - [ ] Weather Synchronization
