@@ -39,7 +39,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Swedish            | ❌        | sv        | - | - |
  
 
-## Subnautica BZ Multiplayer To-Do List (%73.12 Completed)
+## Subnautica BZ Multiplayer To-Do List (%73.56 Completed)
 
 <details>
   <summary>Base Piece Construction Synchronization (17/20)</summary>
@@ -289,14 +289,14 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] Entity/Item Position Synchronization
 - [x] Vehicle Movement Synchronization
 - [x] PDA Log Synchronization
+- [x] Weather Synchronization
 - [x] Vehicles (Animation etc..)
 	- [x] Snowfox
-	- [x] Prawn Suit)
+	- [x] Prawn Suit
 	- [x] Seatruck
 	- [x] SpyPenguin
 - [ ] PDA Beacons Synchronization
 - [ ] Base Hull Strength Synchronization
-- [ ] Weather Synchronization
 - [ ] AI (Creatures/Fishes) Synchronization
  
 
