@@ -1,6 +1,2 @@
-targets:
-  - name: Languages
-    sources:
-      - '*.json'
-    file: /%locale%.json
-    format: crowdin-json
+bundles:
+  - 1
