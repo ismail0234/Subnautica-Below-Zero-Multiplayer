@@ -39,7 +39,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Swedish            | ❌        | sv        | - | - |
  
 
-## Subnautica BZ Multiplayer To-Do List (%77.09 Completed)
+## Subnautica BZ Multiplayer To-Do List (%77.53 Completed)
 
 <details>
   <summary>Base Piece Construction Synchronization (17/20)</summary>
@@ -67,7 +67,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 </details> 
 
 <details>
-  <summary>Furniture Construction Synchronization (51/53)</summary>
+  <summary>Furniture Construction Synchronization (52/53)</summary>
 
 - [x] BarTable
 - [x] ExecutiveDesk
@@ -120,7 +120,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] Beds (Bed2 / NarrowBed / BedJeremiah / BedSam / BedZeta / BedDanielle / BedEmmanuel / BedFred / BedParvan)
 - [x] BaseBulkhead
 - [x] Hoverpad
-- [ ] BaseUpgradeConsole
+- [x] BaseUpgradeConsole
 - [ ] ~~BaseWaterPark~~ (This furniture will be completed in the beta version)
 </details>
 
