@@ -79,5 +79,7 @@
     "APP_NOT_OPENED_PLATFORM": "Убедитесь, что платформа, на которой установлена ​​игра, открыта. (Steam\/Epic и т.д.)",
     "APP_INVALID_PLATFORM": "Недопустимая платформа. Платформа, на которой установлена игра, не найдена.",
     "APP_GAME_ALREADY_OPEN": "Игра уже открыта.",
-    "DISCORD_JOINING_SERVER": "Подключение к серверу."
+    "DISCORD_JOINING_SERVER": "Подключение к серверу.",
+    "APP_DEPENDENCIES_ERROR": "Возникла проблема с загрузкой зависимостей.",
+    "GAME_STORY_WAITING_PLAYERS": "Ожидание других игроков ({playerCount}\/{maxPlayer})"
 }
