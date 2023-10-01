@@ -79,5 +79,7 @@
     "APP_NOT_OPENED_PLATFORM": "Zorg ervoor dat het platform waarop het spel is geïnstalleerd open is. (Steam\/Epic enz..)",
     "APP_INVALID_PLATFORM": "Ongeldig Platform. Een platform waarop het spel is geïnstalleerd is niet gevonden.",
     "APP_GAME_ALREADY_OPEN": "Het spel is al geopend.",
-    "DISCORD_JOINING_SERVER": "Verbinding maken met de server."
+    "DISCORD_JOINING_SERVER": "Verbinding maken met de server.",
+    "APP_DEPENDENCIES_ERROR": "Er was een probleem bij het downloaden van de afhankelijkheden.",
+    "GAME_STORY_WAITING_PLAYERS": "Wachten op andere spelers ({playerCount}\/{maxPlayer})"
 }
