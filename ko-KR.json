@@ -79,5 +79,7 @@
     "APP_NOT_OPENED_PLATFORM": "게임이 설치된 플랫폼이 열려 있는지 확인하십시오. (스팀\/에픽 등..)",
     "APP_INVALID_PLATFORM": "잘못된 플랫폼입니다. 게임이 설치된 플랫폼을 찾을 수 없습니다.",
     "APP_GAME_ALREADY_OPEN": "게임은 이미 열려 있습니다.",
-    "DISCORD_JOINING_SERVER": "서버에 연결 중."
+    "DISCORD_JOINING_SERVER": "서버에 연결 중.",
+    "APP_DEPENDENCIES_ERROR": "다운로드하는 중에 상태에 문재가 있습니다.",
+    "GAME_STORY_WAITING_PLAYERS": "다른 플레이어들 기다리는 중... ({playerCount}\/{maxPlayer})"
 }
