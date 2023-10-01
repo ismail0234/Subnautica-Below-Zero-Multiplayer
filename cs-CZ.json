@@ -79,5 +79,7 @@
     "APP_NOT_OPENED_PLATFORM": "Ujistěte se, že platforma, na které je hra nainstalována, je spuštěná. (Steam\/Epic atd..)",
     "APP_INVALID_PLATFORM": "Neplatná platforma. Platforma, na které je hra nainstalována, nebyla nalezena.",
     "APP_GAME_ALREADY_OPEN": "Hra je již otevřená.",
-    "DISCORD_JOINING_SERVER": "Connecting to the server."
+    "DISCORD_JOINING_SERVER": "Connecting to the server.",
+    "APP_DEPENDENCIES_ERROR": "There was a problem downloading dependencies.",
+    "GAME_STORY_WAITING_PLAYERS": "Waiting for other players ({playerCount}\/{maxPlayer})"
 }
