@@ -79,5 +79,7 @@
     "APP_NOT_OPENED_PLATFORM": "Se till att plattformen som spelet är installerat på är öppen. (Steam\/Epic etc..)",
     "APP_INVALID_PLATFORM": "Ogiltig plattform. Det gick inte att hitta en plattform där spelet är installerat.",
     "APP_GAME_ALREADY_OPEN": "Spelet är redan öppet.",
-    "DISCORD_JOINING_SERVER": "Ansluter till servern..."
+    "DISCORD_JOINING_SERVER": "Ansluter till servern...",
+    "APP_DEPENDENCIES_ERROR": "Det gick inte att hämta beroenden.",
+    "GAME_STORY_WAITING_PLAYERS": "Väntar på andra spelare ({playerCount}\/{maxPlayer})"
 }
