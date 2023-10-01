@@ -79,5 +79,7 @@
     "APP_NOT_OPENED_PLATFORM": "Certifique-se de que a plataforma na qual o jogo está instalado está aberta. (Steam\/Epic etc..)",
     "APP_INVALID_PLATFORM": "Plataforma inválida. A plataforma na qual o jogo está instalado não foi encontrada.",
     "APP_GAME_ALREADY_OPEN": "O jogo já está aberto.",
-    "DISCORD_JOINING_SERVER": "Conectando-se ao servidor."
+    "DISCORD_JOINING_SERVER": "Conectando-se ao servidor.",
+    "APP_DEPENDENCIES_ERROR": "Ocorreu um problema baixando as dependências.",
+    "GAME_STORY_WAITING_PLAYERS": "Aguardando por outros jogadores ({playerCount}\/{maxPlayer})"
 }
