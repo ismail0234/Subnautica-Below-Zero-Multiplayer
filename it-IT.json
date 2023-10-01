@@ -75,9 +75,11 @@
     "GAME_INTRO_PLAYERS_CONNECTED": "{playerCount} Giocatori connessi.",
     "GAME_INTRO_SERVER_OWNER_WAITING": "Il proprietario del server dovrebbe avviare la partita.",
     "GAME_INTRO_SERVER_START_DESCRIPTION": "Premi {key} per iniziare la partita.",
-    "GAME_INTRO_MULTIPLAYER_BY_BOTBENSON": "Subnautica Below Zero Multiplayer Mod (by BOT Benson)",
-    "APP_NOT_OPENED_PLATFORM": "Make sure the platform on which the game is installed is open. (Steam\/Epic etc..)",
-    "APP_INVALID_PLATFORM": "Invalid Platform. A platform on which the game is installed was not found.",
-    "APP_GAME_ALREADY_OPEN": "The game is already open.",
-    "DISCORD_JOINING_SERVER": "Connecting to the server."
+    "GAME_INTRO_MULTIPLAYER_BY_BOTBENSON": "Subnautica Below Zero Mod Multigiocatore (da BOT Benson)",
+    "APP_NOT_OPENED_PLATFORM": "Assicurati che la piattaforma su cui è installato il gioco sia aperta. (Steam\/Epic etc..)",
+    "APP_INVALID_PLATFORM": "Piattaforma invalida. La Piattaforma sulla quale il gioco è installato non è stata trovata.",
+    "APP_GAME_ALREADY_OPEN": "Il gioco è già aperto.",
+    "DISCORD_JOINING_SERVER": "Connessione al server.",
+    "APP_DEPENDENCIES_ERROR": "Si è verificato un problema durante lo scaricamento dei file di gioco.",
+    "GAME_STORY_WAITING_PLAYERS": "Aspettando altri giocatori: ({playerCount}\/{maxPlayer})"
 }
