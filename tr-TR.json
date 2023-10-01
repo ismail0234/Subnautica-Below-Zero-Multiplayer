@@ -79,5 +79,7 @@
     "APP_NOT_OPENED_PLATFORM": "Oyunun yüklü olduğu platformun açık olduğundan emin olun. (Steam\/Epic vb.)",
     "APP_INVALID_PLATFORM": "Geçersiz Platform. Oyunun yüklü olduğu bir platform bulunamadı.",
     "APP_GAME_ALREADY_OPEN": "Oyun zaten açık.",
-    "DISCORD_JOINING_SERVER": "Sunucuya Bağlanılıyor."
+    "DISCORD_JOINING_SERVER": "Sunucuya Bağlanılıyor.",
+    "APP_DEPENDENCIES_ERROR": "Bağımlılıklar indirilirken bir sorun oluştu.",
+    "GAME_STORY_WAITING_PLAYERS": "Diğer oyuncular bekleniyor ({playerCount}\/{maxPlayer})"
 }
