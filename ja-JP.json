@@ -79,5 +79,7 @@
     "APP_NOT_OPENED_PLATFORM": "ゲームがインストールされているプラットフォームが開いていることを確認してください(チーム\/エピックなど)。",
     "APP_INVALID_PLATFORM": "無効なプラットフォームです。ゲームがインストールされているプラットフォームが見つかりません。",
     "APP_GAME_ALREADY_OPEN": "ゲームはすでに開いています。",
-    "DISCORD_JOINING_SERVER": "サーバに接続しています。"
+    "DISCORD_JOINING_SERVER": "サーバに接続しています。",
+    "APP_DEPENDENCIES_ERROR": "There was a problem downloading dependencies.",
+    "GAME_STORY_WAITING_PLAYERS": "Waiting for other players ({playerCount}\/{maxPlayer})"
 }
