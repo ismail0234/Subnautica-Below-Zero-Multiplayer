@@ -6,40 +6,6 @@
         "Path": "Subnautica.jpg",
         "Url": "https://raw.githubusercontent.com/ismail0234/Subnautica-Below-Zero-Multiplayer/main/app/assets/images/Subnautica.jpg"
     }],
-    "Credits": 
-    {
-        "ProjectOwner":
-        [
-            "Ismail (BOT Benson)"
-        ],
-
-        "PatreonSupporters":
-        [
-            "Alex Nava",
-            "Daniel Stathopoulos",
-            "Ian Waters",
-            "Zayuri",
-            "Spack",
-            "and all other supporters <3"
-        ],
-
-        "Translators":
-        [
-            "Turkish (BOT Benson)",
-            "English (BOT Benson)",
-            "French (Argento Vampir)",
-            "Russian (Zztop)",
-            "Polish (milooop2)",
-            "Simplified Chinese (Blue Star)",
-            "German (Ex000000)",
-            "Ukrainian (PENGLING-UK)",
-            "Brazil (DANn-n)",
-            "Spanish (Borja7894)",
-            "Icelandic (Zabbihamers2.0)",
-            "Korean (Sovereign)",
-            "Italian (Stefegra)"
-        ]
-    },
     "Game": 
     {
         "Core"    : "--API-URL--/Dependencies/Assembly-CSharp.dll",
