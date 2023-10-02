@@ -92,7 +92,12 @@
     {
         "Name": "Translators",
         "AccessLevel": 5,
-        "Members": []
+        "Members": [
+        {
+            "Name": "botbenson",
+            "Avatar": "discord\/285100235418632202.webp",
+            "Date": 1696244767
+        }]
     },
     "AlphaTesters":
     {
