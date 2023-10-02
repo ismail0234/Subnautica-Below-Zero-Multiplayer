@@ -1,9 +1,9 @@
 {
 	"ServerOwners" : 
 	{
-		"Name"			: "Server Owners",
+		"Name"		: "Server Owners",
 		"AccessLevel"	: 1,
-		"Members"		: [
+		"Members"	: [
 			285100235418632202,
 			270268790745333760
 		]
@@ -11,9 +11,9 @@
 
 	"DiscordAdmins" : 
 	{
-		"Name"			: "Discord Admins",
+		"Name"		: "Discord Admins",
 		"AccessLevel"	: 2,
-		"Members"		: [
+		"Members"	: [
 			305704267136892929,
 			267386332375023616,
 			322694312167079937
@@ -22,9 +22,9 @@
 
 	"DiscordMods" : 
 	{
-		"Name"			: "Discord Mods",
+		"Name"		: "Discord Mods",
 		"AccessLevel"	: 3,
-		"Members"		: [
+		"Members"	: [
 			200756637860888585,
 			472729624304943124
 		]
@@ -32,9 +32,9 @@
 
 	"PatreonSupporters" : 
 	{
-		"Name"			: "Patreon Supporters",
+		"Name"		: "Patreon Supporters",
 		"AccessLevel"	: 4,
-		"Members"		: [
+		"Members"	: [
 			210900794076037120,
 			598395126208790528,
 			292747945433104384,
@@ -46,9 +46,9 @@
 
 	"AlphaTesters" : 
 	{
-		"Name"			: "Alpha Testers",
+		"Name"		: "Alpha Testers",
 		"AccessLevel"	: 5,
-		"Members"		: [
+		"Members"	: [
 			399566536089665536,
 			536545685223505930,
 			834941417611984966,
