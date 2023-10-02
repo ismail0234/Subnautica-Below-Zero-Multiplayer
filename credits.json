@@ -44,10 +44,19 @@
 		]
 	},
 
+	"Translators" : 
+	{
+		"Name"		: "Translators",
+		"AccessLevel"	: 5,
+		"Members"	: [
+			285100235418632202
+		]
+	},
+
 	"AlphaTesters" : 
 	{
 		"Name"		: "Alpha Testers",
-		"AccessLevel"	: 5,
+		"AccessLevel"	: 6,
 		"Members"	: [
 			399566536089665536,
 			536545685223505930,
