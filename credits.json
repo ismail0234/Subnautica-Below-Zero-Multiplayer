@@ -46,17 +46,17 @@
 
 	"Translators" : 
 	{
-		"Name"		: "Translators",
-		"AccessLevel"	: 5,
-		"Members"	: [
-			285100235418632202
+		"Name"      : "Translators",
+		"AccessLevel"   : 5,
+		"Members"   : [
+			"Turkish" : [285100235418632202]
 		]
 	},
 
 	"AlphaTesters" : 
 	{
 		"Name"		: "Alpha Testers",
-		"AccessLevel"	: 6,
+		"AccessLevel"	: 5,
 		"Members"	: [
 			399566536089665536,
 			536545685223505930,
