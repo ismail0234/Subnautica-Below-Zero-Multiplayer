@@ -2944,37 +2944,37 @@
             "MessagePack":
             {
                 "Name": "MessagePack",
-                "Icon": "technologies\/MessagePack.png",
+                "Avatar": "technologies\/MessagePack.png",
                 "Content": "MessagePack is an efficient binary serialization format. I use messagepack to store data on the mod and transmit data over the network."
             },
             "LiteNetLib":
             {
                 "Name": "LiteNetLib",
-                "Icon": "technologies\/LiteNetLib.png",
+                "Avatar": "technologies\/LiteNetLib.png",
                 "Content": "Lite reliable UDP library for .NET Framework. I use it to provide data transfers between the server\/user and I can say that it has performed quite well so far."
             },
             "Newtonsoft":
             {
                 "Name": "Newtonsoft",
-                "Icon": "technologies\/Newtonsoft.png",
+                "Avatar": "technologies\/Newtonsoft.png",
                 "Content": "Popular high-performance JSON framework for .NET Framework. High Performance? Really? I can't really say I've seen a high performance. I use it in several sections on the mod."
             },
             "DiscordRichPresence":
             {
                 "Name": "Discord Rich Presence",
-                "Icon": "technologies\/DiscordRichPresence.png",
+                "Avatar": "technologies\/DiscordRichPresence.png",
                 "Content": "A .NET implementation of Discord's Rich Presence functionality. Very useful, I use it for the game information section in your discord profile."
             },
             "ExiledPluginArchitecture":
             {
                 "Name": "Exiled Plugin Architecture",
-                "Icon": "technologies\/ExiledPluginArchitecture.png",
+                "Avatar": "technologies\/ExiledPluginArchitecture.png",
                 "Content": "I quite like Exiled's plugin architecture, and I've created a similar architecture for subnautica, so maybe in the future I can support developers to make plugins to the mod if I want."
             },
             "CosturaFody":
             {
                 "Name": "Costura Fody",
-                "Icon": "technologies\/CosturaFody.png",
+                "Avatar": "technologies\/CosturaFody.png",
                 "Content": "Embeds dependencies as resources. This is also very useful. It allows us to combine many dll files into a single exe."
             }
         }
