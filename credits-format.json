@@ -625,5 +625,30 @@
 			337188547121512449,
 			1025659968516538388
 		]
+	},
+
+	"Technologies" : 
+	{
+		"Name"      : "Technologies",
+		"AccessLevel"   : 7,
+		"Members"   : {
+			"MessagePack" : 
+			{
+				"Name": "MessagePack",
+				"Content" : "MessagePack is an efficient binary serialization format. I use messagepack to store data on the mod and transmit data over the network."
+			},
+
+			"LiteNetLib" : 
+			{
+				"Name": "LiteNetLib",
+				"Content" : "Lite reliable UDP library for .NET Framework. I use it to provide data transfers between the server/user and I can say that it has performed quite well so far."
+			},
+
+			"Newtonsoft" : 
+			{
+				"Name": "Newtonsoft",
+				"Content" : "Popular high-performance JSON framework for .NET Framework. High Performance? Really? I can't really say I've seen a high performance. I use it in several sections on the mod."
+			}
+		}
 	}
 }
