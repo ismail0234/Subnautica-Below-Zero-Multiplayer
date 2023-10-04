@@ -648,6 +648,24 @@
 			{
 				"Name": "Newtonsoft",
 				"Content" : "Popular high-performance JSON framework for .NET Framework. High Performance? Really? I can't really say I've seen a high performance. I use it in several sections on the mod."
+			},
+
+			"DiscordRichPresence" : 
+			{
+				"Name": "DiscordRichPresence",
+				"Content" : "A .NET implementation of Discord's Rich Presence functionality. Very useful, I use it for the game information section in your discord profile."
+			},
+
+			"ExiledPluginArchitecture" : 
+			{
+				"Name": "Exiled Plugin Architecture",
+				"Content" : "I quite like Exiled's plugin architecture, and I've created a similar architecture for subnautica, so maybe in the future I can allow developers to make plugins on the mod if I want to."
+			},
+
+			"CosturaFody" : 
+			{
+				"Name": "CosturaFody",
+				"Content" : "Embeds dependencies as resources. This is also very useful. It allows us to combine many dll files into a single exe."
 			}
 		}
 	}
