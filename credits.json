@@ -1,7 +1,18 @@
 {
+    "ProjectOwner":
+    {
+        "Name": "Project Owner",
+        "AccessLevel": 1,
+        "Members": [
+        {
+            "Name": "botbenson",
+            "Avatar": "discord\/285100235418632202.webp",
+            "Date": 1696244767
+        }]
+    },
     "ServerOwners":
     {
-        "Name": "Server Owners",
+        "Name": "Discord Owners",
         "AccessLevel": 1,
         "Members": [
         {
