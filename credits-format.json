@@ -1,7 +1,16 @@
 {
+	"ProjectOwner" : 
+	{
+		"Name"		: "Project Owner",
+		"AccessLevel"	: 1,
+		"Members"	: [
+			285100235418632202
+		]
+	},
+	
 	"ServerOwners" : 
 	{
-		"Name"		: "Server Owners",
+		"Name"		: "Discord Owners",
 		"AccessLevel"	: 1,
 		"Members"	: [
 			285100235418632202,
