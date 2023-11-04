@@ -39,7 +39,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Swedish            | ❌        | sv        | - | - |
  
 
-## Subnautica BZ Multiplayer To-Do List (%78.85 Completed)
+## Subnautica BZ Multiplayer To-Do List (%79.20 Completed)
 
 <details>
   <summary>Base Piece Construction Synchronization (18/20)</summary>
@@ -297,7 +297,6 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [x] SpyPenguin
 - [x] PDA Beacons Synchronization
 - [x] Base Hull Strength Synchronization
-- [ ] AI (Creatures/Fishes) Synchronization
  
 
 ### How can I play this mod?
