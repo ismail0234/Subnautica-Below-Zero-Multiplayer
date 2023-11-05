@@ -4,7 +4,7 @@
     "APP_SERVER_NOT_CONNECTED": "无法连接到服务器。",
     "APP_SERVER_CONFIGURATION_INVALID": "服务器配置有问题。",
     "APP_SERVER_CHECKING_UDPATE_ERR": "检查版本时出现问题。",
-    "APP_DOWNLOAD_ERROR_FILE": "应用程序更新失败。您可以加入我们的discord服务器以获得支持，我们的discord链接是：https:\/\/discord.gg\/Gq9nush6SP",
+    "APP_DOWNLOAD_ERROR_FILE": "应用程序更新失败。您可以加入我们的discord服务器以获得支持，我们的discord链接是：https://discord.gg/Gq9nush6SP",
     "APP_FILE_READING": "正在读取应用程序文件...",
     "APP_FILE_ERROR": "无法读取应用程序文件。",
     "APP_ASSETS_FILE_DOWNLOADING": "下载资源中...",
@@ -76,10 +76,11 @@
     "GAME_INTRO_SERVER_OWNER_WAITING": "游戏将由服务器所有者开始",
     "GAME_INTRO_SERVER_START_DESCRIPTION": "请按 {key} 以开始游戏。",
     "GAME_INTRO_MULTIPLAYER_BY_BOTBENSON": "深海迷航：冰点之下 多人联机Mod(by BOT Benson)",
-    "APP_NOT_OPENED_PLATFORM": "请确保游戏安装平台已打开。(Steam\/Epic等)",
+    "APP_NOT_OPENED_PLATFORM": "请确保游戏安装平台已打开。(Steam/Epic等)",
     "APP_INVALID_PLATFORM": "无效的游戏平台。未找到游戏安装时对应的游戏平台。",
     "APP_GAME_ALREADY_OPEN": "游戏已经在运行",
     "DISCORD_JOINING_SERVER": "正在连接到服务器...",
     "APP_DEPENDENCIES_ERROR": "下载文件依赖项时出现问题。",
-    "GAME_STORY_WAITING_PLAYERS": "正在等待其他玩家 ({playerCount}\/{maxPlayer})"
+    "GAME_STORY_WAITING_PLAYERS": "正在等待其他玩家 ({playerCount}/{maxPlayer})",
+    "GAME_BEPINEX_DETECTED": "Bepinex Detected. Multiplayer mod has been disabled. Please remove all mod files belonging to Bepinex."
 }
