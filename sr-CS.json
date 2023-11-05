@@ -4,7 +4,7 @@
     "APP_SERVER_NOT_CONNECTED": "Neuspešno povezivanje na server.",
     "APP_SERVER_CONFIGURATION_INVALID": "Postoji problem sa konfiguracijom servera.",
     "APP_SERVER_CHECKING_UDPATE_ERR": "Došlo je do problema pri proveri verzije.",
-    "APP_DOWNLOAD_ERROR_FILE": "Obrada ažuriranja aplikacije je neuspešna. Možete se pridružiti našem discord serveru za podršku, https:\/\/discord.gg\/Gk9nush6SP",
+    "APP_DOWNLOAD_ERROR_FILE": "Obrada ažuriranja aplikacije je neuspešna. Možete se pridružiti našem discord serveru za podršku, https://discord.gg/Gk9nush6SP",
     "APP_FILE_READING": "Čitanje fajlova aplikacije...",
     "APP_FILE_ERROR": "Neuspešno čitanje fajlova aplikacije.",
     "APP_ASSETS_FILE_DOWNLOADING": "Preuzimanje sredstava...",
@@ -76,10 +76,11 @@
     "GAME_INTRO_SERVER_OWNER_WAITING": "Čeka se da vlasnik servera pokrene igru.",
     "GAME_INTRO_SERVER_START_DESCRIPTION": "Pritisnite {key} da započnete igru.",
     "GAME_INTRO_MULTIPLAYER_BY_BOTBENSON": "Subnautica Below Zero Multiplayer Mod (by BOT Benson)",
-    "APP_NOT_OPENED_PLATFORM": "Provjerite je li platforma na kojoj je igra instalirana otvorena. (Steam\/Epic itd.)",
+    "APP_NOT_OPENED_PLATFORM": "Provjerite je li platforma na kojoj je igra instalirana otvorena. (Steam/Epic itd.)",
     "APP_INVALID_PLATFORM": "Nevažeća platforma. Platforma na kojoj je igra instalirana nije pronađena.",
     "APP_GAME_ALREADY_OPEN": "Igra je već otvorena.",
     "DISCORD_JOINING_SERVER": "Povezivanje sa serverom.",
     "APP_DEPENDENCIES_ERROR": "Došlo je do problema s preuzimanjem zavisnih datoteka.",
-    "GAME_STORY_WAITING_PLAYERS": "Čekanje drugih igrača ({playerCount}\/{maxPlayer})"
+    "GAME_STORY_WAITING_PLAYERS": "Čekanje drugih igrača ({playerCount}/{maxPlayer})",
+    "GAME_BEPINEX_DETECTED": "Bepinexu je otkriven. Mod za više igraća je isključen. Uklonite sve datoteke koje pripadaju Bepinexu."
 }
