@@ -4,7 +4,7 @@
     "APP_SERVER_NOT_CONNECTED": "Sunucu ile bağlantı kurulamadı.",
     "APP_SERVER_CONFIGURATION_INVALID": "Sunucu yapılandırmasında bir sorun mevcut.",
     "APP_SERVER_CHECKING_UDPATE_ERR": "Versiyon kontrolü yapılırken bir sorun oluştu.",
-    "APP_DOWNLOAD_ERROR_FILE": "Uygulama güncelleme işleme başarısız. Destek için discord sunucumuza katılabilirsiniz; https:\/\/discord.gg\/Gq9nush6SP",
+    "APP_DOWNLOAD_ERROR_FILE": "Uygulama güncelleme işleme başarısız. Destek için discord sunucumuza katılabilirsiniz; https://discord.gg/Gq9nush6SP",
     "APP_FILE_READING": "Uygulama dosyası okunuyor...",
     "APP_FILE_ERROR": "Uygulama dosyası okunamadı.",
     "APP_ASSETS_FILE_DOWNLOADING": "Varlıklar indiriliyor...",
@@ -76,10 +76,11 @@
     "GAME_INTRO_SERVER_OWNER_WAITING": "Sunucu sahibinin oyunu başlatması bekleniyor.",
     "GAME_INTRO_SERVER_START_DESCRIPTION": "Lütfen oyunu başlatmak için {key} tuşuna basın.",
     "GAME_INTRO_MULTIPLAYER_BY_BOTBENSON": "Subnautica Below Zero Çok Oyunculu Mod (BOT Benson tarafından)",
-    "APP_NOT_OPENED_PLATFORM": "Oyunun yüklü olduğu platformun açık olduğundan emin olun. (Steam\/Epic vb.)",
+    "APP_NOT_OPENED_PLATFORM": "Oyunun yüklü olduğu platformun açık olduğundan emin olun. (Steam/Epic vb.)",
     "APP_INVALID_PLATFORM": "Geçersiz Platform. Oyunun yüklü olduğu bir platform bulunamadı.",
     "APP_GAME_ALREADY_OPEN": "Oyun zaten açık.",
     "DISCORD_JOINING_SERVER": "Sunucuya Bağlanılıyor.",
     "APP_DEPENDENCIES_ERROR": "Bağımlılıklar indirilirken bir sorun oluştu.",
-    "GAME_STORY_WAITING_PLAYERS": "Diğer oyuncular bekleniyor ({playerCount}\/{maxPlayer})"
+    "GAME_STORY_WAITING_PLAYERS": "Diğer oyuncular bekleniyor ({playerCount}/{maxPlayer})",
+    "GAME_BEPINEX_DETECTED": "Bepinex Algılandı. Çok oyunculu mod devre dışı bırakıldı. Lütfen Bepinex'e ait tüm mod dosyalarını kaldırın."
 }
