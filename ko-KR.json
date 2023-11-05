@@ -4,7 +4,7 @@
     "APP_SERVER_NOT_CONNECTED": "서버에 연결할 수 없습니다.",
     "APP_SERVER_CONFIGURATION_INVALID": "서버 설정에 문제가 있습니다.",
     "APP_SERVER_CHECKING_UDPATE_ERR": "버전 확인하는 중에 문제가 발생했습니다.",
-    "APP_DOWNLOAD_ERROR_FILE": "응용 프로그램 업데이트 처리를 실패했습니다. https:\/\/discord.gg\/Gq9nush6SP 여기 디스코드 서버로 들어가 지원하십시오.",
+    "APP_DOWNLOAD_ERROR_FILE": "응용 프로그램 업데이트 처리를 실패했습니다. https://discord.gg/Gq9nush6SP 여기 디스코드 서버로 들어가 지원하십시오.",
     "APP_FILE_READING": "용용 프로그램 파일 읽는중...",
     "APP_FILE_ERROR": "용용 프로그램 파일 읽기 실패.",
     "APP_ASSETS_FILE_DOWNLOADING": "자산 다운로드중...",
@@ -76,10 +76,11 @@
     "GAME_INTRO_SERVER_OWNER_WAITING": "서버 소유자가 게임을 시작할 것으로 예상됩니다.",
     "GAME_INTRO_SERVER_START_DESCRIPTION": "{key} 을(를) 눌러 게임을 시작하세요.",
     "GAME_INTRO_MULTIPLAYER_BY_BOTBENSON": "서브노티카 빌로우 제로 멀티플레이어 모드 (제작자 BOT Benson)",
-    "APP_NOT_OPENED_PLATFORM": "게임이 설치된 플랫폼이 열려 있는지 확인하십시오. (스팀\/에픽 등..)",
+    "APP_NOT_OPENED_PLATFORM": "게임이 설치된 플랫폼이 열려 있는지 확인하십시오. (스팀/에픽 등..)",
     "APP_INVALID_PLATFORM": "잘못된 플랫폼입니다. 게임이 설치된 플랫폼을 찾을 수 없습니다.",
     "APP_GAME_ALREADY_OPEN": "게임은 이미 열려 있습니다.",
     "DISCORD_JOINING_SERVER": "서버에 연결 중.",
     "APP_DEPENDENCIES_ERROR": "다운로드하는 중에 상태에 문재가 있습니다.",
-    "GAME_STORY_WAITING_PLAYERS": "다른 플레이어들 기다리는 중... ({playerCount}\/{maxPlayer})"
+    "GAME_STORY_WAITING_PLAYERS": "다른 플레이어들 기다리는 중... ({playerCount}/{maxPlayer})",
+    "GAME_BEPINEX_DETECTED": "Bepinex Detected. Multiplayer mod has been disabled. Please remove all mod files belonging to Bepinex."
 }
