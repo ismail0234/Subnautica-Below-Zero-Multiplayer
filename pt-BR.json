@@ -4,7 +4,7 @@
     "APP_SERVER_NOT_CONNECTED": "Não foi possível conectar-se ao servidor.",
     "APP_SERVER_CONFIGURATION_INVALID": "Há um problema na conexão com o servidor.",
     "APP_SERVER_CHECKING_UDPATE_ERR": "Houve um problema conferindo a versão.",
-    "APP_DOWNLOAD_ERROR_FILE": "Falha no processo de atualização. Acesse o discord para suporte, https:\/\/discord.gg\/Gq9nush6SP",
+    "APP_DOWNLOAD_ERROR_FILE": "Falha no processo de atualização. Acesse o discord para suporte, https://discord.gg/Gq9nush6SP",
     "APP_FILE_READING": "Lendo processo do aplicativo...",
     "APP_FILE_ERROR": "Falha na leitura do processo.",
     "APP_ASSETS_FILE_DOWNLOADING": "Baixando assets...",
@@ -76,10 +76,11 @@
     "GAME_INTRO_SERVER_OWNER_WAITING": "O host deverá iniciar o jogo.",
     "GAME_INTRO_SERVER_START_DESCRIPTION": "Por favor pressione {key} para começar o jogo.",
     "GAME_INTRO_MULTIPLAYER_BY_BOTBENSON": "Subnautica Below Zero Multiplayer mod ( por BOT Benson)",
-    "APP_NOT_OPENED_PLATFORM": "Certifique-se de que a plataforma na qual o jogo está instalado está aberta. (Steam\/Epic etc..)",
+    "APP_NOT_OPENED_PLATFORM": "Certifique-se de que a plataforma na qual o jogo está instalado está aberta. (Steam/Epic etc..)",
     "APP_INVALID_PLATFORM": "Plataforma inválida. A plataforma na qual o jogo está instalado não foi encontrada.",
     "APP_GAME_ALREADY_OPEN": "O jogo já está aberto.",
     "DISCORD_JOINING_SERVER": "Conectando-se ao servidor.",
     "APP_DEPENDENCIES_ERROR": "Ocorreu um problema baixando as dependências.",
-    "GAME_STORY_WAITING_PLAYERS": "Aguardando por outros jogadores ({playerCount}\/{maxPlayer})"
+    "GAME_STORY_WAITING_PLAYERS": "Aguardando por outros jogadores ({playerCount}/{maxPlayer})",
+    "GAME_BEPINEX_DETECTED": "Bepinex Detected. Multiplayer mod has been disabled. Please remove all mod files belonging to Bepinex."
 }
