@@ -82,5 +82,5 @@
     "DISCORD_JOINING_SERVER": "Serverə qoşulur.",
     "APP_DEPENDENCIES_ERROR": "Lazım olan faylları endirərkən problem yarandı.",
     "GAME_STORY_WAITING_PLAYERS": "Digər oyunçuları gözlənilir ({playerCount}/{maxPlayer})",
-    "GAME_BEPINEX_DETECTED": "Bepinex Detected. Multiplayer mod has been disabled. Please remove all mod files belonging to Bepinex."
+    "GAME_BEPINEX_DETECTED": "Bepinex Aşkar Edildi. Çox oyunçulu modlar dayandırıldı. Xahiş olunur Bepinexə aid bütün modları qaldırın."
 }
