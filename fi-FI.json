@@ -52,7 +52,7 @@
     "GAME_MULTIPLAYER_HOST_GAME": "Isännöi peli",
     "GAME_MULTIPLAYER_JOIN_GAME": "Liity palvelimelle",
     "GAME_MULTIPLAYER_CREATE_SERVER": "Luo palvelin",
-    "GAME_SIZE_B": "Tavu",
+    "GAME_SIZE_B": "Byte",
     "GAME_SIZE_KB": "KB",
     "GAME_SIZE_MB": "MB",
     "GAME_SIZE_GB": "GB",
