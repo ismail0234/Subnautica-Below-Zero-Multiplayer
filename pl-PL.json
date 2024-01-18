@@ -82,5 +82,5 @@
     "DISCORD_JOINING_SERVER": "Łączenie z serwerem",
     "APP_DEPENDENCIES_ERROR": "Wystąpił problem podczas pobierania zależności.",
     "GAME_STORY_WAITING_PLAYERS": "Czekanie na innych graczy ({playerCount}/{maxPlayer})",
-    "GAME_BEPINEX_DETECTED": "Wykryto Niekompatybilna mody. Mod dla wielu graczy został wyłączony. Usuń wszystkie pliki modów należące do multiplayer-Modu."
+    "GAME_BEPINEX_DETECTED": "Bepinex wykryty. Mod dla wielu graczy został wyłączony. Usuń wszystkie pliki modów należące do Bepinex."
 }
