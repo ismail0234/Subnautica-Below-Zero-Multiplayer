@@ -45,10 +45,10 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Serbian (Latin)       | ![sr-CS translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=sr-CS&time=1705587879) |   sr-CS   | [sr-CS.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/sr-CS) |
  
 
-## Subnautica BZ Multiplayer To-Do List (%80.35 Completed)
+## Subnautica BZ Multiplayer To-Do List (%80.80 Completed)
 
 <details>
-  <summary>Base Piece Construction Synchronization (19/20)</summary>
+  <summary>Base Piece Construction Synchronization (20/20)</summary>
 
 - [x] BaseObservatory
 - [x] BaseWindow
@@ -69,7 +69,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] BaseControlRoom
 - [x] BaseMoonpool
 - [x] BaseMapRoom
-- [ ] ~~BaseMoonpoolExpansion~~ (This furniture will be completed in the beta version)	
+- [x] BaseMoonpoolExpansion
 </details> 
 
 <details>
