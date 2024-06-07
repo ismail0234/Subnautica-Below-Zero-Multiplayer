@@ -45,7 +45,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Serbian (Latin)       | ![sr-CS translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=sr-CS&time=1705587879) |   sr-CS   | [sr-CS.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/sr-CS) |
  
 
-## Subnautica BZ Multiplayer To-Do List (%80.80 Completed)
+## Subnautica BZ Multiplayer To-Do List (%81.69 Completed)
 
 <details>
   <summary>Base Piece Construction Synchronization (20/20)</summary>
@@ -204,15 +204,15 @@ You can contribute to us to translate the mod into other languages. You can get 
 </details>
 
 <details>
-  <summary>Creature Synchronization (0/40)</summary>
+<summary>Creature Synchronization (2/40)</summary>
   
+- [x] GlowWhale
+- [x] Skyray
 - [ ] Spinefish
-- [ ] Skyray
 - [ ] Boomerang
 - [ ] Bladderfish
 - [ ] Hoopfish
 - [ ] Crash
-- [ ] GlowWhale
 - [ ] LilyPaddler
 - [ ] Penguin
 - [ ] PenguinBaby
