@@ -82,5 +82,14 @@
     "DISCORD_JOINING_SERVER": "正在连接到服务器...",
     "APP_DEPENDENCIES_ERROR": "下载文件依赖项时出现问题。",
     "GAME_STORY_WAITING_PLAYERS": "正在等待其他玩家 ({playerCount}/{maxPlayer})",
-    "GAME_BEPINEX_DETECTED": "检测到Bepinex，多人联机Mod已被禁用。请移除全部Bepinex相关的Mod文件。"
+    "GAME_BEPINEX_DETECTED": "检测到Bepinex，多人联机Mod已被禁用。请移除全部Bepinex相关的Mod文件。",
+    "LOBBY_INVALID_JOIN_CODE": "Invalid Invite Code",
+    "LOBBY_ALL_SERVER_BUSY": "Failed to Create Server. There are no available servers.",
+    "LOBBY_SERVER_CREATE_FAILED": "Server creation failed.",
+    "LOBBY_SERVER_CREATE_FAILED_EX": "Server creation failed. (0x99)",
+    "LOBBY_NOT_NETWORK_CONNECTED": "You are not connected to the Network.",
+    "LOBBY_SERVER_FULL": "Connection failed. Server Full",
+    "API_WEB_SERVER_RETURN_NULL": "There was no response from the server.",
+    "API_SERIALIZE_ERROR": "There is a problem in the parsing of data.",
+    "API_CLIENT_TO_HOST_JOIN_FAILED": "Connecting to the server failed. Try again."
 }
