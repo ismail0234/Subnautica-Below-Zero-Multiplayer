@@ -82,5 +82,14 @@
     "DISCORD_JOINING_SERVER": "Sunucuya Bağlanılıyor.",
     "APP_DEPENDENCIES_ERROR": "Bağımlılıklar indirilirken bir sorun oluştu.",
     "GAME_STORY_WAITING_PLAYERS": "Diğer oyuncular bekleniyor ({playerCount}/{maxPlayer})",
-    "GAME_BEPINEX_DETECTED": "Bepinex Algılandı. Çok oyunculu mod devre dışı bırakıldı. Lütfen Bepinex'e ait tüm mod dosyalarını kaldırın."
+    "GAME_BEPINEX_DETECTED": "Bepinex Algılandı. Çok oyunculu mod devre dışı bırakıldı. Lütfen Bepinex'e ait tüm mod dosyalarını kaldırın.",
+    "LOBBY_INVALID_JOIN_CODE": "Geçersiz Davet Kodu",
+    "LOBBY_ALL_SERVER_BUSY": "Sunucu Oluşturulamadı. Kullanılabilir sunucu yok.",
+    "LOBBY_SERVER_CREATE_FAILED": "Sunucu oluşturma başarısız oldu.",
+    "LOBBY_SERVER_CREATE_FAILED_EX": "Sunucu oluşturma başarısız oldu. (0x99)",
+    "LOBBY_NOT_NETWORK_CONNECTED": "Ağa bağlı değilsiniz.",
+    "LOBBY_SERVER_FULL": "Bağlantı başarısız oldu. Sunucu Dolu",
+    "API_WEB_SERVER_RETURN_NULL": "Sunucudan herhangi bir yanıt gelmedi.",
+    "API_SERIALIZE_ERROR": "Verilerin ayrıştırılmasında bir sorun var.",
+    "API_CLIENT_TO_HOST_JOIN_FAILED": "Sunucuya bağlanma başarısız oldu. Tekrar deneyin."
 }
