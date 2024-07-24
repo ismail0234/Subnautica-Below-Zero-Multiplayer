@@ -83,13 +83,13 @@
     "APP_DEPENDENCIES_ERROR": "Un problème s'est produit lors du téléchargement des fichiers.",
     "GAME_STORY_WAITING_PLAYERS": "Attendre les autres joueurs ({playerCount}/{maxPlayer})",
     "GAME_BEPINEX_DETECTED": "Détecté Bepinex. Le mod multijoueur a été désactivé. Veuillez supprimer tous les fichiers mod appartenant à Bepinex.",
-    "LOBBY_INVALID_JOIN_CODE": "Invalid Invite Code",
-    "LOBBY_ALL_SERVER_BUSY": "Failed to Create Server. There are no available servers.",
-    "LOBBY_SERVER_CREATE_FAILED": "Server creation failed.",
-    "LOBBY_SERVER_CREATE_FAILED_EX": "Server creation failed. (0x99)",
-    "LOBBY_NOT_NETWORK_CONNECTED": "You are not connected to the Network.",
-    "LOBBY_SERVER_FULL": "Connection failed. Server Full",
-    "API_WEB_SERVER_RETURN_NULL": "There was no response from the server.",
-    "API_SERIALIZE_ERROR": "There is a problem in the parsing of data.",
-    "API_CLIENT_TO_HOST_JOIN_FAILED": "Connecting to the server failed. Try again."
+    "LOBBY_INVALID_JOIN_CODE": "Code d'invitation invalide",
+    "LOBBY_ALL_SERVER_BUSY": "Impossible de créer un serveur. Il n'y a pas de serveurs disponibles.",
+    "LOBBY_SERVER_CREATE_FAILED": "Échec de la création du serveur.",
+    "LOBBY_SERVER_CREATE_FAILED_EX": "Échec de la création du serveur. (0x99)",
+    "LOBBY_NOT_NETWORK_CONNECTED": "Vous n'êtes pas connecté au réseau.",
+    "LOBBY_SERVER_FULL": "Échec de la connexion. Serveur plein.",
+    "API_WEB_SERVER_RETURN_NULL": "Le serveur n'a pas répondu.",
+    "API_SERIALIZE_ERROR": "Il y a un problème dans l'analyse des données.",
+    "API_CLIENT_TO_HOST_JOIN_FAILED": "La connexion au serveur a échoué. Veuillez réessayer."
 }
