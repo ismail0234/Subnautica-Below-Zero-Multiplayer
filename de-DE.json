@@ -82,5 +82,14 @@
     "DISCORD_JOINING_SERVER": "Verbinde zum Server.",
     "APP_DEPENDENCIES_ERROR": "Beim Herunterladen der Abhängigkeiten ist ein Problem aufgetreten.",
     "GAME_STORY_WAITING_PLAYERS": "Auf andere Spieler wird gewartet ({playerCount}/{maxPlayer})",
-    "GAME_BEPINEX_DETECTED": "Inkompatibel Mods erkannt. Der Mehrspielermodus wurde deaktiviert. Bitte entfernen Sie alle Mod-Dateien, die zu Multiplayer-mod nicht gehören."
+    "GAME_BEPINEX_DETECTED": "Inkompatibel Mods erkannt. Der Mehrspielermodus wurde deaktiviert. Bitte entfernen Sie alle Mod-Dateien, die zu Multiplayer-mod nicht gehören.",
+    "LOBBY_INVALID_JOIN_CODE": "Invalid Invite Code",
+    "LOBBY_ALL_SERVER_BUSY": "Failed to Create Server. There are no available servers.",
+    "LOBBY_SERVER_CREATE_FAILED": "Server creation failed.",
+    "LOBBY_SERVER_CREATE_FAILED_EX": "Server creation failed. (0x99)",
+    "LOBBY_NOT_NETWORK_CONNECTED": "You are not connected to the Network.",
+    "LOBBY_SERVER_FULL": "Connection failed. Server Full",
+    "API_WEB_SERVER_RETURN_NULL": "There was no response from the server.",
+    "API_SERIALIZE_ERROR": "There is a problem in the parsing of data.",
+    "API_CLIENT_TO_HOST_JOIN_FAILED": "Connecting to the server failed. Try again."
 }
