@@ -91,5 +91,8 @@
     "LOBBY_SERVER_FULL": "Verbindung fehlgeschlagen. Der Server ist voll",
     "API_WEB_SERVER_RETURN_NULL": "Es gab keine Antwort vom Server.",
     "API_SERIALIZE_ERROR": "There is a problem in the parsing of data.",
-    "API_CLIENT_TO_HOST_JOIN_FAILED": "Verbindung zum Server ist fehlgeschlagen. Versuche es erneut."
+    "API_CLIENT_TO_HOST_JOIN_FAILED": "Verbindung zum Server ist fehlgeschlagen. Versuche es erneut.",
+    "GAME_INVITE_CODE": "Invite Code or IP Address",
+    "GAME_INVITE_CODE_PLACEHOLDER": "Enter an Invite Code or IP Address.",
+    "GAME_INVITE_CODE_EMPTY_ERROR": "Please enter an Invite Code or IP Address."
 }
