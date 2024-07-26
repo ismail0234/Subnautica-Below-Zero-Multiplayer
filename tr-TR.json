@@ -91,5 +91,8 @@
     "LOBBY_SERVER_FULL": "Bağlantı başarısız oldu. Sunucu Dolu",
     "API_WEB_SERVER_RETURN_NULL": "Sunucudan herhangi bir yanıt gelmedi.",
     "API_SERIALIZE_ERROR": "Verilerin ayrıştırılmasında bir sorun var.",
-    "API_CLIENT_TO_HOST_JOIN_FAILED": "Sunucuya bağlanma başarısız oldu. Tekrar deneyin."
+    "API_CLIENT_TO_HOST_JOIN_FAILED": "Sunucuya bağlanma başarısız oldu. Tekrar deneyin.",
+    "GAME_INVITE_CODE": "Davet Kodu veya IP Adresi",
+    "GAME_INVITE_CODE_PLACEHOLDER": "Bir Davet Kodu veya IP Adresi girin.",
+    "GAME_INVITE_CODE_EMPTY_ERROR": "Lütfen bir Davet Kodu veya IP Adresi girin."
 }
