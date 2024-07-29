@@ -92,7 +92,8 @@
     "API_WEB_SERVER_RETURN_NULL": "Ответ от сервера не был получен.",
     "API_SERIALIZE_ERROR": "Возникла проблема при разборе данных.",
     "API_CLIENT_TO_HOST_JOIN_FAILED": "Не удалось подключиться к серверу. Попробуйте снова.",
-    "GAME_INVITE_CODE": "Пригласительный код или IP-адрес",
     "GAME_INVITE_CODE_PLACEHOLDER": "Введите пригласительный код или IP-адрес.",
-    "GAME_INVITE_CODE_EMPTY_ERROR": "Пожалуйста, введите пригласительный код или IP-адрес."
+    "GAME_INVITE_CODE_EMPTY_ERROR": "Пожалуйста, введите пригласительный код или IP-адрес.",
+    "GAME_INVITE_CODE_OR_IP": "Пригласительный код или IP-адрес",
+    "GAME_INVITE_CODE": "Invite Code"
 }
