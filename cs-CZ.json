@@ -95,5 +95,5 @@
     "GAME_INVITE_CODE_PLACEHOLDER": "Zadejte kód pozvánky nebo IP adresu.",
     "GAME_INVITE_CODE_EMPTY_ERROR": "Prosím zadejte kód pozvánky nebo IP adresu.",
     "GAME_INVITE_CODE_OR_IP": "Kód pozvánky nebo IP adresa",
-    "GAME_INVITE_CODE": "Invite Code"
+    "GAME_INVITE_CODE": "Kód pozvánky"
 }
