@@ -92,7 +92,8 @@
     "API_WEB_SERVER_RETURN_NULL": "Le serveur n'a pas répondu.",
     "API_SERIALIZE_ERROR": "Il y a un problème dans l'analyse des données.",
     "API_CLIENT_TO_HOST_JOIN_FAILED": "La connexion au serveur a échoué. Veuillez réessayer.",
-    "GAME_INVITE_CODE": "Invite Code or IP Address",
     "GAME_INVITE_CODE_PLACEHOLDER": "Enter an Invite Code or IP Address.",
-    "GAME_INVITE_CODE_EMPTY_ERROR": "Please enter an Invite Code or IP Address."
+    "GAME_INVITE_CODE_EMPTY_ERROR": "Please enter an Invite Code or IP Address.",
+    "GAME_INVITE_CODE_OR_IP": "Invite Code or IP Address",
+    "GAME_INVITE_CODE": "Invite Code"
 }
