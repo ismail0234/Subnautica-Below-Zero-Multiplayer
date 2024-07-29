@@ -90,10 +90,10 @@
     "LOBBY_NOT_NETWORK_CONNECTED": "Não está ligado à rede.",
     "LOBBY_SERVER_FULL": "A conexão falhou. O servidor está cheio",
     "API_WEB_SERVER_RETURN_NULL": "Não houve resposta do servidor.",
-    "API_SERIALIZE_ERROR": "There is a problem in the parsing of data.",
-    "API_CLIENT_TO_HOST_JOIN_FAILED": "Connecting to the server failed. Try again.",
-    "GAME_INVITE_CODE_PLACEHOLDER": "Enter an Invite Code or IP Address.",
-    "GAME_INVITE_CODE_EMPTY_ERROR": "Please enter an Invite Code or IP Address.",
-    "GAME_INVITE_CODE_OR_IP": "Invite Code or IP Address",
-    "GAME_INVITE_CODE": "Invite Code"
+    "API_SERIALIZE_ERROR": "Há um problema na análise dos dados.",
+    "API_CLIENT_TO_HOST_JOIN_FAILED": "A ligação com o servidor falhou. Tente novamente.",
+    "GAME_INVITE_CODE_PLACEHOLDER": "Introduza um código de convite ou um endereço IP.",
+    "GAME_INVITE_CODE_EMPTY_ERROR": "Introduza um código de convite ou um endereço IP.",
+    "GAME_INVITE_CODE_OR_IP": "Código de convite ou endereço IP",
+    "GAME_INVITE_CODE": "Código de convite"
 }
