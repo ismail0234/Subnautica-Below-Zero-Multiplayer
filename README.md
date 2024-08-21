@@ -18,31 +18,31 @@ You can contribute to us to translate the mod into other languages. You can get 
 
 **Note: If you do not see the language you want to translate in the list. Contact me by joining our discord server. (@botbenson)**
 
-| Language              | Completion Rate                                                                                              | Lang Code |                               Translation Page                                |
-|-----------------------|--------------------------------------------------------------------------------------------------------------|:---------:|:-----------------------------------------------------------------------------:|
-| Romanian              | ![ro translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=ro&time=1705587879)       |    ro     |    [ro.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/ro)    |
-| Icelandic             | ![is translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=is&time=1705587879)       |    is     |    [is.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/is)    |
-| Ukrainian             | ![uk translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=uk&time=1705587879)       |    uk     |    [uk.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/uk)    |
-| Turkish               | ![tr translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=tr&time=1705587879)       |    tr     |    [tr.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/tr)    |
-| Croatian              | ![hr translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=hr&time=1705587879)       |    hr     |    [hr.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/hr)    |
-| Russian               | ![ru translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=ru&time=1705587879)       |    ru     |    [ru.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/ru)    |
-| French                | ![fr translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=fr&time=1705587879)       |    fr     |    [fr.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/fr)    |
-| Polish                | ![pl translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=pl&time=1705587879)       |    pl     |    [pl.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/pl)    |
-| Dutch                 | ![nl translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=nl&time=1705587879)       |    nl     |    [nl.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/nl)    |
-| Korean                | ![ko translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=ko&time=1705587879)       |    ko     |    [ko.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/ko)    |
-| Japanese              | ![ja translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=ja&time=1705587879)       |    ja     |    [ja.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/ja)    |
-| Italian               | ![it translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=it&time=1705587879)       |    it     |    [it.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/it)    |
-| Finnish               | ![fi translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=fi&time=1705587879)       |    fi     |    [fi.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/fi)    |
-| German                | ![de translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=de&time=1705587879)       |    de     |    [de.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/de)    |
-| Czech                 | ![cs translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=cs&time=1705587879)       |    cs     |    [cs.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/cs)    |
-| Azerbaijani           | ![az translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=az&time=1705587879)       |    az     |    [az.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/az)    |
-| English               | ![en translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=en&time=1705587879)       |    en     |    [en.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/en)    |
-| Portuguese, Brazilian | ![pt-BR translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=pt-BR&time=1705587879) |   pt-BR   | [pt-BR.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/pt-BR) |
-| Portuguese            | ![pt-PT translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=pt-PT&time=1705587879) |   pt-PT   | [pt-PT.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/pt-PT) |
-| Chinese Simplified    | ![zh-CN translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=zh-CN&time=1705587879) |   zh-CN   | [zh-CN.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/zh-CN) |
-| Swedish               | ![sv-SE translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=sv-SE&time=1705587879) |   sv-SE   | [sv-SE.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/sv-SE) |
-| Spanish               | ![es-ES translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=es-ES&time=1705587879) |   es-ES   | [es-ES.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/es-ES) |
-| Serbian (Latin)       | ![sr-CS translation](https://subnauticamultiplayer.com/ajax/showCrowdinBadge?language=sr-CS&time=1705587879) |   sr-CS   | [sr-CS.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/sr-CS) |
+| Language              | Lang Code |                               Translation Page                                |
+|-----------------------|:---------:|:-----------------------------------------------------------------------------:|
+| Romanian              |    ro     |    [ro.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/ro)    |
+| Icelandic             |    is     |    [is.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/is)    |
+| Ukrainian             |    uk     |    [uk.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/uk)    |
+| Turkish               |    tr     |    [tr.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/tr)    |
+| Croatian              |    hr     |    [hr.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/hr)    |
+| Russian               |    ru     |    [ru.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/ru)    |
+| French                |    fr     |    [fr.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/fr)    |
+| Polish                |    pl     |    [pl.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/pl)    |
+| Dutch                 |    nl     |    [nl.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/nl)    |
+| Korean                |    ko     |    [ko.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/ko)    |
+| Japanese              |    ja     |    [ja.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/ja)    |
+| Italian               |    it     |    [it.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/it)    |
+| Finnish               |    fi     |    [fi.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/fi)    |
+| German                |    de     |    [de.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/de)    |
+| Czech                 |    cs     |    [cs.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/cs)    |
+| Azerbaijani           |    az     |    [az.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/az)    |
+| English               |    en     |    [en.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/en)    |
+| Portuguese, Brazilian |   pt-BR   | [pt-BR.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/pt-BR) |
+| Portuguese            |   pt-PT   | [pt-PT.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/pt-PT) |
+| Chinese Simplified    |   zh-CN   | [zh-CN.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/zh-CN) |
+| Swedish               |   sv-SE   | [sv-SE.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/sv-SE) |
+| Spanish               |   es-ES   | [es-ES.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/es-ES) |
+| Serbian (Latin)       |   sr-CS   | [sr-CS.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/sr-CS) |
  
 
 ## Subnautica BZ Multiplayer To-Do List (%84.82 Completed)
