@@ -95,5 +95,5 @@
     "GAME_INVITE_CODE_PLACEHOLDER": "Введіть код запрошення або IP адресу.",
     "GAME_INVITE_CODE_EMPTY_ERROR": "Будь ласка, введіть код запрошення або IP адресу.",
     "GAME_INVITE_CODE_OR_IP": "Код запрошення або IP адреса",
-    "GAME_INVITE_CODE": "Invite Code"
+    "GAME_INVITE_CODE": "Код запрошення"
 }
