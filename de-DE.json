@@ -90,7 +90,7 @@
     "LOBBY_NOT_NETWORK_CONNECTED": "Sie sind nicht mit dem Netzwerk verbunden.",
     "LOBBY_SERVER_FULL": "Verbindung fehlgeschlagen. Der Server ist voll",
     "API_WEB_SERVER_RETURN_NULL": "Es gab keine Antwort vom Server.",
-    "API_SERIALIZE_ERROR": "There is a problem in the parsing of data.",
+    "API_SERIALIZE_ERROR": "Es gibt ein Problem beim Analysieren der Daten.",
     "API_CLIENT_TO_HOST_JOIN_FAILED": "Verbindung zum Server ist fehlgeschlagen. Versuche es erneut.",
     "GAME_INVITE_CODE_PLACEHOLDER": "Geben Sie einen Einladungscode oder eine IP-Adresse ein.",
     "GAME_INVITE_CODE_EMPTY_ERROR": "Geben Sie bitte einen Einladungscode oder eine IP-Adresse ein.",
