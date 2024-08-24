@@ -83,7 +83,7 @@
     "APP_DEPENDENCIES_ERROR": "A fost o problema la descărcarea dependentelor.",
     "GAME_STORY_WAITING_PLAYERS": "Sunt așteptați ceilalți jucători ({playerCount}/{maxPlayer})",
     "GAME_BEPINEX_DETECTED": "Bepinex a fost detectat. Modul Multiplayer a fost dezactivat. Vă rog ștergeți toate modurile ce aparțin modului Bepinex.",
-    "LOBBY_INVALID_JOIN_CODE": "Invalid Invite Code",
+    "LOBBY_INVALID_JOIN_CODE": "Cod de invitație invalid",
     "LOBBY_ALL_SERVER_BUSY": "Failed to Create Server. There are no available servers.",
     "LOBBY_SERVER_CREATE_FAILED": "Server creation failed.",
     "LOBBY_SERVER_CREATE_FAILED_EX": "Server creation failed. (0x99)",
