@@ -57,159 +57,167 @@
     {
         "Name": "Patreon Supporters",
         "AccessLevel": 4,
-        "Members":
+        "Members": [
         {
-            "0":
-            {
-                "Name": "blitex",
-                "Avatar": "discord\/210900794076037120.webp",
-                "Date": 1731495941
-            },
-            "1":
-            {
-                "Name": "sdrowkcab_repyt",
-                "Avatar": "discord\/598395126208790528.webp",
-                "Date": 1731495943
-            },
-            "2":
-            {
-                "Name": "macezayuri",
-                "Avatar": "discord\/292747945433104384.webp",
-                "Date": 1731495946
-            },
-            "3":
-            {
-                "Name": "sp4ck",
-                "Avatar": "discord\/269584499229065219.webp",
-                "Date": 1731495948
-            },
-            "4":
-            {
-                "Name": "pielog640",
-                "Avatar": "discord\/217321787283734528.webp",
-                "Date": 1731495951
-            },
-            "5":
-            {
-                "Name": "juns_7777",
-                "Avatar": "discord\/381854722698510337.webp",
-                "Date": 1731495953
-            },
-            "6":
-            {
-                "Name": "frostguts",
-                "Avatar": "discord\/400879302628999199.webp",
-                "Date": 1706103279
-            },
-            "7":
-            {
-                "Name": "darkestcog",
-                "Avatar": "discord\/301261771027775488.webp",
-                "Date": 1706103281
-            },
-            "8":
-            {
-                "Name": "mattsm4",
-                "Avatar": "discord\/1183457666878681149.webp",
-                "Date": 1706103284
-            },
-            "9":
-            {
-                "Name": "samothas",
-                "Avatar": "discord\/219117027699326978.webp",
-                "Date": 1706103286
-            },
-            "10":
-            {
-                "Name": "meijin_viper",
-                "Avatar": "discord\/538530441268035584.webp",
-                "Date": 1710829120
-            },
-            "11":
-            {
-                "Name": "darvixcze2.0",
-                "Avatar": "discord\/844447465003810867.webp",
-                "Date": 1710829122
-            },
-            "12":
-            {
-                "Name": "shadow_wisp",
-                "Avatar": "discord\/892573271751528488.webp",
-                "Date": 1709204517
-            },
-            "13":
-            {
-                "Name": "sspark_",
-                "Avatar": "discord\/538721116043083797.webp",
-                "Date": 1706104827
-            },
-            "14":
-            {
-                "Name": "legendea",
-                "Avatar": "discord\/636234377642246190.webp",
-                "Date": 1706104744
-            },
-            "15":
-            {
-                "Name": "sirslushee",
-                "Avatar": "discord\/197371850165059586.webp",
-                "Date": 1714832203
-            },
-            "16":
-            {
-                "Name": "maketoru",
-                "Avatar": "discord\/290428575163613186.webp",
-                "Date": 1714832205
-            },
-            "17":
-            {
-                "Name": "arixs",
-                "Avatar": "discord\/575040007631536156.webp",
-                "Date": 1722325126
-            },
-            "18":
-            {
-                "Name": "theradracer",
-                "Avatar": "discord\/508497687050584074.webp",
-                "Date": 1722325129
-            },
-            "19":
-            {
-                "Name": "todorikitakumi",
-                "Avatar": "discord\/483161114805403649.webp",
-                "Date": 1722325131
-            },
-            "20":
-            {
-                "Name": "mobthegoat22",
-                "Avatar": "discord\/536706760162148353.webp",
-                "Date": 1722325134
-            },
-            "21":
-            {
-                "Name": "daemonx20",
-                "Avatar": "discord\/716099845961678928.webp",
-                "Date": 1722325136
-            },
-            "22":
-            {
-                "Name": "zixpiitv",
-                "Avatar": "discord\/763901093679726632.webp",
-                "Date": 1722325138
-            },
-            "23":
-            {
-                "Name": "thundernuggets",
-                "Avatar": "discord\/366377560021663744.webp",
-                "Date": 1722325140
-            },
-            "26":
-            {
-                "Name": "dingus_rl",
-                "Avatar": "discord\/1029115130543349810.webp",
-                "Date": 1710829630
-            }
-        }
+            "Name": "blitex",
+            "Avatar": "discord\/210900794076037120.webp",
+            "Date": 1731495941
+        },
+        {
+            "Name": "sdrowkcab_repyt",
+            "Avatar": "discord\/598395126208790528.webp",
+            "Date": 1731495943
+        },
+        {
+            "Name": "macezayuri",
+            "Avatar": "discord\/292747945433104384.webp",
+            "Date": 1731495946
+        },
+        {
+            "Name": "sp4ck",
+            "Avatar": "discord\/269584499229065219.webp",
+            "Date": 1731495948
+        },
+        {
+            "Name": "pielog640",
+            "Avatar": "discord\/217321787283734528.webp",
+            "Date": 1731495951
+        },
+        {
+            "Name": "juns_7777",
+            "Avatar": "discord\/381854722698510337.webp",
+            "Date": 1731495953
+        },
+        {
+            "Name": "frostguts",
+            "Avatar": "discord\/400879302628999199.webp",
+            "Date": 1706103279
+        },
+        {
+            "Name": "darkestcog",
+            "Avatar": "discord\/301261771027775488.webp",
+            "Date": 1706103281
+        },
+        {
+            "Name": "mattsm4",
+            "Avatar": "discord\/1183457666878681149.webp",
+            "Date": 1706103284
+        },
+        {
+            "Name": "samothas",
+            "Avatar": "discord\/219117027699326978.webp",
+            "Date": 1706103286
+        },
+        {
+            "Name": "meijin_viper",
+            "Avatar": "discord\/538530441268035584.webp",
+            "Date": 1710829120
+        },
+        {
+            "Name": "darvixcze2.0",
+            "Avatar": "discord\/844447465003810867.webp",
+            "Date": 1710829122
+        },
+        {
+            "Name": "shadow_wisp",
+            "Avatar": "discord\/892573271751528488.webp",
+            "Date": 1709204517
+        },
+        {
+            "Name": "sspark_",
+            "Avatar": "discord\/538721116043083797.webp",
+            "Date": 1706104827
+        },
+        {
+            "Name": "legendea",
+            "Avatar": "discord\/636234377642246190.webp",
+            "Date": 1706104744
+        },
+        {
+            "Name": "sirslushee",
+            "Avatar": "discord\/197371850165059586.webp",
+            "Date": 1714832203
+        },
+        {
+            "Name": "maketoru",
+            "Avatar": "discord\/290428575163613186.webp",
+            "Date": 1714832205
+        },
+        {
+            "Name": "arixs",
+            "Avatar": "discord\/575040007631536156.webp",
+            "Date": 1722325126
+        },
+        {
+            "Name": "theradracer",
+            "Avatar": "discord\/508497687050584074.webp",
+            "Date": 1722325129
+        },
+        {
+            "Name": "todorikitakumi",
+            "Avatar": "discord\/483161114805403649.webp",
+            "Date": 1722325131
+        },
+        {
+            "Name": "mobthegoat22",
+            "Avatar": "discord\/536706760162148353.webp",
+            "Date": 1722325134
+        },
+        {
+            "Name": "daemonx20",
+            "Avatar": "discord\/716099845961678928.webp",
+            "Date": 1722325136
+        },
+        {
+            "Name": "zixpiitv",
+            "Avatar": "discord\/763901093679726632.webp",
+            "Date": 1722325138
+        },
+        {
+            "Name": "thundernuggets",
+            "Avatar": "discord\/366377560021663744.webp",
+            "Date": 1722325140
+        },
+        {
+            "Name": "zoli2d",
+            "Avatar": "discord\/565576026407698432.webp",
+            "Date": 1731497355
+        },
+        {
+            "Name": "ashussy",
+            "Avatar": "discord\/826715326589960254.webp",
+            "Date": 1731497357
+        },
+        {
+            "Name": "dingus_rl",
+            "Avatar": "discord\/1029115130543349810.webp",
+            "Date": 1710829630
+        },
+        {
+            "Name": "zixxx",
+            "Avatar": "discord\/560615778852929548.webp",
+            "Date": 1731497359
+        },
+        {
+            "Name": "reaper_kings_",
+            "Avatar": "discord\/914354871325573152.webp",
+            "Date": 1731497362
+        },
+        {
+            "Name": "nashlowe",
+            "Avatar": "discord\/270725163383783426.webp",
+            "Date": 1731497364
+        },
+        {
+            "Name": "rinshi_hrz",
+            "Avatar": "discord\/772515807857999912.webp",
+            "Date": 1731497367
+        },
+        {
+            "Name": "traderpug",
+            "Avatar": "discord\/228939017196929024.webp",
+            "Date": 1731497369
+        }]
     },
     "Translators":
     {
