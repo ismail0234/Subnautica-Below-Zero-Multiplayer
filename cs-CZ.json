@@ -96,8 +96,8 @@
     "GAME_INVITE_CODE_EMPTY_ERROR": "Prosím zadejte kód pozvánky nebo IP adresu.",
     "GAME_INVITE_CODE_OR_IP": "Kód pozvánky nebo IP adresa",
     "GAME_INVITE_CODE": "Kód pozvánky",
-    "GAME_CONNECTION_SERVER_FULL": "Server Full",
-    "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "The server version and your version do not match.",
-    "GAME_CONNECTION_ERROR_POPUP_TITLE": "Connection Error",
-    "GAME_CONNECTION_FIX_ERROR": "If your friend cannot connect to your server or you cannot connect to your friend's server. There is no other solution other than these 3 steps.\r\n\r\n1. Steam Offline Mode (Do not use Steam in offline mode)\r\n2. Any VPN Program (AvastVPN, NordVPN, etc. / Close your VPN Program and try again)\r\n3. Antivirus Problem (Disable your antivirus program and try it)\r\n\r\nImportant Note: Both parties need to check these steps."
+    "GAME_CONNECTION_SERVER_FULL": "Server je plný",
+    "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "Verze serveru a vaše verze se neshodují.",
+    "GAME_CONNECTION_ERROR_POPUP_TITLE": "Chyba připojení",
+    "GAME_CONNECTION_FIX_ERROR": "Pokud se váš přítel nemůže připojit k vašemu serveru nebo se vy nemůžete připojit k serveru svého přítele. Neexistuje jiné řešení než tyto 3 kroky.\n\n1. Režim offline služby Steam (nepoužívejte službu Steam v režimu offline).\n2. Jakýkoli program VPN (AvastVPN, NordVPN atd. / Zavřete program VPN a zkuste to znovu).\n3. Problém s antivirem (Vypněte antivirový program a zkuste to).\n\nDůležitá poznámka: Oba účastníci musí tyto kroky zkontrolovat."
 }
