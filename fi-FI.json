@@ -85,7 +85,7 @@
     "GAME_BEPINEX_DETECTED": "Bepinex löydetty. Moninpeli on poistettu käytöstä. Poista kaikki Bepinexin tiedostot.",
     "LOBBY_INVALID_JOIN_CODE": "Invalid Invite Code",
     "LOBBY_ALL_SERVER_BUSY": "Failed to Create Server. There are no available servers.",
-    "LOBBY_SERVER_CREATE_FAILED": "Server creation failed.",
+    "LOBBY_SERVER_CREATE_FAILED": "Serverin luonti epäonnistui.",
     "LOBBY_SERVER_CREATE_FAILED_EX": "Server creation failed. (0x99)",
     "LOBBY_NOT_NETWORK_CONNECTED": "You are not connected to the Network.",
     "LOBBY_SERVER_FULL": "Connection failed. Server Full",
@@ -94,6 +94,10 @@
     "API_CLIENT_TO_HOST_JOIN_FAILED": "Connecting to the server failed. Try again.",
     "GAME_INVITE_CODE_PLACEHOLDER": "Enter an Invite Code or IP Address.",
     "GAME_INVITE_CODE_EMPTY_ERROR": "Please enter an Invite Code or IP Address.",
-    "GAME_INVITE_CODE_OR_IP": "Invite Code or IP Address",
-    "GAME_INVITE_CODE": "Invite Code"
+    "GAME_INVITE_CODE_OR_IP": "Kutsukoodi tai IP Osoite",
+    "GAME_INVITE_CODE": "Kutsukoodi",
+    "GAME_CONNECTION_SERVER_FULL": "Server Full",
+    "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "The server version and your version do not match.",
+    "GAME_CONNECTION_ERROR_POPUP_TITLE": "Connection Error",
+    "GAME_CONNECTION_FIX_ERROR": "If your friend cannot connect to your server or you cannot connect to your friend's server. There is no other solution other than these 3 steps.\r\n\r\n1. Steam Offline Mode (Do not use Steam in offline mode)\r\n2. Any VPN Program (AvastVPN, NordVPN, etc. / Close your VPN Program and try again)\r\n3. Antivirus Problem (Disable your antivirus program and try it)\r\n\r\nImportant Note: Both parties need to check these steps."
 }
