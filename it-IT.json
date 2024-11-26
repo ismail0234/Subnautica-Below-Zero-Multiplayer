@@ -83,7 +83,7 @@
     "APP_DEPENDENCIES_ERROR": "Si è verificato un problema durante lo scaricamento dei file di gioco.",
     "GAME_STORY_WAITING_PLAYERS": "Aspettando altri giocatori: ({playerCount}/{maxPlayer})",
     "GAME_BEPINEX_DETECTED": "Bepinex trovato. Mod multi giocatore è stato disabilitato. Per favore rimuovi tutte le mod appartenenti a Bepinex.",
-    "LOBBY_INVALID_JOIN_CODE": "Codice d'Invito fallito",
+    "LOBBY_INVALID_JOIN_CODE": "Codice invito non valido",
     "LOBBY_ALL_SERVER_BUSY": "Server non creato. Server non dispobili.",
     "LOBBY_SERVER_CREATE_FAILED": "Creazione del server fallita.",
     "LOBBY_SERVER_CREATE_FAILED_EX": "Creazione del server fallita. (0x99)",
@@ -94,6 +94,10 @@
     "API_CLIENT_TO_HOST_JOIN_FAILED": "Connessione al server fallita. Provare nuovamente.",
     "GAME_INVITE_CODE_PLACEHOLDER": "Immetti un codice invito o un indirizzo IP.",
     "GAME_INVITE_CODE_EMPTY_ERROR": "Per favore imetti un codice oppure un indirizzo IP.",
-    "GAME_INVITE_CODE_OR_IP": "Invito al codice o indirizzo IP",
-    "GAME_INVITE_CODE": "Codice invito"
+    "GAME_INVITE_CODE_OR_IP": "Codice invito o indirizzo IP",
+    "GAME_INVITE_CODE": "Codice invito",
+    "GAME_CONNECTION_SERVER_FULL": "Server Pieno",
+    "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "La versione del server e la tua versione non corrispondono.",
+    "GAME_CONNECTION_ERROR_POPUP_TITLE": "Errore di connessione",
+    "GAME_CONNECTION_FIX_ERROR": "If your friend cannot connect to your server or you cannot connect to your friend's server. There is no other solution other than these 3 steps.\r\n\r\n1. Steam Offline Mode (Do not use Steam in offline mode)\r\n2. Any VPN Program (AvastVPN, NordVPN, etc. / Close your VPN Program and try again)\r\n3. Antivirus Problem (Disable your antivirus program and try it)\r\n\r\nImportant Note: Both parties need to check these steps."
 }
