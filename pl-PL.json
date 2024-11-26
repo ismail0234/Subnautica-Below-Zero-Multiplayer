@@ -96,8 +96,8 @@
     "GAME_INVITE_CODE_EMPTY_ERROR": "Wprowadź kod zapraszający lub adres IP.",
     "GAME_INVITE_CODE_OR_IP": "Kod zaproszenia lub adres IP",
     "GAME_INVITE_CODE": "Kod zapraszający",
-    "GAME_CONNECTION_SERVER_FULL": "Server Full",
-    "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "The server version and your version do not match.",
-    "GAME_CONNECTION_ERROR_POPUP_TITLE": "Connection Error",
-    "GAME_CONNECTION_FIX_ERROR": "If your friend cannot connect to your server or you cannot connect to your friend's server. There is no other solution other than these 3 steps.\r\n\r\n1. Steam Offline Mode (Do not use Steam in offline mode)\r\n2. Any VPN Program (AvastVPN, NordVPN, etc. / Close your VPN Program and try again)\r\n3. Antivirus Problem (Disable your antivirus program and try it)\r\n\r\nImportant Note: Both parties need to check these steps."
+    "GAME_CONNECTION_SERVER_FULL": "Serwer pełny",
+    "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "Wersja serwera i wersja użytkownika nie są zgodne.",
+    "GAME_CONNECTION_ERROR_POPUP_TITLE": "Błąd połączenia",
+    "GAME_CONNECTION_FIX_ERROR": "Jeśli Twój znajomy nie może połączyć się z Twoim serwerem lub Ty nie możesz połączyć się z serwerem znajomego. Nie ma innego rozwiązania niż te 3 kroki.\n\n1. Tryb offline Steam (nie używaj Steam w trybie offline)\n2. Dowolny program VPN (AvastVPN, NordVPN itp. / Zamknij program VPN i spróbuj ponownie)\n3. Problem z programem antywirusowym (wyłącz program antywirusowy i spróbuj)\n\nWażna uwaga: Obie strony muszą sprawdzić te kroki."
 }
