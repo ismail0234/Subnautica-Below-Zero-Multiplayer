@@ -87,5 +87,5 @@
     "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "De server versie en uw versie komen niet overeen.",
     "GAME_CONNECTION_ERROR_POPUP_TITLE": "Fout bij verbinding",
     "GAME_CONNECTION_FIX_ERROR": "Als je vriend geen verbinding kan maken met jouw server of als jij geen verbinding kunt maken met de server van je vriend. Er is geen andere oplossing dan deze 3 stappen.\n\n1. Steam offline modus (Gebruik Steam niet in offline modus)\n2. Een VPN-programma (AvastVPN, NordVPN, enz. / Sluit je VPN-programma en probeer het opnieuw)\n3. Antivirusprobleem (Schakel je antivirusprogramma uit en probeer het opnieuw)\n\nBelangrijke opmerking: Beide partijen moeten deze stappen controleren.",
-    "GAME_INVITE_CODE_SHOW": "Code uitnodigen tonen"
+    "GAME_SHOW_INVITE_CODE": "Code uitnodigen tonen"
 }
