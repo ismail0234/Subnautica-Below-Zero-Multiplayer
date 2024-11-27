@@ -99,5 +99,6 @@
     "GAME_CONNECTION_SERVER_FULL": "Servidor Lleno",
     "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "La versión del servidor y su versión no coinciden.",
     "GAME_CONNECTION_ERROR_POPUP_TITLE": "Error de conexión",
-    "GAME_CONNECTION_FIX_ERROR": "Si tu amigo no puede conectarse a tu servidor o tú no puedes conectarte al servidor de tu amigo. No hay otra solución que estos 3 pasos.\n\n1. Modo sin conexión de Steam (No utilices Steam en modo sin conexión).\n2. Cualquier Programa VPN (AvastVPN, NordVPN, etc. / Cierra tu Programa VPN e inténtalo de nuevo)\n3. Problema con el antivirus (Desactiva tu programa antivirus e inténtalo de nuevo)\n\nNota Importante: Ambas partes necesitan comprobar estos pasos."
+    "GAME_CONNECTION_FIX_ERROR": "Si tu amigo no puede conectarse a tu servidor o tú no puedes conectarte al servidor de tu amigo. No hay otra solución que estos 3 pasos.\n\n1. Modo sin conexión de Steam (No utilices Steam en modo sin conexión).\n2. Cualquier Programa VPN (AvastVPN, NordVPN, etc. / Cierra tu Programa VPN e inténtalo de nuevo)\n3. Problema con el antivirus (Desactiva tu programa antivirus e inténtalo de nuevo)\n\nNota Importante: Ambas partes necesitan comprobar estos pasos.",
+    "GAME_INVITE_CODE_SHOW": "Mostrar código de invitación"
 }
