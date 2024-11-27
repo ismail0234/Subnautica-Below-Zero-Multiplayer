@@ -99,5 +99,6 @@
     "GAME_CONNECTION_SERVER_FULL": "Sunucu Dolu",
     "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "Sunucu sürümü ile sizin sürümünüz eşleşmiyor.",
     "GAME_CONNECTION_ERROR_POPUP_TITLE": "Bağlantı Hatası",
-    "GAME_CONNECTION_FIX_ERROR": "Eğer arkadaşınız sizin sunucunuza bağlanamıyorsa veya siz arkadaşınızın sunucusuna bağlanamıyorsanız. Bu 3 adım dışında başka bir çözüm yoktur.\n\n1. Steam Çevrimdışı Modu (Steam'i çevrimdışı modda kullanmayın)\n2. Herhangi bir VPN Programı (AvastVPN, NordVPN, vb. / VPN Programınızı kapatın ve tekrar deneyin)\n3. Antivirüs Sorunu (Antivirüs programınızı devre dışı bırakın ve deneyin)\n\nÖnemli Not: Her iki tarafın da bu adımları kontrol etmesi gerekir."
+    "GAME_CONNECTION_FIX_ERROR": "Eğer arkadaşınız sizin sunucunuza bağlanamıyorsa veya siz arkadaşınızın sunucusuna bağlanamıyorsanız. Bu 3 adım dışında başka bir çözüm yoktur.\n\n1. Steam Çevrimdışı Modu (Steam'i çevrimdışı modda kullanmayın)\n2. Herhangi bir VPN Programı (AvastVPN, NordVPN, vb. / VPN Programınızı kapatın ve tekrar deneyin)\n3. Antivirüs Sorunu (Antivirüs programınızı devre dışı bırakın ve deneyin)\n\nÖnemli Not: Her iki tarafın da bu adımları kontrol etmesi gerekir.",
+    "GAME_INVITE_CODE_SHOW": "Davet Kodunu Göster"
 }
