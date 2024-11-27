@@ -96,8 +96,9 @@
     "GAME_INVITE_CODE_EMPTY_ERROR": "Будь ласка, введіть код запрошення або IP адресу.",
     "GAME_INVITE_CODE_OR_IP": "Код запрошення або IP адреса",
     "GAME_INVITE_CODE": "Код запрошення",
-    "GAME_CONNECTION_SERVER_FULL": "Server Full",
-    "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "The server version and your version do not match.",
-    "GAME_CONNECTION_ERROR_POPUP_TITLE": "Connection Error",
-    "GAME_CONNECTION_FIX_ERROR": "If your friend cannot connect to your server or you cannot connect to your friend's server. There is no other solution other than these 3 steps.\r\n\r\n1. Steam Offline Mode (Do not use Steam in offline mode)\r\n2. Any VPN Program (AvastVPN, NordVPN, etc. / Close your VPN Program and try again)\r\n3. Antivirus Problem (Disable your antivirus program and try it)\r\n\r\nImportant Note: Both parties need to check these steps."
+    "GAME_CONNECTION_SERVER_FULL": "Сервер заповнений",
+    "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "Версія сервера та ваша версія не збігаються.",
+    "GAME_CONNECTION_ERROR_POPUP_TITLE": "Помилка з'єднання",
+    "GAME_CONNECTION_FIX_ERROR": "Якщо ваш друг не може підключитися до вашого сервера або ви не можете підключитися до сервера вашого друга. Не існує іншого рішення, окрім цих 3 кроків.\n\n1. Офлайн-режим Steam (не використовуйте Steam в офлайн-режимі)\n2. Будь-яка програма VPN (AvastVPN, NordVPN тощо / закрийте програму VPN і спробуйте ще раз)\n3. Проблема з антивірусом (Вимкніть антивірусну програму і спробуйте ще раз)\n\nВажливе зауваження: Обидві сторони повинні перевірити ці кроки.",
+    "GAME_INVITE_CODE_SHOW": "Показати код запрошення"
 }
