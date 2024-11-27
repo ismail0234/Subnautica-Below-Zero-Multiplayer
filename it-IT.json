@@ -87,5 +87,5 @@
     "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "La versione del server e la tua versione non corrispondono.",
     "GAME_CONNECTION_ERROR_POPUP_TITLE": "Errore di connessione",
     "GAME_CONNECTION_FIX_ERROR": "Se il vostro amico non riesce a connettersi al vostro server o voi non riuscite a connettervi al server del vostro amico. Non c'è altra soluzione che questi 3 passi.\n\n1. Modalità offline di Steam (non utilizzate Steam in modalità offline).\n2. Qualsiasi programma VPN (AvastVPN, NordVPN, ecc.) / Chiudere il programma VPN e riprovare.\n3. Problemi con l'antivirus (disattivare il programma antivirus e riprovare).\n\nNota importante: entrambe le parti devono verificare questi passaggi.",
-    "GAME_INVITE_CODE_SHOW": "Mostra codice invito"
+    "GAME_SHOW_INVITE_CODE": "Mostra codice invito"
 }
