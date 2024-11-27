@@ -99,5 +99,6 @@
     "GAME_CONNECTION_SERVER_FULL": "Serwer pełny",
     "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "Wersja serwera i wersja użytkownika nie są zgodne.",
     "GAME_CONNECTION_ERROR_POPUP_TITLE": "Błąd połączenia",
-    "GAME_CONNECTION_FIX_ERROR": "Jeśli Twój znajomy nie może połączyć się z Twoim serwerem lub Ty nie możesz połączyć się z serwerem znajomego. Nie ma innego rozwiązania niż te 3 kroki.\n\n1. Tryb offline Steam (nie używaj Steam w trybie offline)\n2. Dowolny program VPN (AvastVPN, NordVPN itp. / Zamknij program VPN i spróbuj ponownie)\n3. Problem z programem antywirusowym (wyłącz program antywirusowy i spróbuj)\n\nWażna uwaga: Obie strony muszą sprawdzić te kroki."
+    "GAME_CONNECTION_FIX_ERROR": "Jeśli Twój znajomy nie może połączyć się z Twoim serwerem lub Ty nie możesz połączyć się z serwerem znajomego. Nie ma innego rozwiązania niż te 3 kroki.\n\n1. Tryb offline Steam (nie używaj Steam w trybie offline)\n2. Dowolny program VPN (AvastVPN, NordVPN itp. / Zamknij program VPN i spróbuj ponownie)\n3. Problem z programem antywirusowym (wyłącz program antywirusowy i spróbuj)\n\nWażna uwaga: Obie strony muszą sprawdzić te kroki.",
+    "GAME_INVITE_CODE_SHOW": "Pokaż kod zaproszenia"
 }
