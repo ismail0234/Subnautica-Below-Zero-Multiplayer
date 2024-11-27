@@ -87,5 +87,5 @@
     "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "Versiunea serverului și versiunea dvs. nu corespund.",
     "GAME_CONNECTION_ERROR_POPUP_TITLE": "Eroare de conectare",
     "GAME_CONNECTION_FIX_ERROR": "Dacă prietenul dvs. nu se poate conecta la serverul dvs. sau dvs. nu vă puteți conecta la serverul prietenului dvs. Nu există altă soluție în afară de acești 3 pași.\n\n1. Steam Offline Mode (Nu utilizați Steam în modul offline)\n2. Orice program VPN (AvastVPN, NordVPN, etc. / Închideți programul VPN și încercați din nou)\n3. Problemă antivirus (Dezactivați programul antivirus și încercați)\n\nNotă importantă: Ambele părți trebuie să verifice acești pași.",
-    "GAME_INVITE_CODE_SHOW": "Arată codul invitației"
+    "GAME_SHOW_INVITE_CODE": "Arată codul invitației"
 }
