@@ -99,5 +99,6 @@
     "GAME_CONNECTION_SERVER_FULL": "Serveur complet",
     "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "La version du serveur et votre version ne correspondent pas.",
     "GAME_CONNECTION_ERROR_POPUP_TITLE": "Erreur de Connexion",
-    "GAME_CONNECTION_FIX_ERROR": "Si votre ami ne peut pas se connecter à votre serveur ou si vous ne pouvez pas vous connecter au serveur de votre ami. Il n'y a pas d'autre solution que ces 3 étapes.\n\n1. Mode hors ligne de Steam (N'utilisez pas Steam en mode hors ligne)\n2. N'importe quel programme VPN (AvastVPN, NordVPN, etc. / Fermez votre programme VPN et réessayez)\n3. Problème d'antivirus (Désactivez votre programme antivirus et réessayez)\n\nRemarque importante : les deux parties doivent vérifier ces étapes."
+    "GAME_CONNECTION_FIX_ERROR": "Si votre ami ne peut pas se connecter à votre serveur ou si vous ne pouvez pas vous connecter au serveur de votre ami. Il n'y a pas d'autre solution que ces 3 étapes.\n\n1. Mode hors ligne de Steam (N'utilisez pas Steam en mode hors ligne)\n2. N'importe quel programme VPN (AvastVPN, NordVPN, etc. / Fermez votre programme VPN et réessayez)\n3. Problème d'antivirus (Désactivez votre programme antivirus et réessayez)\n\nRemarque importante : les deux parties doivent vérifier ces étapes.",
+    "GAME_INVITE_CODE_SHOW": "Afficher le code d'invitation"
 }
