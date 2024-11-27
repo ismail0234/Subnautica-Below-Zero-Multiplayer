@@ -99,5 +99,6 @@
     "GAME_CONNECTION_SERVER_FULL": "Server dolu",
     "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "Server versiyası və sizin versiya uyğun gəlmir.",
     "GAME_CONNECTION_ERROR_POPUP_TITLE": "Bağlantı xətası",
-    "GAME_CONNECTION_FIX_ERROR": "Dostunuz serverinizə qoşula bilmirsə və ya siz dostunuzun serverinə qoşula bilmirsinizsə. Bu 3 addımdan başqa həll yolu yoxdur.\n\n1. Steam Offline Mode (Steam-dən oflayn rejimdə istifadə etməyin)\n2. İstənilən VPN Proqramı (AvastVPN, NordVPN və s. / VPN Proqramınızı bağlayın və yenidən cəhd edin)\n3. Antivirus problemi (Antivirus proqramınızı deaktiv edin və cəhd edin)\n\nVacib qeyd: Hər iki tərəf bu addımları yoxlamalıdır."
+    "GAME_CONNECTION_FIX_ERROR": "Dostunuz serverinizə qoşula bilmirsə və ya siz dostunuzun serverinə qoşula bilmirsinizsə. Bu 3 addımdan başqa həll yolu yoxdur.\n\n1. Steam Offline Mode (Steam-dən oflayn rejimdə istifadə etməyin)\n2. İstənilən VPN Proqramı (AvastVPN, NordVPN və s. / VPN Proqramınızı bağlayın və yenidən cəhd edin)\n3. Antivirus problemi (Antivirus proqramınızı deaktiv edin və cəhd edin)\n\nVacib qeyd: Hər iki tərəf bu addımları yoxlamalıdır.",
+    "GAME_INVITE_CODE_SHOW": "Dəvət Kodunu göstərin"
 }
