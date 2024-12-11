@@ -83,9 +83,9 @@
     "GAME_INVITE_CODE_EMPTY_ERROR": "请输入邀请码或 IP 地址。",
     "GAME_INVITE_CODE_OR_IP": "邀请码或 IP 地址",
     "GAME_INVITE_CODE": "邀请码",
-    "GAME_CONNECTION_SERVER_FULL": "Server Full",
-    "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "The server version and your version do not match.",
-    "GAME_CONNECTION_ERROR_POPUP_TITLE": "Connection Error",
-    "GAME_CONNECTION_FIX_ERROR": "If your friend cannot connect to your server or you cannot connect to your friend's server. There is no other solution other than these 3 steps.\r\n\r\n1. Steam Offline Mode (Do not use Steam in offline mode)\r\n2. Any VPN Program (AvastVPN, NordVPN, etc. / Close your VPN Program and try again)\r\n3. Antivirus Problem (Disable your antivirus program and try it)\r\n\r\nImportant Note: Both parties need to check these steps.",
-    "GAME_SHOW_INVITE_CODE": "Show Invite Code"
+    "GAME_CONNECTION_SERVER_FULL": "服务器已满",
+    "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "服务器游戏版本与您的游戏版本不一致。",
+    "GAME_CONNECTION_ERROR_POPUP_TITLE": "连接错误",
+    "GAME_CONNECTION_FIX_ERROR": "如果您连接不上朋友的服务器或者您的朋友连接不上您的服务器，除了检查这三项，暂无没有其他解决方案。\n1、Steam处于离线状态（不要使用离线状态）\n2、任何VPN程序（关闭VPN程序后再尝试连接）\n3、杀毒软件问题（关停杀毒软件后再尝试连接）\n重要提示：双方都要检查这几项。",
+    "GAME_SHOW_INVITE_CODE": "显示邀请码"
 }
