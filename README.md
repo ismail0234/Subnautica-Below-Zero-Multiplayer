@@ -302,7 +302,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 
 ### How can I play this mod?
 
-The mod is currently in alpha release. The alpha version is only available to patreon users. You can support us on patreon to access the alpha version. Support us once on patreon and you'll get access to all upcoming alpha releases. Wait for the beta if you want. The beta version will be available to all users.
+You can download the beta version at [subnauticamultiplayer.com](subnauticamultiplayer.com). For your own safety, do not download from anywhere other than "subnauticamultiplayer.com".
 
 ### How can I report bugs in the mod?
 
