@@ -5,6 +5,10 @@ An multiplayer modification for the game Subnautica BZ.
 ## Source Code Information
 
 The source code in this repository is shared to help you understand how Subnautica Below Zero Multiplayer works and to guide you when modding other games. I don't accept any contributions, so don't send any pull requests. The source code in the repo may not contain the latest version of the mod. The mod is being developed by me only in a different repo. So I will occasionally update the public source code in this repo.
+ 
+### How can I play this mod?
+
+You can download the beta version at [subnauticamultiplayer.com](subnauticamultiplayer.com). For your own safety, do not download from anywhere other than "subnauticamultiplayer.com".
 
 [![Discord](https://img.shields.io/discord/994133148046725160?logo=discord&logoColor=white)](https://discord.gg/Gq9nush6SP)
 [![Crowdin](https://badges.crowdin.net/subnautica-bz-multiplayer-mod/localized.svg)](https://crowdin.com/project/subnautica-bz-multiplayer-mod)
@@ -298,11 +302,6 @@ You can contribute to us to translate the mod into other languages. You can get 
 	- [x] SpyPenguin
 - [x] PDA Beacons Synchronization
 - [x] Base Hull Strength Synchronization
- 
-
-### How can I play this mod?
-
-You can download the beta version at [subnauticamultiplayer.com](subnauticamultiplayer.com). For your own safety, do not download from anywhere other than "subnauticamultiplayer.com".
 
 ### How can I report bugs in the mod?
 
