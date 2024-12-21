@@ -21,7 +21,6 @@ body:
       options:
         - Steam
         - Epic Games
-        - Xbox Game Pass
         - Other
     validations:
       required: true
@@ -43,7 +42,7 @@ body:
         2. Click on '...'
         3. See error
     validations:
-      required: false
+      required: true
   - type: textarea
     id: log-files
     attributes:
@@ -51,7 +50,7 @@ body:
       description: Attach the log files or explain how to retrieve them.
       placeholder: Drag and drop log files here or provide the details.
     validations:
-      required: false
+      required: true
   - type: textarea
     id: screenshots
     attributes:
