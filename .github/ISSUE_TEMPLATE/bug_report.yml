@@ -1,0 +1,69 @@
+name: Bug Report
+description: Report issues to help us improve.
+title: "[Bug]: "
+labels: ["bug"]
+assignees: ["ismail0234"]
+
+body:
+  - type: input
+    id: launcher-version
+    attributes:
+      label: Launcher Version
+      description: Which version of the launcher are you using? (e.g., v6.6.6)
+      placeholder: Enter the version number.
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      description: Which platform are you playing the game on?
+      options:
+        - Steam
+        - Epic Games
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: problem-description
+    attributes:
+      label: Describe the Problem
+      description: Provide a detailed description of the issue.
+      placeholder: A clear and concise description of what the bug is.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction-steps
+    attributes:
+      label: Steps to Reproduce
+      description: List the steps to reproduce the bug.
+      placeholder: |
+        1. Go to '...'
+        2. Click on '...'
+        3. See error
+    validations:
+      required: true
+  - type: textarea
+    id: log-files
+    attributes:
+      label: Log Files
+      description: Attach the log files or explain how to retrieve them.
+      placeholder: Drag and drop log files here or provide the details.
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Attach screenshots to illustrate the issue.
+      placeholder: Drag and drop screenshots here or provide a link.
+    validations:
+      required: false
+  - type: textarea
+    id: video-records
+    attributes:
+      label: Video Records
+      description: Attach video recordings (if available).
+      placeholder: Drag and drop videos here or provide a link.
+    validations:
+      required: false
