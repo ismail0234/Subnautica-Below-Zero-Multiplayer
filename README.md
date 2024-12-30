@@ -1,14 +1,14 @@
 # Subnautica Below Zero Multiplayer
 
-An multiplayer modification for the game Subnautica BZ. 
+An multiplayer modification for the game Subnautica BZ.
 
 ## Source Code Information
 
 The source code in this repository is shared to help you understand how Subnautica Below Zero Multiplayer works and to guide you when modding other games. I don't accept any contributions, so don't send any pull requests. The source code in the repo may not contain the latest version of the mod. The mod is being developed by me only in a different repo. So I will occasionally update the public source code in this repo.
- 
+
 ### How can I play this mod?
 
-You can download the beta version at [subnauticamultiplayer.com](subnauticamultiplayer.com). For your own safety, do not download from anywhere other than "subnauticamultiplayer.com".
+You can download the beta version at [subnauticamultiplayer.com](https://subnauticamultiplayer.com). For your own safety, do not download from anywhere other than "subnauticamultiplayer.com".
 
 [![Discord](https://img.shields.io/discord/994133148046725160?logo=discord&logoColor=white)](https://discord.gg/Gq9nush6SP)
 [![Crowdin](https://badges.crowdin.net/subnautica-bz-multiplayer-mod/localized.svg)](https://crowdin.com/project/subnautica-bz-multiplayer-mod)
@@ -16,6 +16,7 @@ You can download the beta version at [subnauticamultiplayer.com](subnauticamulti
 [Website](https://subnauticamultiplayer.com/) | [Discord](https://discord.gg/Gq9nush6SP) | [Translation](https://crowdin.com/project/subnautica-bz-multiplayer-mod) | [Credits](https://subnauticamultiplayer.com/credits)
 
 ### Translations
+
 You can contribute to us to translate the mod into other languages. You can get started at [here.](https://crowdin.com/project/subnautica-bz-multiplayer-mod/)
 
 1. Open the Crowdin page.
@@ -51,7 +52,6 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Swedish               |   sv-SE   | [sv-SE.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/sv-SE) |
 | Spanish               |   es-ES   | [es-ES.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/es-ES) |
 | Serbian (Latin)       |   sr-CS   | [sr-CS.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/sr-CS) |
- 
 
 ## Subnautica BZ Multiplayer To-Do List (%89.86 Completed)
 
@@ -78,7 +78,8 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] BaseMoonpool
 - [x] BaseMapRoom
 - [x] BaseMoonpoolExpansion
-</details> 
+
+</details>
 
 <details>
   <summary>Furniture Construction Synchronization (52/53)</summary>
@@ -86,7 +87,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] BarTable
 - [x] ExecutiveDesk
 - [x] SingleWallShelf
-- [x] WallShelves	
+- [x] WallShelves
 - [x] StarshipDesk
 - [x] LabCounter
 - [x] VendingMachine
@@ -95,11 +96,11 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] EmmanuelPendulum
 - [x] Shower
 - [x] Sink
-- [x] SmallStove	
+- [x] SmallStove
 - [x] Sign
 - [x] BaseLadder
 - [x] BasePlanter
-- [x] PictureFrame	
+- [x] PictureFrame
 - [x] Jukebox
 - [x] Speaker
 - [x] Trashcans
@@ -136,6 +137,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] Hoverpad
 - [x] BaseUpgradeConsole
 - [ ] ~~BaseWaterPark~~ (This furniture will be completed in the beta version)
+
 </details>
 
 <details>
@@ -165,6 +167,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] MetalDetector
 - [ ] ~~PropulsionCannon~~ (This item will be completed in the beta version)
 - [ ] ~~Gravsphere~~ (This item will be completed in the beta version)
+
 </details>
 
 <details>
@@ -175,13 +178,13 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] PDA
 - [x] JukeboxDisks
 - [x] Static Items
-	- [x] ScrapMetal
-	- [x] Water
-	- [x] DisinfectedWater
-	- [x] Flare
-	- [x] NutrientBlock
-	- [x] FirstAidKit
-	- [x] CopperWire
+  - [x] ScrapMetal
+  - [x] Water
+  - [x] DisinfectedWater
+  - [x] Flare
+  - [x] NutrientBlock
+  - [x] FirstAidKit
+  - [x] CopperWire
 - [x] OxygenPlant
 - [x] SupplyCrate
 - [x] BlueprintHandTarget
@@ -190,25 +193,26 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] Dynamic Items (Limestone/Kyanit/etc..)
 - [x] PhaseGate
 - [x] Plants
-	- [x] GenericRibbon
-	- [x] PurpleStalk
-	- [x] TwistyBridgesMushroom
-	- [x] RedBush
-	- [x] DeepLilyShroom
-	- [x] LilyPadResource
-	- [x] Creepvine
-	- [x] KelpRootPustule
-	- [x] Spotted Dockleaf
-	- [x] Hardy Cave Bush
-	- [x] FruitPlant
-	- [x] Marblemelon Plant
-	- [x] Chinese Potato Plant
-	- [x] Horseshoe Shrub
-	- [x] Antennae Plant
-	- [x] Preston's Plant
-	- [x] IceFruitPlant
-	- [x] CreepvineSeedCluster
-	- [x] Brinicle
+  - [x] GenericRibbon
+  - [x] PurpleStalk
+  - [x] TwistyBridgesMushroom
+  - [x] RedBush
+  - [x] DeepLilyShroom
+  - [x] LilyPadResource
+  - [x] Creepvine
+  - [x] KelpRootPustule
+  - [x] Spotted Dockleaf
+  - [x] Hardy Cave Bush
+  - [x] FruitPlant
+  - [x] Marblemelon Plant
+  - [x] Chinese Potato Plant
+  - [x] Horseshoe Shrub
+  - [x] Antennae Plant
+  - [x] Preston's Plant
+  - [x] IceFruitPlant
+  - [x] CreepvineSeedCluster
+  - [x] Brinicle
+
 </details>
 
 <details>
@@ -247,6 +251,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [ ] SnowStalkerBaby
 - [ ] DiscusFish
 - [ ] IceWorm
+
 </details>
 
 <details>
@@ -267,6 +272,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] BuildAlan
 - [x] FrozenCreature
 - [x] EndGame
+
 </details>
 
 - [x] Inventory Synchronization
@@ -296,18 +302,18 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] PDA Log Synchronization
 - [x] Weather Synchronization
 - [x] Vehicles (Animation etc..)
-	- [x] Snowfox
-	- [x] Prawn Suit
-	- [x] Seatruck
-	- [x] SpyPenguin
+  - [x] Snowfox
+  - [x] Prawn Suit
+  - [x] Seatruck
+  - [x] SpyPenguin
 - [x] PDA Beacons Synchronization
 - [x] Base Hull Strength Synchronization
 
 ### How can I report bugs in the mod?
 
-1. Please first note that the bug you are about to report here has not already been reported. https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/issues
+1. Please first note that the bug you are about to report here has not already been reported. <https://github.com/ismail0234/Subnautica-Below-Zero-Multiplayer/issues>
 2. If you are experiencing a synchronisation problem, please check in the to-do list whether the item/furniture you are experiencing the synchronisation problem with has been completed.
-3. Follow these steps by going to our github repo. "Issues -> Bug Report -> Get Started" 
+3. Follow these steps by going to our github repo. "Issues -> Bug Report -> Get Started"
 4. Fill in all mandatory information requested from you.
 5. Describe the bug in as much detail as possible.
 6. If you have video recordings or screenshots, please attach them. (These will make it very easy for me to solve the error).
