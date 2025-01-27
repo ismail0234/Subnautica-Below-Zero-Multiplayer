@@ -83,9 +83,9 @@
     "GAME_INVITE_CODE_EMPTY_ERROR": "초대 코드 또는 아이피 주소를 입력하세요.",
     "GAME_INVITE_CODE_OR_IP": "초대 코드 또는 아이피 주소",
     "GAME_INVITE_CODE": "초대 코드",
-    "GAME_CONNECTION_SERVER_FULL": "Server Full",
-    "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "The server version and your version do not match.",
-    "GAME_CONNECTION_ERROR_POPUP_TITLE": "Connection Error",
-    "GAME_CONNECTION_FIX_ERROR": "If your friend cannot connect to your server or you cannot connect to your friend's server. There is no other solution other than these 3 steps.\r\n\r\n1. Steam Offline Mode (Do not use Steam in offline mode)\r\n2. Any VPN Program (AvastVPN, NordVPN, etc. / Close your VPN Program and try again)\r\n3. Antivirus Problem (Disable your antivirus program and try it)\r\n\r\nImportant Note: Both parties need to check these steps.",
-    "GAME_SHOW_INVITE_CODE": "Show Invite Code"
+    "GAME_CONNECTION_SERVER_FULL": "서버가 가득 참",
+    "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "게임의 버전과 서버의 버전이 일치하지 않음.",
+    "GAME_CONNECTION_ERROR_POPUP_TITLE": "연결 오류",
+    "GAME_CONNECTION_FIX_ERROR": "만약 친구가 당신의 서버에 접속할 수 없거나 당신이 친구의 서버에 접속할 수 없는 경우, 아래 3단계 외에는 방법이 없습니다.\n\n1. 스팀 오프라인 모드 (끄고 다시 시도)\n\n2. VPN (닫고 다시 시도)\n\n3. 백신[안티바이러스] (비활성화 시키고 다시 시도)\n\n중요 사항: 양측 모두 확인해야 합니다.",
+    "GAME_SHOW_INVITE_CODE": "초대 코드 보기"
 }
