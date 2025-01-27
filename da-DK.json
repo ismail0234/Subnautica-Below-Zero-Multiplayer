@@ -36,7 +36,7 @@
     "GAME_SERVER_PLAYER_CONNECTED": "Du er nu forbundet denne server. Indlæser spilverden.",
     "GAME_ITEM_USED_ANOTHER_PLAYER": "Dette bliver brugt af en anden spiller.",
     "GAME_CONNECTION_REJECTED": "Forbindelse til serveren mislykkedes. Opdater venligst ved at genstarte starteren.",
-    "GAME_MULTIPLAYER_HOST_GAME": "Udbyd spil",
+    "GAME_MULTIPLAYER_HOST_GAME": "Start spil",
     "GAME_MULTIPLAYER_JOIN_GAME": "Tilslut Server",
     "GAME_MULTIPLAYER_CREATE_SERVER": "Lav Server",
     "GAME_SIZE_B": "Byte",
