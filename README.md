@@ -6,6 +6,10 @@ An multiplayer modification for the game Subnautica BZ.
 
 The source code in this repository is shared to help you understand how Subnautica Below Zero Multiplayer works, to guide you when modding other games, and for your reference when creating plugins. Therefore, the source code cannot be copied, sold or modified by 3rd parties. I do not accept any contributions, so do not send any pull requests. The source code in the repository may not contain the latest version of the mod. The mod is only being developed by me in a different repository. So I will occasionally update the public source code in this repo.
 
+### Issues & Support
+
+Do not create an issue for other things that are not in-game bugs. Github is not for support. If you need support, join our [discord server](https://discord.gg/Gq9nush6SP). Github is only for reporting in-game bugs. If you notice an in-game bug, report it on our github repo.
+
 ### How can I play this mod?
 
 You can download the beta version at [subnauticamultiplayer.com](https://subnauticamultiplayer.com). For your own safety, do not download from anywhere other than "subnauticamultiplayer.com".
