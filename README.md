@@ -57,7 +57,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Spanish               |   es-ES   | [es-ES.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/es-ES) |
 | Serbian (Latin)       |   sr-CS   | [sr-CS.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/sr-CS) |
 
-## Subnautica BZ Multiplayer To-Do List (%89.86 Completed)
+## Subnautica BZ Multiplayer To-Do List (%90.32 Completed)
 
 <details>
   <summary>Base Piece Construction Synchronization (20/20)</summary>
@@ -86,7 +86,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 </details>
 
 <details>
-  <summary>Furniture Construction Synchronization (52/53)</summary>
+  <summary>Furniture Construction Synchronization (53/53)</summary>
 
 - [x] BarTable
 - [x] ExecutiveDesk
@@ -140,7 +140,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] BaseBulkhead
 - [x] Hoverpad
 - [x] BaseUpgradeConsole
-- [ ] ~~BaseWaterPark~~ (This furniture will be completed in the beta version)
+- [x] BaseWaterPark
 
 </details>
 
