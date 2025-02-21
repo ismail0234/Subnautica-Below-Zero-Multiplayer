@@ -6,10 +6,10 @@ assignees: ["ismail0234"]
 
 body:
   - type: input
-    id: launcher-version
+    id: mod-version
     attributes:
-      label: Launcher Version
-      description: Which version of the launcher are you using? (e.g., v6.6.6)
+      label: Mod Version
+      description: Which version of the mod are you using? (e.g., v1.0.2)
       placeholder: Enter the version number.
     validations:
       required: true
