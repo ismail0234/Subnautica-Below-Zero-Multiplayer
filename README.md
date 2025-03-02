@@ -169,9 +169,8 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] SpyPenguin
 - [x] SpyPenguinRemote
 - [x] MetalDetector
-- [ ] ~~PropulsionCannon~~ (This item will be completed in the beta version)
-- [ ] ~~Gravsphere~~ (This item will be completed in the beta version)
-
+- [ ] PropulsionCannon
+- [ ] Gravsphere
 </details>
 
 <details>
