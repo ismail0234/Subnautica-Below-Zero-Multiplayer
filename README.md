@@ -57,7 +57,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Spanish               |   es-ES   | [es-ES.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/es-ES) |
 | Serbian (Latin)       |   sr-CS   | [sr-CS.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/sr-CS) |
 
-## Subnautica BZ Multiplayer To-Do List (%95.73 Completed)
+## Subnautica BZ Multiplayer To-Do List (%96.20 Completed)
 
 <details>
   <summary>Base Piece Construction Synchronization (20/20)</summary>
@@ -219,7 +219,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 </details>
 
 <details>
-<summary>Creature Synchronization (20/27)</summary>
+<summary>Creature Synchronization (21/27)</summary>
   
 - [x] GlowWhale
 - [x] Skyray
@@ -241,9 +241,9 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] SquidShark
 - [x] RockPuncher
 - [x] Pinnacarid
+- [x] Trivalve
 - [ ] Penguin
 - [ ] PenguinBaby
-- [ ] Trivalve
 - [ ] SeaMonkey
 - [ ] SnowStalker
 - [ ] SnowStalkerBaby
