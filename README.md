@@ -57,7 +57,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 | Spanish               |   es-ES   | [es-ES.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/es-ES) |
 | Serbian (Latin)       |   sr-CS   | [sr-CS.json](https://crowdin.com/project/subnautica-bz-multiplayer-mod/sr-CS) |
 
-## Subnautica BZ Multiplayer To-Do List (%98.09 Completed)
+## Subnautica BZ Multiplayer To-Do List (%98.57 Completed)
 
 <details>
   <summary>Base Piece Construction Synchronization (20/20)</summary>
@@ -145,7 +145,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 </details>
 
 <details>
-  <summary>Player Items Synchronization (23/24)</summary>
+  <summary>Player Items Synchronization (24/24)</summary>
   
 - [x] Scanner
 - [x] Builder
@@ -170,7 +170,7 @@ You can contribute to us to translate the mod into other languages. You can get 
 - [x] SpyPenguinRemote
 - [x] MetalDetector
 - [x] Gravsphere
-- [ ] PropulsionCannon
+- [x] PropulsionCannon
 </details>
 
 <details>
