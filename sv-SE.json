@@ -87,5 +87,11 @@
     "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "Serverns version och din version matchar inte.",
     "GAME_CONNECTION_ERROR_POPUP_TITLE": "Anslutningsfel",
     "GAME_CONNECTION_FIX_ERROR": "Om din vän inte kan ansluta till din server eller om du inte kan ansluta till din väns server så finns ingen annan lösning än dessa 3 steg.\n\n1. Steam offline-läge (Använd inte Steam i offline-läge)\n2. Alla VPN-program (AvastVPN, NordVPN, etc. / Stäng av ditt VPN-program och försök igen)\n3. Antivirusproblem (Stäng av ditt antivirusprogram och försök igen)\n\nViktigt: Båda parter måste följa dessa steg.",
-    "GAME_SHOW_INVITE_CODE": "Visa Inbjudningskod"
+    "GAME_SHOW_INVITE_CODE": "Visa Inbjudningskod",
+    "APP_PATREON_SCREEN_KEY_TXT": "Supporter Key",
+    "APP_PATREON_SCREEN_BTN_TXT": "Save Supporter Key",
+    "APP_PROCESS_SUCCESS": "Operation Successful",
+    "APP_PATREON_PROCESS_SUCCESS": "The Supporter Key has been successfully activated. You can now easily play on official servers using the invite code.",
+    "APP_PATREON_KEY_NOT_FOUND": "Supporter key is invalid.",
+    "APP_PATREON_KEY_REMOVE_SUCCESS": "Supporter Key has been successfully removed."
 }
