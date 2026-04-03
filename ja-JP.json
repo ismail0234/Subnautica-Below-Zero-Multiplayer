@@ -87,5 +87,11 @@
     "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "あなたとサーバーのバージョンが一致しません。",
     "GAME_CONNECTION_ERROR_POPUP_TITLE": "接続エラー",
     "GAME_CONNECTION_FIX_ERROR": "友達があなたのサーバーに、あるいはあなたが友達のサーバーに接続できないときは、次の3つのことが考えられます：\n\n1. Steamオンライン状況（Steamをオフラインで使わないでください）\n2. VPN（AvastVPN、NordVPNなど / VPNを閉じてからもう一度試してみてください）\n3. ウイルス対策ソフト（ウイルス対策ソフトを無効化してから試してみてください）\n\n重要：あなたと友達の双方がこれらを確認する必要があります。",
-    "GAME_SHOW_INVITE_CODE": "招待コードを表示"
+    "GAME_SHOW_INVITE_CODE": "招待コードを表示",
+    "APP_PATREON_SCREEN_KEY_TXT": "Supporter Key",
+    "APP_PATREON_SCREEN_BTN_TXT": "Save Supporter Key",
+    "APP_PROCESS_SUCCESS": "Operation Successful",
+    "APP_PATREON_PROCESS_SUCCESS": "The Supporter Key has been successfully activated. You can now easily play on official servers using the invite code.",
+    "APP_PATREON_KEY_NOT_FOUND": "Supporter key is invalid.",
+    "APP_PATREON_KEY_REMOVE_SUCCESS": "Supporter Key has been successfully removed."
 }
