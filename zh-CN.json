@@ -1,5 +1,5 @@
 {
-    "APP_BOOT_CREATE_FILES": "创建启动文件中...",
+    "APP_BOOT_CREATE_FILES": "正在创建启动文件...",
     "APP_CHECKING_VERSION": "版本检查中...",
     "APP_SERVER_NOT_CONNECTED": "无法连接到服务器。",
     "APP_SERVER_CONFIGURATION_INVALID": "服务器配置有问题。",
@@ -87,5 +87,11 @@
     "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "服务器游戏版本与您的游戏版本不一致。",
     "GAME_CONNECTION_ERROR_POPUP_TITLE": "连接错误",
     "GAME_CONNECTION_FIX_ERROR": "如果您连接不上朋友的服务器或者您的朋友连接不上您的服务器，除了检查这三项，暂无没有其他解决方案。\n1、Steam处于离线状态（不要使用离线状态）\n2、任何VPN程序（关闭VPN程序后再尝试连接）\n3、杀毒软件问题（关停杀毒软件后再尝试连接）\n重要提示：双方都要检查这几项。",
-    "GAME_SHOW_INVITE_CODE": "显示邀请码"
+    "GAME_SHOW_INVITE_CODE": "显示邀请码",
+    "APP_PATREON_SCREEN_KEY_TXT": "Supporter Key",
+    "APP_PATREON_SCREEN_BTN_TXT": "Save Supporter Key",
+    "APP_PROCESS_SUCCESS": "Operation Successful",
+    "APP_PATREON_PROCESS_SUCCESS": "The Supporter Key has been successfully activated. You can now easily play on official servers using the invite code.",
+    "APP_PATREON_KEY_NOT_FOUND": "Supporter key is invalid.",
+    "APP_PATREON_KEY_REMOVE_SUCCESS": "Supporter Key has been successfully removed."
 }
