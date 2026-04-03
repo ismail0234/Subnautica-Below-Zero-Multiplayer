@@ -88,13 +88,13 @@
     "GAME_CONNECTION_ERROR_POPUP_TITLE": "连接错误",
     "GAME_CONNECTION_FIX_ERROR": "如果您连接不上朋友的服务器或者您的朋友连接不上您的服务器，除了检查这三项，暂无没有其他解决方案。\n1、Steam处于离线状态（不要使用离线状态）\n2、任何VPN程序（关闭VPN程序后再尝试连接）\n3、杀毒软件问题（关停杀毒软件后再尝试连接）\n重要提示：双方都要检查这几项。",
     "GAME_SHOW_INVITE_CODE": "显示邀请码",
-    "APP_PATREON_SCREEN_KEY_TXT": "Supporter Key",
-    "APP_PATREON_SCREEN_BTN_TXT": "Save Supporter Key",
-    "APP_PROCESS_SUCCESS": "Operation Successful",
-    "APP_PATREON_PROCESS_SUCCESS": "The Supporter Key has been successfully activated. You can now easily play on official servers using the invite code.",
-    "APP_PATREON_KEY_NOT_FOUND": "Supporter key is invalid.",
-    "APP_PATREON_KEY_REMOVE_SUCCESS": "Supporter Key has been successfully removed.",
-    "APP_PATREON_SCREEN_INF_TXT": "Supporter Key enables the invite code system, allowing you to play with your friends much more easily without having to use third-party programs like Hamachi.\r\nWhen you create a server, you can easily start playing by sharing the 6-digit invite code with your friend.\r\nIf you don't have a Supporter Key, you'll need to use programs like Hamachi.",
-    "APP_PATREON_HOW_TO_GET_KEY": "How can I get a Supporter Key?",
-    "APP_HEADER_PATREON": "Support Key"
+    "APP_PATREON_SCREEN_KEY_TXT": "支持者密钥",
+    "APP_PATREON_SCREEN_BTN_TXT": "保存支持者密钥",
+    "APP_PROCESS_SUCCESS": "操作成功",
+    "APP_PATREON_PROCESS_SUCCESS": "支持者密钥已成功激活。现在，您可以使用邀请码轻松在官方服务器上游戏。",
+    "APP_PATREON_KEY_NOT_FOUND": "支持者密钥无效。",
+    "APP_PATREON_KEY_REMOVE_SUCCESS": "支持者密钥已成功移除。",
+    "APP_PATREON_SCREEN_INF_TXT": "支持者密钥可启用邀请码系统，让您无需使用Hamachi等第三方程序，就能更轻松地与朋友一起游戏。\n创建服务器后，只需将6位数的邀请码分享给朋友，即可轻松开始游戏。\n如果您没有支持者密钥，则需要使用Hamachi等程序。",
+    "APP_PATREON_HOW_TO_GET_KEY": "如何获取支持者密钥？",
+    "APP_HEADER_PATREON": "支持者密钥"
 }
