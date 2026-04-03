@@ -87,5 +87,11 @@
     "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "Wersja serwera i wersja użytkownika nie są zgodne.",
     "GAME_CONNECTION_ERROR_POPUP_TITLE": "Błąd połączenia",
     "GAME_CONNECTION_FIX_ERROR": "Jeśli Twój znajomy nie może połączyć się z Twoim serwerem lub Ty nie możesz połączyć się z serwerem znajomego. Nie ma innego rozwiązania niż te 3 kroki.\n\n1. Tryb offline Steam (nie używaj Steam w trybie offline)\n2. Dowolny program VPN (AvastVPN, NordVPN itp. / Zamknij program VPN i spróbuj ponownie)\n3. Problem z programem antywirusowym (wyłącz program antywirusowy i spróbuj)\n\nWażna uwaga: Obie strony muszą sprawdzić te kroki.",
-    "GAME_SHOW_INVITE_CODE": "Pokaż kod zaproszenia"
+    "GAME_SHOW_INVITE_CODE": "Pokaż kod zaproszenia",
+    "APP_PATREON_SCREEN_KEY_TXT": "Supporter Key",
+    "APP_PATREON_SCREEN_BTN_TXT": "Save Supporter Key",
+    "APP_PROCESS_SUCCESS": "Operation Successful",
+    "APP_PATREON_PROCESS_SUCCESS": "The Supporter Key has been successfully activated. You can now easily play on official servers using the invite code.",
+    "APP_PATREON_KEY_NOT_FOUND": "Supporter key is invalid.",
+    "APP_PATREON_KEY_REMOVE_SUCCESS": "Supporter Key has been successfully removed."
 }
