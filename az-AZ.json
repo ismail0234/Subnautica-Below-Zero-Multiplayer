@@ -87,5 +87,11 @@
     "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "Server versiyası və sizin versiya uyğun gəlmir.",
     "GAME_CONNECTION_ERROR_POPUP_TITLE": "Bağlantı xətası",
     "GAME_CONNECTION_FIX_ERROR": "Dostunuz serverinizə qoşula bilmirsə və ya siz dostunuzun serverinə qoşula bilmirsinizsə. Bu 3 addımdan başqa həll yolu yoxdur.\n\n1. Steam Offline Mode (Steam-dən oflayn rejimdə istifadə etməyin)\n2. İstənilən VPN Proqramı (AvastVPN, NordVPN və s. / VPN Proqramınızı bağlayın və yenidən cəhd edin)\n3. Antivirus problemi (Antivirus proqramınızı deaktiv edin və cəhd edin)\n\nVacib qeyd: Hər iki tərəf bu addımları yoxlamalıdır.",
-    "GAME_SHOW_INVITE_CODE": "Dəvət Kodunu göstərin"
+    "GAME_SHOW_INVITE_CODE": "Dəvət Kodunu göstərin",
+    "APP_PATREON_SCREEN_KEY_TXT": "Supporter Key",
+    "APP_PATREON_SCREEN_BTN_TXT": "Save Supporter Key",
+    "APP_PROCESS_SUCCESS": "Operation Successful",
+    "APP_PATREON_PROCESS_SUCCESS": "The Supporter Key has been successfully activated. You can now easily play on official servers using the invite code.",
+    "APP_PATREON_KEY_NOT_FOUND": "Supporter key is invalid.",
+    "APP_PATREON_KEY_REMOVE_SUCCESS": "Supporter Key has been successfully removed."
 }
