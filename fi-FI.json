@@ -87,5 +87,11 @@
     "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "Palvelimen versio ja sinun versiosi eivät täsmää.",
     "GAME_CONNECTION_ERROR_POPUP_TITLE": "Yhteysvirhe",
     "GAME_CONNECTION_FIX_ERROR": "Jos ystäväsi ei voi muodostaa yhteyttä palvelimeesi tai et voi muodostaa yhteyttä ystäväsi palvelimeen. Ei ole muuta ratkaisua kuin nämä 3 vaihetta.\r\n\r\n1. Steam Offline-tila (Älä käytä Steamia offline-tilassa)\r\n2. Mikä tahansa VPN-ohjelma (AvastVPN, NordVPN jne. / Sulje VPN-ohjelma ja yritä uudelleen)\r\n3. Virustorjuntaohjelman ongelma (Poista virustorjuntaohjelma käytöstä ja yritä)\r\n\r\nTärkeä huomautus: Molempien osapuolten on tarkistettava nämä vaiheet.",
-    "GAME_SHOW_INVITE_CODE": "Näytä kutsukoodi"
+    "GAME_SHOW_INVITE_CODE": "Näytä kutsukoodi",
+    "APP_PATREON_SCREEN_KEY_TXT": "Supporter Key",
+    "APP_PATREON_SCREEN_BTN_TXT": "Save Supporter Key",
+    "APP_PROCESS_SUCCESS": "Operation Successful",
+    "APP_PATREON_PROCESS_SUCCESS": "The Supporter Key has been successfully activated. You can now easily play on official servers using the invite code.",
+    "APP_PATREON_KEY_NOT_FOUND": "Supporter key is invalid.",
+    "APP_PATREON_KEY_REMOVE_SUCCESS": "Supporter Key has been successfully removed."
 }
