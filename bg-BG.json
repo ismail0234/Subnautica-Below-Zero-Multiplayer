@@ -88,13 +88,13 @@
     "GAME_CONNECTION_ERROR_POPUP_TITLE": "Грешка при свързване",
     "GAME_CONNECTION_FIX_ERROR": "Ако вашият приятел не може да се свърже с вашия сървър или вие не можете да се свържете със сървъра на вашия приятел. Няма друго решение освен тези 3 стъпки.\r\n\r\n1. Steam офлайн режим (Не използвайте Steam в офлайн режим)\r\n2. Всяка VPN програма (AvastVPN, NordVPN и т.н. / Затворете вашата VPN програма и опитайте отново)\r\n3. Проблем с антивирусната програма (Деактивирайте антивирусната си програма и опитайте)\r\n\r\nВажна забележка: И двете страни трябва да проверят тези стъпки.",
     "GAME_SHOW_INVITE_CODE": "Покажи код за покана",
-    "APP_PATREON_SCREEN_KEY_TXT": "Supporter Key",
-    "APP_PATREON_SCREEN_BTN_TXT": "Save Supporter Key",
-    "APP_PROCESS_SUCCESS": "Operation Successful",
-    "APP_PATREON_PROCESS_SUCCESS": "The Supporter Key has been successfully activated. You can now easily play on official servers using the invite code.",
-    "APP_PATREON_KEY_NOT_FOUND": "Supporter key is invalid.",
-    "APP_PATREON_KEY_REMOVE_SUCCESS": "Supporter Key has been successfully removed.",
-    "APP_PATREON_SCREEN_INF_TXT": "Supporter Key enables the invite code system, allowing you to play with your friends much more easily without having to use third-party programs like Hamachi.\r\nWhen you create a server, you can easily start playing by sharing the 6-digit invite code with your friend.\r\nIf you don't have a Supporter Key, you'll need to use programs like Hamachi.",
-    "APP_PATREON_HOW_TO_GET_KEY": "How can I get a Supporter Key?",
-    "APP_HEADER_PATREON": "Support Key"
+    "APP_PATREON_SCREEN_KEY_TXT": "Ключ за поддръжници",
+    "APP_PATREON_SCREEN_BTN_TXT": "Запази ключа на поддръжника",
+    "APP_PROCESS_SUCCESS": "Операцията е успешна",
+    "APP_PATREON_PROCESS_SUCCESS": "Ключът за поддръжници беше успешно активиран. Вече можете лесно да играете на официалните сървъри, като използвате кода за покана.",
+    "APP_PATREON_KEY_NOT_FOUND": "Ключът на поддръжника е невалиден.",
+    "APP_PATREON_KEY_REMOVE_SUCCESS": "Ключът за поддръжници беше успешно премахнат.",
+    "APP_PATREON_SCREEN_INF_TXT": "Ключът за поддръжници активира системата с кодове за покани, което ви позволява да играете с приятелите си много по-лесно, без да се налага да използвате програми на трети страни като Hamachi.\nКогато създадете сървър, можете лесно да започнете да играете, като споделите 6-цифрения код за покана с приятеля си.\nАко нямате ключ за поддръжници, ще трябва да използвате програми като Hamachi.",
+    "APP_PATREON_HOW_TO_GET_KEY": "Как мога да получа ключ за поддръжник?",
+    "APP_HEADER_PATREON": "Ключ за поддръжници"
 }
