@@ -87,5 +87,11 @@
     "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "Verzia servera a vaša verzia sa nezhodujú.",
     "GAME_CONNECTION_ERROR_POPUP_TITLE": "Chyba pripojenia",
     "GAME_CONNECTION_FIX_ERROR": "Ak sa váš priateľ nemôže pripojiť k vášmu serveru alebo sa nemôžete pripojiť k serveru vášho priateľa. Neexistuje žiadne iné riešenie okrem týchto 3 krokov. \n\n1. Režim Steam Offline (Nepoužívajte Steam v režime offline) \n2. Akýkoľvek program VPN (AvastVPN, NordVPN atď. / Zatvorte program VPN a skúste to znova) \n3. Problém s antivírusom (vypnite antivírusový program a vyskúšajte ho) Dôležitá poznámka: Obe strany musia tieto kroky skontrolovať.",
-    "GAME_SHOW_INVITE_CODE": "Zobraziť pozývací kód"
+    "GAME_SHOW_INVITE_CODE": "Zobraziť pozývací kód",
+    "APP_PATREON_SCREEN_KEY_TXT": "Supporter Key",
+    "APP_PATREON_SCREEN_BTN_TXT": "Save Supporter Key",
+    "APP_PROCESS_SUCCESS": "Operation Successful",
+    "APP_PATREON_PROCESS_SUCCESS": "The Supporter Key has been successfully activated. You can now easily play on official servers using the invite code.",
+    "APP_PATREON_KEY_NOT_FOUND": "Supporter key is invalid.",
+    "APP_PATREON_KEY_REMOVE_SUCCESS": "Supporter Key has been successfully removed."
 }
