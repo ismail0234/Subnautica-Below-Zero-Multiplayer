@@ -90,8 +90,11 @@
     "GAME_SHOW_INVITE_CODE": "Показать код приглашения",
     "APP_PATREON_SCREEN_KEY_TXT": "Supporter Key",
     "APP_PATREON_SCREEN_BTN_TXT": "Save Supporter Key",
-    "APP_PROCESS_SUCCESS": "Operation Successful",
+    "APP_PROCESS_SUCCESS": "Операция успешно выполнена",
     "APP_PATREON_PROCESS_SUCCESS": "The Supporter Key has been successfully activated. You can now easily play on official servers using the invite code.",
     "APP_PATREON_KEY_NOT_FOUND": "Supporter key is invalid.",
-    "APP_PATREON_KEY_REMOVE_SUCCESS": "Supporter Key has been successfully removed."
+    "APP_PATREON_KEY_REMOVE_SUCCESS": "Supporter Key has been successfully removed.",
+    "APP_PATREON_SCREEN_INF_TXT": "Supporter Key enables the invite code system, allowing you to play with your friends much more easily without having to use third-party programs like Hamachi.\r\nWhen you create a server, you can easily start playing by sharing the 6-digit invite code with your friend.\r\nIf you don't have a Supporter Key, you'll need to use programs like Hamachi.",
+    "APP_PATREON_HOW_TO_GET_KEY": "How can I get a Supporter Key?",
+    "APP_HEADER_PATREON": "Support Key"
 }
