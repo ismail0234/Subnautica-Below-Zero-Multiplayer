@@ -87,5 +87,11 @@
     "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "게임의 버전과 서버의 버전이 일치하지 않음.",
     "GAME_CONNECTION_ERROR_POPUP_TITLE": "연결 오류",
     "GAME_CONNECTION_FIX_ERROR": "친구가 서버에 연결할 수 없거나 친구의 서버에 연결할 수 없는 경우. 이 3개의 방법들 외에는 다른 해결책이 없습니다.\n\n1. 스팀 오프라인 모드 (오프라인 모드에서 스팀 사용 금지)\n2. 모든 VPN 프로그램 (AvastVPN, NordVPN, 등. / VPN 프로그램을 종료하고 다시 시도하세요)\n3. 안티바이러스 문제 (안티바이러스 프로그램을 비활성화하고 시도해 보세요)\n\n중요한 참고 사항: 양측 모두 이 단계를 확인해야 합니다.",
-    "GAME_SHOW_INVITE_CODE": "초대 코드 보기"
+    "GAME_SHOW_INVITE_CODE": "초대 코드 보기",
+    "APP_PATREON_SCREEN_KEY_TXT": "Supporter Key",
+    "APP_PATREON_SCREEN_BTN_TXT": "Save Supporter Key",
+    "APP_PROCESS_SUCCESS": "Operation Successful",
+    "APP_PATREON_PROCESS_SUCCESS": "The Supporter Key has been successfully activated. You can now easily play on official servers using the invite code.",
+    "APP_PATREON_KEY_NOT_FOUND": "Supporter key is invalid.",
+    "APP_PATREON_KEY_REMOVE_SUCCESS": "Supporter Key has been successfully removed."
 }
