@@ -87,5 +87,11 @@
     "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "Útgáfa netþjónsins og þín útgáfa passa ekki saman.",
     "GAME_CONNECTION_ERROR_POPUP_TITLE": "Tengingarvilla",
     "GAME_CONNECTION_FIX_ERROR": "Ef vinur þinn getur ekki tengst netþjóninum þínum eða þú getur ekki tengst netþjóni vinar þíns. Það er engin önnur lausn en þessi 3 skref.\r\n\r\n1. Steam ótengdur hamur (Ekki nota Steam í ótengdum ham)\r\n2. Hvaða VPN forrit sem er (AvastVPN, NordVPN, o.s.frv. / Lokaðu VPN forritinu þínu og reyndu aftur)\r\n3. Vandamál með vírusvarnarforrit (Slökktu á vírusvarnarforritinu þínu og reyndu)\r\n\r\nMikilvæg athugasemd: Báðir aðilar þurfa að athuga þessi skref.",
-    "GAME_SHOW_INVITE_CODE": "Sýna boðskóða"
+    "GAME_SHOW_INVITE_CODE": "Sýna boðskóða",
+    "APP_PATREON_SCREEN_KEY_TXT": "Supporter Key",
+    "APP_PATREON_SCREEN_BTN_TXT": "Save Supporter Key",
+    "APP_PROCESS_SUCCESS": "Operation Successful",
+    "APP_PATREON_PROCESS_SUCCESS": "The Supporter Key has been successfully activated. You can now easily play on official servers using the invite code.",
+    "APP_PATREON_KEY_NOT_FOUND": "Supporter key is invalid.",
+    "APP_PATREON_KEY_REMOVE_SUCCESS": "Supporter Key has been successfully removed."
 }
