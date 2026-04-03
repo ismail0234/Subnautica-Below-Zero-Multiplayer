@@ -87,5 +87,11 @@
     "GAME_CONNECTION_SERVER_VERSION_MISMATCH": "Sunucu sürümü ile sizin sürümünüz eşleşmiyor.",
     "GAME_CONNECTION_ERROR_POPUP_TITLE": "Bağlantı Hatası",
     "GAME_CONNECTION_FIX_ERROR": "Eğer arkadaşınız sizin sunucunuza bağlanamıyorsa veya siz arkadaşınızın sunucusuna bağlanamıyorsanız. Bu 3 adım dışında başka bir çözüm yoktur.\n\n1. Steam Çevrimdışı Modu (Steam'i çevrimdışı modda kullanmayın)\n2. Herhangi bir VPN Programı (AvastVPN, NordVPN, vb. / VPN Programınızı kapatın ve tekrar deneyin)\n3. Antivirüs Sorunu (Antivirüs programınızı devre dışı bırakın ve deneyin)\n\nÖnemli Not: Her iki tarafın da bu adımları kontrol etmesi gerekir.",
-    "GAME_SHOW_INVITE_CODE": "Davet Kodunu Göster"
+    "GAME_SHOW_INVITE_CODE": "Davet Kodunu Göster",
+    "APP_PATREON_SCREEN_KEY_TXT": "Supporter Key",
+    "APP_PATREON_SCREEN_BTN_TXT": "Save Supporter Key",
+    "APP_PROCESS_SUCCESS": "Operation Successful",
+    "APP_PATREON_PROCESS_SUCCESS": "The Supporter Key has been successfully activated. You can now easily play on official servers using the invite code.",
+    "APP_PATREON_KEY_NOT_FOUND": "Supporter key is invalid.",
+    "APP_PATREON_KEY_REMOVE_SUCCESS": "Supporter Key has been successfully removed."
 }
