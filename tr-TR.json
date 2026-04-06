@@ -96,5 +96,8 @@
     "APP_PATREON_KEY_REMOVE_SUCCESS": "Destekleyici Anahtarı başarıyla kaldırıldı.",
     "APP_PATREON_SCREEN_INF_TXT": "Supporter Key, davet kodu sistemini etkinleştirerek Hamachi gibi üçüncü taraf programları kullanmak zorunda kalmadan arkadaşlarınızla çok daha kolay bir şekilde oynamanızı sağlar.\nBir sunucu oluşturduğunuzda, 6 haneli davet kodunu arkadaşınızla paylaşarak kolayca oynamaya başlayabilirsiniz.\nSupporter Key'iniz yoksa, Hamachi gibi programları kullanmanız gerekecektir.",
     "APP_PATREON_HOW_TO_GET_KEY": "Destekçi Anahtarını nasıl edinebilirim?",
-    "APP_HEADER_PATREON": "Destekçi Anahtarı"
+    "APP_HEADER_PATREON": "Destekçi Anahtarı",
+    "APP_PLEASE_WAIT": "LÜTFEN BEKLEYİN...",
+    "APP_PLEASE_WAIT_TIME": "LÜTFEN BEKLEYİN... ({time} saniye)",
+    "APP_DEBUG_CREATE_LOG_FILE_BTN": "HATA AYIKLAMA DOSYASINI OLUŞTUR"
 }
