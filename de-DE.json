@@ -97,7 +97,7 @@
     "APP_PATREON_SCREEN_INF_TXT": "Der Unterstützer-Schlüssel ermöglicht das Einladungscodesystem, welches dir erlaubt mit deinen Freunden viel einfacher zu spielen, ohne dass du Apps von Dritten nutzen müssen, wie Hamachi.\nWenn du einen Server erstellst, kannst du ganz einfach mit deinem Freund mitspielen, indem du den 6-stelligen Einladungscode weitergibst. Falls du keinen Unterstützer-Schlüssen hast, musst du Programme wie Hamachi nutzen.",
     "APP_PATREON_HOW_TO_GET_KEY": "Wie erhalte ich einen Unterstützer-Schlüssel?",
     "APP_HEADER_PATREON": "Unterstützer-Schlüssel",
-    "APP_PLEASE_WAIT": "PLEASE WAIT...",
-    "APP_PLEASE_WAIT_TIME": "PLEASE WAIT... ({time} SECONDS)",
-    "APP_DEBUG_CREATE_LOG_FILE_BTN": "CREATE DEBUG FILE"
+    "APP_PLEASE_WAIT": "Bitte warten...",
+    "APP_PLEASE_WAIT_TIME": "Bitte warten... ({time} Sekunden)",
+    "APP_DEBUG_CREATE_LOG_FILE_BTN": "DEBUG-DATEI ERSTELLEN"
 }
