@@ -97,7 +97,7 @@
     "APP_PATREON_SCREEN_INF_TXT": "支持者密钥可启用邀请码系统，让您无需使用Hamachi等第三方程序，就能更轻松地与朋友一起游戏。\n创建服务器后，只需将6位数的邀请码分享给朋友，即可轻松开始游戏。\n如果您没有支持者密钥，则需要使用Hamachi等程序。",
     "APP_PATREON_HOW_TO_GET_KEY": "如何获取支持者密钥？",
     "APP_HEADER_PATREON": "支持者密钥",
-    "APP_PLEASE_WAIT": "PLEASE WAIT...",
-    "APP_PLEASE_WAIT_TIME": "PLEASE WAIT... ({time} SECONDS)",
-    "APP_DEBUG_CREATE_LOG_FILE_BTN": "CREATE DEBUG FILE"
+    "APP_PLEASE_WAIT": "请稍后……",
+    "APP_PLEASE_WAIT_TIME": "请稍后...({time} 秒)",
+    "APP_DEBUG_CREATE_LOG_FILE_BTN": "创建调试文件"
 }
