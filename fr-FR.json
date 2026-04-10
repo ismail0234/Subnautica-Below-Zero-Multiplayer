@@ -97,7 +97,7 @@
     "APP_PATREON_SCREEN_INF_TXT": "La Clé de Supporteur donne accès au système d'invitation par code, vous permettant de jouer avec vos amis plus facilement sans avoir à utiliser des logiciels tiers comme Hamachi.\nLorsque vous créez un serveur, vous pouvez facilement commencer à jouer en partageant le code d'invitation à 6 chiffres à vos amis.\nSi vous n'avez pas de Clé Supporteur, vous aurez besoin d'utiliser des logiciels comme Hamachi.",
     "APP_PATREON_HOW_TO_GET_KEY": "Comment obtenir une Clé de Supporteur ?",
     "APP_HEADER_PATREON": "Clé de Supporteur",
-    "APP_PLEASE_WAIT": "PLEASE WAIT...",
-    "APP_PLEASE_WAIT_TIME": "PLEASE WAIT... ({time} SECONDS)",
-    "APP_DEBUG_CREATE_LOG_FILE_BTN": "CREATE DEBUG FILE"
+    "APP_PLEASE_WAIT": "VEUILLEZ PATIENTER...",
+    "APP_PLEASE_WAIT_TIME": "VEUILLEZ PATIENTER... ({time} SECONDES)",
+    "APP_DEBUG_CREATE_LOG_FILE_BTN": "CRÉER UN FICHIER DE DÉBOGAGE"
 }
