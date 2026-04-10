@@ -97,7 +97,7 @@
     "APP_PATREON_SCREEN_INF_TXT": "Supporter Key dəvət kodu sistemini aktivləşdirir, bu da Hamachi kimi üçüncü tərəf proqramlarından istifadə etmədən dostlarınızla daha asan oynamağa imkan verir.\nServer yaratdıqda, 6 rəqəmli dəvət kodunu dostunuzla paylaşaraq asanlıqla oynamağa başlaya bilərsiniz.\nƏgər Supporter Key-iniz yoxdursa, Hamachi kimi proqramlardan istifadə etməlisiniz.",
     "APP_PATREON_HOW_TO_GET_KEY": "Dəstəkçi Açarını necə əldə edə bilərəm?",
     "APP_HEADER_PATREON": "Dəstəkçi açarı",
-    "APP_PLEASE_WAIT": "PLEASE WAIT...",
-    "APP_PLEASE_WAIT_TIME": "PLEASE WAIT... ({time} SECONDS)",
-    "APP_DEBUG_CREATE_LOG_FILE_BTN": "CREATE DEBUG FILE"
+    "APP_PLEASE_WAIT": "Zəhmət olmasa gözləyin...",
+    "APP_PLEASE_WAIT_TIME": "ZƏHMLƏSİNİZ GÖZLƏYİN... ({time} SANİYYƏ)",
+    "APP_DEBUG_CREATE_LOG_FILE_BTN": "Səhvləri qeyd edən fayl yaradın"
 }
