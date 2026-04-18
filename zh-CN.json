@@ -99,5 +99,9 @@
     "APP_HEADER_PATREON": "支持者密钥",
     "APP_PLEASE_WAIT": "请稍后……",
     "APP_PLEASE_WAIT_TIME": "请稍后...({time} 秒)",
-    "APP_DEBUG_CREATE_LOG_FILE_BTN": "创建调试文件"
+    "APP_DEBUG_CREATE_LOG_FILE_BTN": "创建调试文件",
+    "APP_PLUGIN_SEARCH_TXT": "Search Plugin...",
+    "APP_PLUGIN_DOWNLOADS": "Downloads",
+    "APP_PLUGIN_AUTHOR": "Author",
+    "APP_PLUGIN_INSTALL": "Install"
 }
