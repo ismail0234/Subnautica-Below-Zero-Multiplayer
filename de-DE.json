@@ -99,5 +99,9 @@
     "APP_HEADER_PATREON": "Unterstützer-Schlüssel",
     "APP_PLEASE_WAIT": "Bitte warten...",
     "APP_PLEASE_WAIT_TIME": "Bitte warten... ({time} Sekunden)",
-    "APP_DEBUG_CREATE_LOG_FILE_BTN": "DEBUG-DATEI ERSTELLEN"
+    "APP_DEBUG_CREATE_LOG_FILE_BTN": "DEBUG-DATEI ERSTELLEN",
+    "APP_PLUGIN_SEARCH_TXT": "Search Plugin...",
+    "APP_PLUGIN_DOWNLOADS": "Downloads",
+    "APP_PLUGIN_AUTHOR": "Author",
+    "APP_PLUGIN_INSTALL": "Install"
 }
