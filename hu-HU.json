@@ -99,5 +99,9 @@
     "APP_HEADER_PATREON": "Támogatói kulcs",
     "APP_PLEASE_WAIT": "Kérlek Várj...",
     "APP_PLEASE_WAIT_TIME": "Kérlek várj... ({time} másodpercet.)",
-    "APP_DEBUG_CREATE_LOG_FILE_BTN": "HIBANYOMKÖVETŐ FÁJL LÉTREHOZÁSA"
+    "APP_DEBUG_CREATE_LOG_FILE_BTN": "HIBANYOMKÖVETŐ FÁJL LÉTREHOZÁSA",
+    "APP_PLUGIN_SEARCH_TXT": "Search Plugin...",
+    "APP_PLUGIN_DOWNLOADS": "Downloads",
+    "APP_PLUGIN_AUTHOR": "Author",
+    "APP_PLUGIN_INSTALL": "Install"
 }
