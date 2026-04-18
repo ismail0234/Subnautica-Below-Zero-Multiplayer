@@ -99,5 +99,9 @@
     "APP_HEADER_PATREON": "Ключ за поддръжници",
     "APP_PLEASE_WAIT": "МОЛЯ, ИЗЧАКАЙТЕ...",
     "APP_PLEASE_WAIT_TIME": "МОЛЯ, ИЗЧАКАЙТЕ... ({time} секунди)",
-    "APP_DEBUG_CREATE_LOG_FILE_BTN": "СЪЗДАЙ ФАЙЛ ЗА ОТЛАДКА"
+    "APP_DEBUG_CREATE_LOG_FILE_BTN": "СЪЗДАЙ ФАЙЛ ЗА ОТЛАДКА",
+    "APP_PLUGIN_SEARCH_TXT": "Search Plugin...",
+    "APP_PLUGIN_DOWNLOADS": "Downloads",
+    "APP_PLUGIN_AUTHOR": "Author",
+    "APP_PLUGIN_INSTALL": "Install"
 }
