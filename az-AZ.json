@@ -99,5 +99,9 @@
     "APP_HEADER_PATREON": "Dəstəkçi açarı",
     "APP_PLEASE_WAIT": "Zəhmət olmasa gözləyin...",
     "APP_PLEASE_WAIT_TIME": "ZƏHMLƏSİNİZ GÖZLƏYİN... ({time} SANİYYƏ)",
-    "APP_DEBUG_CREATE_LOG_FILE_BTN": "Səhvləri qeyd edən fayl yaradın"
+    "APP_DEBUG_CREATE_LOG_FILE_BTN": "Səhvləri qeyd edən fayl yaradın",
+    "APP_PLUGIN_SEARCH_TXT": "Search Plugin...",
+    "APP_PLUGIN_DOWNLOADS": "Downloads",
+    "APP_PLUGIN_AUTHOR": "Author",
+    "APP_PLUGIN_INSTALL": "Install"
 }
