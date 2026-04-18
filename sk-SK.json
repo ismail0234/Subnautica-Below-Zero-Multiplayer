@@ -103,5 +103,8 @@
     "APP_PLUGIN_SEARCH_TXT": "Search Plugin...",
     "APP_PLUGIN_DOWNLOADS": "Downloads",
     "APP_PLUGIN_AUTHOR": "Author",
-    "APP_PLUGIN_INSTALL": "Install"
+    "APP_PLUGIN_INSTALL": "Install",
+    "APP_PLUGIN_INSTALLING": "Installing...",
+    "APP_PLUGIN_NOT_INSTALLED": "Not Installed",
+    "APP_PLUGIN_INSTALLED": "Installed"
 }
