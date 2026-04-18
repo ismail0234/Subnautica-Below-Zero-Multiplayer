@@ -99,5 +99,9 @@
     "APP_HEADER_PATREON": "Clave de colaborador",
     "APP_PLEASE_WAIT": "Por favor espera...",
     "APP_PLEASE_WAIT_TIME": "Por favor espera... ({time} segundos)",
-    "APP_DEBUG_CREATE_LOG_FILE_BTN": "Crea archivo de depuración"
+    "APP_DEBUG_CREATE_LOG_FILE_BTN": "Crea archivo de depuración",
+    "APP_PLUGIN_SEARCH_TXT": "Search Plugin...",
+    "APP_PLUGIN_DOWNLOADS": "Downloads",
+    "APP_PLUGIN_AUTHOR": "Author",
+    "APP_PLUGIN_INSTALL": "Install"
 }
