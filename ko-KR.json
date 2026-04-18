@@ -99,5 +99,9 @@
     "APP_HEADER_PATREON": "서포터 키",
     "APP_PLEASE_WAIT": "잠시만 기다려 주세요...",
     "APP_PLEASE_WAIT_TIME": "잠시만 기다려 주세요... ({time} 초)",
-    "APP_DEBUG_CREATE_LOG_FILE_BTN": "디버그 파일 생성"
+    "APP_DEBUG_CREATE_LOG_FILE_BTN": "디버그 파일 생성",
+    "APP_PLUGIN_SEARCH_TXT": "Search Plugin...",
+    "APP_PLUGIN_DOWNLOADS": "Downloads",
+    "APP_PLUGIN_AUTHOR": "Author",
+    "APP_PLUGIN_INSTALL": "Install"
 }
