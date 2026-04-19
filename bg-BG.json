@@ -1,9 +1,7 @@
 {
     "APP_BOOT_CREATE_FILES": "Създаване на файлове за стартиране...",
     "APP_CHECKING_VERSION": "Проверка на версията...",
-    "APP_SERVER_NOT_CONNECTED": "Не може да се свърже със сървъра.",
     "APP_SERVER_CONFIGURATION_INVALID": "Има проблем с конфигурацията на сървъра.",
-    "APP_SERVER_CHECKING_UDPATE_ERR": "Възникна проблем при проверката на версията.",
     "APP_DOWNLOAD_ERROR_FILE": "Обработката на актуализацията на приложението се провали. Можете да се присъедините към нашия дискорд сървър за поддръжка, https://discord.gg/Gq9nush6SP",
     "APP_FILE_READING": "Четене на файла на приложението...",
     "APP_FILE_ERROR": "Неуспешно четене на файла на приложението.",
@@ -108,5 +106,7 @@
     "APP_PLUGIN_INSTALLED": "Installed",
     "APP_PLUGIN_UNINSTALL": "Uninstall",
     "APP_PLUGIN_PLEASE_WAIT": "Please Wait...",
-    "APP_PLUGIN_INFO_COUNT": "{amount} plugins found."
+    "APP_PLUGIN_INFO_COUNT": "{amount} plugins found.",
+    "APP_SERVER_CONNECTION_FAIL": "The operation could not be completed. A connection to the server could not be established. Your antivirus software, your ISP, or a program on your computer is blocking the connection.",
+    "APP_PROCESS_FAIL_DETAIL": "The operation could not be completed. Your antivirus software or another program on your computer is blocking the operation."
 }
