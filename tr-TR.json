@@ -106,5 +106,6 @@
     "APP_PLUGIN_INSTALL": "Yükle",
     "APP_PLUGIN_INSTALLING": "Kuruluyor...",
     "APP_PLUGIN_NOT_INSTALLED": "Kurulmadı",
-    "APP_PLUGIN_INSTALLED": "Kuruldu"
+    "APP_PLUGIN_INSTALLED": "Kuruldu",
+    "APP_PLUGIN_UNINSTALL": "Kaldır"
 }
