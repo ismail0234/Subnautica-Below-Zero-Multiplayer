@@ -1,9 +1,7 @@
 {
     "APP_BOOT_CREATE_FILES": "Luodaan käynnistystiedostoja...",
     "APP_CHECKING_VERSION": "Tarkistetaan versiota...",
-    "APP_SERVER_NOT_CONNECTED": "Ei pystytä liittymään palvelimelle.",
     "APP_SERVER_CONFIGURATION_INVALID": "Palvelimen konfiguraatiossa on ongelma.",
-    "APP_SERVER_CHECKING_UDPATE_ERR": "Version tarkistamisessa ilmeni ongelma.",
     "APP_DOWNLOAD_ERROR_FILE": "Applikaation päivityksen käsittely epäonnistui. Liity discord serverillemme apua varten, https://discord.gg/Gq9nush6SP",
     "APP_FILE_READING": "Luetaan applikaatiotiedostoa...",
     "APP_FILE_ERROR": "Applikaatiotiedoston lukemisessa ilmeni ongelma.",
@@ -108,5 +106,7 @@
     "APP_PLUGIN_INSTALLED": "Installed",
     "APP_PLUGIN_UNINSTALL": "Uninstall",
     "APP_PLUGIN_PLEASE_WAIT": "Please Wait...",
-    "APP_PLUGIN_INFO_COUNT": "{amount} plugins found."
+    "APP_PLUGIN_INFO_COUNT": "{amount} plugins found.",
+    "APP_SERVER_CONNECTION_FAIL": "The operation could not be completed. A connection to the server could not be established. Your antivirus software, your ISP, or a program on your computer is blocking the connection.",
+    "APP_PROCESS_FAIL_DETAIL": "The operation could not be completed. Your antivirus software or another program on your computer is blocking the operation."
 }
