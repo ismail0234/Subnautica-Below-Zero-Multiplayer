@@ -107,5 +107,6 @@
     "APP_PLUGIN_NOT_INSTALLED": "Kurulmadı",
     "APP_PLUGIN_INSTALLED": "Kuruldu",
     "APP_PLUGIN_UNINSTALL": "Kaldır",
-    "APP_PLUGIN_PLEASE_WAIT": "Lütfen Bekleyin..."
+    "APP_PLUGIN_PLEASE_WAIT": "Lütfen Bekleyin...",
+    "APP_PLUGIN_INFO_COUNT": "{amount} plugins found."
 }
