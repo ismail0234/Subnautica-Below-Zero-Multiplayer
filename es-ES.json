@@ -1,9 +1,7 @@
 {
     "APP_BOOT_CREATE_FILES": "Creando archivos de inicio...",
     "APP_CHECKING_VERSION": "Verificando versión...",
-    "APP_SERVER_NOT_CONNECTED": "No se ha podido conectar con el servidor.",
     "APP_SERVER_CONFIGURATION_INVALID": "La configuración del servidor no es válida.",
-    "APP_SERVER_CHECKING_UDPATE_ERR": "Ha ocurrido un error al comprobar la versión.",
     "APP_DOWNLOAD_ERROR_FILE": "Ha ocurrido un error en el proceso de actualización de la aplicación. Puedes entrar a nuestro discord para obtener ayuda, https://discord.gg/Gq9nush6SP",
     "APP_FILE_READING": "Leyendo archivo de aplicación...",
     "APP_FILE_ERROR": "Error al leer el archivo de aplicación.",
@@ -108,5 +106,7 @@
     "APP_PLUGIN_INSTALLED": "Installed",
     "APP_PLUGIN_UNINSTALL": "Uninstall",
     "APP_PLUGIN_PLEASE_WAIT": "Please Wait...",
-    "APP_PLUGIN_INFO_COUNT": "{amount} plugins found."
+    "APP_PLUGIN_INFO_COUNT": "{amount} plugins found.",
+    "APP_SERVER_CONNECTION_FAIL": "The operation could not be completed. A connection to the server could not be established. Your antivirus software, your ISP, or a program on your computer is blocking the connection.",
+    "APP_PROCESS_FAIL_DETAIL": "The operation could not be completed. Your antivirus software or another program on your computer is blocking the operation."
 }
