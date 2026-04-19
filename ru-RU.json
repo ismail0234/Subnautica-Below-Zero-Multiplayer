@@ -106,5 +106,6 @@
     "APP_PLUGIN_INSTALL": "Install",
     "APP_PLUGIN_INSTALLING": "Installing...",
     "APP_PLUGIN_NOT_INSTALLED": "Not Installed",
-    "APP_PLUGIN_INSTALLED": "Installed"
+    "APP_PLUGIN_INSTALLED": "Installed",
+    "APP_PLUGIN_UNINSTALL": "Uninstall"
 }
