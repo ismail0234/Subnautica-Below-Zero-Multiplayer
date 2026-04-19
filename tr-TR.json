@@ -106,9 +106,9 @@
     "APP_PLUGIN_INSTALLED": "Kuruldu",
     "APP_PLUGIN_UNINSTALL": "Kaldır",
     "APP_PLUGIN_PLEASE_WAIT": "Lütfen Bekleyin...",
-    "APP_PLUGIN_INFO_COUNT": "{amount} plugins found.",
-    "APP_SERVER_CONNECTION_FAIL": "The operation could not be completed. A connection to the server could not be established. Your antivirus software, your ISP, or a program on your computer is blocking the connection.",
-    "APP_PROCESS_FAIL_DETAIL": "The operation could not be completed. Your antivirus software or another program on your computer is blocking the operation.",
-    "APP_PLUGIN_INSTALL_GAME_OPEN_ERROR": "To install or uninstall a plugin, please close the game first. You cannot proceed with the process while the game is running.",
-    "APP_HEADER_PLUGINS": "Plugins"
+    "APP_PLUGIN_INFO_COUNT": "{amount} eklenti bulundu.",
+    "APP_SERVER_CONNECTION_FAIL": "İşlem tamamlanamadı. Sunucuya bağlantı kurulamadı. Antivirüs yazılımınız, İnternet servis sağlayıcınız veya bilgisayarınızdaki bir program bağlantıyı engelliyor.",
+    "APP_PROCESS_FAIL_DETAIL": "İşlem tamamlanamadı. Antivirüs yazılımınız veya bilgisayarınızdaki başka bir program bu işlemi engelliyor.",
+    "APP_PLUGIN_INSTALL_GAME_OPEN_ERROR": "Bir eklentiyi yüklemek veya kaldırmak için lütfen önce oyunu kapatın. Oyun çalışırken bu işlemi gerçekleştiremezsiniz.",
+    "APP_HEADER_PLUGINS": "Eklentiler"
 }
