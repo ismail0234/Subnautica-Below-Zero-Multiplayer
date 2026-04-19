@@ -1,9 +1,7 @@
 {
     "APP_BOOT_CREATE_FILES": "Vytváranie spúšťacích súborov",
     "APP_CHECKING_VERSION": "Kontrolovanie verzie...",
-    "APP_SERVER_NOT_CONNECTED": "Nemohol som sa pripojiť na server.",
     "APP_SERVER_CONFIGURATION_INVALID": "Našiel sa problém v nastavení serveru.",
-    "APP_SERVER_CHECKING_UDPATE_ERR": "Našiel sa problém pri kontrolovanie verzie.",
     "APP_DOWNLOAD_ERROR_FILE": "Spracovanie aktualizácie aplikácie zlyhalo. Môžete sa pripojiť k nášmu Discord serveru pre podporu, \nhttps://discord.gg/Gq9nush6SP",
     "APP_FILE_READING": "Číta sa súbor aplikácie.",
     "APP_FILE_ERROR": "Nepodarilo sa prečítať súbor aplikácie.",
@@ -108,5 +106,7 @@
     "APP_PLUGIN_INSTALLED": "Installed",
     "APP_PLUGIN_UNINSTALL": "Uninstall",
     "APP_PLUGIN_PLEASE_WAIT": "Please Wait...",
-    "APP_PLUGIN_INFO_COUNT": "{amount} plugins found."
+    "APP_PLUGIN_INFO_COUNT": "{amount} plugins found.",
+    "APP_SERVER_CONNECTION_FAIL": "The operation could not be completed. A connection to the server could not be established. Your antivirus software, your ISP, or a program on your computer is blocking the connection.",
+    "APP_PROCESS_FAIL_DETAIL": "The operation could not be completed. Your antivirus software or another program on your computer is blocking the operation."
 }
