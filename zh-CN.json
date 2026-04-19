@@ -1,9 +1,7 @@
 {
     "APP_BOOT_CREATE_FILES": "正在创建启动文件...",
     "APP_CHECKING_VERSION": "版本检查中...",
-    "APP_SERVER_NOT_CONNECTED": "无法连接到服务器。",
     "APP_SERVER_CONFIGURATION_INVALID": "服务器配置有问题。",
-    "APP_SERVER_CHECKING_UDPATE_ERR": "检查版本时出现问题。",
     "APP_DOWNLOAD_ERROR_FILE": "应用程序更新失败。您可以加入我们的discord服务器以获得支持，我们的discord链接是：https://discord.gg/Gq9nush6SP",
     "APP_FILE_READING": "正在读取应用程序文件...",
     "APP_FILE_ERROR": "无法读取应用程序文件。",
@@ -108,5 +106,7 @@
     "APP_PLUGIN_INSTALLED": "Installed",
     "APP_PLUGIN_UNINSTALL": "Uninstall",
     "APP_PLUGIN_PLEASE_WAIT": "Please Wait...",
-    "APP_PLUGIN_INFO_COUNT": "{amount} plugins found."
+    "APP_PLUGIN_INFO_COUNT": "{amount} plugins found.",
+    "APP_SERVER_CONNECTION_FAIL": "The operation could not be completed. A connection to the server could not be established. Your antivirus software, your ISP, or a program on your computer is blocking the connection.",
+    "APP_PROCESS_FAIL_DETAIL": "The operation could not be completed. Your antivirus software or another program on your computer is blocking the operation."
 }
