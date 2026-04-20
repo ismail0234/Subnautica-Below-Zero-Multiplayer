@@ -110,5 +110,6 @@
     "APP_SERVER_CONNECTION_FAIL": "The operation could not be completed. A connection to the server could not be established. Your antivirus software, your ISP, or a program on your computer is blocking the connection.",
     "APP_PROCESS_FAIL_DETAIL": "The operation could not be completed. Your antivirus software or another program on your computer is blocking the operation.",
     "APP_PLUGIN_INSTALL_GAME_OPEN_ERROR": "To install or uninstall a plugin, please close the game first. You cannot proceed with the process while the game is running.",
-    "APP_HEADER_PLUGINS": "Plugins"
+    "APP_HEADER_PLUGINS": "Plugins",
+    "APP_PLUGIN_ONLY_SERVER_HOST_DESCRIPTION": "This plugin becomes active when a server is created. If you are not the person who created the server, it will have no effect. Therefore, it is sufficient for only the server owners to activate it."
 }
