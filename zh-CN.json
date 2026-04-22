@@ -114,10 +114,11 @@
     "APP_PLUGIN_ONLY_SERVER_HOST_DESCRIPTION": "此插件在创建服务器时生效。如果您不是创建该服务器的人，则它不会产生任何效果。因此，仅需由服务器所有者启用即可。",
     "APP_PLUGIN_ONLY_SERVER_HOST_NAME": "服务器插件",
     "GAME_PLUGINS_LOADED": "(已加载 {amount} 个插件）",
-    "APP_PLUGIN_TIME_HOURS": "{hour} hours {minute} minutes",
-    "APP_PLUGIN_TIME_MINUTES": "{minute} minutes {second} seconds",
-    "APP_PLUGIN_TIME_DAYS": "{day} days {hour} hours",
-    "APP_PLUGIN_TIME_SECONDS": "{second} seconds",
-    "APP_PLUGIN_NOT_RELEASED": "This plugin is not yet available to the public. Please wait until the release date, or become a supporter to gain immediate access.",
-    "APP_PLUGIN_EARLY_ACCESS": "Early Access"
+    "APP_PLUGIN_TIME_HOURS": "{hour} 小时，{minute} 分钟",
+    "APP_PLUGIN_TIME_MINUTES": "{minute} 分钟 {second} 秒",
+    "APP_PLUGIN_TIME_DAYS": "{day}天 {hour}小时",
+    "APP_PLUGIN_TIME_SECONDS": "{second} 秒",
+    "APP_PLUGIN_NOT_RELEASED": "此插件尚未向公众开放。请等待发布日期，或成为支持者以立即获得访问权限。",
+    "APP_PLUGIN_EARLY_ACCESS": "抢先体验阶段",
+    "DISCORD_STATUS_SINGLEPLAYER": "单人游戏"
 }
