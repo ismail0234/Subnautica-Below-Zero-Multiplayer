@@ -113,5 +113,11 @@
     "APP_HEADER_PLUGINS": "Plugins",
     "APP_PLUGIN_ONLY_SERVER_HOST_DESCRIPTION": "Dette plugin aktiveres, når en server oprettes. Hvis du ikke er den person, der har oprettet serveren, vil det ikke have nogen effekt. Derfor er det tilstrækkeligt, at kun serverejere aktiverer det.",
     "APP_PLUGIN_ONLY_SERVER_HOST_NAME": "Server Plugin",
-    "GAME_PLUGINS_LOADED": "({amount} plugins indlæst)"
+    "GAME_PLUGINS_LOADED": "({amount} plugins indlæst)",
+    "APP_PLUGIN_TIME_HOURS": "{hour} hours {minute} minutes",
+    "APP_PLUGIN_TIME_MINUTES": "{minute} minutes {second} seconds",
+    "APP_PLUGIN_TIME_DAYS": "{day} days {hour} hours",
+    "APP_PLUGIN_TIME_SECONDS": "{second} seconds",
+    "APP_PLUGIN_EARYL_ACCESS": "Early Access",
+    "APP_PLUGIN_NOT_RELEASED": "This plugin is not yet available to the public. Please wait until the release date, or become a supporter to gain immediate access."
 }
