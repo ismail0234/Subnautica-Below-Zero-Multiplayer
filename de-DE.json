@@ -114,10 +114,11 @@
     "APP_PLUGIN_ONLY_SERVER_HOST_DESCRIPTION": "Dieses Plugin wird aktiviert, wenn ein Server erstellt wird. Wenn du nicht die Person bist, die den Server erstellt hat, hat es keine Wirkung. Daher reicht es aus, wenn nur die Serverbesitzer es aktivieren.",
     "APP_PLUGIN_ONLY_SERVER_HOST_NAME": "Server-Plugin",
     "GAME_PLUGINS_LOADED": "({amount} Plugins geladen)",
-    "APP_PLUGIN_TIME_HOURS": "{hour} hours {minute} minutes",
-    "APP_PLUGIN_TIME_MINUTES": "{minute} minutes {second} seconds",
-    "APP_PLUGIN_TIME_DAYS": "{day} days {hour} hours",
-    "APP_PLUGIN_TIME_SECONDS": "{second} seconds",
-    "APP_PLUGIN_NOT_RELEASED": "This plugin is not yet available to the public. Please wait until the release date, or become a supporter to gain immediate access.",
-    "APP_PLUGIN_EARLY_ACCESS": "Early Access"
+    "APP_PLUGIN_TIME_HOURS": "{hour} Stunden, {minute} Minuten",
+    "APP_PLUGIN_TIME_MINUTES": "{minute} Minuten {second} Sekunden",
+    "APP_PLUGIN_TIME_DAYS": "{day} Tage {hour} Stunden",
+    "APP_PLUGIN_TIME_SECONDS": "{second} Sekunden",
+    "APP_PLUGIN_NOT_RELEASED": "Dieses Plugin ist noch nicht öffentlich verfügbar. Bitte warten Sie auf das Veröffentlichungsdatum oder werden Sie ein Unterstützer, um sofortigen Zugriff zu erhalten.",
+    "APP_PLUGIN_EARLY_ACCESS": "Frühzugriffsphase",
+    "DISCORD_STATUS_SINGLEPLAYER": "Im Einzelspielermodus"
 }
