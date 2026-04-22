@@ -113,5 +113,11 @@
     "APP_HEADER_PLUGINS": "Pluginok",
     "APP_PLUGIN_ONLY_SERVER_HOST_DESCRIPTION": "Ez a plugin akkor aktiválódik, amikor egy szerver létrejön. Ha nem te hoztad létre a szervert, nincs hatása. Ezért elegendő, ha csak a szerver tulajdonosai aktiválják.",
     "APP_PLUGIN_ONLY_SERVER_HOST_NAME": "Szerver plugin",
-    "GAME_PLUGINS_LOADED": "({amount} plugin betöltve)"
+    "GAME_PLUGINS_LOADED": "({amount} plugin betöltve)",
+    "APP_PLUGIN_TIME_HOURS": "{hour} hours {minute} minutes",
+    "APP_PLUGIN_TIME_MINUTES": "{minute} minutes {second} seconds",
+    "APP_PLUGIN_TIME_DAYS": "{day} days {hour} hours",
+    "APP_PLUGIN_TIME_SECONDS": "{second} seconds",
+    "APP_PLUGIN_EARYL_ACCESS": "Early Access",
+    "APP_PLUGIN_NOT_RELEASED": "This plugin is not yet available to the public. Please wait until the release date, or become a supporter to gain immediate access."
 }
