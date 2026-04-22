@@ -113,5 +113,11 @@
     "APP_HEADER_PLUGINS": "Plugini",
     "APP_PLUGIN_ONLY_SERVER_HOST_DESCRIPTION": "Ovaj dodatak postaje aktivan kada se stvori server. Ako niste osoba koja je stvorila server, on neće imati nikakav učinak. Stoga je dovoljno da ga aktiviraju samo vlasnici servera.",
     "APP_PLUGIN_ONLY_SERVER_HOST_NAME": "Serverski dodatak",
-    "GAME_PLUGINS_LOADED": "({amount} učitanih dodataka)"
+    "GAME_PLUGINS_LOADED": "({amount} učitanih dodataka)",
+    "APP_PLUGIN_TIME_HOURS": "{hour} hours {minute} minutes",
+    "APP_PLUGIN_TIME_MINUTES": "{minute} minutes {second} seconds",
+    "APP_PLUGIN_TIME_DAYS": "{day} days {hour} hours",
+    "APP_PLUGIN_TIME_SECONDS": "{second} seconds",
+    "APP_PLUGIN_EARYL_ACCESS": "Early Access",
+    "APP_PLUGIN_NOT_RELEASED": "This plugin is not yet available to the public. Please wait until the release date, or become a supporter to gain immediate access."
 }
