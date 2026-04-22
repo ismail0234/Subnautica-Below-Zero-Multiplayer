@@ -113,5 +113,11 @@
     "APP_HEADER_PLUGINS": "Wtyczki",
     "APP_PLUGIN_ONLY_SERVER_HOST_DESCRIPTION": "Ta wtyczka staje się aktywna po utworzeniu serwera. Jeśli nie jesteś osobą, która utworzyła serwer, nie będzie miała żadnego efektu. Wystarczy więc, aby aktywowali ją tylko właściciele serwera.",
     "APP_PLUGIN_ONLY_SERVER_HOST_NAME": "Wtyczka serwera",
-    "GAME_PLUGINS_LOADED": "({amount} wtyczek załadowano)"
+    "GAME_PLUGINS_LOADED": "({amount} wtyczek załadowano)",
+    "APP_PLUGIN_TIME_HOURS": "{hour} hours {minute} minutes",
+    "APP_PLUGIN_TIME_MINUTES": "{minute} minutes {second} seconds",
+    "APP_PLUGIN_TIME_DAYS": "{day} days {hour} hours",
+    "APP_PLUGIN_TIME_SECONDS": "{second} seconds",
+    "APP_PLUGIN_EARYL_ACCESS": "Early Access",
+    "APP_PLUGIN_NOT_RELEASED": "This plugin is not yet available to the public. Please wait until the release date, or become a supporter to gain immediate access."
 }
