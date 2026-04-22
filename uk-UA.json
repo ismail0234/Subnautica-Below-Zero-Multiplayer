@@ -114,10 +114,11 @@
     "APP_PLUGIN_ONLY_SERVER_HOST_DESCRIPTION": "Цей плагін активується під час створення сервера. Якщо ви не є його творцем, він не матиме жодного ефекту. Тому достатньо, щоб його активували лише власники сервера.",
     "APP_PLUGIN_ONLY_SERVER_HOST_NAME": "Серверний плагін",
     "GAME_PLUGINS_LOADED": "({amount} плагінів вантажено)",
-    "APP_PLUGIN_TIME_HOURS": "{hour} hours {minute} minutes",
-    "APP_PLUGIN_TIME_MINUTES": "{minute} minutes {second} seconds",
-    "APP_PLUGIN_TIME_DAYS": "{day} days {hour} hours",
-    "APP_PLUGIN_TIME_SECONDS": "{second} seconds",
-    "APP_PLUGIN_NOT_RELEASED": "This plugin is not yet available to the public. Please wait until the release date, or become a supporter to gain immediate access.",
-    "APP_PLUGIN_EARLY_ACCESS": "Early Access"
+    "APP_PLUGIN_TIME_HOURS": "{hour} годин {minute} хвилин",
+    "APP_PLUGIN_TIME_MINUTES": "{minute} хвилин {second} секунд",
+    "APP_PLUGIN_TIME_DAYS": "{day} днів {hour} годин",
+    "APP_PLUGIN_TIME_SECONDS": "{second} секунд",
+    "APP_PLUGIN_NOT_RELEASED": "Цей плагін ще не доступний для публіки. Будь ласка, зачекайте до дати випуску або станьте спонсором, щоб отримати негайний доступ.",
+    "APP_PLUGIN_EARLY_ACCESS": "Період раннього доступу",
+    "DISCORD_STATUS_SINGLEPLAYER": "В одиночній грі"
 }
