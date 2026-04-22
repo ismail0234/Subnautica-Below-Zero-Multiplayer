@@ -113,5 +113,11 @@
     "APP_HEADER_PLUGINS": "Pluginy",
     "APP_PLUGIN_ONLY_SERVER_HOST_DESCRIPTION": "Tento plugin se aktivuje při vytvoření serveru. Pokud nejste jeho tvůrce, nebude mít žádný účinek. Proto stačí, aby ho aktivovali pouze vlastníci serveru.",
     "APP_PLUGIN_ONLY_SERVER_HOST_NAME": "Serverový plugin",
-    "GAME_PLUGINS_LOADED": "(Načteno {amount} pluginů)"
+    "GAME_PLUGINS_LOADED": "(Načteno {amount} pluginů)",
+    "APP_PLUGIN_TIME_HOURS": "{hour} hours {minute} minutes",
+    "APP_PLUGIN_TIME_MINUTES": "{minute} minutes {second} seconds",
+    "APP_PLUGIN_TIME_DAYS": "{day} days {hour} hours",
+    "APP_PLUGIN_TIME_SECONDS": "{second} seconds",
+    "APP_PLUGIN_EARYL_ACCESS": "Early Access",
+    "APP_PLUGIN_NOT_RELEASED": "This plugin is not yet available to the public. Please wait until the release date, or become a supporter to gain immediate access."
 }
