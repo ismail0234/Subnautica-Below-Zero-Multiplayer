@@ -114,10 +114,11 @@
     "APP_PLUGIN_ONLY_SERVER_HOST_DESCRIPTION": "Този плъгин се активира, когато бъде създаден сървър. Ако не сте човекът, който е създал сървъра, той няма да има никакъв ефект. Затова е достатъчно само собствениците на сървъра да го активират.",
     "APP_PLUGIN_ONLY_SERVER_HOST_NAME": "Сървър плъгин",
     "GAME_PLUGINS_LOADED": "({amount} плъгина заредени)",
-    "APP_PLUGIN_TIME_HOURS": "{hour} hours {minute} minutes",
-    "APP_PLUGIN_TIME_MINUTES": "{minute} minutes {second} seconds",
-    "APP_PLUGIN_TIME_DAYS": "{day} days {hour} hours",
-    "APP_PLUGIN_TIME_SECONDS": "{second} seconds",
-    "APP_PLUGIN_NOT_RELEASED": "This plugin is not yet available to the public. Please wait until the release date, or become a supporter to gain immediate access.",
-    "APP_PLUGIN_EARLY_ACCESS": "Early Access"
+    "APP_PLUGIN_TIME_HOURS": "{hour} часа, {minute} минути",
+    "APP_PLUGIN_TIME_MINUTES": "{minute} минути {second} секунди",
+    "APP_PLUGIN_TIME_DAYS": "{day} дни {hour} часа",
+    "APP_PLUGIN_TIME_SECONDS": "{second} секунди",
+    "APP_PLUGIN_NOT_RELEASED": "Този плъгин все още не е достъпен за обществеността. Моля, изчакайте датата на издаване или станете поддръжник, за да получите незабавен достъп.",
+    "APP_PLUGIN_EARLY_ACCESS": "Период на ранен достъп",
+    "DISCORD_STATUS_SINGLEPLAYER": "В игра за един играч"
 }
