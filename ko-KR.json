@@ -114,10 +114,11 @@
     "APP_PLUGIN_ONLY_SERVER_HOST_DESCRIPTION": "이 플러그인은 서버가 생성될 때 활성화됩니다. 서버를 생성한 사람이 아니라면 이 기능은 영향을 미치지 않습니다. 따라서 서버 소유자만 활성화하면 됩니다.",
     "APP_PLUGIN_ONLY_SERVER_HOST_NAME": "서버 플러그인",
     "GAME_PLUGINS_LOADED": "({amount}개의 플러그인 로드됨)",
-    "APP_PLUGIN_TIME_HOURS": "{hour} hours {minute} minutes",
-    "APP_PLUGIN_TIME_MINUTES": "{minute} minutes {second} seconds",
-    "APP_PLUGIN_TIME_DAYS": "{day} days {hour} hours",
-    "APP_PLUGIN_TIME_SECONDS": "{second} seconds",
-    "APP_PLUGIN_NOT_RELEASED": "This plugin is not yet available to the public. Please wait until the release date, or become a supporter to gain immediate access.",
-    "APP_PLUGIN_EARLY_ACCESS": "Early Access"
+    "APP_PLUGIN_TIME_HOURS": "{hour} 시간 {minute} 분",
+    "APP_PLUGIN_TIME_MINUTES": "{minute}분 {second}초",
+    "APP_PLUGIN_TIME_DAYS": "{day}일 {hour}시간",
+    "APP_PLUGIN_TIME_SECONDS": "{second}초",
+    "APP_PLUGIN_NOT_RELEASED": "이 플러그인은 아직 일반 공개되지 않았습니다. 출시일을 기다리시거나, 서포터가 되어 즉시 접근 권한을 얻으세요.",
+    "APP_PLUGIN_EARLY_ACCESS": "얼리 액세스 기간",
+    "DISCORD_STATUS_SINGLEPLAYER": "싱글플레이어 모드에서"
 }
