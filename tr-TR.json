@@ -112,5 +112,6 @@
     "APP_PLUGIN_INSTALL_GAME_OPEN_ERROR": "Bir eklentiyi yüklemek veya kaldırmak için lütfen önce oyunu kapatın. Oyun çalışırken bu işlemi gerçekleştiremezsiniz.",
     "APP_HEADER_PLUGINS": "Eklentiler",
     "APP_PLUGIN_ONLY_SERVER_HOST_DESCRIPTION": "Bu eklenti, bir sunucu oluşturulduğunda devreye girer. Sunucuyu oluşturan kişi siz değilseniz, eklentinin herhangi bir etkisi olmaz. Bu nedenle, yalnızca sunucu sahiplerinin eklentiyi etkinleştirmesi yeterlidir.",
-    "APP_PLUGIN_ONLY_SERVER_HOST_NAME": "Sunucu Eklentisi"
+    "APP_PLUGIN_ONLY_SERVER_HOST_NAME": "Sunucu Eklentisi",
+    "GAME_PLUGINS_LOADED": "({amount} eklenti yüklendi)"
 }
