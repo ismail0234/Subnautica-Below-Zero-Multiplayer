@@ -114,10 +114,11 @@
     "APP_PLUGIN_ONLY_SERVER_HOST_DESCRIPTION": "Deze plugin wordt geactiveerd wanneer een server wordt aangemaakt. Als jij niet degene bent die de server heeft aangemaakt, heeft dit geen effect. Daarom is het voldoende dat alleen de server eigenaars dit activeren.",
     "APP_PLUGIN_ONLY_SERVER_HOST_NAME": "Serverplugin",
     "GAME_PLUGINS_LOADED": "({amount} plugins geladen)",
-    "APP_PLUGIN_TIME_HOURS": "{hour} hours {minute} minutes",
-    "APP_PLUGIN_TIME_MINUTES": "{minute} minutes {second} seconds",
-    "APP_PLUGIN_TIME_DAYS": "{day} days {hour} hours",
-    "APP_PLUGIN_TIME_SECONDS": "{second} seconds",
-    "APP_PLUGIN_NOT_RELEASED": "This plugin is not yet available to the public. Please wait until the release date, or become a supporter to gain immediate access.",
-    "APP_PLUGIN_EARLY_ACCESS": "Early Access"
+    "APP_PLUGIN_TIME_HOURS": "{hour} uren, {minute} minuten",
+    "APP_PLUGIN_TIME_MINUTES": "{minute} minuten {second} seconden",
+    "APP_PLUGIN_TIME_DAYS": "{day} dagen {hour} uur",
+    "APP_PLUGIN_TIME_SECONDS": "{second} seconden",
+    "APP_PLUGIN_NOT_RELEASED": "Deze plugin is nog niet beschikbaar voor het publiek. Wacht alstublieft tot de releasedatum, of word een supporter om direct toegang te krijgen.",
+    "APP_PLUGIN_EARLY_ACCESS": "Vroege toegangsfase",
+    "DISCORD_STATUS_SINGLEPLAYER": "In de singleplayer"
 }
