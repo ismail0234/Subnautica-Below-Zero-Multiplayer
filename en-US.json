@@ -119,5 +119,6 @@
     "APP_PLUGIN_TIME_DAYS": "{day} days {hour} hours",
     "APP_PLUGIN_TIME_SECONDS": "{second} seconds",
     "APP_PLUGIN_NOT_RELEASED": "This plugin is not yet available to the public. Please wait until the release date, or become a supporter to gain immediate access.",
-    "APP_PLUGIN_EARLY_ACCESS": "Early Access"
+    "APP_PLUGIN_EARLY_ACCESS": "Early Access Period",
+    "DISCORD_STATUS_SINGLEPLAYER": "In Singleplayer"
 }
