@@ -114,10 +114,11 @@
     "APP_PLUGIN_ONLY_SERVER_HOST_DESCRIPTION": "Bu eklenti, bir sunucu oluşturulduğunda devreye girer. Sunucuyu oluşturan kişi siz değilseniz, eklentinin herhangi bir etkisi olmaz. Bu nedenle, yalnızca sunucu sahiplerinin eklentiyi etkinleştirmesi yeterlidir.",
     "APP_PLUGIN_ONLY_SERVER_HOST_NAME": "Sunucu Eklentisi",
     "GAME_PLUGINS_LOADED": "({amount} eklenti yüklendi)",
-    "APP_PLUGIN_TIME_HOURS": "{hour} hours {minute} minutes",
-    "APP_PLUGIN_TIME_MINUTES": "{minute} minutes {second} seconds",
-    "APP_PLUGIN_TIME_DAYS": "{day} days {hour} hours",
-    "APP_PLUGIN_TIME_SECONDS": "{second} seconds",
-    "APP_PLUGIN_NOT_RELEASED": "This plugin is not yet available to the public. Please wait until the release date, or become a supporter to gain immediate access.",
-    "APP_PLUGIN_EARLY_ACCESS": "Early Access"
+    "APP_PLUGIN_TIME_HOURS": "{hour} saat {minute} dakika",
+    "APP_PLUGIN_TIME_MINUTES": "{minute} dakika {second} saniye",
+    "APP_PLUGIN_TIME_DAYS": "{day} gün {hour} saat",
+    "APP_PLUGIN_TIME_SECONDS": "{second} saniye",
+    "APP_PLUGIN_NOT_RELEASED": "Bu eklenti henüz herkese açık değildir. Lütfen çıkış tarihini bekleyin veya anında erişim elde etmek için bir destekçi olun.",
+    "APP_PLUGIN_EARLY_ACCESS": "Erken erişim dönemi",
+    "DISCORD_STATUS_SINGLEPLAYER": "Tek oyunculu modda"
 }
