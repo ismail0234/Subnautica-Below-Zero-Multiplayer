@@ -113,5 +113,11 @@
     "APP_HEADER_PLUGINS": "Plugins",
     "APP_PLUGIN_ONLY_SERVER_HOST_DESCRIPTION": "This plugin becomes active when a server is created. If you are not the person who created the server, it will have no effect. Therefore, it is sufficient for only the server owners to activate it.",
     "APP_PLUGIN_ONLY_SERVER_HOST_NAME": "Server Plugin",
-    "GAME_PLUGINS_LOADED": "({amount} plugins loaded)"
+    "GAME_PLUGINS_LOADED": "({amount} plugins loaded)",
+    "APP_PLUGIN_TIME_HOURS": "{hour} hours {minute} minutes",
+    "APP_PLUGIN_TIME_MINUTES": "{minute} minutes {second} seconds",
+    "APP_PLUGIN_TIME_DAYS": "{day} days {hour} hours",
+    "APP_PLUGIN_TIME_SECONDS": "{second} seconds",
+    "APP_PLUGIN_EARYL_ACCESS": "Early Access",
+    "APP_PLUGIN_NOT_RELEASED": "This plugin is not yet available to the public. Please wait until the release date, or become a supporter to gain immediate access."
 }
