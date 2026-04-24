@@ -120,5 +120,9 @@
     "APP_PLUGIN_TIME_SECONDS": "{second} sekundi",
     "APP_PLUGIN_NOT_RELEASED": "Ovaj plugin još nije dostupan javnosti. Molimo pričekajte datum izlaska ili postanite podržavatelj kako biste odmah dobili pristup.",
     "APP_PLUGIN_EARLY_ACCESS": "Razdoblje ranog pristupa",
-    "DISCORD_STATUS_SINGLEPLAYER": "U singleplayeru"
+    "DISCORD_STATUS_SINGLEPLAYER": "U singleplayeru",
+    "APP_SETTINGS_DEBUG_TITLE": "Debugging",
+    "APP_SETTINGS_DEBUG_DESCRIPTION": "This feature collects app, game, and mod logs into a single compressed file to speed up Discord support for mod-related issues. Send the file after opening a support ticket so your issue can be resolved faster. The process may take 30 to 90 seconds to complete.",
+    "APP_SETTINGS_LANGUAGE_TITLE": "Language",
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "When the mod is first installed, it automatically uses your computer’s language. If you want to change the language, you can do it here. Note that the game must be closed to change the language."
 }
