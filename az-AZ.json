@@ -120,5 +120,9 @@
     "APP_PLUGIN_TIME_SECONDS": "{second} saniyə",
     "APP_PLUGIN_NOT_RELEASED": "Bu plugin hələ ictimaiyyət üçün mövcud deyil. Zəhmət olmasa, buraxılış tarixini gözləyin və ya dərhal giriş əldə etmək üçün dəstəkçi olun.",
     "APP_PLUGIN_EARLY_ACCESS": "Erkən giriş dövrü",
-    "DISCORD_STATUS_SINGLEPLAYER": "Tək oyunçu rejimində"
+    "DISCORD_STATUS_SINGLEPLAYER": "Tək oyunçu rejimində",
+    "APP_SETTINGS_DEBUG_TITLE": "Sazlama",
+    "APP_SETTINGS_DEBUG_DESCRIPTION": "Bu funksiya tətbiq, oyun və mod qeydlərini modla bağlı problemlər üzrə Discord dəstəyini sürətləndirmək üçün tək bir sıxılmış faylda toplayır. Probleminizin daha tez həll olunması üçün dəstək bileti açdıqdan sonra faylı göndərin. Prosesin tamamlanması 30–90 saniyə çəkə bilər.",
+    "APP_SETTINGS_LANGUAGE_TITLE": "Dil",
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Mod ilk dəfə quraşdırıldıqda, avtomatik olaraq kompüterinizin dilindən istifadə edir. Dili dəyişmək istəyirsinizsə, bunu burada edə bilərsiniz. Nəzərə alın ki, dili dəyişmək üçün oyun bağlanmalıdır."
 }
