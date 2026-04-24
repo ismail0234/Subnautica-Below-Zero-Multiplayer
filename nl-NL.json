@@ -120,5 +120,9 @@
     "APP_PLUGIN_TIME_SECONDS": "{second} seconden",
     "APP_PLUGIN_NOT_RELEASED": "Deze plugin is nog niet beschikbaar voor het publiek. Wacht alstublieft tot de releasedatum, of word een supporter om direct toegang te krijgen.",
     "APP_PLUGIN_EARLY_ACCESS": "Vroege toegangsfase",
-    "DISCORD_STATUS_SINGLEPLAYER": "In de singleplayer"
+    "DISCORD_STATUS_SINGLEPLAYER": "In de singleplayer",
+    "APP_SETTINGS_DEBUG_TITLE": "Debugging",
+    "APP_SETTINGS_DEBUG_DESCRIPTION": "This feature collects app, game, and mod logs into a single compressed file to speed up Discord support for mod-related issues. Send the file after opening a support ticket so your issue can be resolved faster. The process may take 30 to 90 seconds to complete.",
+    "APP_SETTINGS_LANGUAGE_TITLE": "Language",
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "When the mod is first installed, it automatically uses your computer’s language. If you want to change the language, you can do it here. Note that the game must be closed to change the language."
 }
