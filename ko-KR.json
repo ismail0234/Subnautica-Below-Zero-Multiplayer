@@ -120,5 +120,9 @@
     "APP_PLUGIN_TIME_SECONDS": "{second}초",
     "APP_PLUGIN_NOT_RELEASED": "이 플러그인은 아직 일반 공개되지 않았습니다. 출시일을 기다리시거나, 서포터가 되어 즉시 접근 권한을 얻으세요.",
     "APP_PLUGIN_EARLY_ACCESS": "얼리 액세스 기간",
-    "DISCORD_STATUS_SINGLEPLAYER": "싱글플레이어 모드에서"
+    "DISCORD_STATUS_SINGLEPLAYER": "싱글플레이어 모드에서",
+    "APP_SETTINGS_DEBUG_TITLE": "Debugging",
+    "APP_SETTINGS_DEBUG_DESCRIPTION": "This feature collects app, game, and mod logs into a single compressed file to speed up Discord support for mod-related issues. Send the file after opening a support ticket so your issue can be resolved faster. The process may take 30 to 90 seconds to complete.",
+    "APP_SETTINGS_LANGUAGE_TITLE": "Language",
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "When the mod is first installed, it automatically uses your computer’s language. If you want to change the language, you can do it here. Note that the game must be closed to change the language."
 }
