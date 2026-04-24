@@ -120,5 +120,9 @@
     "APP_PLUGIN_TIME_SECONDS": "{second} 秒",
     "APP_PLUGIN_NOT_RELEASED": "此插件尚未向公众开放。请等待发布日期，或成为支持者以立即获得访问权限。",
     "APP_PLUGIN_EARLY_ACCESS": "抢先体验阶段",
-    "DISCORD_STATUS_SINGLEPLAYER": "单人游戏"
+    "DISCORD_STATUS_SINGLEPLAYER": "单人游戏",
+    "APP_SETTINGS_DEBUG_TITLE": "正在调试",
+    "APP_SETTINGS_DEBUG_DESCRIPTION": "此功能会将应用程序、游戏和模组日志收集到一个压缩文件中，以加快 Discord 对模组相关问题的支持。在提交支持请求后发送该文件，可以帮助更快解决您的问题。此过程可能需要 30 到 90 秒。",
+    "APP_SETTINGS_LANGUAGE_TITLE": "语言",
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "模组首次安装时，会自动使用您电脑的语言。如果您想更改语言，可以在这里进行设置。请注意，更改语言时必须关闭游戏。"
 }
