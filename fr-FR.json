@@ -114,11 +114,15 @@
     "APP_PLUGIN_ONLY_SERVER_HOST_DESCRIPTION": "Ce plugin devient actif lorsqu’un serveur est créé. Si vous n’êtes pas la personne qui a créé le serveur, il n’aura aucun effet. Par conséquent, il suffit que seuls les propriétaires du serveur l’activent.",
     "APP_PLUGIN_ONLY_SERVER_HOST_NAME": "Plugin serveur",
     "GAME_PLUGINS_LOADED": "({amount} plugins chargés)",
-    "APP_PLUGIN_TIME_HOURS": "{hour} heures, {minute} minutes",
+    "APP_PLUGIN_TIME_HOURS": "{hour} heures {minute} minutes",
     "APP_PLUGIN_TIME_MINUTES": "{minute} minutes {second} secondes",
     "APP_PLUGIN_TIME_DAYS": "{day} jours {hour} heures",
     "APP_PLUGIN_TIME_SECONDS": "{second} secondes",
-    "APP_PLUGIN_NOT_RELEASED": "Ce plugin n’est pas encore disponible au public. Veuillez attendre la date de sortie, ou devenir un soutien pour obtenir un accès immédiat.",
+    "APP_PLUGIN_NOT_RELEASED": "Ce plugin n’est pas encore disponible au public. Veuillez attendre la date de sortie, ou devenir un Supporteur pour obtenir un accès immédiat.",
     "APP_PLUGIN_EARLY_ACCESS": "Période d’accès anticipé",
-    "DISCORD_STATUS_SINGLEPLAYER": "En mode solo"
+    "DISCORD_STATUS_SINGLEPLAYER": "En mode solo",
+    "APP_SETTINGS_DEBUG_TITLE": "Debugging",
+    "APP_SETTINGS_DEBUG_DESCRIPTION": "This feature collects app, game, and mod logs into a single compressed file to speed up Discord support for mod-related issues. Send the file after opening a support ticket so your issue can be resolved faster. The process may take 30 to 90 seconds to complete.",
+    "APP_SETTINGS_LANGUAGE_TITLE": "Language",
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "When the mod is first installed, it automatically uses your computer’s language. If you want to change the language, you can do it here. Note that the game must be closed to change the language."
 }
