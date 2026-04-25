@@ -120,8 +120,8 @@
     "APP_PLUGIN_NOT_RELEASED": "Tento plugin ešte nie je verejne dostupný. Prosím, počkajte na dátum vydania alebo sa staňte podporovateľom, aby ste získali okamžitý prístup.",
     "APP_PLUGIN_EARLY_ACCESS": "Obdobie skorého prístupu",
     "DISCORD_STATUS_SINGLEPLAYER": "V režime pre jedného hráča",
-    "APP_SETTINGS_DEBUG_TITLE": "Debugging",
-    "APP_SETTINGS_DEBUG_DESCRIPTION": "This feature collects app, game, and mod logs into a single compressed file to speed up Discord support for mod-related issues. Send the file after opening a support ticket so your issue can be resolved faster. The process may take 30 to 90 seconds to complete.",
-    "APP_SETTINGS_LANGUAGE_TITLE": "Language",
-    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "When the mod is first installed, it automatically uses your computer’s language. If you want to change the language, you can do it here. Note that the game must be closed to change the language."
+    "APP_SETTINGS_DEBUG_TITLE": "Ladenie",
+    "APP_SETTINGS_DEBUG_DESCRIPTION": "Táto funkcia zhromažďuje záznamy aplikácie, hry a modov do jedného komprimovaného súboru, aby urýchlila podporu na Discorde pri problémoch súvisiacich s modmi. Po otvorení tiket-u podpory odošlite súbor, aby sa váš problém mohol vyriešiť rýchlejšie. Proces môže trvať 30 až 90 sekúnd.",
+    "APP_SETTINGS_LANGUAGE_TITLE": "Jazyk",
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Pri prvej inštalácii mod automaticky používa jazyk vášho počítača. Ak chcete zmeniť jazyk, môžete to urobiť tu. Upozorňujeme, že hra musí byť zatvorená, aby bolo možné zmeniť jazyk."
 }
