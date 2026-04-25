@@ -120,8 +120,8 @@
     "APP_PLUGIN_NOT_RELEASED": "このプラグインはまだ一般公開されていません。リリース日までお待ちいただくか、サポーターになることで即時アクセスを取得できます。",
     "APP_PLUGIN_EARLY_ACCESS": "早期アクセス期間",
     "DISCORD_STATUS_SINGLEPLAYER": "シングルプレイ",
-    "APP_SETTINGS_DEBUG_TITLE": "Debugging",
-    "APP_SETTINGS_DEBUG_DESCRIPTION": "This feature collects app, game, and mod logs into a single compressed file to speed up Discord support for mod-related issues. Send the file after opening a support ticket so your issue can be resolved faster. The process may take 30 to 90 seconds to complete.",
-    "APP_SETTINGS_LANGUAGE_TITLE": "Language",
-    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "When the mod is first installed, it automatically uses your computer’s language. If you want to change the language, you can do it here. Note that the game must be closed to change the language."
+    "APP_SETTINGS_DEBUG_TITLE": "デバッグ中",
+    "APP_SETTINGS_DEBUG_DESCRIPTION": "この機能は、アプリ、ゲーム、Modのログをつの圧縮ファイルにまとめ、Mod関連の問題に関するDiscordサポートを迅速化します。問題をより早く解決できるよう、サポートチケットを開いた後にそのファイルを送信してください。処理には30〜90秒かかる場合があります。",
+    "APP_SETTINGS_LANGUAGE_TITLE": "言語",
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Modを初めてインストールすると、自動的にお使いのコンピューターの言語が使用されます。言語を変更したい場合は、ここで変更できます。言語を変更するにはゲームを終了している必要がありますのでご注意ください。"
 }
