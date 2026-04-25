@@ -120,8 +120,8 @@
     "APP_PLUGIN_NOT_RELEASED": "Este plugin ainda não está disponível ao público. Aguarde até a data de lançamento ou torne-se um apoiador para obter acesso imediato.",
     "APP_PLUGIN_EARLY_ACCESS": "Período de acesso antecipado",
     "DISCORD_STATUS_SINGLEPLAYER": "No modo singleplayer",
-    "APP_SETTINGS_DEBUG_TITLE": "Debugging",
-    "APP_SETTINGS_DEBUG_DESCRIPTION": "This feature collects app, game, and mod logs into a single compressed file to speed up Discord support for mod-related issues. Send the file after opening a support ticket so your issue can be resolved faster. The process may take 30 to 90 seconds to complete.",
-    "APP_SETTINGS_LANGUAGE_TITLE": "Language",
-    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "When the mod is first installed, it automatically uses your computer’s language. If you want to change the language, you can do it here. Note that the game must be closed to change the language."
+    "APP_SETTINGS_DEBUG_TITLE": "Depuração",
+    "APP_SETTINGS_DEBUG_DESCRIPTION": "Esta funcionalidade recolhe os registos da aplicação, do jogo e dos mods num único ficheiro comprimido para acelerar o suporte no Discord em problemas relacionados com mods. Envie o ficheiro após abrir um ticket de suporte para que o seu problema possa ser resolvido mais rapidamente. O processo pode demorar entre 30 a 90 segundos a ser concluído.",
+    "APP_SETTINGS_LANGUAGE_TITLE": "Língua",
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Quando o mod é instalado pela primeira vez, utiliza automaticamente o idioma do seu computador. Se quiser alterar o idioma, pode fazê-lo aqui. Note que o jogo tem de estar fechado para alterar o idioma."
 }
