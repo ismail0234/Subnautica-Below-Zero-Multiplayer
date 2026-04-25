@@ -120,8 +120,8 @@
     "APP_PLUGIN_NOT_RELEASED": "Ez a plugin még nem érhető el a nyilvánosság számára. Kérjük, várjon a megjelenési dátumig, vagy váljon támogatóvá az azonnali hozzáféréshez.",
     "APP_PLUGIN_EARLY_ACCESS": "Korai hozzáférési időszak",
     "DISCORD_STATUS_SINGLEPLAYER": "Egyjátékos módban",
-    "APP_SETTINGS_DEBUG_TITLE": "Debugging",
-    "APP_SETTINGS_DEBUG_DESCRIPTION": "This feature collects app, game, and mod logs into a single compressed file to speed up Discord support for mod-related issues. Send the file after opening a support ticket so your issue can be resolved faster. The process may take 30 to 90 seconds to complete.",
-    "APP_SETTINGS_LANGUAGE_TITLE": "Language",
-    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "When the mod is first installed, it automatically uses your computer’s language. If you want to change the language, you can do it here. Note that the game must be closed to change the language."
+    "APP_SETTINGS_DEBUG_TITLE": "Hibakeresés",
+    "APP_SETTINGS_DEBUG_DESCRIPTION": "Ez a funkció az alkalmazás, a játék és a mod naplóit egyetlen tömörített fájlba gyűjti, hogy felgyorsítsa a Discord-támogatást a moddal kapcsolatos problémák esetén. A támogatási jegy megnyitása után küldd el a fájlt, hogy a problémádat gyorsabban meg lehessen oldani. A folyamat befejezése 30–90 másodpercet vehet igénybe.",
+    "APP_SETTINGS_LANGUAGE_TITLE": "Nyelv",
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Amikor a modot először telepíted, automatikusan a számítógéped nyelvét használja. Ha meg szeretnéd változtatni a nyelvet, itt megteheted. Ne feledd, hogy a nyelv megváltoztatásához a játéknak be kell lennie zárva."
 }
