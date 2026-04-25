@@ -120,8 +120,8 @@
     "APP_PLUGIN_NOT_RELEASED": "Þessi viðbót er ekki enn aðgengileg almenningi. Vinsamlegast bíddu þar til útgáfudagur rennur upp, eða gerstu stuðningsaðili til að fá tafarlausan aðgang.",
     "APP_PLUGIN_EARLY_ACCESS": "Snemma aðgangur",
     "DISCORD_STATUS_SINGLEPLAYER": "Í einspilun",
-    "APP_SETTINGS_DEBUG_TITLE": "Debugging",
-    "APP_SETTINGS_DEBUG_DESCRIPTION": "This feature collects app, game, and mod logs into a single compressed file to speed up Discord support for mod-related issues. Send the file after opening a support ticket so your issue can be resolved faster. The process may take 30 to 90 seconds to complete.",
-    "APP_SETTINGS_LANGUAGE_TITLE": "Language",
-    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "When the mod is first installed, it automatically uses your computer’s language. If you want to change the language, you can do it here. Note that the game must be closed to change the language."
+    "APP_SETTINGS_DEBUG_TITLE": "Villuleit",
+    "APP_SETTINGS_DEBUG_DESCRIPTION": "Þessi eiginleiki safnar saman skráningum úr forritinu, leiknum og moddum í eina þjappaða skrá til að flýta fyrir aðstoð á Discord vegna vandamála tengdum moddum. Sendu skrána eftir að þú hefur opnað stuðningsbeiðni svo hægt sé að leysa vandamálið hraðar. Ferlið getur tekið 30 til 90 sekúndur að ljúka.",
+    "APP_SETTINGS_LANGUAGE_TITLE": "Tungumál",
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Þegar moddið er fyrst sett upp notar það sjálfkrafa tungumál tölvunnar þinnar. Ef þú vilt breyta tungumálinu geturðu gert það hér. Athugaðu að leikurinn verður að vera lokaður til að breyta tungumálinu."
 }
