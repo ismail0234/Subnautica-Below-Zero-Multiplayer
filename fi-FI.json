@@ -120,8 +120,8 @@
     "APP_PLUGIN_NOT_RELEASED": "Tämä laajennus ei ole vielä julk isesti saatavilla. Odota julkaisupäivään asti tai ryhdy tukijaksi saadaksesi välittömän pääsyn.",
     "APP_PLUGIN_EARLY_ACCESS": "Varhaisen käytön jakso",
     "DISCORD_STATUS_SINGLEPLAYER": "Yksinpelissä",
-    "APP_SETTINGS_DEBUG_TITLE": "Debugging",
-    "APP_SETTINGS_DEBUG_DESCRIPTION": "This feature collects app, game, and mod logs into a single compressed file to speed up Discord support for mod-related issues. Send the file after opening a support ticket so your issue can be resolved faster. The process may take 30 to 90 seconds to complete.",
-    "APP_SETTINGS_LANGUAGE_TITLE": "Language",
-    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "When the mod is first installed, it automatically uses your computer’s language. If you want to change the language, you can do it here. Note that the game must be closed to change the language."
+    "APP_SETTINGS_DEBUG_TITLE": "Vianetsintä",
+    "APP_SETTINGS_DEBUG_DESCRIPTION": "Tämä ominaisuus kerää sovelluksen, pelin ja modien lokit yhteen pakattuun tiedostoon nopeuttaakseen Discord-tukea modeihin liittyvissä ongelmissa. Lähetä tiedosto tukipyynnön avaamisen jälkeen, jotta ongelmasi voidaan ratkaista nopeammin. Prosessin suorittaminen voi kestää 30–90 sekuntia.",
+    "APP_SETTINGS_LANGUAGE_TITLE": "Kieli",
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Kun modi asennetaan ensimmäisen kerran, se käyttää automaattisesti tietokoneesi kieltä. Jos haluat vaihtaa kielen, voit tehdä sen täällä. Huomaa, että pelin on oltava suljettuna, jotta kieli voidaan vaihtaa."
 }
