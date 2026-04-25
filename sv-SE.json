@@ -120,8 +120,8 @@
     "APP_PLUGIN_NOT_RELEASED": "Detta plugin är ännu inte tillgängligt för allmänheten. Vänligen vänta till releasedatumet eller bli en supporter för att få omedelbar åtkomst.",
     "APP_PLUGIN_EARLY_ACCESS": "Tidigt åtkomst period",
     "DISCORD_STATUS_SINGLEPLAYER": "I enspelarläge",
-    "APP_SETTINGS_DEBUG_TITLE": "Debugging",
-    "APP_SETTINGS_DEBUG_DESCRIPTION": "This feature collects app, game, and mod logs into a single compressed file to speed up Discord support for mod-related issues. Send the file after opening a support ticket so your issue can be resolved faster. The process may take 30 to 90 seconds to complete.",
-    "APP_SETTINGS_LANGUAGE_TITLE": "Language",
-    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "When the mod is first installed, it automatically uses your computer’s language. If you want to change the language, you can do it here. Note that the game must be closed to change the language."
+    "APP_SETTINGS_DEBUG_TITLE": "Felsökning",
+    "APP_SETTINGS_DEBUG_DESCRIPTION": "Den här funktionen samlar in loggar från applikationen, spelet och moddar i en enda komprimerad fil för att påskynda Discord-support för problem relaterade till moddar. Skicka filen efter att du har öppnat ett supportärende så att ditt problem kan lösas snabbare. Processen kan ta 30 till 90 sekunder att slutföra.",
+    "APP_SETTINGS_LANGUAGE_TITLE": "Språk",
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "När modden installeras för första gången använder den automatiskt din dators språk. Om du vill ändra språket kan du göra det här. Observera att spelet måste vara stängt för att ändra språket."
 }
