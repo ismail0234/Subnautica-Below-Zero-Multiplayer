@@ -120,8 +120,8 @@
     "APP_PLUGIN_NOT_RELEASED": "Ta wtyczka nie jest jeszcze dostępna publicznie. Prosimy poczekać do daty premiery lub zostać wspierającym, aby uzyskać natychmiastowy dostęp.",
     "APP_PLUGIN_EARLY_ACCESS": "Okres wczesnego dostępu",
     "DISCORD_STATUS_SINGLEPLAYER": "W trybie dla jednego gracza",
-    "APP_SETTINGS_DEBUG_TITLE": "Debugging",
-    "APP_SETTINGS_DEBUG_DESCRIPTION": "This feature collects app, game, and mod logs into a single compressed file to speed up Discord support for mod-related issues. Send the file after opening a support ticket so your issue can be resolved faster. The process may take 30 to 90 seconds to complete.",
-    "APP_SETTINGS_LANGUAGE_TITLE": "Language",
-    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "When the mod is first installed, it automatically uses your computer’s language. If you want to change the language, you can do it here. Note that the game must be closed to change the language."
+    "APP_SETTINGS_DEBUG_TITLE": "Debugowanie",
+    "APP_SETTINGS_DEBUG_DESCRIPTION": "Ta funkcja zbiera logi aplikacji, gry i modów do jednego skompresowanego pliku, aby przyspieszyć pomoc na Discordzie w przypadku problemów związanych z modami. Wyślij plik po utworzeniu zgłoszenia pomocy, aby Twój problem mógł zostać szybciej rozwiązany. Proces może potrwać od 30 do 90 sekund.",
+    "APP_SETTINGS_LANGUAGE_TITLE": "Język",
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Gdy mod jest instalowany po raz pierwszy, automatycznie używa języka Twojego komputera. Jeśli chcesz zmienić język, możesz to zrobić tutaj. Pamiętaj, że gra musi być zamknięta, aby zmienić język."
 }
