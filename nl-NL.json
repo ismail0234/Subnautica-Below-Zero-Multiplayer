@@ -123,5 +123,6 @@
     "APP_SETTINGS_DEBUG_TITLE": "Foutopsporing",
     "APP_SETTINGS_DEBUG_DESCRIPTION": "Deze functie verzamelt app-, game- en mod log boeken in één gecomprimeerd bestand om Discord-ondersteuning bij modgerelateerde problemen te versnellen. Verstuur het bestand nadat je een supportticket hebt geopend, zodat je probleem sneller kan worden opgelost. Het proces kan 30 tot 90 seconden duren.",
     "APP_SETTINGS_LANGUAGE_TITLE": "Taal",
-    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Wanneer de mod voor het eerst wordt geïnstalleerd, gebruikt deze automatisch de taal van je computer. Als je de taal wilt wijzigen, kun je dat hier doen. Let op: het spel moet gesloten zijn om de taal te wijzigen."
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Wanneer de mod voor het eerst wordt geïnstalleerd, gebruikt deze automatisch de taal van je computer. Als je de taal wilt wijzigen, kun je dat hier doen. Let op: het spel moet gesloten zijn om de taal te wijzigen.",
+    "GAME_SERVER_PLUGIN_DOWNLOAD_FAILED": "Het downloaden van de plug-ins is mislukt. Controleer uw antivirussoftware of internetverbinding."
 }
