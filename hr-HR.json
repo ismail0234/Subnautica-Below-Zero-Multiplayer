@@ -123,5 +123,6 @@
     "APP_SETTINGS_DEBUG_TITLE": "Debugiranje",
     "APP_SETTINGS_DEBUG_DESCRIPTION": "Ova značajka prikuplja zapisnike aplikacije, igre i moda u jednu komprimiranu datoteku kako bi ubrzala Discord podršku za probleme povezane s modom. Pošaljite datoteku nakon otvaranja zahtjeva za podršku kako bi vaš problem mogao biti brže riješen. Proces može trajati od 30 do 90 sekundi.",
     "APP_SETTINGS_LANGUAGE_TITLE": "Jezik",
-    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Kada se mod prvi put instalira, automatski koristi jezik vašeg računala. Ako želite promijeniti jezik, to možete učiniti ovdje. Imajte na umu da igra mora biti zatvorena kako biste promijenili jezik."
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Kada se mod prvi put instalira, automatski koristi jezik vašeg računala. Ako želite promijeniti jezik, to možete učiniti ovdje. Imajte na umu da igra mora biti zatvorena kako biste promijenili jezik.",
+    "GAME_SERVER_PLUGIN_DOWNLOAD_FAILED": "Preuzimanje dodataka nije uspjelo. Provjerite svoj antivirusni softver ili internetsku vezu."
 }
