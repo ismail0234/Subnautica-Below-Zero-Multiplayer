@@ -123,5 +123,6 @@
     "APP_SETTINGS_DEBUG_TITLE": "Felsökning",
     "APP_SETTINGS_DEBUG_DESCRIPTION": "Den här funktionen samlar in loggar från applikationen, spelet och moddar i en enda komprimerad fil för att påskynda Discord-support för problem relaterade till moddar. Skicka filen efter att du har öppnat ett supportärende så att ditt problem kan lösas snabbare. Processen kan ta 30 till 90 sekunder att slutföra.",
     "APP_SETTINGS_LANGUAGE_TITLE": "Språk",
-    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "När modden installeras för första gången använder den automatiskt din dators språk. Om du vill ändra språket kan du göra det här. Observera att spelet måste vara stängt för att ändra språket."
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "När modden installeras för första gången använder den automatiskt din dators språk. Om du vill ändra språket kan du göra det här. Observera att spelet måste vara stängt för att ändra språket.",
+    "GAME_SERVER_PLUGIN_DOWNLOAD_FAILED": "Det gick inte att ladda ner plugins. Kontrollera ditt antivirusprogram eller internetanslutning."
 }
