@@ -123,5 +123,6 @@
     "APP_SETTINGS_DEBUG_TITLE": "Villuleit",
     "APP_SETTINGS_DEBUG_DESCRIPTION": "Þessi eiginleiki safnar saman skráningum úr forritinu, leiknum og moddum í eina þjappaða skrá til að flýta fyrir aðstoð á Discord vegna vandamála tengdum moddum. Sendu skrána eftir að þú hefur opnað stuðningsbeiðni svo hægt sé að leysa vandamálið hraðar. Ferlið getur tekið 30 til 90 sekúndur að ljúka.",
     "APP_SETTINGS_LANGUAGE_TITLE": "Tungumál",
-    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Þegar moddið er fyrst sett upp notar það sjálfkrafa tungumál tölvunnar þinnar. Ef þú vilt breyta tungumálinu geturðu gert það hér. Athugaðu að leikurinn verður að vera lokaður til að breyta tungumálinu."
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Þegar moddið er fyrst sett upp notar það sjálfkrafa tungumál tölvunnar þinnar. Ef þú vilt breyta tungumálinu geturðu gert það hér. Athugaðu að leikurinn verður að vera lokaður til að breyta tungumálinu.",
+    "GAME_SERVER_PLUGIN_DOWNLOAD_FAILED": "Niðurhal á viðbótunum mistókst. Athugaðu vírusvarnarforritið þitt eða nettenginguna þína."
 }
