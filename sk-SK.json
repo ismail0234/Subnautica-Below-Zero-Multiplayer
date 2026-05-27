@@ -123,5 +123,6 @@
     "APP_SETTINGS_DEBUG_TITLE": "Ladenie",
     "APP_SETTINGS_DEBUG_DESCRIPTION": "Táto funkcia zhromažďuje záznamy aplikácie, hry a modov do jedného komprimovaného súboru, aby urýchlila podporu na Discorde pri problémoch súvisiacich s modmi. Po otvorení tiket-u podpory odošlite súbor, aby sa váš problém mohol vyriešiť rýchlejšie. Proces môže trvať 30 až 90 sekúnd.",
     "APP_SETTINGS_LANGUAGE_TITLE": "Jazyk",
-    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Pri prvej inštalácii mod automaticky používa jazyk vášho počítača. Ak chcete zmeniť jazyk, môžete to urobiť tu. Upozorňujeme, že hra musí byť zatvorená, aby bolo možné zmeniť jazyk."
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Pri prvej inštalácii mod automaticky používa jazyk vášho počítača. Ak chcete zmeniť jazyk, môžete to urobiť tu. Upozorňujeme, že hra musí byť zatvorená, aby bolo možné zmeniť jazyk.",
+    "GAME_SERVER_PLUGIN_DOWNLOAD_FAILED": "Sťahovanie pluginov zlyhalo. Prosím skontrolujte svoj antivirus softvér alebo vaše pripojenie k internetu."
 }
