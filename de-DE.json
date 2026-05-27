@@ -123,5 +123,6 @@
     "APP_SETTINGS_DEBUG_TITLE": "Fehlersuche",
     "APP_SETTINGS_DEBUG_DESCRIPTION": "Diese Funktion sammelt App-, Spiel- und Mod-Protokolle in einer einzigen komprimierten Datei, um den Discord-Support bei modbezogenen Problemen zu beschleunigen. Sende die Datei nach dem Erstellen eines Support-Tickets, damit dein Problem schneller gelöst werden kann. Der Vorgang kann 30 bis 90 Sekunden dauern.",
     "APP_SETTINGS_LANGUAGE_TITLE": "Sprache",
-    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Wenn das Mod zum ersten Mal installiert wird, verwendet es automatisch die Sprache deines Computers. Wenn du die Sprache ändern möchtest, kannst du das hier tun. Beachte, dass das Spiel geschlossen sein muss, um die Sprache zu ändern."
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Wenn das Mod zum ersten Mal installiert wird, verwendet es automatisch die Sprache deines Computers. Wenn du die Sprache ändern möchtest, kannst du das hier tun. Beachte, dass das Spiel geschlossen sein muss, um die Sprache zu ändern.",
+    "GAME_SERVER_PLUGIN_DOWNLOAD_FAILED": "Die Plugins konnten nicht heruntergeladen werden. Bitte überprüfen Sie Ihre Antivirensoftware oder Ihre Internetverbindung."
 }
