@@ -123,5 +123,6 @@
     "APP_SETTINGS_DEBUG_TITLE": "Debugowanie",
     "APP_SETTINGS_DEBUG_DESCRIPTION": "Ta funkcja zbiera logi aplikacji, gry i modów do jednego skompresowanego pliku, aby przyspieszyć pomoc na Discordzie w przypadku problemów związanych z modami. Wyślij plik po utworzeniu zgłoszenia pomocy, aby Twój problem mógł zostać szybciej rozwiązany. Proces może potrwać od 30 do 90 sekund.",
     "APP_SETTINGS_LANGUAGE_TITLE": "Język",
-    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Gdy mod jest instalowany po raz pierwszy, automatycznie używa języka Twojego komputera. Jeśli chcesz zmienić język, możesz to zrobić tutaj. Pamiętaj, że gra musi być zamknięta, aby zmienić język."
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Gdy mod jest instalowany po raz pierwszy, automatycznie używa języka Twojego komputera. Jeśli chcesz zmienić język, możesz to zrobić tutaj. Pamiętaj, że gra musi być zamknięta, aby zmienić język.",
+    "GAME_SERVER_PLUGIN_DOWNLOAD_FAILED": "Pobieranie wtyczek nie powiodło się. Proszę sprawdzić oprogramowanie antywirusowe lub połączenie internetowe."
 }
