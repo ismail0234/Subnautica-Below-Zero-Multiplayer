@@ -123,5 +123,6 @@
     "APP_SETTINGS_DEBUG_TITLE": "Hata Ayıklama",
     "APP_SETTINGS_DEBUG_DESCRIPTION": "Bu özellik, modlarla ilgili sorunlara yönelik Discord destek sürecini hızlandırmak amacıyla uygulama, oyun ve mod günlüklerini tek bir sıkıştırılmış dosyada toplar. Sorununuzun daha hızlı çözülebilmesi için bir destek talebi oluşturduktan sonra bu dosyayı gönderin. İşlemin tamamlanması 30 ila 90 saniye sürebilir.",
     "APP_SETTINGS_LANGUAGE_TITLE": "Dil",
-    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Mod ilk kez yüklendiğinde, bilgisayarınızın dil ayarını otomatik olarak kullanır. Dili değiştirmek isterseniz, bunu buradan yapabilirsiniz. Dili değiştirmek için oyunun kapalı olması gerektiğini unutmayın."
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Mod ilk kez yüklendiğinde, bilgisayarınızın dil ayarını otomatik olarak kullanır. Dili değiştirmek isterseniz, bunu buradan yapabilirsiniz. Dili değiştirmek için oyunun kapalı olması gerektiğini unutmayın.",
+    "GAME_SERVER_PLUGIN_DOWNLOAD_FAILED": "Eklentilerin indirilmesi başarısız oldu. Lütfen antivirüs yazılımınızı veya internet bağlantınızı kontrol edin."
 }
