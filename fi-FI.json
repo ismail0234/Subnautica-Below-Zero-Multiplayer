@@ -123,5 +123,6 @@
     "APP_SETTINGS_DEBUG_TITLE": "Vianetsintä",
     "APP_SETTINGS_DEBUG_DESCRIPTION": "Tämä ominaisuus kerää sovelluksen, pelin ja modien lokit yhteen pakattuun tiedostoon nopeuttaakseen Discord-tukea modeihin liittyvissä ongelmissa. Lähetä tiedosto tukipyynnön avaamisen jälkeen, jotta ongelmasi voidaan ratkaista nopeammin. Prosessin suorittaminen voi kestää 30–90 sekuntia.",
     "APP_SETTINGS_LANGUAGE_TITLE": "Kieli",
-    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Kun modi asennetaan ensimmäisen kerran, se käyttää automaattisesti tietokoneesi kieltä. Jos haluat vaihtaa kielen, voit tehdä sen täällä. Huomaa, että pelin on oltava suljettuna, jotta kieli voidaan vaihtaa."
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Kun modi asennetaan ensimmäisen kerran, se käyttää automaattisesti tietokoneesi kieltä. Jos haluat vaihtaa kielen, voit tehdä sen täällä. Huomaa, että pelin on oltava suljettuna, jotta kieli voidaan vaihtaa.",
+    "GAME_SERVER_PLUGIN_DOWNLOAD_FAILED": "Lisäosien lataaminen epäonnistui Tarkista virustorjuntaohjelmistosi tai Internet-yhteytesi."
 }
