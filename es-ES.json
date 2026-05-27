@@ -123,5 +123,6 @@
     "APP_SETTINGS_DEBUG_TITLE": "Depurando",
     "APP_SETTINGS_DEBUG_DESCRIPTION": "Esta función recopila los registros de la aplicación, el juego y los mods en un único archivo comprimido para acelerar el soporte de Discord en problemas relacionados con mods. Envía el archivo después de abrir un ticket de soporte para que tu problema pueda resolverse más rápido. El proceso puede tardar entre 30 y 90 segundos en completarse.",
     "APP_SETTINGS_LANGUAGE_TITLE": "Idioma",
-    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Cuando el mod se instala por primera vez, utiliza automáticamente el idioma de tu ordenador. Si quieres cambiar el idioma, puedes hacerlo aquí. Ten en cuenta que el juego debe estar cerrado para poder cambiar el idioma."
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Cuando el mod se instala por primera vez, utiliza automáticamente el idioma de tu ordenador. Si quieres cambiar el idioma, puedes hacerlo aquí. Ten en cuenta que el juego debe estar cerrado para poder cambiar el idioma.",
+    "GAME_SERVER_PLUGIN_DOWNLOAD_FAILED": "La descarga de los plugins falló. Por favor, verifique su software antivirus o su conexión a Internet."
 }
