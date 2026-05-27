@@ -123,5 +123,6 @@
     "APP_SETTINGS_DEBUG_TITLE": "Sazlama",
     "APP_SETTINGS_DEBUG_DESCRIPTION": "Bu funksiya tətbiq, oyun və mod qeydlərini modla bağlı problemlər üzrə Discord dəstəyini sürətləndirmək üçün tək bir sıxılmış faylda toplayır. Probleminizin daha tez həll olunması üçün dəstək bileti açdıqdan sonra faylı göndərin. Prosesin tamamlanması 30–90 saniyə çəkə bilər.",
     "APP_SETTINGS_LANGUAGE_TITLE": "Dil",
-    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Mod ilk dəfə quraşdırıldıqda, avtomatik olaraq kompüterinizin dilindən istifadə edir. Dili dəyişmək istəyirsinizsə, bunu burada edə bilərsiniz. Nəzərə alın ki, dili dəyişmək üçün oyun bağlanmalıdır."
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Mod ilk dəfə quraşdırıldıqda, avtomatik olaraq kompüterinizin dilindən istifadə edir. Dili dəyişmək istəyirsinizsə, bunu burada edə bilərsiniz. Nəzərə alın ki, dili dəyişmək üçün oyun bağlanmalıdır.",
+    "GAME_SERVER_PLUGIN_DOWNLOAD_FAILED": "Pluginlərin yüklənməsi uğursuz oldu. Zəhmət olmasa, antivirus proqramınızı və ya internet bağlantınızı yoxlayın."
 }
