@@ -123,5 +123,6 @@
     "APP_SETTINGS_DEBUG_TITLE": "Depanare",
     "APP_SETTINGS_DEBUG_DESCRIPTION": "Această funcție colectează jurnalele aplicației, jocului și modurilor într-un singur fișier comprimat pentru a accelera suportul pe Discord pentru probleme legate de moduri. Trimite fișierul după ce ai deschis un tichet de suport, astfel încât problema ta să poată fi rezolvată mai rapid. Procesul poate dura între 30 și 90 de secunde.",
     "APP_SETTINGS_LANGUAGE_TITLE": "Limba",
-    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Când mod-ul este instalat pentru prima dată, folosește automat limba computerului tău. Dacă vrei să schimbi limba, poți face acest lucru aici. Reține că jocul trebuie să fie închis pentru a schimba limba."
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Când mod-ul este instalat pentru prima dată, folosește automat limba computerului tău. Dacă vrei să schimbi limba, poți face acest lucru aici. Reține că jocul trebuie să fie închis pentru a schimba limba.",
+    "GAME_SERVER_PLUGIN_DOWNLOAD_FAILED": "Descărcarea pluginului a eșuat. Vă rugăm să vă verificați software-ul antivirus sau conexiunea la internet."
 }
