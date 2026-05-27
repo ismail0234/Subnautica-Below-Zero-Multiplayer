@@ -123,5 +123,6 @@
     "APP_SETTINGS_DEBUG_TITLE": "Debugování",
     "APP_SETTINGS_DEBUG_DESCRIPTION": "Tato funkce shromažďuje protokoly aplikace, hry a modu do jednoho komprimovaného souboru, aby urychlila podporu na Discordu při řešení problémů souvisejících s modem. Po otevření požadavku na podporu soubor odešlete, aby mohl být váš problém vyřešen rychleji. Proces může trvat 30 až 90 sekund.",
     "APP_SETTINGS_LANGUAGE_TITLE": "Jazyk",
-    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Při první instalaci mod automaticky použije jazyk vašeho počítače. Pokud chcete jazyk změnit, můžete to udělat zde. Upozorňujeme, že pro změnu jazyka musí být hra zavřená."
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Při první instalaci mod automaticky použije jazyk vašeho počítače. Pokud chcete jazyk změnit, můžete to udělat zde. Upozorňujeme, že pro změnu jazyka musí být hra zavřená.",
+    "GAME_SERVER_PLUGIN_DOWNLOAD_FAILED": "Stažení pluginů se nezdařilo. Zkontrolujte prosím svůj antivirový software nebo připojení k internetu."
 }
