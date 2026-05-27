@@ -123,5 +123,6 @@
     "APP_SETTINGS_DEBUG_TITLE": "Debugging",
     "APP_SETTINGS_DEBUG_DESCRIPTION": "Questa funzione raccoglie i log dell’applicazione, del gioco e delle mod in un unico file compresso per velocizzare l’assistenza su Discord per problemi relativi alle mod. Invia il file dopo aver aperto un ticket di supporto in modo che il tuo problema possa essere risolto più rapidamente. Il processo può richiedere da 30 a 90 secondi per essere completato.",
     "APP_SETTINGS_LANGUAGE_TITLE": "Linguaggio",
-    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Quando la mod viene installata per la prima volta, utilizza automaticamente la lingua del tuo computer. Se desideri cambiare la lingua, puoi farlo qui. Nota che il gioco deve essere chiuso per poter cambiare la lingua."
+    "APP_SETTINGS_LANGUAGE_DESCRIPTION": "Quando la mod viene installata per la prima volta, utilizza automaticamente la lingua del tuo computer. Se desideri cambiare la lingua, puoi farlo qui. Nota che il gioco deve essere chiuso per poter cambiare la lingua.",
+    "GAME_SERVER_PLUGIN_DOWNLOAD_FAILED": "Download del plugin fallito. Controlla il tuo antivirus o la tua connessione Internet."
 }
